@@ -1,0 +1,163 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "IN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PK"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1035283"
+    }, 
+    "financeId": "1035283", 
+    "itemId": "Origin.ITM.50.0001019", 
+    "localizableAttributes": {
+        "displayName": "Dragon Age\u2122: Inquisition - Dragonslayer Multiplayer Expansion", 
+        "longDescription": "High dragons have moved into island ruins on the Fereldan Coast. These creatures are extremely dangerous and will annihilate the South \u2013 that is, unless you strike before their rampage fully begins. Set off in a new, unique map and do what you must to stop the threat at all costs. Luckily, you won't have to do it alone. Three new playable heroes have joined the battle: an Avvar Skywatcher, a deadly Virtuoso, and Isabela, the Raider Queen of the Eastern Seas herself. Gather your party, embark on this multiplayer adventure, and claim your place among the dragon slayers of legend. <br><br>\n\n\n\n<b>Battle in an all-new map. </b>\ufeffThis journey will take you to the southern Fereldan Coast in a new, unique map, where you'll face your greatest challenge yet. \n\n<br><br>\n\n<b>Three new playable characters.</b> The Avvar Skywatcher uses a powerful mix of elemental magic and melee to achieve victory. Then there's Zither, a skilled Virtuoso who controls a broad range of magic through his lute, altering the flow of battle and giving an edge to his companions. Finally, Isabela \u2013 so-called admiral and Queen of the Eastern Seas \u2013 is a duelist whose skill and speed is unmatched.<br><br>\n\n\n<b>\nEncounter hostile high dragons. </b>The rarest of all dragonkin, high dragons have invaded island ruins on the southern Fereldan Coast. These are some of the most dangerous creatures in existence \u2013 if you don't strike and take them out, the South is surely lost. May Andraste guide you.<br><br>", 
+        "packArtLarge": "/74369/231.0x326.0/1029623_LB_231x326_en_US_^_2015-05-04-10-09-37_dfb4c499c6080807dc7c039a6f3a3bd891c2f4e2.jpg", 
+        "packArtMedium": "/74369/142.0x200.0/1029623_MB_142x200_en_US_^_2015-05-04-10-16-50_da993614227dc294c190f8ba6cbdcb5f232fd33a.jpg", 
+        "packArtSmall": "/74369/63.0x89.0/1029623_SB_63x89_en_US_^_2015-05-04-10-28-39_22de125739bcb74007b3f1814979d6061292cadf.jpg", 
+        "shortDescription": "Battle High Dragons in an All-new Map."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Dragon Age", 
+                    "franchiseId": 68222
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DRAGON AGE: INQ F2P", 
+                    "masterTitleId": 194847
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001062", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1035283", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-05-05T16:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-05-05T16:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/dragon_age/da_i/dlc_-_ww_(mp2)/da_ipcdlc__ww_mp2beta_69__build881980dlc139e2631c2e041bd9bce8b65958c3514.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-04-29T12:18:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition Trial\\Install Dir]\\Update\\Multiplayer_DLC2\\package.mft", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\Multiplayer_DLC2", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000458", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-06-30T01:18:41Z"
+}

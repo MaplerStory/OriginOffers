@@ -1,0 +1,563 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "HK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ID"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "IN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "JP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "WF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "WS"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "9000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001270", 
+            "Origin.OFR.50.0001271", 
+            "Origin.OFR.50.0000926", 
+            "Origin.OFR.50.0001274", 
+            "Origin.OFR.50.0001275", 
+            "Origin.OFR.50.0001173", 
+            "Origin.OFR.50.0001272", 
+            "Origin.OFR.50.0001273", 
+            "Origin.OFR.50.0001168", 
+            "Origin.OFR.50.0001167"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036418"
+    }, 
+    "financeId": "1036418", 
+    "itemId": "Origin.ITM.50.0001080", 
+    "localizableAttributes": {
+        "displayName": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition", 
+        "longDescription": "The <i>Star Wars</i>\u2122 Battlefront\u2122 Ultimate Edition has everything fans need to live out their <i>Star Wars</i>\u2122 battle fantasies. In addition to the <i>Star Wars</i>\u2122 Battlefront\u2122 Deluxe Edition, Rebels and Imperials alike will be able to expand their galaxy with the <i>Star Wars</i>\u2122 Battlefront\u2122 Season Pass, which includes four upcoming expansion packs filled with new content, two-week early access to each expansion and an exclusive Shoot First emote.<br><br>\n \n<b>Get five exciting in-game items with the <i>Star Wars</i>\u2122 Battlefront\u2122 Deluxe Edition.</b><br><br>\n\n\u2022 DL-44 Blaster, as made famous by Han Solo (instant access)<br>\n\u2022 Ion Grenade (instant access)<br>\n\u2022 Ion Torpedo (instant access)<br>\n\u2022 Ion Shock (exclusive emote)<br>\n\u2022 Victory (exclusive emote)<br><br>\n<b>Key Features:</b><br><br>\n\n&bull; <b>4 Epic Expansion Packs.</b> Featuring brand new content set across the <i>Star Wars</i>\u2122 galaxy including:<br>\n&nbsp; &nbsp;- Over 20 new pieces of galactic tech including weapons, vehicles, and Star Cards <br>\n&nbsp; &nbsp;- 4 more iconic <i>Star Wars</i>\u2122 characters for you to play as<br>\n&nbsp; &nbsp;- 16 additional multiplayer maps featuring new locations<br>\n&nbsp; &nbsp;- 4 exciting new game modes<br><br>\n\n&bull; <b>Two-week early access to each expansion pack</b><br><br>\n\n&bull; <b>Exclusive \u201cShoot First\u201d emote</b><br><br>", 
+        "packArtLarge": "/192140/231.0x326.0/1036418_LB_231x326_en_US_^_2015-09-23-08-48-57_fa4d103537db00eb0ea1da9e3e4bbd69c69548be.jpg", 
+        "packArtMedium": "/192140/142.0x200.0/1036418_MB_142x200_en_US_^_2015-09-23-08-48-57_597ee6bcadc56141886db03e29a82d4b66ca0e31.jpg", 
+        "packArtSmall": "/192140/63.0x89.0/1036418_SB_63x89_en_US_^_2015-09-23-08-48-57_4dc9640e0bf877524f0b52b3ba7a7856f65381c5.jpg", 
+        "shortDescription": "Expand Your Galaxy"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Star Wars", 
+                    "franchiseId": 75158
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFRONT", 
+                    "masterTitleId": 192140
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001175", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1024390", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-11-13T17:00:01Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-11-17T05:00:03Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.5.56688\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.5.56688", 
+                                "downloadURL": "/shift/star_wars_battlefront/whiteshark_xp2/patch__ww_retail/whiteshark_xp2pcpatch__ww_retailproduction_44__384368_julyshippingpc_patch_retailaf8e5e9491bb43bc9d3e9480bf463ac2.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-21T07:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "75158_192140_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<include order=\"0\">%Documents%/STAR WARS Battlefront/settings/ProfileOptions</include>\n</saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\STAR WARS Battlefront\\Install Dir]\\starwarsbattlefront.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\STAR WARS Battlefront\\Install Dir]\\starwarsbattlefront.exe", 
+                        "installationDirectory": "STAR WARS Battlefront", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1024390", 
+                        "netPromoterScoreBlacklist": true, 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000268", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {}
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-11-18T10:41:19Z"
+}

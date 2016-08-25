@@ -1,0 +1,645 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "EH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ET"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ML"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZW"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001148", 
+            "Origin.OFR.50.0001149"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036215"
+    }, 
+    "financeId": "1036215", 
+    "itemId": "Origin.ITM.50.0001056", 
+    "localizableAttributes": {
+        "displayName": "Tom Clancy's Rainbow Six\u00ae Siege Gold Edition", 
+        "longDescription": "The Tom Clancy's Rainbow Six\u00ae Siege Gold Edition includes the Standard Edition & the Season Pass. It is designed for all fans and newcomers who want to extend their Tom Clancy's Rainbow Six Siege experience.<br><br>\n\nRainbow Six Siege is an intense, new approach to the first-person shooter experience. Choose from a variety of unique Counter-Terrorist Operators and master their abilities as you lead your team through tense, thrilling, and destructive team-based combat.<br><br>\n\n<b>Tom Clancy's Rainbow Six Siege Gold Edition Features</b>:<br><br>\n\n<b>Upgrade to Gold Edition</b> for Game and Season Pass, which gives all fans and newcomers an extended Rainbow Six Siege experience.*<br><br>\n\n<b>The Rules of Siege</b>. Five versus Five. Infiltrate versus Fortify. Team-based strategy meets intense, tactical combat.<br><br>\n\n<b>World's Elite Counter-terrorist Operators</b>. Choose your Operator. Wield their power. Unique abilities allow you to Attack or Defend your way.<br><br>\n\n<b>Destruction as a Tool</b>. Walls can be shattered and floors can be breached. Let nothing stand in your way as you master the tactics of destruction.<br><br>\n<b>The Siege Gameplay</b>. \nFor the first time in Rainbow Six, players will engage in sieges, a brand-new style of assault. Enemies now have the means to transform their environments into strongholds: they can trap, fortify, and create defensive systems to prevent breach by Rainbow teams.<br><br> \n\nTo face this challenge, players have a level of freedom unrivaled by any previous Rainbow Six game. Combining tactical maps, observation drones, and a new rappel system, Rainbow teams have more options than ever before to plan, attack, and diffuse these situations.<br><br>\n\n<b>Counter Terrorist Units</b>. \nCounter terrorist operatives are trained to handle extreme situations, such as hostage rescue, with surgical precision. As \u201cshort range\u201d specialists, their training is concentrated on indoor environments. Operating in tight formations, they are experts of close quarter combat, demolition, and coordinated assaults. Rainbow Six Siege will include operators coming from five of the most worldwide renowned CTU: the British SAS, the American SWAT, the French GIGN, the German GSG9 and the Russian SPETSNAZ.<br><br>\n\nThese Operators are specialists with their own expertise within Siege operations. Each has their own unique personality & specialty. Some are focused on assault where as others are defense-oriented. They can be combined within the same team to create new team strategies.<br><br>\n\n<b>Procedural Destruction</b>. \nDestruction is at the heart of the siege gameplay. Players now have the unprecedented ability to destroy environments. Walls can be shattered, opening new lines of fire, and ceiling and floors can be breached, creating new access points. Everything in the environment reacts realistically, dynamically, and uniquely based on the size and caliber of bullets you are using or the amount of explosives you have set. In Rainbow Six Siege, destruction is meaningful and mastering it is often the key to victory.<br><br><br>\n* VIP Premium Membership service until December 1, 2016<br><br>", 
+        "packArtLarge": "/195061/231.0x326.0/1036215_LB_231x326_en_US_^_2015-09-04-16-12-42_6cdc8b6a9e8e57086f2ef5fd204d73465abbf6a6.png", 
+        "packArtMedium": "/195061/142.0x200.0/1036215_MB_142x200_en_US_^_2015-09-04-16-13-21_8c1e86ab79a5b64ddaa67ffad3f7636516f7f78d.png", 
+        "packArtSmall": "/195061/63.0x89.0/1036215_SB_63x89_en_US_^_2015-09-04-16-14-04_d328bf96d615f6fac72c8357b01590d955155073.png", 
+        "shortDescription": "Rainbow Six\u00ae Siege invites players to master the art of destruction."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "TOM CLANCYS RAINBOW SIX SIEGE", 
+                    "masterTitleId": 195061
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001259", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036215_d1", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-12-01T05:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-12-01T05:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildReleaseVersion": "1", 
+                                "downloadURL": "/p/opp/Ubisoft/RAINBOW_SIX_SIEGE/Rainbow_Six_Siege_WW.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-11-20T14:49:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 635\\InstallLocation]\\RainbowSix.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 635\\InstallLocation]\\RainbowSix.exe", 
+                        "installerPath": "autorun.exe", 
+                        "monitorInstall": true, 
+                        "monitorPlay": false, 
+                        "partnerPlatform": "Other", 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000475", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-15T23:59:53Z"
+}

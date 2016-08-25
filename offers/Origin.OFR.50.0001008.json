@@ -1,0 +1,164 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VI"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1033808"
+    }, 
+    "financeId": "1033808", 
+    "itemId": "Origin.ITM.50.0000972", 
+    "localizableAttributes": {
+        "displayName": "FUT DRAFT ENTRY", 
+        "longDescription": "FUT DRAFT ENTRY", 
+        "shortDescription": "FUT DRAFT ENTRY"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 16", 
+                    "masterTitleId": 182631
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001008", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-09-15T16:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-09-15T16:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_GB"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-09-14T16:03:21Z"
+}

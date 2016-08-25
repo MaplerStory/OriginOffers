@@ -1,0 +1,107 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1037650"
+    }, 
+    "financeId": "1037650", 
+    "itemId": "Origin.ITM.50.0001197", 
+    "localizableAttributes": {
+        "displayName": "Dungeons of Dredmor: You Have To Name The Expansion Pack", 
+        "longDescription": "You know you want more Dredmor. Late in the night, the game calls to you. The lights on your computer blink, intermittently, in a repeating pattern. You hear a tapping from within your monitor casing. The Dungeons of Dredmor want you back. You were meant for each other.\n<br><br>\nIn celebration of its Steam Workshop support and mod support, Gaslamp Games has teamed up with bold Dwarven Fanlords from the Modding Community to bring you a new expansion pack for Dungeons of Dredmor. Featuring a swarm of new items, enemies, rooms, skills, and things to generally make your life Better and/or More Full of Death, this completely free expansion takes Dredmor, makes it better, and lures you back to your computer with its siren song. Just one more game wouldn't hurt, would it? And it's free. The first one's always free.\n<br><br>\nThe only catch? We couldn't think of a good title, so we left you some work to do before you start playing.\n<br><br>\nThat's right. You Have To Name The Expansion Pack.\n<br><br>", 
+        "packArtLarge": "/195260/231.0x326.0/1037316_LB_231x326_en_US_^_2016-03-18-12-23-31_479d5647e7a8c5f41b694705400c744805f335a0.jpg", 
+        "packArtMedium": "/195260/142.0x200.0/1037316_MB_142x200_en_US_^_2016-03-18-12-24-08_279ef8fa24c83eabcf6c058244dca749e0bd5457.jpg", 
+        "packArtSmall": "/195260/63.0x89.0/1037316_SB_63x89_en_US_^_2016-03-18-12-26-29_41828846db4bc6e564b8a5c346b72c2c602a6fda.jpg", 
+        "shortDescription": "Step into the Dungeons of Dredmor!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DUNGEONS OF DREDMOR", 
+                    "masterTitleId": 195260
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001374", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2011-07-13T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2011-07-13T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.1.4.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.1.4.0", 
+                                "downloadURL": "/shift/gaslamp_games/dungeons_of_dredmor/dlc__ww_us_exp_2/dungeons_of_dredmorpcdlc__ww_us_exp_2run_1__20160318_11401c1f4b7984d44946a6e8ac688f9ea348.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-03-18T17:01:44Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Gaslamp Games\\Dungeons of Dredmor\\Install Dir]\\__Installer\\DLC\\EXP2\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer\\DLC\\EXP2", 
+                        "monitorPlay": false, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000539", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-05-03T23:37:34Z"
+}

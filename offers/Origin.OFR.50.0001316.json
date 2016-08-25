@@ -1,0 +1,828 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "EH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ET"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "HK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ID"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "IN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "JP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ML"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "WF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "WS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZW"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001321"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1038772"
+    }, 
+    "financeId": "1038772", 
+    "itemId": "Origin.ITM.50.0001144", 
+    "localizableAttributes": {
+        "backgroundImage": "/195588/1200.0x800.0/1038772_pdpbg_1200x800_en_US_1_^_2016-02-25-18-21-09_f3d990b678cd0f7d7febe847641a72a8d3e4e9c9.jpg", 
+        "displayName": "Tom Clancy\u2019s The Division\u2122 Gold Edition", 
+        "longDescription": "Tom Clancy\u2019s The Division\u2122 Gold Edition Includes:<br><br>\n\n\u2022 The game<br>\n\u2022 The Season Pass<br>\n\u2022 An exclusive \u201cNational Guard\u201d gear set<br><br>\n\nWith the Season Pass, you'll receive a full year of major expansions and exclusive benefits.<br><br>We live in a complex world. The more advanced it gets, the more vulnerable it becomes. We\u2019ve created a house of cards: remove just one, and everything falls apart.<br><br>\n\nBlack Friday \u2013 a devastating pandemic sweeps through New York City, and one by one, basic services fail. In only days, without food or water, society collapses into chaos. The Division, an autonomous unit of tactical agents, is activated. Leading seemingly ordinary lives among us, these agents are trained to operate independently in order to save society.<br><br>\n\nWhen society falls, we rise.<br><br>\n\n<b>Tom Clancy\u2019s The Division\u2122 Features:</b><br><br>\n\n<b>Take Back New York</b><br>\nWelcome to a next-gen experience in a persistent and dynamic open world environment that is built from the ground up for co-op and where exploration and player progression are essential. Teaming up with other Division agents, your mission is to restore order, investigate the source of the virus, and take back New York.<br><br>\n\n<b>A Living, Breathing World</b><br>\nEnter a universe where time of day and weather conditions impacts your gaming experience. Use the environment for strategic advantage to dominate fights and ambush your enemies. Utilize your gas mask to provide protection from the virus, and upgrade it to enter the most highly contaminated areas.<br><br>\n\n<b>Urban Jungle</b><br>\nNew York City is being overrun by hostile groups trying to take advantage of the crisis. Beware of the thugs who roam in packs through the city, preying on the weak. Fight against the Cleaners, who wear hazmat suits and wield flamethrowers, set on cleaning New York from the virus by burning everything and everyone. Engage with the Rikers, a gang of convicts that escaped Rikers Island when the chaos hit, and who are ravaging the city and vying for its control.<br><br>\n\n<b>Gear Up and Customize Your Agent</b><br>\nHarness state-of-the-art technology, both networked and prototype, as a member of The Division. Customize your character and your backpack, your lifeline in mid-crisis New York. Communicate with other agents at all times with your smartwatch. Loot fallen enemies and customize and level up your weapons, gear, and skills.<br><br>\n\n<b>Cutting-Edge Tech</b><br>\nChoose and upgrade your skills, and synergize with your teammates to increase your chances of winning in combat. Switch your skills such as the seeker mine that finds your enemy and explodes; the turret that triggers high-octane and efficient diversion; or the pulse that gives you a tactical read on your environment. Use the ECHO tech, a data collection tool that renders moments frozen in time, to learn valuable information about your immediate environment and find hidden loot, and help uncover the truth behind the pandemic.<br><br>\n\n<b>Seamless Multiplayer: The Dark Zone</b><br>\nEnter the Dark Zone, a walled-off quarantine zone in the middle of Manhattan where the most valuable loot was left behind when the military evacuated. It\u2019s also the most dangerous area in the game, where fear, betrayal, and tension are high. Team up with other players to take down your enemies and extract legendary loot via helicopter. It\u2019s your choice to collaborate with other agents, or attack them and steal their loot.<br><br>\n\n<b>Snowdrop\u2122 Engine</b><br>\nPowered by the fully next-gen Snowdrop engine, Tom Clancy\u2019s The Division\u2122 sets a new bar in video game realism and open world rendering. Experience a chaotic and devastated New York like you\u2019ve never seen before.<br><br>", 
+        "packArtLarge": "/195588/231.0x326.0/1038772_LB_231x326_en_US_^_2016-02-25-17-35-06_7852559a694869c0092035acbc8a559f76a83e2e.jpg", 
+        "packArtMedium": "/195588/142.0x200.0/1038772_MB_142x200_en_US_^_2016-02-25-17-59-48_98f00860a936acebf1272be2f30b0177774c8e8a.jpg", 
+        "packArtSmall": "/195588/63.0x89.0/1038772_SB_63x89_en_US_^_2016-02-25-18-00-08_d05e8996c85f8d1a99e7ce2fa54b92805877fe2d.jpg", 
+        "shortDescription": "When society falls, we rise."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "TOM CLANCYS THE DIVISION", 
+                    "masterTitleId": 195588
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001316", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "195588", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-03-08T18:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-03-08T18:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/ubisoft/tc_the_division/fg_-_ww_x0/tc_the_divisionpcfg__ww_x0run_2__20160302_100063a4c9386c424681a788669d991b4ef3.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-03-03T00:09:16Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 568\\InstallLocation]TheDivision.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 568\\InstallLocation]TheDivision.exe", 
+                        "installerPath": "autorun.exe", 
+                        "monitorInstall": true, 
+                        "monitorPlay": false, 
+                        "partnerPlatform": "Other", 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000522", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "sv_SE"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-03-10T16:10:39Z"
+}

@@ -1,0 +1,107 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1037649"
+    }, 
+    "financeId": "1037649", 
+    "itemId": "Origin.ITM.50.0001196", 
+    "localizableAttributes": {
+        "displayName": "Dungeons of Dredmor: Realm of the Diggle Gods", 
+        "longDescription": "In the lowest layers of the Dungeons of Dredmor, deeper than any man or woman has ever previously explored, lies the Realm of the Diggle Gods: giant, muscular things, created by the First Diggle in days of old, throbbing with potent gristly muscle and waiting to lay waste to any adventurer who dares to cross their path.\n<br><br>\nDeep within their underground temples, Lord Dredmor plots the next stage in his campaign of merciless brutality and world-terrorizing.\n<br><br>\nHe\u2019s probably sitting on an egg while he does it. There are a bunch of very large eggs down there, some of which are quite comfortable.\n<br><br>\nWith six new skill trees, five new dungeon levels, a dozen new monster types, over one hundred new items, and a host of new rooms, features, and traps, the Realm of the Diggle Gods will challenge any adventurer - from a novice sword-poker to an advanced master of the arcane arts.\n<br><br>\nThe Diggle Gods await your worship. It\u2019s a very nice dungeon you have here, and it\u2019d be a shame if anything happened to it.\n<br><br>\n<b>Key Features:</b>\n<br><br>\n\u2022 Six new skill trees: Veganism, Big Game Hunting, Werediggling, Emomancy, Piracy, and Demonology.\n<br><br>\n\u2022 One Hundred New Items! .. ish.\n<br><br>\n\u2022 Five new dungeon levels, in a variety of flavors!\n<br><br>\n\u2022 New mysterious portals that lead to places that will kill you!\n<br><br>\n\u2022 New scriptable rooms, providing joyful puzzles and traps!\n<br><br>\n\u2022 A dozen new monster types to fight!\n<br><br>\n\u2022 Polymorphing!\n<br><br>\n\u2022 And More!\n<br><br>", 
+        "packArtLarge": "/195260/231.0x326.0/1037316_LB_231x326_en_US_^_2016-03-18-12-23-31_479d5647e7a8c5f41b694705400c744805f335a0.jpg", 
+        "packArtMedium": "/195260/142.0x200.0/1037316_MB_142x200_en_US_^_2016-03-18-12-24-08_279ef8fa24c83eabcf6c058244dca749e0bd5457.jpg", 
+        "packArtSmall": "/195260/63.0x89.0/1037316_SB_63x89_en_US_^_2016-03-18-12-26-29_41828846db4bc6e564b8a5c346b72c2c602a6fda.jpg", 
+        "shortDescription": "Step into the Dungeons of Dredmor!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DUNGEONS OF DREDMOR", 
+                    "masterTitleId": 195260
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001373", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2011-07-13T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2011-07-13T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.1.4.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.1.4.0", 
+                                "downloadURL": "/shift/gaslamp_games/dungeons_of_dredmor/dlc__ww_us_exp_1/dungeons_of_dredmorpcdlc__ww_us_exp_1run_1__20160318_11402e711a133adf4930a2597a4327ae02b0.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-03-18T16:41:37Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Gaslamp Games\\Dungeons of Dredmor\\Install Dir]\\__Installer\\DLC\\EXP1\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer\\DLC\\EXP1", 
+                        "monitorPlay": false, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000537", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-05-03T23:35:05Z"
+}

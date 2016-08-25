@@ -1,0 +1,67 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1040194"
+    }, 
+    "financeId": "1040194", 
+    "itemId": "Origin.ITM.50.0001251", 
+    "localizableAttributes": {
+        "displayName": "FIFA 16 Ultimate Team Pack: Serie A Trial", 
+        "longDescription": "Get your Serie A squad started! Includes 18 Serie A players, at least 16 Gold, with 3 Rare Loan players rated 82 or higher.", 
+        "shortDescription": "Get your Serie A squad started! Includes 18 Serie A players, at least 16 Gold, with 3 Rare Loan players rated 82 or higher."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 16", 
+                    "masterTitleId": 182631
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001440", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-04-28T12:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-04-28T12:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-04-06T21:30:38Z"
+}

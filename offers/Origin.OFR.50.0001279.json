@@ -1,0 +1,212 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Expansion Packs", 
+        "extraContentDisplayGroupSortAsc": 310, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 290
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/70531"
+    }, 
+    "financeId": "70531", 
+    "itemId": "ITM-EAST:10900", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 World Adventures Expansion Pack", 
+        "extraContentDisplayGroupDisplayName": "EXPANSION PACKS", 
+        "gameManualURL": "http://akamai.cdn.ea.com/eadownloads/u/f/manuals/GAME-SIMS3WORLDADVENTURES/Manuals.zip", 
+        "longDescription": "After creating your ideal Sim, house, and family, there\u2019s only one thing left to do: expand your horizons. Leave your humble home and download The Sims 3: World Adventures Expansion Pack for your PC to explore an exciting new country.<br><br>Following the lead of other vacation expansions for The Sims, World Adventures lets you cut loose and enjoy three brand new locations. Egypt, China, and France are awaiting your arrival, and each country has a new set of skills for your Sims to learn.<br><br>Visit the pyramids of Egypt and learn all about photography as you explore ancient artifacts; the game will actually switch to a first person point-of-view so you can snap pictures. Study martial arts in China, honing your skills for upcoming tournaments. And the beauty of France is a site to behold, where you\u2019ll learn how to make sweet nectar. But as the title says, this game is all about \u201cadventure&quot; and various quests are linked together by a main story. Your expeditions can range from exploring tombs (avoid the mummies, they\u2019ll curse you) to collecting valuable treasures. That photography skill will come in handy as you capture each and every breathtaking moment.<br><br>The Sims 3: World Adventures will give you just that: an adventure unlike any other you\u2019ve experienced in the Sim universe. Leave everything else behind and embark on a grand journey today.<br><br><b>Features:</b><br>&bull; Accept challenges, find treasures, discover what\u2019s lurking in hidden caves and more. <br>&bull; Explore famous landmarks in China, Egypt, and France. <br>&bull; Learn new skills like photography and pursue new opportunities. <br>&bull; Meet new Sims from exotic locations and share their cultures. <br>&bull; Customize your Sims homes with new styles &amp; artifacts from their adventures. <br>&bull; Get $10 worth of free SimPoints for The Sims 3 Store as well as additional online features soon to be announced.<br><br>", 
+        "packArtLarge": "/75653/PACKART_PRESET_LARGE_JPG_231x326/70531_LB_231_^_2013-01-18-16-32-50_08d0d9b5cba17137eb94045c3ece9897719691b6b030adaee26e8914cbab522b.jpg", 
+        "packArtMedium": "/75653/PACKART_PRESET_MEDIUM_JPG_142x200/70531_MB_142_^_2013-01-18-16-37-55_74cbcc9825285b3e8676afc713373742fe918da0e2c0dab9bc5e1db09f40158b.jpg", 
+        "packArtSmall": "/75653/PACKART_PRESET_SMALL_JPG_63x89/70531_SB_63_^_2013-01-18-16-38-09_5d9d95b6a5aa65ca07dd504c4d8efe6e0fb01dac86965b07668c606f4834d54b.jpg", 
+        "shortDescription": "Your adventure awaits."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 WORLD ADVENTURES (EP1)", 
+                    "masterTitleId": 75653
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001279", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "sims3_ep01_dd", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2009-11-16T01:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2009-11-16T01:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_world_adventures_ep1/the_sims_3macdlc__ww_world_adventures_ep1run_1__origin__idjit_data_store501338187ace4814811acafca0fde43b.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3ep1]/Contents/MacOS/cider", 
+                        "installCheckOverride": "[com.transgaming.thesims3ep1]/Contents/MacOS/cider", 
+                        "installerPath": "The SIMS(tm) 3 World Adventures Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3ep1", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "ba660bfc-407c-42ff-ac7e-80b0cc548c2b", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(ep01:_world_adventures)/the_sims_3pcdlc__ww_ep01_world_adventuresproduction_3__ep01__origin_access273987472f524d1a927a38487fa5393a.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-16T23:30:45Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 World Adventures\\Install Dir]\\GameData\\Shared\\Packages\\FullBuildep1.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EP01", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\sims3_ep01]"
+                    }, 
+                    "softwareId": "a587e88f-2e11-46c1-af7d-d0f4cf5998ff", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:42:33Z"
+}

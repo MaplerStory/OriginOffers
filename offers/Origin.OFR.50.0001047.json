@@ -1,0 +1,287 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "IN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VU"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1032477"
+    }, 
+    "financeId": "1032477", 
+    "itemId": "Origin.ITM.50.0001007", 
+    "localizableAttributes": {
+        "displayName": "Dragon Age\u2122: Inquisition - Spoils of the Qunari", 
+        "longDescription": "Ride across Thedas atop an armored war mount and vanquish your enemies in the name of the Qun! Obtain a massive warrior throne and multiple sculptures honoring the Qunari people. The Spoils of the Qunari content pack also includes two sets of unique armor as loot \u2013 including an Arishok armor set \u2013 and schematics to craft new pieces for party members.", 
+        "packArtLarge": "/74369/231.0x326.0/1032477_LB_231x326_en_US_^_2015-06-17-10-06-30_ad1d81bedbac762f77e51c9f0a8280606e3b11d0.jpg", 
+        "packArtMedium": "/74369/142.0x200.0/1032477_MB_142x200_en_US_^_2015-06-17-13-49-54_cdd926a7774a90c052fd6ff6b7e34fd26f9a7f30.jpg", 
+        "packArtSmall": "/74369/63.0x89.0/1032477_SB_63x89_en_US_^_2015-06-17-13-51-33_2509140940f4868272914b986c281abfa0e53616.jpg", 
+        "shortDescription": "Bring the Qun to Skyhold!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Dragon Age", 
+                    "franchiseId": 68222
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DRAGON AGE: INQUISITION", 
+                    "masterTitleId": 74369
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001047", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1032477", 
+            "gameDistributionSubType": "Normal Game", 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-07-21T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-07-21T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/dragon_age/da_i/dlc_-_ww_(soq)/da_ipcdlc__ww_soqbeta_87__build900241dlc53d2cbed51024b25a5492f4aff15e67e.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-07-13T09:26:22Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition\\Install Dir]\\Update\\ItemPack3\\package.mft", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\ItemPack3", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000449", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_GB"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-07-29T17:38:17Z"
+}

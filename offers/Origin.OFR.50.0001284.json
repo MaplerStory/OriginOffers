@@ -1,0 +1,211 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Stuff Packs", 
+        "extraContentDisplayGroupSortAsc": 410, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 40
+    }, 
+    "defaultLocale": "en_US", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71444"
+    }, 
+    "financeId": "71444", 
+    "itemId": "ITM-EAST:38290", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Katy Perry's Sweet Treats", 
+        "extraContentDisplayGroupDisplayName": "STUFF PACKS", 
+        "gameManualURL": "http://akamai.cdn.ea.com/eadownloads/u/f/manuals/GAME-GENERIC/Manuals.zip", 
+        "longDescription": "ORIGIN EXCLUSIVE: Get the Katy Perry in-game poster, \u201cThe Complete Confection.\u201d Just like icing a cake, this delectable poster adds the perfect finishing touch to any wall. As sweet as it looks, remember that it isn\u2019t edible.<br><br>Indulge your Sims with the sweet and vibrant style of Katy Perry, and enjoy the most stuff ever included in a Stuff Pack! The Sims\u2122 3 Katy Perry\u2019s Sweet Treats pack showcases a vast range of d\u00e9cor items, furniture, and, of course, fabulous fashions and hairstyles! Inspired by Katy\u2019s real-life clothing and props, these fun furnishings, d\u00e9cor and fashions will add a dash of sweet style to your Sims\u2019 lives. Packed with more stuff than you have ever seen, your Sims will also experience three all-new spectacular venues, including a local hangout, a town park and a neighborhood swimming pool\u2014each decked out in delicious Katy Perry style!<br><br>Game features:<br>\u2022 Sweeten your Sims\u2019 lives with delicious, Katy Perry-inspired items from a cupcake-themed guitar and candy playground equipment to luscious cotton candy trees and more.<br>\u2022 Turn your Sims\u2019 homes and neighborhood into a vibrant candytopia, complete with whimsical and colorful furnishings and d\u00e9cor such as a banana split sofa, a fountain made of candy or even a waffle cone picnic table.<br>\u2022 Outfit your Sims in an array of new clothing and hairstyles that are straight from Katy Perry\u2019s red carpet appearances, music videos and concert performances\u2014all recreated for The Sims in a true-to-life way.<br>\u2022 Transform the neighborhood with three all-new, pre-built venues. Take your Sims for a dip at Patty\u2019s Natural Baths, the sweet new pool venue. Stroll over to the Bonbon Lawn Park that\u2019s filled with candy-coated playground equipment. Relax at the sugar-filled Cake Pleasure Dome, the town\u2019s charming local hangout.<br>\u2022 Rock out with your Sims to a Simlish version of Katy Perry\u2019s hit song, \u201cLast Friday Night (T.G.I.F.),\u201d recorded for the game by Katy Perry.<br><br>", 
+        "packArtLarge": "/185080/PACKART_PRESET_LARGE_JPG_231x326/71444_LB_231_^_2012-12-12-09-10-56_84f7aa2a166d30c52df6de9046f86561e6a1937189d89062630b875219d759a1.jpg", 
+        "packArtMedium": "/185080/PACKART_PRESET_MEDIUM_JPG_142x200/71444_MB_142_^_2012-12-12-09-11-39_6ffd82eb187015137d33afcf29f0f95e5a02381065346b7eeb43c870e79604b9.jpg", 
+        "packArtSmall": "/185080/PACKART_PRESET_SMALL_JPG_63x89/71444_SB_63_^_2012-12-12-09-11-50_f8177187916a7bf70808e8457dc3cccc25d589228526d6d739a779e386372d7f.jpg", 
+        "shortDescription": "Sweeten your Sims\u2019 lives."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 KATY PERRY SWEET TREATS (SP6)", 
+                    "masterTitleId": 185080
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001284", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "71444", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2012-06-05T04:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-06-05T04:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_katy_perrys_sweet_treats_sp6/the_sims_3macdlc__ww_katy_perrys_sweet_treats_sp6run_1__origin__idjit_data_stored23dd148e5784a65b31051fcbfcb8487.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3sp06]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3sp06]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 Katy Perry's Sweet Treats Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3sp06", 
+                        "multiPlayerId": "71444", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true
+                    }, 
+                    "softwareId": "2448e308-b495-4b13-b772-f537a44f20b2", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(sp06:_katy_perry_sweet_treats)/the_sims_3pcdlc__ww_sp06_katy_perry_sweet_treatsproduction_4__sp06__origin_access77463f7c96c949ff995b1bbd6ba9bd54.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-01-04T17:58:15Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Katy Perry Sweet Treats\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p13.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\SP06", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\305645]"
+                    }, 
+                    "softwareId": "21ec4365-ac09-4b88-b1a1-e61056171542", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:51:43Z"
+}

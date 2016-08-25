@@ -1,0 +1,135 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036197"
+    }, 
+    "financeId": "1036197", 
+    "itemId": "Origin.ITM.50.0001051", 
+    "localizableAttributes": {
+        "displayName": "PLANTS VS ZOMBIES GARDEN WARFARE 2 (TECH BETA)  Display Name Placeholder Text.", 
+        "longDescription": "PLANTS VS ZOMBIES GARDEN WARFARE 2 (TECH BETA)   Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/192470/231.0x326.0/1036197_LB_231x326_en_US_^_2015-11-06-15-19-47_33a1c940e3283b5f238c6755751ac84199ba425b.jpg", 
+        "packArtMedium": "/192470/142.0x200.0/1036197_MB_142x200_en_US_^_2015-11-06-15-19-48_60b8133c97a08387dceeab48bc63826521f468df.jpg", 
+        "packArtSmall": "/192470/63.0x89.0/1036197_SB_63x89_en_US_^_2015-11-06-15-19-49_8f991ccf86dc22dc531340e70de123af27c83f83.jpg", 
+        "shortDescription": "PLANTS VS ZOMBIES GARDEN WARFARE 2 (TECH BETA)  Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Plants vs Zombies", 
+                    "franchiseId": 180915
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "PLANTS VS ZOMBIES GARDEN WARFARE 2", 
+                    "masterTitleId": 192470
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001278", 
+    "offerType": "DEMO", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036197", 
+            "gameDistributionSubType": "Beta", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "twitchClientBlacklist": true, 
+            "watermarkDownload": true
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-12-09T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-12-09T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements osMinVersion=\"6.0\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/plants_vs_zombies/garden_warfare_2/fg_-_ww/garden_warfare_2pcfg__wwalpha_208__pvz2_pc_724842_beta_dip_only0923e92ecd11466cba36cc5899c9d765.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-02T18:33:52Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "commerceProfile": "oig-pvzgw2", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\PopCap\\PVZ GW2 BETA\\Install Dir]gw2beta.main_win64_retail.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\PopCap\\PVZ GW2 BETA\\Install Dir]gw2beta.main_win64_retail.exe", 
+                        "installationDirectory": "Plants vs Zombies Garden Warfare 2 Beta", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1026482", 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000471", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-12-15T08:43:23Z"
+}

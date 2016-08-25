@@ -1,0 +1,171 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "IE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VI"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1001297"
+    }, 
+    "financeId": "1001297", 
+    "itemId": "ITM-EAST:42032", 
+    "localizableAttributes": {
+        "displayName": "Command & Conquer Red Alert\u2122 2 and Yuri\u2019s Revenge\u2122", 
+        "longDescription": "Command & Conquer Red Alert\u2122 2 and Yuri\u2019s Revenge\u2122", 
+        "packArtLarge": "/185519/231.0x326.0/1001297_LB_231x326_de_DE_%5E_2013-05-29-12-25-58_42aa636974c3f096780891ecb2f6f131e1efe20f0d7e087de0e23ed53b3055ea.jpg", 
+        "packArtMedium": "/185519/142.0x200.0/1001297_MB_142x200_de_DE_%5E_2013-05-29-12-26-13_fbd8996e9bdfc92357177ea7525bc824fe71c3fd3087fafd371f6c3d7b6f5429.jpg", 
+        "packArtSmall": "/185519/63.0x89.0/1001297_SB_63x89_de_DE_%5E_2013-05-29-12-26-31_5112d9635d2608cf3fc45702326d2ff6e94fff1b8b573c39ac8fc1430f8bd2f4.jpg", 
+        "shortDescription": "Command & Conquer Red Alert\u2122 2 and Yuri\u2019s Revenge\u2122"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Command and Conquer", 
+                    "franchiseId": 50069
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "C&C THE ULTIMATE COLLECTION", 
+                    "masterTitleId": 185519
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001093", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1001297", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2012-09-28T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-10-01T04:01:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.0.0.0\"/><featureFlags/><requirements osMinVersion=\"5.1\" osReqs64Bit=\"1\"/></buildMetaData>", 
+                                "buildReleaseVersion": "1", 
+                                "downloadURL": "/shift/command__conquer/command_and_conquer_the_ultimate_collection/fg__eu_deonly_ra2_with_yuris_revenge/command_and_conquer_the_ultimate_collectionpcfg__eu_deonly_ra2_with_yuris_revengerun_1__origin__idjit_data_store70c70466bbc84c85a560863df47cee96.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-28T18:43:25Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%InstallDir%/*.sav</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Command and Conquer Red Alert II\\Install Dir]\\Ra2Launcher.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Command and Conquer Red Alert II\\Install Dir]\\Ra2Launcher.exe", 
+                        "installationDirectory": "Command and Conquer Red Alert II", 
+                        "oigClientBehavior": "Default"
+                    }, 
+                    "softwareId": "56a3b357-caeb-4fe8-9767-6d916aee0389", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-11-20T02:06:20Z"
+}

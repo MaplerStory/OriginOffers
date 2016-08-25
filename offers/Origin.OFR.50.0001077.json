@@ -1,0 +1,117 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1034229"
+    }, 
+    "financeId": "1034229", 
+    "itemId": "Origin.ITM.50.0001029", 
+    "localizableAttributes": {
+        "displayName": "Star Wars\u2122 Battlefront\u2122 Beta (Early Access)", 
+        "longDescription": "Live out your <i>Star Wars</i>\u2122 battle fantasies with the <i>Star Wars</i>\u2122 Battlefront\u2122 Beta.", 
+        "packArtLarge": "/192140/231.0x326.0/1034229_LB_231x326_en_US_^_2015-08-21-09-49-30_2670cfdd1394d8db10b1e158dc09909246c2ce3d.jpg", 
+        "packArtMedium": "/192140/142.0x200.0/1034229_MB_142x200_en_US_^_2015-08-21-09-49-46_54e1a9f0e61db8715c39f1fc80b47f115908897d.jpg", 
+        "packArtSmall": "/192140/63.0x89.0/1034229_SB_63x89_en_US_^_2015-08-21-09-49-58_017538875cca144447d03d0e4be8a36047bf5e75.jpg", 
+        "shortDescription": "Live out your <i>Star Wars</i>\u2122 battle fantasies with the <i>Star Wars</i>\u2122 Battlefront\u2122 Beta."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Star Wars", 
+                    "franchiseId": 75158
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFRONT", 
+                    "masterTitleId": 192140
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001077", 
+    "offerType": "DEMO", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1034229", 
+            "gameDistributionSubType": "Beta", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "None", 
+            "suppressedOfferIds": "Origin.OFR.50.0001076", 
+            "twitchClientBlacklist": false, 
+            "watermarkDownload": true
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-09-21T08:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-09-21T08:00:00Z", 
+                    "useEndDate": "2015-11-09T06:57:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.4.9084\"/>    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifestEnabled=\"1\"/>    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.4.9084", 
+                                "downloadURL": "/shift/whiteshark/whiteshark/patch_-_ww_(con._beta_retail)/whitesharkpcpatch__ww_con_beta_retailbeta_2__betapc_pc_consumer_beta_patch_ww_retail_271228711e0d50a7c44613a1c9d1165e409411.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-10-12T08:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\STAR WARS Battlefront Beta\\Install Dir]\\starwarsbattlefront.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\STAR WARS Battlefront Beta\\Install Dir]\\starwarsbattlefront.exe", 
+                        "installationDirectory": "STAR WARS Battlefront Beta", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1034229", 
+                        "netPromoterScoreBlacklist": true, 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000460", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-04-25T23:37:10Z"
+}

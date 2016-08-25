@@ -1,0 +1,212 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Expansion Packs", 
+        "extraContentDisplayGroupSortAsc": 310, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 280
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/70673"
+    }, 
+    "financeId": "70673", 
+    "itemId": "ITM-EAST:10865", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Ambitions", 
+        "extraContentDisplayGroupDisplayName": "EXPANSION PACKS", 
+        "gameManualURL": "http://akamai.cdn.ea.com/eadownloads/u/f/manuals/GAME-SIMS3AMBITIONS/Manuals.zip", 
+        "longDescription": "Tired of just watching the Sims go to work and wave their arms around during important corporate meetings? By downloading The Sims 3: Ambitions to your PC, you\u2019re not only given access a whole new set of career options, but you\u2019re in complete control of your Sims as they work. So now you can make them wave their arms around frantically instead of simply watching them do it.<br><br>New career paths include the brave firefighter, the crafty private investigator, and ... a ghost hunter? Well ... yes, of course. The prestigious ghost hunter career opportunity is yours to pursue if you\u2019ve always told yourself, \u201cI ain\u2019t afraid of no ghost.\u201d<br><br>Once you choose a career you\u2019ll have various tasks to complete in order to continue that job successfully. Firefighters must maintain their equipment and snuff out nasty fires, while a tattoo artist will craft artistic designs on different Sims, altering their bodies with roses or dragons or hearts that say \u201cI love you, Mom.\u201d As you progress through your career, your skills will improve and your Sims\u2019 lives will change.<br><br>While good career choices lead to a higher income, raising the fortunes of your Sim\u2019s family, poor choices will lead your Sims to a life of ruin. Continue to get your boss coffee or throw it at his face in a glorious office rage, the decisions in The Sims 3: Ambitions are always yours to make.<br><br><b>Features:</b><br><br>&bull; For the first time ever, you control your Sim\u2019s actions and interactions while they\u2019re on the job. <br>&bull; Be a hero or mess with the neighbors as a firefighter, private investigator, doctor, ghost hunter, and more. <br>&bull; Choose how your Sim\u2019s career progresses \u2013 will they work for good or evil, pursue creative endeavors, rise to success as a mogul, or shirk responsibility as a slacker? <br>&bull; Your Sim\u2019s on-the-job choices now change their town and affect other Sims as well. Modify the town\u2019s structure as an architect or set neighborhood fashions as a stylist. <br>&bull; Enjoy all-new skills and activities. Master the arts of inventing, sculpting, and tattooing, and use your skills to earn Simoleons.<br><br>", 
+        "packArtLarge": "/76826/PACKART_PRESET_LARGE_JPG_231x326/70673_LB_231_^_2013-01-18-14-31-08_989c1509f592d816510321bbc63f27cc1c6a2e55147606d693e5e358d81f1769.jpg", 
+        "packArtMedium": "/76826/PACKART_PRESET_MEDIUM_JPG_142x200/70673_MB_142_^_2013-01-18-14-31-35_78671fdc49c251cb88bd079682afb9f70a5dfca7e10e884963adc847840434cb.jpg", 
+        "packArtSmall": "/76826/PACKART_PRESET_SMALL_JPG_63x89/70673_SB_63_^_2013-01-18-14-32-03_7f5dabcdc32065a2f39d504b69f8f70a72ccc40782243dc7f174146ab76b0047.jpg", 
+        "shortDescription": "Now you can live vicariously through a Sim and download The Sims 3: Ambitions for the PC."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 AMBITIONS (EP2)", 
+                    "masterTitleId": 76826
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001293", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "sims3_ep02_dd", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2010-06-01T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2010-06-01T00:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_ambitions_ep2/the_sims_3macdlc__ww_ambitions_ep2run_1__origin__idjit_data_store92e2950f08054175a21fa906f3fb65d2.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3ep2]/Contents/MacOS/cider", 
+                        "installCheckOverride": "[com.transgaming.thesims3ep2]/Contents/MacOS/cider", 
+                        "installerPath": "The SIMS(tm) 3 Ambitions Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3ep2", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "52285f37-b8e0-4169-ab23-19f97b8c1e58", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(ep02:_ambitions)/the_sims_3pcdlc__ww_ep02_ambitionsproduction_1__ep02__origin_accessd8b298dc53a742cfbbf1012c4b7841eb.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-16T23:19:37Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Ambitions\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p04.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EP02", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\sims3_ep02]"
+                    }, 
+                    "softwareId": "d7f2e23e-8279-4327-8bf2-ad8c92d86d72", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:43:26Z"
+}

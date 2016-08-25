@@ -1,0 +1,123 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "suppressVaultUpgrade": true
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1038633"
+    }, 
+    "financeId": "1038633", 
+    "itemId": "Origin.ITM.50.0001143", 
+    "localizableAttributes": {
+        "displayName": "Battlefield 4\u2122  Closed Alpha Interface", 
+        "longDescription": "<span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:\n&quot;Times New Roman&quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;\nmso-bidi-language:AR-SA\">Battlefield 4\u2122 &nbsp;Closed Alpha Interface&nbsp;</span>", 
+        "packArtLarge": "/76889/231.0x326.0/1038633_LB_231x326_en_US_^_2016-04-27-10-23-31_42517016dc051fc9e90da5d7bf242590a27618cc.png", 
+        "packArtMedium": "/76889/142.0x200.0/1038633_MB_142x200_en_US_^_2016-04-27-10-23-56_6203b1d9e5f9b96c5eb6c4f375de36c90815afea.png", 
+        "packArtSmall": "/76889/63.0x89.0/1038633_SB_63x89_en_US_^_2016-04-27-10-24-15_ef9bec6b7f5ef7a03941e8c80e4c9e3015c65d71.png", 
+        "shortDescription": "Battlefield 4\u2122  Closed Alpha Interface"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Battlefield", 
+                    "franchiseId": 51302
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFIELD 4", 
+                    "masterTitleId": 76889
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001314", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "76889_sparta", 
+            "gameDistributionSubType": "Beta", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "None", 
+            "twitchClientBlacklist": true, 
+            "watermarkDownload": true
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-04-05T07:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-04-05T07:00:00Z", 
+                    "useEndDate": "2016-07-25T08:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.8.2.46625\"/>\n    <requirements osMinVersion=\"6.0\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.8.2.46625", 
+                                "downloadURL": "/shift/battlefield/battlefield_4_sparta/fg__ww_soft_launch_r2/battlefield_4_spartapcfg__ww_soft_launch_r2alpha_31__battlefield4_dip_pc_1776971bc3679f4fc84a799528e64bf20166d1.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2036-05-05T18:32:27Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.8.2.47069\"/>\n    <requirements osMinVersion=\"6.0\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.8.2.47069", 
+                                "downloadURL": "/shift/battlefield/battlefield_4_sparta/fg__ww_soft_launch_r3/battlefield_4_spartapcfg__ww_soft_launch_r3production_37__battlefield4_dip_pc_17814193d79c7a4c764bb18b1f95205fd58edd.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-12T07:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "51302_76889_50844", 
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">*.xml</include> <include order=\"1\">%Documents%/Battlefield 4/settings/*.xml</include> <include order=\"2\">%Documents%/Battlefield 4/settings/PROFSAVE</include> <include order=\"3\">%Documents%/Battlefield 4/settings/PROFSAVE_header</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Battlefield 4 Sparta\\Install Dir]bf4.exe", 
+                        "identityClientIdOverride": "BF4_CLIENT_PC", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Battlefield 4 Sparta\\Install Dir]bf4.exe", 
+                        "installationDirectory": "Battlefield 4 Sparta", 
+                        "multiPlayerId": "1038633", 
+                        "processorArchitecture": "32/64"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000521", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-08T17:08:49Z"
+}

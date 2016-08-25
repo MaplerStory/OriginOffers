@@ -1,0 +1,133 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1035281"
+    }, 
+    "financeId": "1035281", 
+    "itemId": "Origin.ITM.50.0001018", 
+    "localizableAttributes": {
+        "displayName": "Dragon Age\u2122: Inquisition - Destruction Multiplayer Expansion", 
+        "longDescription": "Dragon Age\u2122: Inquisition - Destruction adds new paths to the Elven Ruins, Orlesian Chateau, and Tevinter Ruins. The conflicts raging throughout the world have upset the balance of nature: wild creatures now roam the battlefield, introducing chaos as they attack both friend and foe.", 
+        "packArtLarge": "/74369/231.0x326.0/1013918_LB_231x326_en_US_^_2014-12-09-10-00-22_e4ab78839b9d141bc695f316bc0b3576afaa4ec9.jpg", 
+        "packArtMedium": "/74369/142.0x200.0/1013918_MB_142x200_en_US_^_2014-12-09-10-00-52_5a85b5743a6378f1b9254792187ea903155a2437.jpg", 
+        "packArtSmall": "/74369/63.0x89.0/1013918_SB_63x89_en_US_^_2014-12-09-10-01-25_ea2e6435b8194bcee06135ae4b34bd9c8143c958.jpg", 
+        "shortDescription": "Dragon Age\u2122: Inquisition - Destruction adds new map routes and introduces wild creatures as enemies."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Dragon Age", 
+                    "franchiseId": 68222
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DRAGON AGE: INQ F2P", 
+                    "masterTitleId": 194847
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001061", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1035281", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2014-12-16T16:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2014-12-16T16:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.1\"></gameVersion>    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"></featureFlags>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.1", 
+                                "downloadURL": "/shift/dragon_age/da_i/dlc_-_ww_(mp1)/da_ipcdlc__ww_mp1beta_22__build881256dlc_update1dcfb4221305c4128bf1d275de10aa331.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-05-04T17:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition Trial\\Install Dir]\\Update\\Multiplayer_DLC1\\package.mft", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\Multiplayer_DLC1", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000457", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-06-19T18:02:11Z"
+}

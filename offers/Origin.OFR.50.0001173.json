@@ -1,0 +1,254 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VU"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036380"
+    }, 
+    "financeId": "1036380", 
+    "itemId": "Origin.ITM.50.0001078", 
+    "localizableAttributes": {
+        "displayName": "STAR WARS\u2122 Battlefront\u2122 Season Pass", 
+        "longDescription": "Expand your galaxy with the <i>Star Wars</i>\u2122 Battlefront\u2122 Season Pass. Get 4 expansion packs filled with new content that will take you to new locations across a galaxy far, far away. Secure two-week early access to each expansion pack and an exclusive \u201cShoot First\u201d emote.<br><br>In addition to the 4 expansions, players also get 20 new pieces of galactic tech, including weapons, vehicles, and Star Cards. Plus, 16 new multiplayer maps, 4 exciting new game modes, and the ability to play as or against 8 new heroes or villains. <br><br>\n\n<b>Key Features:</b><br><br>\n\n<b><i>Star Wars</i>\u2122 Battlefront\u2122 Outer Rim (Available Now).</b> You always wanted to check out Jabba the Hutt's palace. Here's your chance. Fight within the notorious crime lord's lair on Tatooine and among the factories on Sullust.<br><br>\n\n<b><i>Star Wars</i>\u2122 Battlefront\u2122 Bespin (Available Now).</b>   Explore the beautiful and notorious Cloud City of Bespin in this action-packed expansion.<br><br>\n\n<b><i>Star Wars</i>\u2122 Battlefront\u2122 Death Star (September 2016).</b>  That\u2019s no moon! One of the most iconic locations in the <i>Star Wars</i>\u2122 universe makes its debut in <i>Star Wars</i>\u2122 Battlefront\u2122.<br><br>\n\n<b><i>Star Wars</i>\u2122 Battlefront\u2122 Rogue One (Early 2017).</b> Stay tuned for more details about the fourth expansion, coming to your galaxy in early 2017.", 
+        "packArtLarge": "/192140/231.0x326.0/1036380_LB_231x326_en_US_^_2015-09-15-10-12-49_f02fe589158081c1f97e21455bf2b3583d7cbe0e.jpg", 
+        "packArtMedium": "/192140/142.0x200.0/1036380_MB_142x200_en_US_^_2015-09-15-10-14-55_d450059e866a65522893a93586a5bfe835f74cc7.jpg", 
+        "packArtSmall": "/192140/63.0x89.0/1036380_SB_63x89_en_US_^_2015-09-15-10-30-42_b2eae5d9303b366b2476c68e7c2065382df38155.jpg", 
+        "preAnnouncementDisplayDate": "17 November 2015", 
+        "shortDescription": "Expand Your Galaxy"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Star Wars", 
+                    "franchiseId": 75158
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFRONT", 
+                    "masterTitleId": 192140
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001173", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036380", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-11-16T15:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-03-02T09:39:22Z"
+}

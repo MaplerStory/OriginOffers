@@ -1,0 +1,165 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "JP"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001270", 
+            "Origin.OFR.50.0001271", 
+            "Origin.OFR.50.0000926", 
+            "Origin.OFR.50.0001274", 
+            "Origin.OFR.50.0001275", 
+            "Origin.OFR.50.0001173", 
+            "Origin.OFR.50.0001272", 
+            "Origin.OFR.50.0001273", 
+            "Origin.OFR.50.0001168", 
+            "Origin.OFR.50.0001167"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1031814"
+    }, 
+    "financeId": "1031814", 
+    "itemId": "Origin.ITM.50.0000884", 
+    "localizableAttributes": {
+        "displayName": "STAR WARS\u2122 Battlefront\u2122 Deluxe Edition", 
+        "longDescription": "Feel the ominous thud of an AT-AT stomping down on the frozen tundra of Hoth. Zip through the lush forests of Endor on an Imperial speeder bike while dodging incoming blaster fire. Engage in intense dogfights as squadrons of X-wings and TIE fighters fill the skies. Immerse yourself in the epic <i>Star Wars</i>\u2122 battles you\u2019ve always dreamed of and create new heroic moments of your own in <i>Star Wars</i>\u2122 Battlefront\u2122. <br><br>\n\n<b>Get five exciting in-game items with the <i>Star Wars</i>\u2122 Battlefront\u2122 Deluxe Edition. </b><br><br>\n\u2022 DL-44 Blaster, as made famous by Han Solo (instant access)<br>\n\u2022 Ion Grenade (instant access)<br>\n\u2022 Ion Torpedo (instant access)<br>\n\u2022 Ion Shock (exclusive emote)<br>\n\u2022 Victory (exclusive emote)<br><br>\n\n<b>Game Features: </b><br><br>\n\u2022 <b>Engage in multiplayer battles on a galactic scale.</b> Fight for the Rebellion or Empire in a wide variety of multiplayer matches that support up to 40 players, and seamlessly swap between first-person and third-person viewpoints to experience the action however you wish. Fight alongside your friends online, or in exciting challenges inspired by the films, available for solo or co-op play.<br><br>\n\u2022 <b>Master the battlefield with iconic <i>Star Wars</i>\u2122 characters.</b> Play as some of the most memorable characters in the <i>Star Wars</i>\u2122 universe, including Darth Vader and Boba Fett, and encounter a variety of beloved characters from the original trilogy such as C-3PO and R2-D2.<br><br>\n\u2022 <b>Pilot incredible <i>Star Wars</i>\u2122 vehicles.</b> Hop in the cockpit of X-wings, TIE fighters, and even the Millennium Falcon for some edge-of-your-seat aerial combat. Then take the battle to the ground: Pilot a diverse set of ground-based vehicles including nimble speeder bikes, massive AT-ATs, and more.<br><br>\n\u2022 <b>Immerse yourself in an authentic <i>Star Wars</i>\u2122 experience.</b> Each battle is brought to life by the original sound effects from the films and amazing digital replicas of authentic <i>Star Wars</i>\u2122 movie models. Visit classic planets from the original <i>Star Wars</i>\u2122 trilogy, detailed with an unprecedented amount of realism that will transport you to a galaxy far, far away.\n<br><br>", 
+        "packArtLarge": "/192140/231.0x326.0/1030897_LB_231x326_en_US_^_2015-06-09-15-16-03_06d3ebb1f5ff180caff628117b537ef609bad4c1.jpg", 
+        "packArtMedium": "/192140/142.0x200.0/1030897_MB_142x200_en_US_^_2015-06-09-15-16-17_312ed6eaca87c1d1c95cc3deee66387954778d1a.jpg", 
+        "packArtSmall": "/192140/63.0x89.0/1030897_SB_63x89_en_US_^_2015-06-09-15-16-30_9e5b3b104bb62c702ddf6daea91593f316c25e43.jpg", 
+        "shortDescription": "Immerse yourself in your <i>Star Wars</i>\u2122 battle fantasies."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Star Wars", 
+                    "franchiseId": 75158
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFRONT", 
+                    "masterTitleId": 192140
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001045", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1024390", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-11-13T17:00:01Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-11-17T05:00:03Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.5.56688\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.5.56688", 
+                                "downloadURL": "/shift/star_wars_battlefront/whiteshark_xp2/patch__ww_retail/whiteshark_xp2pcpatch__ww_retailproduction_44__384368_julyshippingpc_patch_retailaf8e5e9491bb43bc9d3e9480bf463ac2.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-21T07:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "75158_192140_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<include order=\"0\">%Documents%/STAR WARS Battlefront/settings/ProfileOptions</include>\n</saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\STAR WARS Battlefront\\Install Dir]\\starwarsbattlefront.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\STAR WARS Battlefront\\Install Dir]\\starwarsbattlefront.exe", 
+                        "installationDirectory": "STAR WARS Battlefront", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1024390", 
+                        "netPromoterScoreBlacklist": true, 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000268", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-05-06T19:50:42Z"
+}

@@ -1,0 +1,84 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GB"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "8000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1030483"
+    }, 
+    "financeId": "1030483", 
+    "itemId": "Origin.ITM.50.0000396", 
+    "localizableAttributes": {
+        "displayName": "Crysis\u00ae Trilogy", 
+        "longDescription": "<b>As of June 2014, our friends at GameSpy have ended all hosted game services. This has affected the online multiplayer aspect of one or more games in this collection. Because of technical challenges and concerns,we do not have a solution to keep these services up and running at this time,and online services for this game and other EA games on the GameSpy platform have ended. We are still investigating a range of options to restore official online functionality and multiplayer gameplay for these titles.\u2028You can find more information on this change at ea.com, and find the full list of impacted games on our <a href=\n\"http://www.ea.com/1/service-updates\">Online Service Updates page</a>.</b><br><br>\n\nThe nanosuit: it's more than just a badass look. This futuristic, hugely capable wardrobe has been a part of the Crysis franchise since the absolute beginning. You haven't experienced it yet? We've put together all the greats in the Crysis series together so you'll know just how downright handy this nanosuit can be. Get caught up with the Crysis Trilogy.<br><br>\n\nThis bundle, several dozen hours of non-stop action, includes all the great futuristic Nanosuit-enhanced first-person shooter the series has been known for. Over the course of three entire games you'll witness first-hand the evolution of an alien invasion and its effect on earth, both in fleshed-out single player campaigns and expansive multiplayer experiences. Over the course of three games you'll leap from the freshly devastated cityscapes of New York City to the the same metropolis completely overgrown under a lush rainforest.<br><br>\n\nUse stealth attacks or over-the top firepower. Every intense moment in the Crysis franchise is included in Crysis Trilogy. Suit up.<br><br><b>\n\nKEY FEATURES:</b><br><br>\n\n\u2022 <b>Single player campaign:</b> Follow Earth's devastation and the alien invasion in the extensive storyline across all three games in the Crysis Trilogy.<br><br>\n\u2022 <b>Multiplayer focus:</b> Every game included in Crysis Trilogy features enormous replay with multiplayer modes, maps and weapons.<br><br>\n\u2022 <b>The Complete Crysis Experience:</b> Every moment is included in this must-have bundle. The original Crysis continues with the Crysis Warhead expansion, and the Crysis 3 action keeps churning in the Lost Island DLC.<br><br>", 
+        "packArtLarge": "/76860/231.0x326.0/1021021_LB_231x326_en_US_^_2014-01-31-10-29-23_556cb59f596bc1744f8024bd229e740d787ac432.jpg", 
+        "packArtMedium": "/76860/142.0x200.0/1021021_MB_142x200_en_US_^_2014-01-31-10-29-38_6ee5481266623826be9dad92a1e6988a5088d2de.jpg", 
+        "packArtSmall": "/76860/63.0x89.0/1021021_SB_63x89_en_US_^_2014-01-31-10-29-50_621c05a707b12f5bca29bf7dec223ee8f52b0554.jpg", 
+        "shortDescription": "Suit up with the entire collection of Crysis games."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Crysis", 
+                    "franchiseId": 51305
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "CRYSIS 3", 
+                    "masterTitleId": 76860
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001102", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2014-02-12T18:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2014-02-12T18:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-10-29T05:27:00Z"
+}

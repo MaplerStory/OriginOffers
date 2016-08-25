@@ -1,0 +1,111 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036386"
+    }, 
+    "financeId": "1036386", 
+    "itemId": "Origin.ITM.50.0001074", 
+    "localizableAttributes": {
+        "displayName": "STAR WARS\u2122 Battlefront\u2122 Bespin", 
+        "longDescription": "Join Lando Calrissian and Dengar in the deceptively serene Cloud City. Take flight in a cloud car or hunt enemies in the Bioniip Laboratories or Carbon Freezing Chambers. Want to avoid becoming a target yourself? Get your hands on 2 new weapons and 3 additional Star Cards. This deal's getting better all the time.<br><br>\n\n<b>Key Features:</b><br><br>\n\n<b>New playable characters.</b> Take aim as the suave but deadly smuggler, Lando Calrissian or get down and dirty as the ruthless bounty hunter, Dengar.<br><br>\n\n<b>New maps and modes.</b> Journey in, around and over Cloud City with 5 new multiplayer maps including the infamous Carbon Freezing Chambers, Administrator's Palace and Bespin Airspace (Fighter Squadron mode only). Then get ready for some serious monkey-wrenching with the Sabotage game mode.<br><br>\n\n<b>New gear and extras.</b> Patrol the not-so-friendly skies in a cloud car vehicle or hunt your enemies with the X-8 Night Sniper and EE-4 blaster. Want an extra edge? There are 3 additional Star Cards including Disruption, Scout Binoculars and the devastating Shock Grenade!<br><br>", 
+        "packArtLarge": "/192140/231.0x326.0/1036386_LB_231x326_en_GB_^_2016-05-17-07-32-54_8f0a3fb6bfa2dcb9fda48e2d853c87e8751d03a3.jpg", 
+        "packArtMedium": "/192140/142.0x200.0/1036386_MB_142x200_en_GB_^_2016-05-17-07-32-54_3a71f1cc1ff752c2269baea263f3ff84a8551fd3.jpg", 
+        "packArtSmall": "/192140/63.0x89.0/1036386_SB_63x89_en_GB_^_2016-05-17-07-32-54_2afc13246b90da0d0f3b882e0557f3553746b7c4.jpg", 
+        "shortDescription": "Take Your Battle to New Heights"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Star Wars", 
+                    "franchiseId": 75158
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFRONT", 
+                    "masterTitleId": 192140
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001168", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036386", 
+            "gameDistributionSubType": "Normal Game", 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-06-21T13:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-06-23T14:34:57Z"
+}

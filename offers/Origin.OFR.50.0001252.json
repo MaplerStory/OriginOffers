@@ -1,0 +1,206 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Stuff Packs", 
+        "extraContentDisplayGroupSortAsc": 410, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 90
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/70556"
+    }, 
+    "financeId": "70556", 
+    "itemId": "ITM-EAST:10895", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 High-End Loft Stuff", 
+        "extraContentDisplayGroupDisplayName": "STUFF PACKS", 
+        "gameManualURL": "http://akamai.cdn.ea.com/eadownloads/u/f/manuals/GAME-SIMS3SP1/Manuals.zip", 
+        "longDescription": "Does your Sim house feel \u201cblah\u201d these days? Don\u2019t waste your time with those interior decorating reality shows: roll up your sleeves and do the work yourself by downloading The Sims 3: High-End Loft Stuff to your PC.<br><br>This new stuff pack is all about decorating and lets you inject a splash of style to your life. Add new, modern items to your house, creating a stylish living arrangement for your Sims. Have you always wanted a theatre room where you could watch movies in surround sound? A game room with the latest in gaming consoles? How about a bedroom with zebra-striped bed sheets and a balcony with an ocean view? Maybe you want a kitchen that would make a five-star chef jealous, or a bathroom that looks like it belongs in the presidential suite of an exclusive hotel. Decorate your house however you want with trendy new items that will set you apart from the neighbors.<br><br>But the trends don\u2019t stop there. Your Sims will also receive a wardrobe upgrade that fits their new, modern decor. Tailored suits, fancy dresses, and other sophisticated styles allow you to create the perfect look for your Sims.<br><br>The Sims 3: High-End Loft Stuff adds a bit of class to your Sims. Don\u2019t worry, you can still have them burn down the kitchen while trying to microwave their Hot Pockets. It\u2019ll just be a more expensive loss.<br><br><b>Features:</b><br>&bull; Add a sleek, high-end, tech-inspired look to your Sims bedroom, living room, bathroom, office and den. <br>&bull; Upgrade your Sims\u2019 wardrobes with forward looking apparel, tailored suits and sophisticated outerwear. <br>&bull; Transform your Sims\u2019 homes into cutting edge spaces with contemporary inspired furnishings, eclectic art and modern designs. <br>&bull; Give your Sims coveted electronics including high-tech, ultra-slim TVs, video game systems, stereos and more. <br>&bull; As a special 10th Anniversary gift this pack includes three coveted items from The Sims and The Sims 2 games: The heart shaped vibrating bed, the electric guitar, and the aquarium.<br><br>", 
+        "packArtLarge": "/76513/PACKART_PRESET_LARGE_JPG_231x326/70556_LB_231_^_2012-12-12-08-58-03_0a92a599045a8cb6d28fd8c2ed5f64a886b5bfbce5567bfaf170cafc93584ce8.jpg", 
+        "packArtMedium": "/76513/PACKART_PRESET_MEDIUM_JPG_142x200/70556_MB_142_^_2012-12-12-08-58-15_12c7e3d86639d3514210b2d81be1d48fa279cf5e66bba954629bec2a793d1e09.jpg", 
+        "packArtSmall": "/76513/PACKART_PRESET_SMALL_JPG_63x89/70556_SB_63_^_2012-12-12-08-58-26_27c2ba86c87d350405efafdc0c0be64bd3de283b785eaf8495e8c15a3cf6385c.jpg", 
+        "shortDescription": "Live life in style."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 HIGH-END LOFT STUFF (SP1)", 
+                    "masterTitleId": 76513
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001252", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "sims3_sp01_dd", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2010-02-02T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2010-02-02T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_highend_loft_stuff_sp1/the_sims_3macdlc__ww_highend_loft_stuff_sp1run_1__origin__idjit_data_storec0d453925a7144819457e61be2e2de7f.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3sp1]/Contents/MacOS/cider", 
+                        "installCheckOverride": "[com.transgaming.thesims3sp1]/Contents/MacOS/cider", 
+                        "installerPath": "The SIMS(tm) 3 High-End Loft Stuff Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3sp1", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true
+                    }, 
+                    "softwareId": "a4480d63-27ee-4cf5-8fbc-f870826a3d39", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(sp01:_high-end_loft_stuff)/the_sims_3pcdlc__ww_sp01_highend_loft_stuffbeta_1__sp01__origin_accesse31d435fcb994cb18e15e4690d4afa01.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-10T20:03:18Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 High-End Loft Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p03.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\SP01", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\sims3_sp01]"
+                    }, 
+                    "softwareId": "8482a11f-31be-4093-bf0f-2de0bebd5b9c", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-07-29T20:21:37Z"
+}

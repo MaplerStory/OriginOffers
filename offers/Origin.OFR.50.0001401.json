@@ -1,0 +1,110 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1039880"
+    }, 
+    "financeId": "1039880", 
+    "itemId": "Origin.ITM.50.0001212", 
+    "localizableAttributes": {
+        "displayName": "The Banner Saga 2 - Soundtrack", 
+        "longDescription": "The Banner Saga 2- Soundtrack", 
+        "packArtLarge": "/195268/231.0x326.0/1037321_LB_231x326_en_US (2)_^_2016-04-04-10-08-22_efc5015a97fc4b552d3e02325ea1ae803965fc9d.jpg", 
+        "packArtMedium": "/195268/142.0x200.0/1037321_MB_142x200_en_US (2)_^_2016-04-04-10-08-35_edd15fdea0d0c5d5b630795888f61168db874f41.jpg", 
+        "packArtSmall": "/195268/63.0x89.0/1037321_SB_63x89_en_US (2)_^_2016-04-04-10-08-50_ce3041d66dbfc36d6377d1a46a9787e22f563cf1.jpg", 
+        "shortDescription": "The Banner Saga 2- Soundtrack"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BANNER SAGA 2", 
+                    "masterTitleId": 195268
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001401", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "195268", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-04-19T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-04-19T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"2.28.67.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "2.28.67.0", 
+                                "downloadURL": "/shift/versus_evil/the_banner_saga_2/dlc__ww_x0_dlc__1__soundtrack/the_banner_saga_2pcdlc__ww_x0_dlc__1__soundtrackrun_1__20160418_22867031ac57f797db4bb4aa7403a8aa6a394c.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-04-18T20:56:10Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Stoic\\The Banner Saga 2\\Install Dir]\\SOUNDTRACK", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Stoic\\The Banner Saga 2\\Install Dir]\\__Installer\\DLC\\SOUNDTRACK\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer\\DLC\\SOUNDTRACK", 
+                        "monitorPlay": false, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000546", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-04-11T21:32:50Z"
+}

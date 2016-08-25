@@ -1,0 +1,122 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1032211"
+    }, 
+    "financeId": "1032211", 
+    "itemId": "Origin.ITM.50.0001043", 
+    "localizableAttributes": {
+        "displayName": "FIFA 16 Standard Edition Content", 
+        "longDescription": "Receive up to 15 FIFA Ultimate Team Gold Packs, delivered one per week for 15 weeks, and the Brand New EA SPORTS Football Club \"Bailando Robot\" Celebration.", 
+        "packArtLarge": "/182631/231.0x326.0/1032211_LB_231x326_en_US_^_2015-06-03-09-12-31_3c979c948ca1b6657459a34322e178a35c8702da.jpg", 
+        "packArtMedium": "/182631/142.0x200.0/1032211_MB_142x200_en_US_^_2015-06-03-09-13-03_56ce0ba0f05b2e1cf329cf30e4ac7dd98870a069.jpg", 
+        "packArtSmall": "/182631/63.0x89.0/1032211_SB_63x89_en_US_^_2015-06-03-09-13-22_15c267307b7457d61f57e353fb1d05c98f27fc58.jpg", 
+        "shortDescription": "Receive up to 15 FIFA Ultimate Team Gold Packs, delivered one per week for 15 weeks, and the Brand New EA SPORTS Football Club \"Bailando Robot\" Celebration."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 16", 
+                    "masterTitleId": 182631
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001128", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-09-15T16:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-09-15T16:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-09-14T16:03:21Z"
+}

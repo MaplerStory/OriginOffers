@@ -1,0 +1,102 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1040497"
+    }, 
+    "financeId": "1040497", 
+    "itemId": "Origin.ITM.50.0001274", 
+    "localizableAttributes": {
+        "displayName": "STAR WARS\u2122: The Old Republic\u2122 - Knights of the Fallen Empire Origin Epic Experience Pack", 
+        "longDescription": "This is the epic <i>Star Wars\u2122</i> experience you\u2019ve been waiting for. Get the Epic Experience Pack and become the Outlander, a veteran of the Galactic Civil War in <i>Star Wars\u2122</i>: The Old Republic\u2019s new expansion, Knights of the Fallen Empire. Enjoy 60 days of Prepaid Subscription Game Time and get 1,050 Cartel Coins and the Major Experience Boost 5-Pack. Jump directly into the story at Level 60 \u2013 with a Free Level 60 Character! Create your character, choose your path (Jedi, Sith, Bounty Hunter, Smuggler or any one of 8 iconic classes) and face your destiny.<br><br>\nThe Epic Experience Pack also includes access to Shadow of Revan, and Rise of the Hutt Cartel story expansions, plus unlimited play in the Galactic Starfighter expansion. <br><br>\n<b>Key Features:</b><br><br>\n<b>60 Days of Unlimited Gameplay.</b> Enjoy being at the center of your own epic saga in the latest expansion, Knights of the Fallen Empire.<br><br>\n<b>1,050 Cartel Coins.</b> You'll be granted these coins for immediate use at the in-game Cartel Market. Use them to purchase valuable Cartel Packs along with collectible gear, unique weapons and other items that offer both customization and convenience.<br><br>\n<b>Major Experience Boost \u2013 5-Pack.</b> Get Epic Experience with the 5-pack Major Experience Boost \u2013 The Pack Includes 5 major experience boosts - each increases all Experience gained by 25% for 3-hours!<br><br>\n<b>*Can only be redeemed once per 6-month period. Offer limited to one SWTOR account per code. Codes are non-transferable. Users can only claim the free level-60 character boost token if they haven\u2019t already been an active subscriber of KOTFE. Plus, you'll get 525 Cartel Coins for the two months of subscription time included with this pack.</b>", 
+        "packArtLarge": "/54035/231.0x326.0/1040497_LB_231x326_en_US_^_2016-04-08-01-08-28_ad7358e1af173b5c5e8c2c345c639c1dda4718f3.jpg", 
+        "packArtMedium": "/54035/142.0x200.0/1040497_MB_142x200_en_US_^_2016-04-08-01-22-44_1e9df93ef8716329a6eb8f2db99e2217e26747dd.jpg", 
+        "packArtSmall": "/54035/63.0x89.0/1040497_SB_63x89_en_US_^_2016-04-08-01-31-42_70668f1076530ddb14c78937fa8b6bfe9c8b7513.jpg", 
+        "shortDescription": "Choose Your Destiny"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Star Wars", 
+                    "franchiseId": 75158
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "STAR WARS: THE OLD REPUBLIC", 
+                    "masterTitleId": 54035
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001471", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-05-03T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-05-03T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "ExternalURL", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "https://account.swtor.com/play-free?utm_source=free.origin.com&utm_medium=referral&utm_campaign=o4f-portal&sourceid=o4f-portal"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000006", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "fr_FR"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-05-03T14:07:40Z"
+}

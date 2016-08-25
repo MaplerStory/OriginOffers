@@ -1,0 +1,153 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "US"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "en_US", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0000395", 
+            "Origin.OFR.50.0000388", 
+            "Origin.OFR.50.0000399", 
+            "Origin.OFR.50.0000398", 
+            "Origin.OFR.50.0000401", 
+            "Origin.OFR.50.0000400", 
+            "Origin.OFR.50.0000402"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1028414"
+    }, 
+    "financeId": "1028414", 
+    "itemId": "Origin.ITM.50.0001087", 
+    "localizableAttributes": {
+        "displayName": "Client Automation PI en_US", 
+        "longDescription": "Client Automation PI en_US", 
+        "shortDescription": "Client Automation PI en_US"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Other", 
+                    "franchiseId": 50823
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ORIGIN AUTOMATION NON REV", 
+                    "masterTitleId": 193906
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001185", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "client_automation_pi", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2013-07-01T00:00:00Z", 
+                    "originSubscriptionUnlockDate": "2013-07-01T00:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-07-01T00:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-07-01T00:00:00Z", 
+                    "originSubscriptionUnlockDate": "2013-07-01T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2013-07-01T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<buildMetaData>   <gameVersion version=\"1.0.0.0\" />   <featureFlags     forceTouchupInstallerAfterUpdate=\"1\"     autoUpdateEnabled=\"1\"     treatUpdatesAsMandatory=\"0\"     useGameVersionFromManifestEnabled=\"0\"     enableDifferentialUpdate=\"1\"     dynamicContentSupportEnabled=\"1\"    />   <requirements osMinVersion=\"10.7.5\" osReqs64Bit=\"false\"  clientVersion=\"9.4.5.199\"/>   <minimumRequiredVersionForOnlineUse version=\"1.0.0.1\"/>   <autoRepairRange min=\"1.0.0.1\" max=\"1.0.0.5\"/> </buildMetaData>", 
+                                "buildReleaseVersion": "1", 
+                                "downloadURL": "/p/qa/ClientAutomation/ClientAutomationPI.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2013-12-07T12:43:42Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "commerceProfile": "bioware", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.ea.origin.Client-Automation-PI]/Contents/MacOS/Client Automation PI", 
+                        "installCheckOverride": "[com.ea.origin.Client-Automation-PI]/Contents/MacOS/Client Automation PI", 
+                        "macBundleID": "com.ea.origin.Client-Automation-PI", 
+                        "multiPlayerId": "10108"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000493", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.1.783\"/>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifestEnabled=\"0\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.1.783", 
+                                "downloadURL": "/shift/origin/client_automation_pi/patch_-_ww_ende/client_automation_pipcpatch__ww_endeconcept_1479de0b4e4f4746f7a5ef1a233c470244.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-10-20T10:30:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50823_180977_50340_71314", 
+                        "commerceProfile": "bioware", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Origin QA\\Client Automation PI\\Install Dir]\\target.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Origin QA\\Client Automation PI\\Install Dir]\\target.exe", 
+                        "installationDirectory": "Client Automation PI", 
+                        "multiPlayerId": "10108", 
+                        "oigClientBehavior": "Default"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000494", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-09-23T23:34:46Z"
+}

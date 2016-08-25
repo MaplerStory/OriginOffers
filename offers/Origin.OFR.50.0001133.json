@@ -1,0 +1,212 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UZ"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "9000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "suppressVaultUpgrade": true
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001153", 
+            "Origin.OFR.50.0001055", 
+            "Origin.OFR.50.0000201", 
+            "Origin.OFR.50.0000740", 
+            "Origin.OFR.50.0001056", 
+            "Origin.OFR.50.0000203", 
+            "Origin.OFR.50.0000665", 
+            "Origin.OFR.50.0000202", 
+            "Origin.OFR.50.0000502", 
+            "Origin.OFR.50.0000204", 
+            "Origin.OFR.50.0000501", 
+            "Origin.OFR.50.0000985", 
+            "Origin.OFR.50.0000858", 
+            "OFB-EAST:1000029", 
+            "Origin.OFR.50.0000496", 
+            "Origin.OFR.50.0001047", 
+            "Origin.OFR.50.0000674", 
+            "Origin.OFR.50.0000555", 
+            "Origin.OFR.50.0000499", 
+            "Origin.OFR.50.0000675", 
+            "Origin.OFR.50.0000678", 
+            "Origin.OFR.50.0000556", 
+            "Origin.OFR.50.0001105", 
+            "Origin.OFR.50.0000768", 
+            "Origin.OFR.50.0000767", 
+            "Origin.OFR.50.0000828"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1032111"
+    }, 
+    "financeId": "1032111", 
+    "itemId": "Origin.ITM.50.0001048", 
+    "localizableAttributes": {
+        "displayName": "Dragon Age\u2122: Inquisition - Game of the Year Edition", 
+        "longDescription": "You are the Inquisitor, tasked with saving the people of Thedas from the brink of chaos and a host of fearsome enemies. The Game of the Year Edition comes with all of the following.<br><br>\n\n<b>Key Features:</b><br><br>\n\n<b>Dragon Age: Inquisition game.</b> Become the Inquisitor. Make momentous choices, forge relationships, and explore incredible worlds with a character of your own creation.<br><br> \n\n<b>Jaws of Hakkon.</b> Uncover the previous Inquisitor's fate. What became of the dragon he pursued? Explore a stretching wilderness and its fiercely independent residents, the hunters known as Avvar.<br><br>\n\n<b>The Descent.</b> Brave your way into the Deep Roads and dare to fight the terrifying and deadly Darkspawn in a sprawling world underneath Thedas. Discover the reason behind the earthquakes that threaten to tear Thedas apart.<br><br>\n\n<b>Trespasser.</b> The adventure isn't over.  Defeat the tremendous evil bent on destroying Thedas. This is your final mission, Inquisitor. Succeed at all costs.<br><br>\n\n<b>Deluxe Upgrades, Spoils of the Avvar & Spoils of the Qunari.</b>  Equip and customize gear, weapons, mounts and more. Make your mark on the Inquisition.", 
+        "packArtLarge": "/74369/231.0x326.0/1032110_LB_231x326_en_GB_^_2015-09-15-15-45-25_98b2647e9d55ea3ff1f046a67f9648da93422ce8.jpg", 
+        "packArtMedium": "/74369/142.0x200.0/1032110_MB_142x200_en_GB_^_2015-09-15-15-45-25_0c08442f43e5bb045c561d3478337facc35e6da6.jpg", 
+        "packArtSmall": "/74369/63.0x89.0/1032110_SB_63x89_en_GB_^_2015-09-15-15-45-25_930b450fb31d4dd14dabbbebd7dc2b3293105600.jpg", 
+        "shortDescription": "Game of the Year Edition"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Dragon Age", 
+                    "franchiseId": 68222
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DRAGON AGE: INQUISITION", 
+                    "masterTitleId": 74369
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001133", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1000659", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-10-06T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-10-06T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.12\"/>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifestEnabled=\"1\"/>\n    <requirements osMinVersion=\"6.0\" osReqs64Bit=\"true\"/>\n    <minimumRequiredVersionForOnlineUse version=\"1.0.0.12\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.12", 
+                                "downloadURL": "/shift/dragon_age/da_i/patch_-_ww/da_ipcpatch__wwbeta_551__patch11_92330521c7094a8ec5450495beb8992de02fb8.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-10-06T17:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "68222_74369_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<exclude order=\"0\">%Documents%/BioWare/Dragon Age Inquisition/Save/ProfileOptions_profile</exclude>\n<include order=\"1\">%Documents%/BioWare/Dragon Age Inquisition/Save/*.DAS</include>\n<include order=\"2\">%Documents%/BioWare/Dragon Age Inquisition/Save/ProfileOptions</include>\n</saveFileCriteria>", 
+                        "commerceProfile": "bfx", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition\\Install Dir]\\DragonAgeInquisition.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition\\Install Dir]\\DragonAgeInquisition.exe", 
+                        "installationDirectory": "Dragon Age Inquisition", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1000659", 
+                        "oigClientBehavior": "Default", 
+                        "processorArchitecture": "64-bit", 
+                        "showSubsSaveGameWarning": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000073", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-08T19:00:41Z"
+}

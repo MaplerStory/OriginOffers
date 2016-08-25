@@ -1,0 +1,212 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Stuff Packs", 
+        "extraContentDisplayGroupSortAsc": 410, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 30
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71080"
+    }, 
+    "financeId": "71080", 
+    "itemId": "ITM-EAST:38291", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Diesel Stuff", 
+        "extraContentDisplayGroupDisplayName": "STUFF PACKS", 
+        "longDescription": "Style your Sims with the latest Diesel apparel, accessories and furniture and get ready for successful living. The Sims\u2122 3 Diesel Stuff Pack contains the hottest fashions and home furnishings for your Sims from one of the world's most popular lifestyle brands. Update your Sims' wardrobes with Diesel styles straight off the runway. Dress your Sims in Diesel's iconic cutting-edge pieces that have made it a go-to brand for denim apparel. Complete your Sims' transformation with fashionable designs for the home featuring distinctive Diesel furniture. The Sims 3 Diesel Stuff Pack preps your Sims for the look and the lifestyle they've always wanted no matter what neighborhood they live in.<br><br><b>FEATURES</b><br><br>\u2022 Dress to impress! Fit your Sims\u2019 attitude with hot styles straight from the Diesel runway. Outfit your Sims in stylish Diesel fashions showcasing the trends that are all the rage this season!<br>\u2022 Be chic, casual, and confident. Be tough, rugged, and modern. Upgrade your Sims\u2019 style with the latest women\u2019s and men\u2019s fashions from Diesel.<br>\u2022 Customize your Sims\u2019 homes with industrial Diesel furnishings and d\u00e9cor from the showrooms of Milan to your ultimate urban loft.<br>\u2022 Make your living room party ready, serve-up a second-date-worthy dining room or freshen up your bedroom with furnishings that reflect an edgy, urban, sophisticated style made possible by Diesel.<br>\u2022 Bring a mix of rock and roll attitude and refined denim quality to your Sims this summer with The Sims 3 Diesel Stuff Pack.<br><br>", 
+        "packArtLarge": "/181483/PACKART_PRESET_LARGE_JPG_231x326/71080_LB_231_^_2012-12-12-08-29-35_90824dde2d584287fcc4240b8470c0ba50c50d4c08ddaaba99951497e7b75915.jpg", 
+        "packArtMedium": "/181483/PACKART_PRESET_MEDIUM_JPG_142x200/71080_MB_142_^_2012-12-12-08-29-46_31c77fbe23756b7b69941d1cabf8a297effc91d7808f2cf28db96d740f3719c6.jpg", 
+        "packArtSmall": "/181483/PACKART_PRESET_SMALL_JPG_63x89/71080_SB_63_^_2012-12-12-08-29-57_94e836fdc25a8482898305af139834ecb9727400cc85b0e2fc6519a553b1243d.jpg", 
+        "shortDescription": "Off the runway, into your wardrobe."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 DIESEL STUFF (SP7)", 
+                    "masterTitleId": 181483
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001285", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "71080", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2012-07-10T04:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-07-10T04:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_diesel_stuff_sp7/the_sims_3macdlc__ww_diesel_stuff_sp7run_1__origin__idjit_data_store3cd94ac1e99643e682603bf4fe9eef42.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3sp07]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3sp07]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 Diesel Stuff Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3sp07", 
+                        "multiPlayerId": "71080", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "a0254a8c-e9a2-46b3-98c1-66b05368bf2c", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(sp07:_diesel_stuff)/the_sims_3pcdlc__ww_sp07_diesel_stuffproduction_1__sp07__origin_access8f19f22218ae48af8bb4f779ed311221.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-22T17:52:17Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Diesel Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p14.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\SP07", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\302918]"
+                    }, 
+                    "softwareId": "b95e86cb-83d9-4f34-85d2-4111861563cc", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:52:17Z"
+}

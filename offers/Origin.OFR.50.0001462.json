@@ -1,0 +1,176 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UZ"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001465", 
+            "Origin.OFR.50.0001466"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1039097"
+    }, 
+    "financeId": "1039097", 
+    "itemId": "Origin.ITM.50.0001265", 
+    "localizableAttributes": {
+        "displayName": "Titanfall\u00ae 2 Deluxe Edition", 
+        "longDescription": "Call down your Titan and get ready for an exhilarating first-person combat experience in Titanfall\u00ae 2! The sequel introduces a new single-player campaign, where you can delve into the unique bond between Pilot and Titan. Or blast your way through an even more innovative and intense multiplayer experience - featuring 6 new Titans, deadly new Pilot abilities, expanded customization, new maps, modes, and much more. <br><br>\nPurchase the Titanfall\u00ae 2 Deluxe Edition and get instant access to exclusive Deluxe themed Warpaints and Nose Arts from day one for all six Titans. Don't want to draw too much attention to your Pilot, Titan or weapons? Two Camouflages are also included.  And don't forget the exclusive Callsign! <br><br>\n<b> KEY FEATURES </b> <br><br>\n<b> Experience a captivating single player story. </b>\nTitanfall\u00ae 2 features a single-player campaign packed with action and inventive twists. Play as a Militia rifleman stranded behind enemy lines, who encounters a veteran Vanguard-class Titan. The two must work together to uphold a mission they were never meant to carry out. <br><br>\n<b> Enjoy multiplayer action that's second to none. </b>\nThe sequel gives players more of the adrenaline-fueled multiplayer combat they've come to expect from the franchise. Take the fast-paced, first-person action to the next level with more Titans, more abilities and deadlier technology.  And be sure to stand out in the middle of all the chaos with new, expanded Pilot, Titan and loadout personalization options! <br><br>\n<b> Join Your Friends on The Frontier </b>\nTitanfall\u00ae 2 introduces Networks, the social tissue for Titanfall\u00ae 2 that makes experiencing all the heart-pounding action with old friends, and new, fast and easy. Whether you prefer Social or Competitive play, you'll be able to create or join the perfect Network to suit you and your crew. <br><br>", 
+        "packArtLarge": "/192492/231.0x326.0/1039096_LB_231x326_en_US_^_2016-05-06-05-17-52_63c62ad76b294c6dc44ea97fc0561b22fdc7c1c1.jpg", 
+        "packArtMedium": "/192492/142.0x200.0/1039096_MB_142x200_en_US_^_2016-05-06-05-17-52_7292a27584c575369663cad834c1a2421da36f62.jpg", 
+        "packArtSmall": "/192492/63.0x89.0/1039096_SB_63x89_en_US_^_2016-05-06-05-17-52_14198f5e5a06a782d4954047c0170f1d44d1b7b1.jpg", 
+        "shortDescription": "Customize or camouflage your Titan, Pilot and gear with the Titanfall\u00ae 2 Deluxe Edition!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Titanfall", 
+                    "franchiseId": 193634
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "TITANFALL 2", 
+                    "masterTitleId": 192492
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001462", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1039093", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-10-24T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-10-28T04:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "193634_192492_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<exclude order=\"0\">%Documents%/Respawn/Titanfall2/local/</exclude>\n<include order=\"1\">%Documents%/Repsawn/Titanfall2/profile/</include>\n</saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Respawn\\Titanfall2\\Install Dir]\\Titanfall2.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Respawn\\Titanfall2\\Install Dir]\\Titanfall2.exe", 
+                        "installationDirectory": "Titanfall2", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1039093", 
+                        "netPromoterScoreBlacklist": true, 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000532", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-13T23:54:00Z"
+}

@@ -1,0 +1,255 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VU"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036383"
+    }, 
+    "financeId": "1036383", 
+    "itemId": "Origin.ITM.50.0001073", 
+    "localizableAttributes": {
+        "displayName": "STAR WARS\u2122 Battlefront\u2122 Outer Rim", 
+        "longDescription": "Blast enemies in the smelting factory or along the industrial pipes and platforms of Sullust or fight through Jabba\u2019s throne room and sail barge garage on Tatooine. New playable hero characters will have you shooting first with Greedo or targeting foes with precision as Nien Nunb. Arm yourself with the new Relby-v10 rifle and DT-12 blaster pistol and collect and equip the Scatter Gun, Dioxis Grenade, and Adrenaline Stim Star Cards. The Outer Rim awaits.<br><br>\n\n<b>KEY FEATURES:</b><br><br>\n\n<b>Enjoy 2 new playable heroes.</b> Head into battle as the iconic bounty hunter, Greedo. His arsenal, speed and precision make him a truly formidable foe. Nien Nunb leaves the cockpit of the Millennium Falcon behind to prove he's more than just a co-pilot. Combine his engineering skills and deadly aim to turn the tide of battle.<br><br>\n\n<b>Get ready to gear up.</b> Take aim on your target with a Relby V-10 blaster rifle or deliver some serious damage with the DT-12 blaster pistol. New Star Cards will help you take on the dangers of the Outer Rim. Use the Scatter Gun for wide-dispersal devastation. Need to clear an area fast? The Dioxis Grenade will get the job done. And don't forget Adrenaline Stims to regenerate health wherever the battle takes you.<br><br>\n\n<b>Make it to the extraction point.</b> Master a new game mode: Extraction. Join rebel forces in a desperate attempt to procure the valuable resources they need. Grab the shipment and get it to the transport ship before time runs out. Or join the Empire's forces and do everything you can to stop them.<br><br>", 
+        "packArtLarge": "/192140/231.0x326.0/1036383_LB_231x326_en_US_^_2016-03-11-11-24-21_5425547543aa31a2dbfff713622908779b4be419.jpg", 
+        "packArtMedium": "/192140/142.0x200.0/1036383_MB_142x200_en_US_^_2016-03-11-11-24-27_a097380bd435b415ae4ec7bc062ccb5cab760e08.jpg", 
+        "packArtSmall": "/192140/63.0x89.0/1036383_SB_63x89_en_US_^_2016-03-11-11-24-33_6719868eff2488114f17687e3344f5caf0f27196.jpg", 
+        "shortDescription": "Expand your STAR WARS\u2122 galaxy"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Star Wars", 
+                    "franchiseId": 75158
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFRONT", 
+                    "masterTitleId": 192140
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001167", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036383", 
+            "gameDistributionSubType": "Normal Game", 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-03-22T13:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-03-23T15:00:37Z"
+}

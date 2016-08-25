@@ -1,0 +1,124 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1032213"
+    }, 
+    "financeId": "1032213", 
+    "itemId": "Origin.ITM.50.0001045", 
+    "localizableAttributes": {
+        "displayName": "FIFA 16 Extra Content Bundle #3 - (KnockOut+15 FUT)  Display Name Placeholder Text.", 
+        "longDescription": "FIFA 16 Extra Content Bundle #3 - (KnockOut+15 FUT)   Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "shortDescription": "FIFA 16 Extra Content Bundle #3 - (KnockOut+15 FUT)  Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 16", 
+                    "masterTitleId": 182631
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001129", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-09-15T16:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-09-15T16:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-09-14T16:03:21Z"
+}

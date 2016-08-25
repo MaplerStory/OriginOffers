@@ -1,0 +1,122 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1035972"
+    }, 
+    "financeId": "1035972", 
+    "itemId": "Origin.ITM.50.0001369", 
+    "localizableAttributes": {
+        "displayName": "Battlefield\u2122 1 Premium Pass", 
+        "longDescription": "Expand the theater of all-out war with the Battlefield\u2122 1 Premium Pass. Get two-week early access to new multiplayer maps, armies and more in four themed digital expansion packs. Join the fight with the French army in the first expansion, Battlefield\u2122 1 They Shall Not Pass, in March 2017.<br><br>\n\n<b>Key Features:</b><br><br>\n\n<b>New frontline battles.</b> Scout ahead with a two-week head start on four themed expansion packs. And France joins the fight in all new multiplayer maps. An upcoming expansion will bring the Russian Empire into the battle.<br><br>\n\n<b>All the Premium extras.</b> Get ready for new Operations and game modes, new Elite classes, weapons, vehicles and more. The Battlefield\u2122 1 Premium Pass includes 16 new multiplayer maps, 20 new weapons, 14 unique dog tags and 14 Battlefield\u2122 1 Battlepacks containing stand-out weapon skins. Each Battlepack is delivered monthly, starting November 2016.<br><br>\n\n* Check www.battlefield.com/games/battlefield-1/premium often for details and release dates for each expansion pack.<br><br>", 
+        "packArtLarge": "/192140/231.0x326.0/1036380_LB_231x326_en_US_^_2016-08-11-11-42-55_b55fa3edabeb1217695dde0a9978615f4a6a9c58.jpg", 
+        "packArtMedium": "/192140/142.0x200.0/1036380_MB_142x200_en_US_^_2016-08-11-11-43-03_5ce579ea24be91eed6c848e82ea8a6e55224463e.jpg", 
+        "packArtSmall": "/192140/63.0x89.0/1036380_SB_63x89_en_US_^_2016-08-11-11-43-22_4d16eae4e8c9c09ac9b9a16c52a2003aec45991b.jpg", 
+        "shortDescription": "All-out war just got a lot bigger with the Battlefield\u2122 1 Premium Pass!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Battlefield", 
+                    "franchiseId": 51302
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFIELD 1", 
+                    "masterTitleId": 190132
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001581", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "NA", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2025-08-07T11:51:19Z", 
+                    "platform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-08-24T08:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-24T04:35:52Z"
+}

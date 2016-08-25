@@ -1,0 +1,211 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Expansion Packs", 
+        "extraContentDisplayGroupSortAsc": 310, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 200
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1004827"
+    }, 
+    "financeId": "1004827", 
+    "itemId": "ITM-EAST:46917", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Island Paradise", 
+        "extraContentDisplayGroupDisplayName": "EXPANSION PACKS", 
+        "longDescription": "Sometimes your Sims just need a change of scenery. A trip to the ocean could be just what the doctor ordered! Get around in a number of customizable boats, or dive right into the deep blue for a refreshing break.<br><br>\n\nFor a longer stay, your Sims can customize a house right on the beach. Restless Sims will appreciate the freedom of a roving houseboat that lets them explore from the comfort of home.<br><br>\n\nWith the visiting tourists, there\u2019s a business opportunity here for an enterprising Sim. Crafting the perfect resort can be quite lucrative, whether focusing on families or singles, making the trip pay for itself. Fun in the sun or money in mind, your Sims can choose how to make use of their Island Paradise.<br><br>\n\n<b>KEY FEATURES:</b><br><br>\n\n&bull; <b>Exotic Species:</b> The town of Isla Paradiso is home to the mythical half-human, half-fish Merfolk, which a Sim can become with the proper diet. You may even get a visit by the terrifying Kraken, scourge of the seven seas!<br><br>\n\n&bull; <b>Hidden Islands:</b> Bored with the available islands? The lucky and persistent Sim may discover map pieces underwater which lead to new land masses to explore.<br><br>\n\n&bull; <b>Lifeguard Career:</b> If your Sim has a hero complex, then the new Lifeguard career will fit perfectly. Rescue drowning Sims and bask in glory!", 
+        "packArtLarge": "/191440/231.0x326.0/1004827_LB_231x326_en_US_^_2013-05-14-17-50-33_524b9b5cc3a45a96379b18b5e2da421bedef1250271d1751ae4c4376f6eee38e.jpg", 
+        "packArtMedium": "/191440/142.0x200.0/1004827_MB_142x200_en_US_^_2013-05-14-17-50-44_be3db2bde0b686a6d5a97b3357efc685da3cb875211495b559b69cd26663dc84.jpg", 
+        "packArtSmall": "/191440/63.0x89.0/1004827_SB_63x89_en_US_^_2013-05-14-17-50-56_b4b66329d7c6cabe8651936891403d2acbe5f94d2f50baa026767c266a5bf48f.jpg", 
+        "shortDescription": "Play with your own island paradise."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 ISLAND PARADISE (EP10)", 
+                    "masterTitleId": 191440
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001291", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1004827", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2013-06-25T04:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2013-06-25T04:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-06-27T22:00:47Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-06-27T22:00:47Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_island_paradise_ep10/the_sims_3macdlc__ww_island_paradise_ep10run_1__origin__idjit_data_store53fb501f07894a34ae4adac46545ba92.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3ep10]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3ep10]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 Island Paradise Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3ep10", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000041", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(ep10:_island_paradise)/the_sims_3pcdlc__ww_ep10_island_paradiseproduction_1__ep10__origin_access2ddfa7f1e8d248b98affc79099ae358b.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-17T21:41:56Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Island Paradise\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p19.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EP10", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\305630]"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000040", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:48:46Z"
+}

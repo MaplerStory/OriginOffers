@@ -1,0 +1,282 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VU"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1021786"
+    }, 
+    "financeId": "1021786", 
+    "itemId": "Origin.ITM.50.0000447", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Roaring Heights Gold Edition", 
+        "longDescription": "Welcome to Roaring Heights, the sparkling city nestled by the beach. Experience an exuberant life amidst a city full of iconic Art Deco skyscrapers. Explore the bustling beachside scene in your fixed-up pristine classic car. Between the breathtaking architecture, lavish parties you\u2019ll throw, and breeze of the beach, the vibe of Roaring Heights is positively golden.<br><br>\n\n<b>The Gold Edition includes: The Boardwalk Attire set.</b> Enjoy a leisurely night out in a dapper outfit. Your Sims will love the classic style of these outfits that\u2019ll look great anywhere they go.<br><br>\n\n<b>Features</b>:<br><br>\n\n\u2022 <b>All-New Gameplay Object - Fixer Upper Car.</b> A little elbow grease goes a long way! Spend some time fixing up this baby, then take it for a spin and be the coolest cat on the street!<br><br>\n\u2022 <b>A Whole New World Awaits.</b> Meet new Sims, explore new locations, and experience the exuberant world of Roaring Heights.<br><br>\n\u2022 <b>Exclusive New Items.</b> Customize your game with dozens of all-new exclusive objects and clothing available only in Roaring Heights.<br><br>\n\u2022 <b>Classic The Sims\u2122 2 Capp Family.</b> The Capp family is on vacation in Roaring Heights and absolutely smitten with this beachside city! Come find out why they\u2019ve decided to move here!<br><br>", 
+        "packArtLarge": "/192928/231.0x326.0/1021786_LB_231x326_en_US_^_2014-01-23-13-00-26_dc64f8579195dcdce01f62625d2e7df438d69eee.jpg", 
+        "packArtMedium": "/192928/142.0x200.0/1021786_MB_142x200_en_US_^_2014-01-23-13-00-40_2c09dc6c8acb0a7270145e8c8ba7a04666bd0405.jpg", 
+        "packArtSmall": "/192928/63.0x89.0/1021786_SB_63x89_en_US_^_2014-01-23-13-00-53_a7ac1bd99457f6963876ea837e9abe9f31f4e486.jpg", 
+        "shortDescription": "Discover a world full of glittering sky scrapers, beautiful vintage fashion, and happy times in Roaring Heights."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "THE SIMS 3 ROARING HEIGHTS", 
+                    "masterTitleId": 192928
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001267", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2014-02-06T18:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2014-02-06T18:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-05-31T22:29:26Z"
+}

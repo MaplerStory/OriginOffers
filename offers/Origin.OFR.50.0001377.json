@@ -1,0 +1,165 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "OFB-MASS:19356", 
+            "OFB-MASS:19358", 
+            "OFB-MASS:19351", 
+            "OFB-MASS:19350", 
+            "OFB-MASS:19352", 
+            "OFB-MASS:19355", 
+            "OFB-MASS:19354", 
+            "OFB-MASS:34177", 
+            "OFB-DRGN:18252", 
+            "OFB-MASS:19182", 
+            "OFB-MASS:19181", 
+            "OFB-MASS:19914", 
+            "OFB-MASS:21054", 
+            "OFB-MASS:22814", 
+            "OFB-MASS:20834", 
+            "OFB-MASS:20831", 
+            "OFB-MASS:19140", 
+            "OFB-MASS:20838", 
+            "OFB-MASS:19087", 
+            "OFB-MASS:19122", 
+            "OFB-MASS:20919", 
+            "OFB-MASS:19124", 
+            "OFB-MASS:20917", 
+            "OFB-MASS:57403", 
+            "OFB-MASS:34402", 
+            "OFB-MASS:57404", 
+            "OFB-MASS:57405", 
+            "OFB-MASS:21387"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1039631"
+    }, 
+    "financeId": "1039631", 
+    "itemId": "Origin.ITM.50.0001200", 
+    "localizableAttributes": {
+        "displayName": "Mass Effect\u2122 2 Digital Deluxe Edition", 
+        "gameManualURL": "http://akamai.cdn.ea.com/eadownloads/u/f/manuals/GAME-MASSEFFECT2/Manuals.zip", 
+        "longDescription": "BioWare\u2019s critically acclaimed sci-fi adventure returns to make your PC the coolest thing on the block. The Mass Effect 2 Digital Deluxe Edition takes players on a new journey with Commander Shepard. The galaxy has seen better days. A deadly group has decided to invest in abducting human colonies and it\u2019s up to you and a crew of elite fighters to save the day. Surviving the mission is one thing, but getting your peers to respect you is a whole new and very difficult adventure. Everything you say affects the story and the way other characters will act towards you &#8212; good luck getting recruits for that major suicide mission that\u2019s waiting for you.<br><br>Get the most out of your Mass Effect experience by downloading the Deluxe Edition to your PC. The download includes in-game weapons, armor, and the Cerberus network code has access to exclusive bonus content for even more thrilling sci-fi action. And just for the collectors out there, this edition comes with a digital download of the soundtrack, an art book, the first issue of the Mass Effect comic book, and exclusive making-of videos that take you behind the scenes of the game.<br><br>With an improved combat system, better graphics, and more weapons, Mass Effect 2 is the perfect follow-up to its predecessor. Create your hero, gather your crew, and take off into an adventure that is truly out of this world.<br><br><b>The Digital Deluxe Edition includes:</b><br>&bull; Bonus in-game weapon and armor <br>&bull; Bonus in-game Incisor sniper rifle <br>&bull; Mass Effect 2 Soundtrack (digital download) <br>&bull; The Making Of Mass Effect 2 videos <br>&bull; Digital version of Issue #1 of the Mass Effect comic book by Dark Horse comics <br>&bull; Digital 48-page art book <br>&bull; Cerberus Network code granting access to bonus content<br><br>", 
+        "packArtLarge": "/69774/231.0x326.0/70667_LB_231x326_en_US_^_2013-08-05-11-53-45_06d1e6169f4917472cac0c0c4b011c7bf7eb3672.jpg", 
+        "packArtMedium": "/69774/142.0x200.0/70667_MB_142x200_en_US_^_2013-08-05-11-54-06_f4343a8d08c025e91d8948fa0fd594fb108280b0.jpg", 
+        "packArtSmall": "/69774/63.0x89.0/70667_SB_63x89_en_US_^_2013-08-05-11-54-19_eed3374d409659d959d1ba11b58505b05cf6a3b8.jpg", 
+        "shortDescription": "Bonus weapons, armor and more."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mass Effect", 
+                    "franchiseId": 68481
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MASS EFFECT 2", 
+                    "masterTitleId": 69774
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001377", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1005288", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game", 
+            "useLegacyCatalog": false
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2010-01-26T22:10:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2010-01-26T22:10:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.2.1604.0\"/><featureFlags autoUpdateEnabled=\"1\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"0\"/><requirements osMinVersion=\"5.1\" osReqs64Bit=\"1\"/></buildMetaData>", 
+                                "buildReleaseVersion": "4", 
+                                "downloadURL": "/shift/mass_effect/mass_effect_2/fg__ww_rtp_remaster/mass_effect_2_pc_fg__ww_rtp_remaster_run_2_b9873ab229934e329bfae72e3dc70805.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-16T23:54:04Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Documents%/BioWare/Mass Effect 2/Save/</include> </saveFileCriteria>", 
+                        "commerceProfile": "me2", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect 2\\Install Dir]Binaries\\MassEffect2.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect 2\\Path]Binaries\\MassEffect2.exe", 
+                        "installationDirectory": "Mass Effect 2", 
+                        "oigClientBehavior": "Default", 
+                        "stagingKeyPath": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Electronic Arts\\EA Games\\Mass Effect 2]"
+                    }, 
+                    "softwareId": "85f44d7e-2df6-4263-9b3c-5feb5602718e", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-04-28T23:08:19Z"
+}

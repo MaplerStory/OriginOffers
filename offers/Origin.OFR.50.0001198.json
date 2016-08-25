@@ -1,0 +1,102 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036732"
+    }, 
+    "financeId": "1036732", 
+    "itemId": "Origin.ITM.50.0001093", 
+    "localizableAttributes": {
+        "displayName": "STAR WARS\u2122: The Old Republic\u2122 - Knights of the Fallen Empire Origin Outlander Pack", 
+        "longDescription": "Get the Origin Outlander Pack and become the Outlander in Knights of the Fallen Empire, the new expansion to  <i>Star Wars</i>:\u2122 The Old Republic\u2122. Enjoy 60 days of Prepaid Subscription Game Time and get 1,050 Cartel Coins. Play through exciting story-driven action starting at Level 1 or jump directly into the Knights of the Fallen Empire storyline, a new point of entry, at Level 60 \u2013 with a Free Level 60 Character! The Origin Outlander Pack also includes access to Shadow of Revan, and Rise of the Hutt Cartel story expansions, plus unlimited play in the Galactic Starfighter expansion. Best of all, Knights of the Fallen Empire is Free to Subscribers.<br><br>\n\n<b>Offer limited to one SWTOR account per code. Codes are non-transferable.</b><br><br>\n\n<b>Key Features:</b><br><br>\n\n<b>60 Days of Unlimited Access.</b> Subscribers can enjoy all game mission areas and story-driven gameplay including the new Knights of the Fallen Empire, Shadow of Revan, Galactic Starfighter and Rise of the Hutt Cartel Digital Expansions along with exciting multiplayer PvP Warzones, PvE Flashpoints and Operations.<br><br>\n\n<b>1,050 Cartel Coins.</b> Use your coins at the in-game Cartel Market to purchase New Player Packs with Experience Boosts. Buy gear and weapons, cool mounts, speeders and pets. <br><br>\n\n<b>Exclusive Pet.</b> The Juvenile Savannah War Rancor mini-pet knows how to intimidate with its tooth-filled maw. Explore the galaxy as he runs by your side.<br><br>", 
+        "packArtLarge": "/54035/231.0x326.0/71074_LB_231x326_en_US_^_2015-10-13-14-24-25_2476d7700376888374a2c9fe40fb1158223346cb.jpg", 
+        "packArtMedium": "/54035/142.0x200.0/71074_MB_142x200_en_US_^_2015-10-13-14-21-30_edfdcbb0611a76273210667eaccb7ed872af8ef0.jpg", 
+        "packArtSmall": "/54035/63.0x89.0/71074_SB_63x89_en_US_^_2015-10-13-14-19-32_289f5bc8445a2cc240b7193c5730e9336c868158.jpg", 
+        "shortDescription": "A Return to BioWare-style Story-telling"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Star Wars", 
+                    "franchiseId": 75158
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "STAR WARS: THE OLD REPUBLIC", 
+                    "masterTitleId": 54035
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001198", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-10-17T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-10-17T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "ExternalURL", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "https://account.swtor.com/play-free?utm_source=free.origin.com&utm_medium=referral&utm_campaign=o4f-portal&sourceid=o4f-portal"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000006", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "fr_FR"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-05-03T03:18:18Z"
+}

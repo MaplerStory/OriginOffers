@@ -1,0 +1,82 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "1200", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "suppressVaultUpgrade": false
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0000987", 
+            "Origin.OFR.50.0000247", 
+            "Origin.OFR.50.0000467", 
+            "Origin.OFR.50.0000466", 
+            "Origin.OFR.50.0000468"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71820"
+    }, 
+    "financeId": "71820", 
+    "itemId": "Origin.ITM.50.0000660", 
+    "localizableAttributes": {
+        "displayName": "Test 28 - Base game offer type - Preorder/Preload messaging test **TESTING for OPOI-57625**", 
+        "longDescription": "1) GEO:<br>\n- Configure pricing/purchasability in all locales<br>\n- Set billing/download date to 11/4 @ 12PM PDT<br>\n- Set release date to future<br>\n- Label to PROD, activate PDP to Approve ONLY<br>\nhttps://approve.www.cms.origin.com/en-us/store/buy/180977/pc-download/base-game/hunter-pack<br><br>\n\n2) QA: Pre-order before 11/4 @ 12PM PDT<br><br>\n\n3) GEO: Deactivate PDP to Review, create new revision that is not purchasable and label to PROD after QA has placed order<br><br>\n\n4) QA: Watch for Preload/Preorder email notification<br><br>", 
+        "shortDescription": "Steps"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Other", 
+                    "franchiseId": 50823
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ORIGIN TOOLS - NON REV", 
+                    "masterTitleId": 180977
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001121", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "this_is_not_a_real_content_id_28", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-11-09T22:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-11-13T20:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-11-09T23:05:50Z"
+}

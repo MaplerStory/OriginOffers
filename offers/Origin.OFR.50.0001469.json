@@ -1,0 +1,151 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 230
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1040457"
+    }, 
+    "financeId": "1040457", 
+    "itemId": "Origin.ITM.50.0001272", 
+    "localizableAttributes": {
+        "displayName": "THE WITCHER\u00ae 3: Blood and Wine Extras", 
+        "longDescription": "<b>About the game:</b>\n<br><br>\nBecome professional monster slayer Geralt of Rivia and explore Toussaint, a remote land untouched by war, where you will unravel the horrifying secret behind a beast terrorizing the kingdom. With all trails leading to dead ends, only a witcher can solve the mystery and survive the evil lurking in the night. Introducing an entirely new realm to traverse, new characters and monsters, Blood and Wine is a 20+ hour adventure full of dark deeds, unexpected twists, romance and deceit.\n<br><br>\n<b>Features:</b>\n<br><br>\n<b>Explore an entirely new part of The Witcher\u2019s vast open world \u2013 the land of wine, Toussaint</b>\n<br><br>\n\u2022 Embark on over 20 hours of new adventures and discover a land unlike anything you\u2019ve seen in Wild Hunt or Hearts of Stone.\n<br>\n\u2022 Visit new points of interest and set out on new side-quests in a realm rivalling No Man\u2019s Land or Novigrad in size.\n<br>\n\u2022 Kick back and relax in your very own vineyard, a real home away from home.\n<br><br>\n<b>Hunt down an elusive beast terrorizing the kingdom</b>\n<br><br>\n\u2022 Unravel the mystery of the strange killings \u2013 investigate a series of brutal murders and decipher the pattern to predict who\u2019s going to die next.\n<br>\n\u2022 Discover the dirty secrets of Toussaint\u2019s capital, Beauclair \u2013 explore the city by day, ask questions by night.\n<br>\n\u2022 Use new gear, items, and combine them with your skill to slay monsters never before seen in the series.\n<br><br>\n<b>Embark on your final quest in a world still brimming with things to do</b>\n<br><br>\n\u2022 Visit a world of fairytales gone wrong and battle surreal creatures you know from children\u2019s tales and books.\n<br>\n\u2022 Dye witcher armors in different colors thanks to an all-new game mechanic.\n<br>\n\u2022 Take on knights in a grand tourney to show your true fighting skill, or set out to discover the gruesome mystery behind a spoon-collecting creature known as a wight.\n<br>\n\u2022 Team up with powerful allies to take down the beast terrorizing the kingdom, or turn a blind eye to what\u2019s going on and play Gwent with an all-new Skellige deck.\n<br><br>", 
+        "packArtLarge": "/194188/231.0x326.0/1033417_LB_231x326_en_US_^_2016-04-19-09-03-17_d0c8137d07806fac083259ce78993f71730a7523.jpg", 
+        "packArtMedium": "/194188/142.0x200.0/1033417_MB_142x200_en_US_^_2016-04-19-09-03-33_267ba6ad60dd0ea147ab14568f2c7285ec0327b2.jpg", 
+        "packArtSmall": "/194188/63.0x89.0/1033417_SB_63x89_en_US_^_2016-04-19-09-04-40_6ef4ed7c104518dd8f0cc4bbdbad427252556667.jpg", 
+        "shortDescription": "\"Death comes to the land of wine\u201d New region. Final quest."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "THE WITCHER 3: WILD HUNT", 
+                    "masterTitleId": 194188
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001469", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1040457", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-05-30T23:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-05-30T23:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.1\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.1", 
+                                "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/dlc__ww_x0_ep2_blood_and_wine_extras/the_witcher_3_wild_huntpcdlc__ww_x0_ep2_blood_and_wine_extrasrun_2__20160614_1001daedb2085ec9498dbe2d1bdc9e174dac.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-14T18:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]Extras\\Blood and Wine Extras", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]Extras\\Blood and Wine Extras\\__Installer\\Installerdata.xml", 
+                        "installationDirectory": "\\Extras\\Blood and Wine Extras", 
+                        "monitorPlay": false, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000555", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-05-27T16:49:03Z"
+}

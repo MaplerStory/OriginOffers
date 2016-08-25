@@ -1,0 +1,212 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Expansion Packs", 
+        "extraContentDisplayGroupSortAsc": 310, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 190
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1004903"
+    }, 
+    "financeId": "1004903", 
+    "itemId": "ITM-EAST:49017", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Into the Future", 
+        "extraContentDisplayGroupDisplayName": "EXPANSION PACKS", 
+        "longDescription": "Now your Sims have a brand-new playground. Jump through the time portal, gang, we're off to the future!\n<br><br>\nThis world, hundreds of years from now, is a huge realm ripe with fresh  experiences to live and hot technology to discover. Want your Sims to zoom around on hoverboards or jet packs ... or ride through the city in tube elevators and sleek monorails? No problem. That future is now. \n<br><br>\nBut this timeline isn't set. You have the freedom to jump from future to present. Witness for yourself how your Sims' actions now can affect the world centuries away. One small tweak and your Sims could bring a meteoric Armageddon raining down. Where's your utopia now?\n<br><br>\n<b>KEY FEATURES</b><br> <br> \n- It's the future: All the amenities of the distant future are at your Sims' disposal. Hoverboards. Jet packs. Flying cars. New fashions and living arrangements. Enhance your Sims' skills with all sorts of future tech!<br><br> \n- Live in two time periods: Your Sims can go from present to future and back again. Each visit to the present can change the course of the future, so tread as lightly or as heavily as you want. <br><br> \n- Build a Plumbot:  Using the Create-a-Bot feature, you can now populate your Sims' world with robotic pals of varying looks and personalities. Just be prepared for the consequences if you set one to \"evil\"!", 
+        "packArtLarge": "/192417/231.0x326.0/1004903_LB_231x326_en_US_^_2013-09-23-16-41-30_b9b7503a58319a2a2d674b0a5ecf232ec26cdbce.jpg", 
+        "packArtMedium": "/192417/142.0x200.0/1004903_MB_142x200_en_US_^_2013-09-23-16-41-53_381184096e5731b2898ac57bf01f03f06b440035.jpg", 
+        "packArtSmall": "/192417/63.0x89.0/1004903_SB_63x89_en_US_^_2013-09-23-16-42-19_cc77bd45bb2314b59605625c9682192bda79b0c8.jpg", 
+        "shortDescription": "Centuries in seconds."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 INTO THE FUTURE (EP11)", 
+                    "masterTitleId": 192417
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001292", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1004903", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion", 
+            "twitchClientBlacklist": true
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2013-10-22T04:00:14Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2013-10-22T04:00:14Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-10-22T04:00:14Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-10-22T04:00:14Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_into_the_future_ep11/the_sims_3macdlc__ww_into_the_future_ep11run_1__origin__idjit_data_storec113930073ab4d4a9360e09475dd5f4a.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3ep11]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3ep11]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 Into the Future Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3ep11", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000064", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(ep11:_into_the_future)/the_sims_3pcdlc__ww_ep11_into_the_futureproduction_1__ep11__origin_accessef75fc0eb4934628a6913f9e3a2c6d78.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-17T22:38:59Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Into The Future\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p21.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EP11", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\306209]"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000063", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:49:11Z"
+}

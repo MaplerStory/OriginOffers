@@ -1,0 +1,702 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "EH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "ES"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "ET"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "LR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "LS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "ML"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "RW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "WF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "WS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "YT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "ZA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "ZM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "ZW"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1037322"
+    }, 
+    "financeId": "1037322", 
+    "itemId": "Origin.ITM.50.0001112", 
+    "localizableAttributes": {
+        "displayName": "Torchlight II\u2122", 
+        "longDescription": "Torchlight II captures all the flavor and excitement of the original game - while expanding the world and adding the features players wanted most, including online and LAN co-op multiplayer. Torchlight II is fast, fun, and filled to the brim with action and loot. Adventure solo or online with your friends!\n<br><br>\nYears ago, the Heroes of Torchlight saved the world from the ancient evil, Ordrak. Now someone has stolen the essence of his power, and is using it to upset the balance of the six elements. After witnessing the destruction wrought by this terrible artifact, you'll begin a quest to uncover the villain's identity and avert disaster. The trail leads from the beleaguered Estherian Steppes, through the war-torn Mana Wastes and the haunted ruins of an ancient dwarven city, before descending to a realm where no mortal has set foot for thousands of years\u2014and where an even more terrible evil struggles to unleash itself into the world.\n<br><br>\n<b>Game Features:</b>\n<br><br>\n<b>Multiplayer.</b> Play co-op with your friends via LAN or over the Internet for free. No subscriptions, no item sales. Our new matchmaking service lets you find friends, start new games, and join existing games. And, as always, you can play single-player offline as well.\n<br><br>\n<b>Customizable Characters.</b> Players will create and customize a character from one of four brand new classes. Each class can be played as either male or female, with customized cosmetic features and looks to make each individual character stand out. All new skills and loot give loads of opportunity for unique character builds.\n<br><br>\n<b>Moddability.</b> GUTS, the Torchlight II editor, gives players the ability to create their own mods, adding even more content to the world. Have your friends download the same mod and play together.\n<br><br>\n<b>New User Interface.</b> Torchlight II boasts a new and improved user interface, designed to be easier than ever for new players to pick up and play. This intuitive interface ensures you can focus on playing the game the way you want to.\n<br><br>\n<b>Open World.</b> We're not only in the town of Torchlight anymore! Explore vast overland areas and multiple hub towns, fight through rain, snow, day and night. Our level randomization ensures new layouts, paths, loot, and monsters every time you play.\n<br><br>\n<b>New Game Plus.</b> In New Game Plus, the game's not over until you say it is. Once you've beaten Torchlight II's primary campaign, you can start again with the same character for a significantly greater challenge. You'll keep all of the skills, gold, and gear you worked so hard for!\n<br><br>\n<b>Pets & Fishing.</b> These popular features make their return in Torchlight II in improved form. More choices, better effects, and your pet will still make the run to town to sell your loot so you don\u2019t have to.\n<br><br>", 
+        "packArtLarge": "/195270/231.0x326.0/1037322_LB_231x326_en_US_^_2015-11-11-09-34-16_7b609716bed8459f4af08f31ddcc09cea1af7519.png", 
+        "packArtMedium": "/195270/142.0x200.0/1037322_MB_142x200_en_US_^_2015-11-11-09-34-33_911caac3fe3caf986478904e82847d9ba9d1f360.png", 
+        "packArtSmall": "/195270/63.0x89.0/1037322_SB_63x89_en_US_^_2015-11-11-09-37-04_540cdf1f2bc92701e88c4176ff7c62adad15e245.png", 
+        "shortDescription": "The Fate of the World is in Your Hands"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "TORCHLIGHT II", 
+                    "masterTitleId": 195270
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001241", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1037322", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2012-09-20T00:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2012-09-20T00:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2012-09-20T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-09-20T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.25.8.6\"/>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifestEnabled=\"1\"/>\n    <requirements osMinVersion=\"10.8\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.25.8.6", 
+                                "downloadURL": "/shift/runic_games/torchlight_ii/fg_-_ww_x0/torchlight_iimacfg__ww_x0run_2__20151217_125864482fd9e3c8742579272006fd33c4ee1.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-17T00:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Library%/Application Support/Runic Games/Torchlight 2/save/</include> <include order=\"1\">%Library%/Application Support/Runic Games/Torchlight 2/modsave/</include> <include order=\"2\">%Library%/Application Support/Runic Games/Torchlight 2/settings.txt</include> <include order=\"3\">%Library%/Application Support/Runic Games/Torchlight 2/KeyBindings.dat</include> <include order=\"4\">%Library%/Application Support/Runic Games/Torchlight 2/settings_sdl2.txt</include> <include order=\"5\">%Library%/Application Support/Runic Games/Torchlight 2/keybindings_sdl2.dat</include> <include order=\"6\">*.bin</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.RunicGames.Origin.Torchlight2]/Contents/MacOS/ModLauncher", 
+                        "installCheckOverride": "[com.RunicGames.Origin.Torchlight2]/Contents/MacOS/ModLauncher", 
+                        "installationDirectory": "Torchlight II (Origin)", 
+                        "macBundleID": "com.RunicGames.Origin.Torchlight2", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000513", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.25.8.5\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.25.8.5", 
+                                "downloadURL": "/shift/runic_games/torchlight_ii/fg_-_ww_x0/torchlight_iipcfg__ww_x0run_3__20151210_125855204c0fc0b704b1a8c4142efbad46f06.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-10T00:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Documents%/My Games/Runic Games/Torchlight 2/save/</include> <include order=\"1\">%Documents%/My Games/Runic Games/Torchlight 2/modsave/</include> <include order=\"2\">%Documents%/My Games/Runic Games/Torchlight 2/settings.txt</include> <include order=\"3\">%Documents%/My Games/Runic Games/Torchlight 2/KeyBindings.dat</include> <include order=\"4\">%Documents%/My Games/Runic Games/Torchlight 2/settings_sdl2.txt</include> <include order=\"5\">%Documents%/My Games/Runic Games/Torchlight 2/keybindings_sdl2.dat</include> <include order=\"6\">*.bin</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Runic Games\\Torchlight II\\Install Dir]ModLauncher.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Runic Games\\Torchlight II\\Install Dir]ModLauncher.exe", 
+                        "installationDirectory": "Torchlight II", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000512", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-02-05T16:17:35Z"
+}

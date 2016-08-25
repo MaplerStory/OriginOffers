@@ -1,0 +1,212 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Stuff Packs", 
+        "extraContentDisplayGroupSortAsc": 410, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 20
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1000473"
+    }, 
+    "financeId": "1000473", 
+    "itemId": "ITM-EAST:41889", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 70s, 80s, & 90s Stuff", 
+        "extraContentDisplayGroupDisplayName": "STUFF PACKS", 
+        "longDescription": "Warp your Sims back in time with the hottest looks and coolest d\u00e9cor from yesteryear with <b>The Sims 3 70s, 80s, & 90s Stuff</b> for PC. Now your Sims can sport a \u201970s disco look with a wide-collared suit and bell-bottom pants, go \u201980s glam with shoulder pads and bangle earrings or throw on a rumpled flannel shirt for a wild \u201990s grunge look. You can even redecorate their homes with retro furnishings like The Starlight Party Ball or the neon Foosball Table to complete the flashback look. Bring back and enjoy all the crazy trends\u2014from feathered hair to parachute pants\u2014and let your Sims revel in the goofy and groovy styles of decades past.<br><br><b>Game features</b>:<br>\u2022 <b>Let your Sims be cool cats in the groovy \u201970s</b>: From flared jeans and bell-bottoms to halter-top catsuits and platform shoes, your Sims are ready to boogie the night away in style. Pump the tunes on their stereo system so they can show off their moves and their righteous threads. Add some d\u00e9cor to your Sims\u2019 home with minimalist furnishings, a far out disco ball and more. Can you dig it?<br>\u2022 <b>Get, like, totally rad in the awesome \u201980s</b>: Your Sim can throw on some legwarmers, a leotard and a headband to get physical at the gym, or rocket up the career ladder in a vibrant structured suit with shoulder pads. Whatever their activity, with awesome \u201980s attire they\u2019re dressed for success. From radical pinup pop art to old-school arcade games and a totally slick entertainment system, your Sims will be living in \u201980s style.<br>\u2022 <b>Your Sims can get their grunge on in the gnarly \u201990s</b>: Whether sporting the anti-fashion-grunge look in tattered jeans and layered tops or a casual-chic outfit featuring an asymmetrical skirt, Sims are sure to get mad props for their \u201990s fashion sense. Drag out the distressed furniture for an industrial metal vibe that says your Sims don\u2019t care about the establishment.<br>\u2022 <b>Get new hairstyles and facial hair</b>: Complete your Sims\u2019 retro looks with new hairstyles from their favorite decade, including the feathered look of the \u201970s, the poofed tease of the \u201980s and a lank grunge \u2018do from the \u201990s.<br><br>", 
+        "packArtLarge": "/190974/PACKART_PRESET_LARGE_JPG_231x326/1000473_LB_231_^_2012-12-12-08-03-30_339352c404f8e89a0f3850b853cf8471e46b9ffffcb1a3a553647bd2ad2455d3.jpg", 
+        "packArtMedium": "/190974/PACKART_PRESET_MEDIUM_JPG_142x200/1000473_MB_142_^_2012-12-12-08-03-42_5a336cd1b9334640c81528a39f593205376a98b4433438d942abc02975f05cb0.jpg", 
+        "packArtSmall": "/190974/PACKART_PRESET_SMALL_JPG_63x89/1000473_SB_63_^_2012-12-12-08-03-52_b7694d9aeecc1faaca489636e5badc2f8a89489716c56f7b5d6146df9b7f30ca.jpg", 
+        "shortDescription": "Crazy trends. Back again."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 70S, 80S & 90S STUFF (SP8)", 
+                    "masterTitleId": 190974
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001286", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1000473", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2013-01-22T05:01:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2013-01-22T05:01:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_70s_80s__90s_stuff_sp8/the_sims_3macdlc__ww_70s_80s__90s_stuff_sp8run_1__origin__idjit_data_store401054a0f29a4980988df40363e30d73.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3sp08]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3sp08]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 70s, 80s, & 90s Stuff Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3sp08", 
+                        "multiPlayerId": "1000473", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "90731ac6-ca1c-416f-8254-45e200f7a3d9", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(sp08:_70's_80's_90's_stuff)/the_sims_3pcdlc__ww_sp08_70s_80s_90s_stuffproduction_1__sp08__origin_access5aa35f10fb444bb6ba7573fee1d8bdf4.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-22T17:47:24Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 70s 80s & 90s Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p17.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\SP08", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\302941]"
+                    }, 
+                    "softwareId": "6143b097-8789-458b-8482-fe67d8a87bb8", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:52:53Z"
+}

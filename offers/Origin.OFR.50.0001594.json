@@ -1,0 +1,83 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1003435"
+    }, 
+    "financeId": "1003435", 
+    "itemId": "Origin.ITM.50.0001377", 
+    "localizableAttributes": {
+        "displayName": "4600 FIFA 13 PC Points", 
+        "longDescription": "Build up your club and gain the advantage in FIFA 13 Ultimate Team with FIFA Points*. Use your points to purchase Ultimate Team packs and build your fantasy club from more than 8,000 players. Then pick your style of play, preferred formation, kits and much more. Your choices are endless.<br><br>Stock up on FIFA Points so you don\u2019t miss out on any of the great deals.<br><br>Includes 4600 FIFA points.<br><br>*PC version of FIFA 13 required.<br><br>", 
+        "packArtLarge": "/52555/PACKART_PRESET_LARGE_JPG_231x326/71521_LB_231_^_2012-12-07-15-04-18_e220fd1cd84a0c9eebbad553391cbb65d997eb966b38e2f77a10c2858872950a.jpg", 
+        "packArtMedium": "/52555/PACKART_PRESET_MEDIUM_JPG_142x200/71521_MB_142_^_2012-12-07-15-04-16_fc7445fa6193dd88d30efc5a28d1253537844b73fd6f80a28763d856694a187e.jpg", 
+        "packArtSmall": "/52555/PACKART_PRESET_SMALL_JPG_63x89/71521_SB_63_^_2012-12-07-15-04-15_25902265d5c64f000704d958d19d00a8215a85c59fe8bd4c3a267b2dfdc6eba9.jpg", 
+        "shortDescription": "Build up your club"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 2013", 
+                    "masterTitleId": 52555
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001594", 
+    "offerType": "Fictional Currency", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-09-25T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-07-22T13:56:29Z"
+}

@@ -1,0 +1,67 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1040172"
+    }, 
+    "financeId": "1040172", 
+    "itemId": "Origin.ITM.50.0001229", 
+    "localizableAttributes": {
+        "displayName": "FIFA 16 Ultimate Team Pack: BPL Premium Gold", 
+        "longDescription": "Three BPL players guaranteed! A mix of 12 items, at least 10 Gold with 3 Rares.", 
+        "shortDescription": "Three BPL players guaranteed! A mix of 12 items, at least 10 Gold with 3 Rares."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 16", 
+                    "masterTitleId": 182631
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001418", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-04-28T12:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-04-28T12:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-04-06T21:30:44Z"
+}

@@ -1,0 +1,244 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "SIMS4.OFR.50.0000051", 
+            "SIMS4.OFF.SOLP.0x0000000000016C2A", 
+            "SIMS4.OFF.SOLP.0x000000000001C04E", 
+            "SIMS4.OFF.SOLP.0x000000000000AB5C", 
+            "SIMS4.OFR.50.0000059", 
+            "SIMS4.OFF.SOLP.0x0000000000016390", 
+            "SIMS4.OFF.SOLP.0x0000000000020176", 
+            "SIMS4.OFR.50.0000057", 
+            "SIMS4.OFR.50.0000058", 
+            "SIMS4.OFF.SOLP.0x000000000001266C", 
+            "Origin.OFR.50.0000303", 
+            "SIMS4.OFF.SOLP.0x000000000001A9A7", 
+            "SIMS4.OFF.SOLP.0x000000000001C03A", 
+            "SIMS4.OFF.SOLP.0x0000000000011AC5", 
+            "SIMS4.OFF.SOLP.0x0000000000009AED", 
+            "SIMS4.OFF.SOLP.0x0000000000011A4B", 
+            "SIMS4.OFF.SOLP.0x0000000000022C32", 
+            "SIMS4.OFF.SOLP.0x0000000000008E14", 
+            "OFB-EAST:109552680", 
+            "SIMS4.OFR.50.0000042", 
+            "SIMS4.OFR.50.0000005", 
+            "Origin.OFR.50.0000575", 
+            "SIMS4.OFF.SOLP.0x0000000000018B66", 
+            "SIMS4.OFF.SOLP.0x0000000000016B37", 
+            "SIMS4.OFF.SOLP.0x0000000000019B59", 
+            "SIMS4.OFF.SOLP.0x000000000000B51A", 
+            "SIMS4.OFF.SOLP.0x000000000001D5ED", 
+            "SIMS4.OFF.SOLP.0x000000000001D5F2", 
+            "OFB-EAST:109552679", 
+            "OFB-EAST:109552678", 
+            "SIMS4.OFF.SOLP.0x00000000000170FF", 
+            "OFB-EAST:109552677", 
+            "SIMS4.OFF.SOLP.0x00000000000098C2"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1015806"
+    }, 
+    "financeId": "1015806", 
+    "itemId": "Origin.ITM.50.0000123", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 4 Digital Deluxe", 
+        "longDescription": "The Sims 4 is the highly anticipated life simulation game that lets you play with life like never before! Create and control Sims with big personalities, new emotions, and distinct appearances. Experience new levels of creativity when you sculpt Sims with the powerful Create A Sim and design beautiful homes with tactile, room-based Build Mode. With free content updates for owners of The Sims 4 if and when available, you\u2019ll have the latest content and features to evolve your game experience. Control the mind, body, and heart of your Sims and explore lively, vibrant neighborhoods filled with rich communities of smarter Sims that bring your stories to life.<br><br>\n\n<b>KEY FEATURES</b><br><br>\n\n<b>Now with Pools and Ghosts:</b> Pools and ghosts have arrived and are now included in The Sims 4 with the most recent updates. We\u2019ve designed the game to be a live service so that we can continually evolve The Sims 4 experience with exciting new features and content.<br><br>\n\n<b>Sims with Big Personalities:</b> Create and control a new generation of Sims with big personalities, new emotions, and distinct appearances. Smarter Sims are more relatable, have the ability to multi-task, and come to life with new emotions and lively animations. The Sims provide you endless possibilities to create rich, entertaining, and weird stories.<br><br>\n\n<b>Powerful Creative Tools:</b> All-New Create A Sim and Build Mode have been reinvented to be more powerful, intuitive and fun than ever before. You have the control to sculpt Sims with tactile precision. Effortlessly construct the home of your dreams with the all new, room-based Build Mode. Styled Looks and Rooms inspire you with curated outfits and designs to add to your Sims and homes in The Sims 4.<br><br>\n\n<b>Vibrant Worlds:</b> Explore lively, beautiful worlds filled with rich communities of Sims. Choose among beautiful and diverse lots for your Sims to build their homes and explore activities. Expand your social circle and interact with other Sims in the neighborhood and hang out in community parks and venues.<br><br>\n\n<b>Share Your Creations:</b> The Gallery allows you to see, share, and download new content without ever leaving your game. Get inspired by rich content created by The Sims community and add new experiences to your game.<br><br>", 
+        "packArtLarge": "/55482/231.0x326.0/1015806_LB_231x326_en_US_^_2014-05-29-11-23-54_11fd546a0ef9bf48e70c5f17389a37bb58c182d1.jpg", 
+        "packArtMedium": "/55482/142.0x200.0/1015806_MB_142x200_en_US_^_2014-05-29-11-24-21_4d5774815adacde02dad586f0e7298e5fd7d3d4a.jpg", 
+        "packArtSmall": "/55482/63.0x89.0/1015806_SB_63x89_en_US_^_2014-05-29-11-24-47_bf4fefa3bc42115d2ed2238c3ad2d34dece74bf0.jpg", 
+        "shortDescription": "The Sims 4 lets you play with life like never before \u2013 now with Pools & Ghosts!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 4", 
+                    "masterTitleId": 55482
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001087", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1015806", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "suppressedOfferIds": "OFB-EAST:109552416,OFB-EAST:109552411,OFB-EAST:109552413,OFB-EAST:109552420,OFB-EAST:109552417,OFB-EAST:109552386,Origin.OFR.50.0000587,Origin.OFR.50.0000588,Origin.OFR.50.0000589"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2014-08-29T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2014-09-02T04:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2015-02-17T18:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2015-02-17T18:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.21.39.1220\"/>\n    <requirements osMinVersion=\"10.7.5\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.21.39.1220", 
+                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4macfg__ww_usbeta_686__macbgmlrprodretaildip_12139122099d5c2b4bda840c0a222b3afc3c1ff93.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2036-07-21T06:04:39Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.22.22.1220\"/>\n    <requirements osMinVersion=\"10.7.5\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.22.22.1220", 
+                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4macfg__ww_usbeta_731__macbgmlrprodretaildip_122221220867c6cecb5284b90aae3e0f79176a247.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-08-16T17:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.ea.mac.thesims4]/Contents/MacOS/The Sims 4", 
+                        "installCheckOverride": "[com.ea.mac.thesims4]/Contents/MacOS/The Sims 4", 
+                        "installationDirectory": "The Sims 4", 
+                        "macBundleID": "com.ea.mac.thesims4", 
+                        "metadataInstallLocation": "/__Installer/", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000309", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.21.39.1020\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.21.39.1020", 
+                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4pcfg__ww_usbeta_1093__pcbgmlrprodretaildip_121391020862fc55d0fa7490e8e687ea2f4c3dfa7.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2036-07-21T09:49:06Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.22.22.1020\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.22.22.1020", 
+                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4pcfg__ww_usbeta_1136__pcbgmlrprodretaildip_122221020a322113223584cfd96eb4970a511e70b.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-08-16T17:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Maxis\\The Sims 4\\Install Dir]\\Game\\Bin\\TS4.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Maxis\\The Sims 4\\Install Dir]\\Game\\Bin\\TS4.exe", 
+                        "installationDirectory": "The Sims 4", 
+                        "multiPlayerId": "71269", 
+                        "oigClientBehavior": "Default", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\301494]"
+                    }, 
+                    "softwareId": "e06f5056-b472-4df6-a860-77591de91b8b", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {}
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-09T16:23:23Z"
+}

@@ -1,0 +1,130 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1031469"
+    }, 
+    "financeId": "1031469", 
+    "itemId": "Origin.ITM.50.0000818", 
+    "localizableAttributes": {
+        "displayName": "Unravel\u2122 (Trial)", 
+        "gameLaunchMessage": "Welcome to Unravel! You can play the content included in your trial for a full 10 hours. Enjoy!", 
+        "longDescription": "Unravel introduces Yarny, a character made from a single thread of yarn. Inspired by environments of Northern Scandinavia, Unravel is a physics-based puzzled platformer. Yarny is a representation of the ties that bind loved-ones together. Embark with Yarny on a grand adventure to reconnect the long-lost memories of a family.<br><br>  <b>Game Features:</b><br><br>  <b>Environment.</b> Inspired by the breath-taking, lush environments of Northern Scandinavia, traverse nature\u2019s beauty as well as the dangers that it has in store.<br><br>  <b>Puzzles.</b> Using Yarny\u2019s thread, interact with the environment to swing across a tree gap or hitch a ride on a flying kite, no feat is too big. The tools may be simple but they have ability to accomplish complex puzzles.<br><br>  <b>Underlying Story.</b> Unlock a heartfelt story re-connecting the memories of a long lost family. The tale is told completely without words, and Yarny is the bond that ties everything together.<br><br>", 
+        "packArtLarge": "/194331/231.0x326.0/1031469_LB_231x326_en_US_^_2015-06-08-12-38-28_34137b019ffbf482edfea4910a792707153fea75.jpg", 
+        "packArtMedium": "/194331/142.0x200.0/1031469_MB_142x200_en_US_^_2015-06-08-12-38-57_4dd3c94be20e5c1d3edb79acdf60f3c080671c1f.jpg", 
+        "packArtSmall": "/194331/63.0x89.0/1031469_SB_63x89_en_US_^_2015-06-08-12-39-34_c512462194a59278e358854c6d3668669d69b6c3.jpg", 
+        "shortDescription": "Unravel\u00a0is a physics-based puzzle platformer, featuring Yarny, a character made from a single thread of yarn who must embark\u00a0on a larger than life adventure."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "UNRAVEL", 
+                    "masterTitleId": 194331
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001186", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1031469_oa", 
+            "gameDistributionSubType": "Gameplay Timer Trial - Access", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "trialLaunchDuration": 10
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-02-03T22:30:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-02-03T22:30:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements clientVersion=\"9.10.1.386\" osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/coldwood/unravelled/fg_-_ww_us/unravelledpcfg__ww_usproduction_85__27803shipping85bb61a3865e456c8675248b51b23ef0.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-01-20T09:41:47Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_194331_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n   <exclude order=\"0\">%LocalAppData%/Unravel/settings.pro</exclude>\n   <include order=\"1\">%LocalAppData%/Unravel/</include>\n</saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Coldwood Interactive\\Unravel\\Install Dir]\\Unravel.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Coldwood Interactive\\Unravel\\Install Dir]\\Unravel.exe", 
+                        "installationDirectory": "Unravel", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "oigClientBehavior": "Default", 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000351", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-03-24T20:29:01Z"
+}

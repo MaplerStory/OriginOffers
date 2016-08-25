@@ -1,0 +1,210 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Expansion Packs", 
+        "extraContentDisplayGroupSortAsc": 310, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 240
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71087"
+    }, 
+    "financeId": "71087", 
+    "itemId": "ITM-EAST:37786", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Showtime", 
+        "extraContentDisplayGroupDisplayName": "EXPANSION PACKS", 
+        "longDescription": "Escape the humdrum of ordinary Sim life and pursue a more entertaining existence. Download The Sims 3 Showtime to your PC and make Sim pop history. The fame and fortune of big name celebrity is within your reach. It's time to hop on stage and show the world what you've got.<br><br>Work to make your Sim a new sensation in entertainment. Become a singer, DJ, or famous magician. In addition to building your career, you'll create the perfect venue where your Sim will perform regularly before adoring audiences. And, for the first time, you can take your Sim out of your world and into a friend's game, or you can invite others into your world and let them perform at your personal venue. <br><br>Your Sim is ready for the big time and opportunity is knocking. Can you handle the fame? Or will you crack under the pressure? Find out if your Sim is the next big thing or nothing more than a one-hit wonder. Get The Sims 3 Showtime PC download today.<br><br><b>Features:</b> <br><br>&bull; <b>Rise to Stardom:</b> Venture into a new world and live the dream as a singer, acrobat, magician or DJ. Watch your Sims rise to fame - or go down in flames as they perform for other Sims.<br><br>&bull; <b>Create New Sims:</b> New traits and Lifetime Wishes give you more tools to tell stories the way you want to.<br><br>&bull; <b>A Whole New World:</b> The brand new world of Starlight Shores features new venues and new objects to hone your Sims' talents.<br><br>&bull; <b>Rise to Fame:</b> Build your own custom stages and see your Sims perform in sold-out arenas and in front of packed crowds.<br><br>&bull; <b>Book or Host Gigs:</b> Using the optional SimPort feature, send your Sim to a friend's game to perform in their world, book gigs, go on tour and even be reviewed.<br><br>&bull; <b>Be Connected (Optional):</b> Make new friends, connect and share your stories and experiences without ever leaving the game. Using the new individual in-game news feeds, messaging, and live updates, post your Sims' successes, share gameplay techniques, create wishlists and gifts, search for new friends and share memories.<br><br>&bull; <b>New Achievement System:</b> Earn rewards for achieving goals and accomplishing special challenges that can be tracked and shared via in-game news feeds and messages. New achievements will be introduced on a regular basis.<br><br>&bull; <b>Origin-al Beats 500 Stereo:</b> For those of you on the cutting edge, a whole new experience awaits! The ultra-deluxe, max tech specs of the Origin-al Beats 500 Stereo will help supply the soundtrack of awesome that will accompany your giant leap into...the future. It has 4 Presets and can be customized with Create a Style. It gives you all the same moodlets/functionality as an expensive stereo: Enjoying Music, Fun, Group Activity, Athleticsbut it looks cooler while it's doing it. <br><br>", 
+        "packArtLarge": "/181481/PACKART_PRESET_LARGE_JPG_231x326/71087_LB_231_^_2013-01-18-16-18-03_e8f90780d48ca22d65e0ef76a9111ddb0bf376eb29bb32ae9cc5239e8fa024b1.jpg", 
+        "packArtMedium": "/181481/PACKART_PRESET_MEDIUM_JPG_142x200/71087_MB_142_^_2013-01-18-16-18-17_bde3e09bce6719a7f74d4f627e4a3ebbe27fcbfb04ac3c60a3c734a04d73097f.jpg", 
+        "packArtSmall": "/181481/PACKART_PRESET_SMALL_JPG_63x89/71087_SB_63_^_2013-01-18-16-18-32_f84a914608c04b83addccf030676aadcb5594361f02f0f32d4f3a099ea5193cf.jpg", 
+        "shortDescription": "Rise to stardom."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 SHOWTIME (EP6)", 
+                    "masterTitleId": 181481
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001289", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "71087", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2012-03-06T05:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-03-06T05:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_showtime_ep6/the_sims_3macdlc__ww_showtime_ep6run_1__origin__idjit_data_store23b3cb233a1542a8a531018cf9024501.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3ep06]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3ep06]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 Showtime Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3ep06", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "8ea5d229-33c1-4a61-b3ea-ade3d2ea66d5", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(ep06:_showtime)/the_sims_3pcdlc__ww_ep06_showtimeproduction_1__ep06__origin_accessd0fae35828e142bbae573292723195a8.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-16T22:40:08Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Showtime\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p12.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EP06", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\302084]"
+                    }, 
+                    "softwareId": "daf8fe94-18ae-4ad9-9ce4-2afd936946e5", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:46:32Z"
+}

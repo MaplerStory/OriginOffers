@@ -1,0 +1,193 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "YT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1001298"
+    }, 
+    "financeId": "1001298", 
+    "itemId": "ITM-EAST:41980", 
+    "localizableAttributes": {
+        "displayName": "Command & Conquer Red Alert\u2122 2 and Yuri\u2019s Revenge\u2122", 
+        "longDescription": "The world erupts in conflict as Soviet forces invade American soil in Command & Conquer: Red Alert 2. Time travel has helped to eliminate the German threat, and now the Soviets are expanding into the West unchecked. You are the Supreme Commander. Arm yourself to the teeth with top-secret technologies and lead the Soviet or Allied troops to victory.\n\n<br><br>Plus, defeat an army of mind-controlled Soviet forces in the expansion Command & Conquer: Yuri's Revenge.<br><br>\n\n<b>Game Features:</b><br><br>\n\n<b>Many ways to play.</b> Lead Soviet or Allied forces in a gripping single-player game or a Skirmish game, where there's no particular objective other than destroying everything else on-screen. Who will win the war for world domination?<br><br>\n\n<b>No need to play nice.</b> You'll need to pull out all the stops if you're going to win this war. Thankfully, you've got a well-stocked arsenal of legitimate and illicit technologies from Prism Tanks and Terror Drones, to Psychic Mind Control devices and Soviet Cloning Vats. Use them.<br><br>\n\n<b>Deliver the fury.</b> Dominate land, air, and sea battles with the help of over 80 units and structures. Plus, you'll benefit from a enhanced veterancy system that turns newbie forces into battle-hardened war machines -- and brings you closer to victory.", 
+        "packArtLarge": "/185519/231.0x326.0/1001298_LB_231x326_en_US_%5E_2013-05-29-12-17-13_15420e0f4ec2273fa8bfd110a1fea0ddecc0b8873099d78f752fd30224445562.jpg", 
+        "packArtMedium": "/185519/142.0x200.0/1001298_MB_142x200_en_US_%5E_2013-05-29-12-17-30_8e12bee188e3b9d8de1cae1d8b9dc14ded99366d227753fd88aa3b2d0c9f293d.jpg", 
+        "packArtSmall": "/185519/63.0x89.0/1001298_SB_63x89_en_US_%5E_2013-05-29-12-17-43_26e6ea8a3d29266530f8e1fabf748a85db748cfd5155b075e53618995f326b04.jpg", 
+        "shortDescription": "Deliver the Fury"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Command and Conquer", 
+                    "franchiseId": 50069
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "C&C THE ULTIMATE COLLECTION", 
+                    "masterTitleId": 185519
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001094", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1001298", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2012-09-28T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-10-01T04:01:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.0.0.0\"/><featureFlags/><requirements osMinVersion=\"5.1\" osReqs64Bit=\"1\"/></buildMetaData>", 
+                                "buildReleaseVersion": "1", 
+                                "downloadURL": "/shift/command__conquer/command_and_conquer_the_ultimate_collection/fg__ww_row_ra2_with_yuris_revenge/command_and_conquer_the_ultimate_collectionpcfg__ww_row_ra2_with_yuris_revengerun_1__origin__idjit_data_storecf1bdea53b804d798559480503492387.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-28T19:51:57Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%InstallDir%/*.sav</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Command and Conquer Red Alert II\\Install Dir]\\Ra2Launcher.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Command and Conquer Red Alert II\\Install Dir]\\Ra2Launcher.exe", 
+                        "installationDirectory": "Command and Conquer Red Alert II", 
+                        "multiPlayerId": "1001298", 
+                        "oigClientBehavior": "Default"
+                    }, 
+                    "softwareId": "7697ed93-f687-401e-8051-92c9574bbd37", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-11-20T02:09:08Z"
+}

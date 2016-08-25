@@ -1,0 +1,83 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71266"
+    }, 
+    "financeId": "71266", 
+    "itemId": "Origin.ITM.50.0001383", 
+    "localizableAttributes": {
+        "displayName": "500 FIFA 12 PC Points", 
+        "longDescription": "Build up your club and gain the advantage in FIFA 12 Ultimate Team with FIFA Points*. Use your points to purchase Ultimate Team packs and build your fantasy club. Then pick your style of play, preferred formation, kits and much more. Your choices are endless.<br><br>\nStock up on FIFA Points so you don\u2019t miss out on any of the great deals.<br><br><b>*PC version of FIFA 12 required.</b><br><br>", 
+        "packArtLarge": "/68866/231.0x326.0/71055_LB_231_%5E_2013-04-02-19-38-54_18ef308eba30cd9a28eae407cffd493e0ebeafac5e6828d3b40c00158adc37d0.jpg", 
+        "packArtMedium": "/68866/142.0x200.0/71055_MB_142_%5E_2013-04-02-19-38-59_1f6547aa371f5bd2fff7f0cbf3f09c212743cb5aa4df2155d8f892c0a69721a9.jpg", 
+        "packArtSmall": "/68866/63.0x89.0/71055_SB_63_%5E_2013-04-02-19-39-05_478dc378507bd324bed39d052b041e2b72081de51c7cd381e21f081ac4466abe.jpg", 
+        "shortDescription": "Build up your club"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 2012", 
+                    "masterTitleId": 68866
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001589", 
+    "offerType": "Fictional Currency", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2011-09-27T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-07-22T13:56:15Z"
+}

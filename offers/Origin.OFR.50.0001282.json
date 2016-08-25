@@ -1,0 +1,211 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Stuff Packs", 
+        "extraContentDisplayGroupSortAsc": 410, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 60
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71021"
+    }, 
+    "financeId": "71021", 
+    "itemId": "ITM-EAST:33780", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Town Life Stuff", 
+        "extraContentDisplayGroupDisplayName": "STUFF PACKS", 
+        "longDescription": "Sims are people too, and they want all the cool stuff that we have. Give the people what they want with The Sims 3: Town Life Stuff. The PC download places a whole new range of options right at your fingertips.<br><br>At the top of the list sits a great public library, where your Sims can browse the stacks and interact with each other in a relaxing environment. You can also find a smaller library for your Sims home if they\u2019d rather read in private. For more active Sims, set up a full-service gym with equipment that includes weight machines, stationary bikes, and treadmills. Younger Sims can burn off their excess energy in new playground sets featuring slides, sand boxes and tree houses. The Town Life Stuff pack also includes new neighborhood locations \u2013 grocery stores, schools and cafes \u2013 for your Sims to visit.<br><br>New locations aren\u2019t much fun without a new look to show off. The Sims 3: Town Life Stuff pack includes a wide selection of clothes, haircuts and accessories for your fashion-conscious Sims. And when they get back from a fun day or a night out on the town, they can clean their clothes in their fancy new washer/dryer set. Hey, even a Sim needs to stay in for laundry night now and then.<br><br>The Town Life Stuff pack brings your Sims even closer to real life, with toys and trinkets to fill their days from morning to night.<br><br><b>Features:</b><br><br>&bull; <b>Pre-Built Venues And Lots \u2013</b> Give your Sims\u2019 town a new look with spectacular ready-to-go venues and community lots \u2013 or construct your own cool setting.<br><br>&bull; <b>Fit And Fresh \u2013</b> Work out with the latest high-tech gym equipment, then clean your sweaty gym clothes in the new state-of-the-art washer and dryer set.<br><br>&bull; <b>Time To Unwind \u2013</b> Kids will love the new Sunny Bungalow jungle gym, slide, and sandbox, while grown-ups can play chess by the new fountain.<br><br>&bull; <b>Study Time Or Story Time \u2013</b> Update the library with an elegant array of accessories, build your own study, or create cubicles with specialized sectional seating.<br><br>&bull; <b>New Casual Outfits And Hairstyles \u2013</b> Clothes for running errands, hanging out, or working out \u2013 there are lots of styles for all your Sims\u2019 fashion needs.<br><br>", 
+        "packArtLarge": "/75523/PACKART_PRESET_LARGE_JPG_231x326/71021_LB_231_^_2012-12-12-10-35-55_0b60e117d874e294dc34a46a1de9ea067e03ea5d6202903d43838ece241e886d.jpg", 
+        "packArtMedium": "/75523/142.0x200.0/71021_MB_142_^_2012-12-12-10-36-21_30fed71c08b6766719629a2b270171badfc4a3d6938f2eb693b138212678e03a.jpg", 
+        "packArtSmall": "/75523/63.0x89.0/71021_SB_63_^_2012-12-12-10-36-32_d2deecdd104c7349909664493f4cd5aaa9149a921d0546fe8bee68376822b4f8.jpg", 
+        "shortDescription": "Sims life becomes even more detailed with The Sims 3: Town Life Stuff pack."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 TOWN LIFE STUFF (SP4)", 
+                    "masterTitleId": 75523
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001282", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "71021", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2011-07-26T07:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2011-07-26T07:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_town_life_stuff_sp4/the_sims_3macdlc__ww_town_life_stuff_sp4run_1__origin__idjit_data_store76911188a509435eb8f76a41f15cf8d0.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3sp04]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3sp04]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 Town Life Stuff Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3sp04", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "750f4bf0-23fe-4aa6-87f1-280c4b6c9e0a", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(sp04:_town_life)/the_sims_3pcdlc__ww_sp04_town_lifeproduction_1__sp04__origin_accessd7b2ab8dac8948c680b97047d8f7a0f0.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-22T17:18:20Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Town Life Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p09.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\SP04", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\71021]"
+                    }, 
+                    "softwareId": "94e01464-13dd-4b45-861f-3b8d86d8e3dc", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:50:45Z"
+}

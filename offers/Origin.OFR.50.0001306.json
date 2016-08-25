@@ -1,0 +1,111 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1038161"
+    }, 
+    "financeId": "1038161", 
+    "itemId": "Origin.ITM.50.0001139", 
+    "localizableAttributes": {
+        "displayName": "Mirror's Edge\u2122 Catalyst Runner Kit Bundle", 
+        "longDescription": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Run free and master the city in Mirror\u2019s Edge Catalyst. The bundle \ncontains unique in-game items such as two Echo Shaders to change how you\n appear in other players\u2019 worlds, two Runner Tags to stand out in the \nleaderboards, and two unique backgrounds to customize your Screen Hacks.<o:p></o:p></span></p>", 
+        "packArtLarge": "/190134/231.0x326.0/1038161_LB_231x326_en_GB_^_2016-04-13-00-20-30_ac9d571a17779f7ec1dbb22d1d064e05c6ec8fc2.jpg", 
+        "packArtMedium": "/190134/142.0x200.0/1038161_MB_142x200_en_GB_^_2016-04-13-00-20-30_b0eb036ff16bf15022fb8c1dab247fc48d6d8e14.jpg", 
+        "packArtSmall": "/190134/63.0x89.0/1038161_SB_63x89_en_GB_^_2016-04-13-00-20-30_71d957bc44269f2a60afd5c242ca91f879310918.jpg", 
+        "shortDescription": "Take your skills to the next level."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mirrors Edge", 
+                    "franchiseId": 50314
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MIRRORS EDGE CATALYST", 
+                    "masterTitleId": 190134
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001306", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1038161", 
+            "gameDistributionSubType": "Normal Game", 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-08-01T12:00:04Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-08-09T19:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-10T14:57:36Z"
+}

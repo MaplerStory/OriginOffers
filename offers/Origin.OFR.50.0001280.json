@@ -1,0 +1,212 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Stuff Packs", 
+        "extraContentDisplayGroupSortAsc": 410, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 80
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/70730"
+    }, 
+    "financeId": "70730", 
+    "itemId": "ITM-EAST:10857", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Fast Lane Stuff", 
+        "extraContentDisplayGroupDisplayName": "STUFF PACKS", 
+        "gameManualURL": "http://akamai.cdn.ea.com/eadownloads/u/f/manuals/GAME-SIMS3FASTLANE/Manuals.zip", 
+        "longDescription": "You've got the Sim, you've got the house, you've got the job, now it\u2019s time to add a swanky new car with The Sims 3: Fast Lane Stuff for the PC.<br><br>Choose the car you've always wanted and watch it change your Sims\u2019 lives. There are four styles of vehicle: Racing, Intrigue, Rockabilly, and Classic Luxury. Each car comes with its own furnishing and apparel options, so you can pimp your ride.<br><br>As you drive your new car (or cars), you\u2019ll decorate your home to match the feel of your new automobile. After all, a luxury car calls for an upscale lifestyle full of champagne and chandeliers, so if you live in a small, humble home, you\u2019ll need a serious style upgrade to complement your fancy car.<br><br>This new pack allows you to customize your car, home, and Sim to reflect your status. Are you wealthy? Are you a speed demon who likes to rev the engine and drift around the corner? Perhaps you live a life of mystery, driving sleek black cars with tinted windows. Or maybe you\u2019re a tough guy with sunglasses and greasy hair, a rebel without any of those pesky causes.<br><br>With this pack you\u2019ll obtain the car you\u2019ve been drooling over and show it off to all of the other Sims on the block.<br><br><b>Features:</b><br>\u2022 Give your Sims the rides they\u2019ve always dreamed of &#8212; and the lifestyles that go with them. <br>\u2022 Enjoy four all-new styles of fashions, furnishings, and vehicles: Racing, Intrigue, Rockabilly, and Classic Luxury. <br>\u2022 Create the ultimate garage to house your Sim\u2019s professional race car or hot rod. <br>\u2022 Deck out your Sim\u2019s house in luxurious accessories to match their sleek new, luxurious rides.<br><br>", 
+        "packArtLarge": "/70081/PACKART_PRESET_LARGE_JPG_231x326/70730_LB_231_^_2013-01-18-14-37-14_1e417ad9fe04414d5550bf73111d1e3a9a17a535cf5e3febf794d697517c3438.jpg", 
+        "packArtMedium": "/70081/PACKART_PRESET_MEDIUM_JPG_142x200/70730_MB_142_^_2013-01-18-14-37-33_a9ff67563897e53bcdac5e30ae68b84eaa740e28eb9ce5d99283f8d80dbee3da.jpg", 
+        "packArtSmall": "/70081/PACKART_PRESET_SMALL_JPG_63x89/70730_SB_63_^_2013-01-18-14-37-49_a26af60b46de4a2d7f845fcb662436b133f9426ea511ba7758fa78b9e351d7d1.jpg", 
+        "shortDescription": "Download The Sims 3: Fast Lane Stuff for the PC and add the car of your dreams to your Sim life."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 FAST LANE STUFF (SP2)", 
+                    "masterTitleId": 70081
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001280", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "sims3_sp02_dd", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2010-09-07T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2010-09-07T00:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_fast_lane_stuff_sp2/the_sims_3macdlc__ww_fast_lane_stuff_sp2run_1__origin__idjit_data_store92c80987736a459a94b7e172e74745dd.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3sp2]/Contents/MacOS/cider", 
+                        "installCheckOverride": "[com.transgaming.thesims3sp2]/Contents/MacOS/cider", 
+                        "installerPath": "The SIMS(tm) 3 Fast Lane Stuff Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3sp2", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "cd0825c7-0681-4a68-907c-cc0b0c4b70ad", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(sp02:_fast_lane_stuff)/the_sims_3pcdlc__ww_sp02_fast_lane_stuffproduction_1__sp02__origin_access4db57f0cc80349ab871e9847660bc89a.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-17T23:01:58Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Fast Lane Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p05.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\SP02", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\sims3_sp02]"
+                    }, 
+                    "softwareId": "bfe13a93-e06d-474d-9d5d-629bc23ff905", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:49:54Z"
+}

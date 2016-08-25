@@ -1,0 +1,116 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0000987", 
+            "Origin.OFR.50.0000247", 
+            "Origin.OFR.50.0000467", 
+            "Origin.OFR.50.0000466", 
+            "Origin.OFR.50.0000468"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1020849"
+    }, 
+    "financeId": "1020849", 
+    "itemId": "Origin.ITM.50.0001136", 
+    "localizableAttributes": {
+        "displayName": "Client Automation DiP DRM", 
+        "longDescription": "<font face=\"Verdana\" color=\"#008000\" size=\"2\">Client Automation DiP DRM</font>", 
+        "shortDescription": "Client Automation DiP DRM"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Other", 
+                    "franchiseId": 50823
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ORIGIN TOOLS - NON REV", 
+                    "masterTitleId": 180977
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001276", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "client_automation_dip_drm", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "twitchClientBlacklist": true
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-10-28T00:00:00Z", 
+                    "originSubscriptionUnlockDate": "2015-10-28T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-10-28T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"0\"/>    <gameVersion version=\"1.0.0.2\"/>    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.2", 
+                                "downloadURL": "/shift/origin/client_automation_dip_drm/fg_-_ww_ende/client_automation_dip_drmpcfg__ww_endeconcept_522d5a1bb19f44cf792d3ef5bfbecfbea.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-11-13T17:40:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50823_180977_50340_71314", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Origin QA\\Client Automation DiP DRM\\Install Dir]\\target.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Origin QA\\Client Automation DiP DRM\\Install Dir]\\target.exe", 
+                        "installationDirectory": "Client Automation DiP DRM", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "oigClientBehavior": "Default", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000514", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-12-21T21:19:14Z"
+}

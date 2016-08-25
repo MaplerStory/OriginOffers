@@ -1,0 +1,206 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Expansion Packs", 
+        "extraContentDisplayGroupSortAsc": 310, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 270
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/70733"
+    }, 
+    "financeId": "70733", 
+    "itemId": "ITM-EAST:10856", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Late Night Expansion Pack", 
+        "extraContentDisplayGroupDisplayName": "EXPANSION PACKS", 
+        "longDescription": "It's time to indulge your Sims' inner party-loving rock star. The Sims 3: Late Night Expansion Pack for the PC lets your Sims explore the hectic craze of city life in a whole new way: hit the local dive bars, go clubbing, and party with some blood-sucking vampires. Hey, they deserve to have fun too, just don\u2019t let them near your Sims\u2019 necks. This expansion also includes a new set of career options. Your Sims can serve up drinks as a mixologist, shred on the guitar in a rock band, or become a local celebrity who demands V.I.P. seating, wherever they go.<br><br>Your late night lifestyle will affect your home life and the items you can add to your house. Apartments and elevators have been added, giving you and your Sim family new housing options. As for the Sims themselves, they\u2019ve been given new customization options too. It\u2019s not just clothing this time, but their physical appearance can be altered with muscle tone and the size of their breasts. Trying to seal the deal with that hot Sim standing at the bar? Flex those muscles, baby.<br><br>Download The Sims 3: Late Night Expansion Pack and give your Sims\u2019 social lives a boost. Live the celebrity high life with fancy cars and penthouses, build a quiet life where you get together with a few friends, or become a train-wreck, cause a ruckus, and get banned from the best clubs in town \u2014 it\u2019s up to you to decide.<br><br><b>Features:</b><br>\u2022 Hang out at the hottest spots in town, from dive bars to dance clubs to chic lounges, complete with bouncers.&nbsp;<br>\u2022 Gain fame and fortune as a member of a music band, mixologist, director, or local celebrity.&nbsp;<br>\u2022 Explore certain areas of town in the thick of the night and you may be initiated into the dark life of a vampire.&nbsp;<br>\u2022 Gain access to exclusive areas and enjoy celebrity perks like penthouse living, luxury hot tubs and cars.<br>", 
+        "packArtLarge": "/55481/PACKART_PRESET_LARGE_JPG_231x326/70733_LB_231_^_2013-01-18-15-36-45_8997f5c77f228f3f48b833c7152ea4d8cc42d31e2896ac67db5b4292edb9ff4b.jpg", 
+        "packArtMedium": "/55481/PACKART_PRESET_MEDIUM_JPG_142x200/70733_MB_142_^_2013-01-18-15-37-04_30fdf9549226f9d3da8eae7eef0debbd05720d8e0732d55f84f793073d9e489b.jpg", 
+        "packArtSmall": "/55481/PACKART_PRESET_SMALL_JPG_63x89/70733_SB_63_^_2013-01-18-15-37-20_4001c385f2ec6dc6540a0ae0283a95baabe7675c538d4ac6a25a3125f8836faa.jpg", 
+        "shortDescription": "Let loose and live a little."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 LATE NIGHT (EP3)", 
+                    "masterTitleId": 55481
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001251", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "sims3_ep03_dd", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2010-10-26T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2010-10-26T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_late_night_ep3/the_sims_3macdlc__ww_late_night_ep3run_1__origin__idjit_data_store003f0a814db04ac994b9f2b0d2c5686b.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3ep03]/Contents/MacOS/cider", 
+                        "installCheckOverride": "[com.transgaming.thesims3ep03]/Contents/MacOS/cider", 
+                        "installerPath": "The SIMS(tm) 3 Late Night Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3ep03", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "ba25803e-af6a-4a13-bdec-22f42f1a3533", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData> <gameVersion version=\"1.0.0.0\"/> <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/> </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(ep03:_late_night)/the_sims_3pcdlc__ww_ep03_late_nightproduction_2__ep03__origin_accessbca396949f87459bb460c47179d10c17.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-10T19:20:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Late Night\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p06.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EP03", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\sims3_ep03]"
+                    }, 
+                    "softwareId": "d3500887-4f67-4c5e-a4e0-76e0d98d0744", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-11T23:23:30Z"
+}

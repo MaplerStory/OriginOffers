@@ -1,0 +1,151 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "JP"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0000993", 
+            "Origin.OFR.50.0000992"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1033728"
+    }, 
+    "financeId": "1033728", 
+    "itemId": "Origin.ITM.50.0000964", 
+    "localizableAttributes": {
+        "displayName": "Need for Speed\u2122 (Trial)", 
+        "longDescription": "Ready to own the streets? Get behind the wheel of iconic cars and floor it through Ventura Bay, a sprawling urban playground. Explore overlapping stories as you build your reputation \u2013 and your dream car \u2013 and become the ultimate racing icon. Play again and again because this time, you have 5 distinct ways to win.<br><br>\n\n<b>GAME FEATURES:</b><br><br>\n\n<b>Optimized for PC.</b> Get an unlocked frame rate and experience Need for Speed at 4K resolution, only on PC. Plus, feel the thrill of street racing with steering wheel and peripheral support from a range of manufacturers including Logitech, Thrustmaster and Fanatec.<br><br>\n\n<b>Rich authentic customization.</b> Build a car to reflect your character with extensive visual and performance customization options. Because your ride should look as good as it handles.<br><br>\n\n<b>West Coast playground.</b> Discover Ventura Bay. From the dense city streets to the winding roads that lead you to the harbor and through the canyons, this is your home turf.<br><br>\n\n<b>Play your way.</b> Need for Speed returns with 5 unique ways to play: Speed, Style, Build, Crew and Outlaw, enabling you to earn reputation and ultimately win your way.<br><br>\n\n<b>Living Game.</b> Take on Ventura Bay\u2019s slickest street racers with free updates in Eddie\u2019s challenge and become an expert photographer with Snapshot Pro. Plus, earn Ken Block\u2019s Hoonicorn and Morohoshi-San\u2019s Diablo.<br><br>\n\n<b>Be part of the story.</b> Step into a richly created world and be part of an immersive story that takes you all over Ventura Bay.", 
+        "packArtLarge": "/185353/231.0x326.0/1024486_LB_231x326_en_US_^_2015-08-04-10-45-42_0f314b68e981580a1416ef0d36679e0b0608e560.jpg", 
+        "packArtMedium": "/185353/142.0x200.0/1024486_MB_142x200_en_US_^_2015-08-04-10-46-01_c751b403ecad202ce9071b1ba7c0674e2bdf76ad.jpg", 
+        "packArtSmall": "/185353/63.0x89.0/1024486_SB_63x89_en_US_^_2015-08-04-10-46-12_0a8902f2f6b6bd919b63dafe4007e434085de2c7.jpg", 
+        "shortDescription": "Rediscover the Need for Speed"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Need for Speed", 
+                    "franchiseId": 50317
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "NFS 2016", 
+                    "masterTitleId": 185353
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001223", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1024486_oa", 
+            "gameDistributionSubType": "Gameplay Timer Trial - Game Time", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "trialLaunchDuration": 10
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-04-10T01:07:34Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-04-10T01:07:34Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.3.0.0\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.3.0.0", 
+                                "downloadURL": "/shift/need_for_speed/need_for_speed_genesis/patch__ww_gameww/need_for_speed_genesispcpatch__ww_gamewwproduction_126__gamepatchpcpatchwin64_retail_ww_2762504a4ba465fbad24cecbc21bc26c83373f8.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-04-27T10:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50317_185353_50844", 
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Need for Speed\\Install Dir]NFS16.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Need for Speed\\Install Dir]NFS16.exe", 
+                        "installationDirectory": "Need for Speed", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1024486", 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000347", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-16T22:41:27Z"
+}

@@ -1,0 +1,210 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Expansion Packs", 
+        "extraContentDisplayGroupSortAsc": 310, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 230
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71479"
+    }, 
+    "financeId": "71479", 
+    "itemId": "ITM-EAST:40214", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Supernatural", 
+        "extraContentDisplayGroupDisplayName": "EXPANSION PACKS", 
+        "longDescription": "Embrace the supernatural in a whole new world full of magic, mystery and mischief. Create witches, vampires, fairies or werewolves right from the beginning. Each supernatural Sim has strange new traits and abilities that add humor and challenges to their lives and the world around them. Use your wand to cast spells or collect ingredients and mix dozens of elixirs that enhance gameplay. You can turn Sims into zombies or give your Sim the golden touch. Share your enchanted brews with any friends who have The Sims 3. Explore the all-new town of Moonlight Falls, where your Sims\u2019 special powers are heightened by the lunar cycle\u2014and surprises lurk around every corner.<br><br>  <b>Game features</b>:<br><br> \u2022 <b>Play as supernatural Sims</b>: Create witches, wizards, werewolves, more intriguing vampires and fairies - each with their own magical abilities, traits and interactions.<br><br> \u2022 <b>Explore the town of Moonlight Falls</b>: Discover what mysteries and abilities are revealed by the light of the full moon. Will your Sims freak out or become more powerful?<br><br> \u2022 <b>Hone your magical crafts and share the enchantment</b>: Learn to cast spells and find rare ingredients to brew elixirs, so you can charm or hex your Sims\u2019 lives. Send your magical elixirs to any of your friends\u2019 games who have The Sims 3. Your Sims can hone their psychic abilities and build a career as mystic fortune teller.<br><br> \u2022 <b>Discover supernatural items</b>: Race around the arena on your broomstick, visit the gypsy caravan or preen in front of your magic mirror. Even awaken the classic character of Bonehilda, the quirky skeletal maid. With tons of new enchanted objects, what will happen next?<br><br> \u2022 <b>Deck out your home in gothic style</b>: Add a secret lair with the sliding bookcase door and fill your home with creepy new furniture.<br><br> \u2022 <b>Zombification</b>: Mix a special elixir to create shuffling, brain-hungry monsters of your very own. Chomp on other Sims to spread the love and wreak havoc. Don\u2019t fret; you can always concoct an elixir to change your Sims back.", 
+        "packArtLarge": "/185301/PACKART_PRESET_LARGE_JPG_231x326/71479_LB_231_^_2013-01-31-11-14-08_f1e22f87c9c7d010563009a4e51bf704caf3df72f003a33a71454831040934a0.jpg", 
+        "packArtMedium": "/185301/PACKART_PRESET_MEDIUM_JPG_142x200/71479_MB_142_^_2013-01-31-11-14-22_758e9cff598ca44f57757fcddaf09985433f4d46a1e547271a1055cec4c58d3b.jpg", 
+        "packArtSmall": "/185301/PACKART_PRESET_SMALL_JPG_63x89/71479_SB_63_^_2013-01-31-11-14-36_7e8ddd5c6919e21c5136d1f2544e6253bd0dbdd72db8e0439134db4a03482df6.jpg", 
+        "shortDescription": "Embrace the supernatural."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 SUPERNATURAL (EP7)", 
+                    "masterTitleId": 185301
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001290", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "71479", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2012-09-04T04:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-09-04T04:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_supernatural_ep7/the_sims_3macdlc__ww_supernatural_ep7run_1__origin__idjit_data_store51999a3f47954607b099df9c2e163666.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3ep07]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3ep07]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 Supernatural Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3ep07", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "0c6a2064-4264-4cad-9282-53d8fbad84fe", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(ep07:_supernatural)/the_sims_3pcdlc__ww_ep07_supernaturalproduction_1__ep07__origin_access0afb92e6851345ba99c5d45deb0b9c0e.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-17T00:15:34Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Supernatural\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p15.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EP07", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\302919]"
+                    }, 
+                    "softwareId": "5cfdfba7-b3fe-4624-a8b7-d6de3091ca34", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:47:12Z"
+}

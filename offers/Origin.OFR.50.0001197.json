@@ -1,0 +1,147 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0000182", 
+            "Origin.OFR.50.0000531", 
+            "Origin.OFR.50.0000530", 
+            "Origin.OFR.50.0000533", 
+            "Origin.OFR.50.0000532", 
+            "Origin.OFR.50.0000534", 
+            "Origin.OFR.50.0000504", 
+            "Origin.OFR.50.0000503", 
+            "Origin.OFR.50.0000506", 
+            "Origin.OFR.50.0000505", 
+            "Origin.OFR.50.0000507", 
+            "OFB-EAST:109552449", 
+            "OFB-EAST:109552645", 
+            "OFB-EAST:68186"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1014748"
+    }, 
+    "financeId": "1014748", 
+    "itemId": "ITM-EAST:50673", 
+    "localizableAttributes": {
+        "displayName": "Plants vs. Zombies\u2122 Garden Warfare DDX", 
+        "longDescription": "<b>Winner of 10 E3 Awards, Including Best of E3 and Best Shooter.</b><br><br>\nPlants vs. Zombies Garden Warfare digs into the trenches with an explosive action experience. Blast zombies, plants and unique characters across a mine-blowing world that delivers the depth of a traditional online shooter and the refreshing humor of the Plants vs. Zombies universe. <br><br>\n\nThe Digital Deluxe Edition is the best way to start the Garden Warfare action, scoring you your first 150,000 coins to spend on customization options in addition to an Origin-exclusive Custom Accessories Pack.<br><br>\n\n<b>Multiplayer focused</b>. The neighborhood swarms with as many as 24 players teaming up to control more than ten different battlegrounds. Garden Warfare features multiple competitive and cooperative gaming modes, so pick your side and master the nuances of each playable character.<br><br>\n\n<b>Customize Like Crazy</b>. Every score and every victory rewards you with coins which can be spent on Sticker Packs that unlock new load-outs, playable characters and more. The more you play, the more you\u2019ll unlock \u2013 and the better you\u2019ll dominate the neighborhood.<br><br>\n \n<b>Free Updates</b>. The action in Garden Warfare continues to evolve with fresh content. Here are two great additions since the game's launch: <br><br>\n\u2022 <b>Suburbination</b>. Trounce the competition in the Suburbination game mode, in which zombies and plants fight for control of three capture points. The plants want them for their fertile soil, the zombies for their fertile\u2026 brains. Suburbination also includes the desert suburbia-themed \u201cCrash Course\u201d map, additional Garden Ops bosses and the community-created Plasma Pea Shooter variant. <br>\n\u2022 <b>Legends of the Lawn</b>. Why settle for capture the flag when you can play a heart-pounding match of capture the taco? Do just that in the Taco Bandits mode, which tasks plants with defending Crazy Dave\u2019s deliciously grilled tacos, and zombies with stealing them. You\u2019ll also receive seven extra character variants (including Golf Star, Centurion, Chomp Thing and more) and over 200 customization items.<br><br>", 
+        "packArtLarge": "/185166/231.0x326.0/1014576_LB_231x326_Global_^_2014-02-27-11-21-59_bbc4ab0c06be3ff9efa965645751f030634f96cd.jpg", 
+        "packArtMedium": "/185166/142.0x200.0/1014576_MB_142x200_Global_^_2014-02-27-14-08-26_88b83ea506475cb03d6ba05c1ace6327d92fe3fc.jpg", 
+        "packArtSmall": "/185166/63.0x89.0/1014576_SB_63x89_Global_^_2014-02-27-14-09-10_3c177d5193611970606fb8036874ed47f096953d.jpg", 
+        "shortDescription": "The Ultimate Battle for Brainz"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Plants vs Zombies", 
+                    "franchiseId": 180915
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "PLANTS VS ZOMBIES GARDEN WARFARE", 
+                    "masterTitleId": 185166
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001197", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1014748", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "suppressedOfferIds": "OFB-EAST:109551073,OFB-EAST:109552448,OFB-EAST:109552443,OFB-EAST:109552446,OFB-EAST:109552444,OFB-EAST:109552445"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2014-06-20T17:00:14Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2014-06-24T04:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.0.3.0\"></gameVersion><featureFlags autoUpdateEnabled=\"1\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifestEnabled=\"0\"></featureFlags><requirements osMinVersion=\"6.0\" osReqs64Bit=\"1\"></requirements><minimumRequiredVersionForOnlineUse version=\"1.0.3.0\"></minimumRequiredVersionForOnlineUse></buildMetaData>", 
+                                "buildReleaseVersion": "1.0.3.0", 
+                                "downloadURL": "/shift/garden_warfare/garden_warfare_pc_fg__ww_production_282__pvz_598693_win64patch.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2014-09-30T09:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "180915_185166_50844", 
+                        "commerceProfile": "oig-pvzgw1", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\PopCap\\Plants vs Zombies Garden Warfare\\Install Dir]pvz.main_win64_retail.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\PopCap\\Plants vs Zombies Garden Warfare\\Install Dir]pvz.main_win64_retail.exe", 
+                        "installationDirectory": "Plants vs Zombies Garden Warfare", 
+                        "multiPlayerId": "1011216", 
+                        "oigClientBehavior": "Default", 
+                        "processorArchitecture": "64-bit"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000094", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pt_BR"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {}
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-10-12T22:26:58Z"
+}

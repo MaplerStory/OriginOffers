@@ -1,0 +1,156 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "OFB-EAST:109551870", 
+            "Origin.OFR.50.0000164", 
+            "Origin.OFR.50.0000421", 
+            "Origin.OFR.50.0000420", 
+            "Origin.OFR.50.0000368", 
+            "Origin.OFR.50.0000423", 
+            "Origin.OFR.50.0000422", 
+            "Origin.OFR.50.0000414", 
+            "Origin.OFR.50.0000425", 
+            "Origin.OFR.50.0000424", 
+            "Origin.OFR.50.0000416", 
+            "Origin.OFR.50.0000415", 
+            "Origin.OFR.50.0000437", 
+            "Origin.OFR.50.0000418", 
+            "Origin.OFR.50.0000417", 
+            "Origin.OFR.50.0000419", 
+            "OFB-EAST:109551868", 
+            "OFB-EAST:109551869", 
+            "OFB-EAST:109551866", 
+            "OFB-EAST:109551867", 
+            "OFB-EAST:109551865"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1013163"
+    }, 
+    "financeId": "1013163", 
+    "itemId": "ITM-EAST:50006", 
+    "localizableAttributes": {
+        "displayName": "Need for Speed\u2122 Rivals Digital Deluxe", 
+        "longDescription": "Erase the line between single player and multiplayer in this street-racing rivalry between Cops and Racers. Seamlessly join a world where your friends are already racing and chasing. Forget isolated game modes. There are no lobbies; no waiting. You and your friends can all share the same race as paths cross and experiences merge.<br><br><b>Key features:</b><br><b>\u2022 All-drive:</b>&nbsp;Imagine your race and your friend\u2019s pursuit colliding\u2014creating a world where no two events feel the same. Don\u2019t want to play with others? Then simply choose to make Redview County yours alone and dominate the advanced Racer and Cop AI.<br><br><b>\u2022 High-stakes rivalry:</b>&nbsp;Racers are lone wolves out for glory; driving agile cars built for high-speed racing and epic chases. Cops work in teams to hunt down and bust racers using the full power of the police force. Switch roles whenever you like, and watch the stakes grow through a new scoring system that puts your speed points on the line.<br><br><b>\u2022 Next-gen racing:</b>&nbsp;Experience speed that you can truly feel in the fastest racing game around, powered by the Frostbite 3 engine. Every detail of the game world is rendered in stunning, high-definition graphics. Race and chase in snow, hail, rain, dust storms and heavy fog.<br><br><b>\u2022 Your car, your identity:</b>&nbsp;Personalize your cars with performance and style modifications. Power up your car with the latest upgrades in pursuit technology and personalize your bodywork with fresh paint jobs, liveries, custom license plates, rims and decals to show off your car to the world.<br><br><b>\u2022 Pursuit and evasion tech:</b>&nbsp;Use the latest pursuit tech and modifications to change your pursuit or escape strategy on the fly. Racers evade Cops using turbo bursts, jammers and electromagnetic pulses. Cops will be armed for aggressive busts, deploying shockwaves, spikestrips and calling in police roadblocks or helicopter support.<br>", 
+        "packArtLarge": "/182103/231.0x326.0/1013163_LB_231x326_Global_^_2014-02-27-11-14-50_b51696cc8b3eaf5d1de249f128c9bdc5447d5d99.jpg", 
+        "packArtMedium": "/182103/142.0x200.0/1013163_MB_142x200_Global_^_2014-02-27-14-04-19_279b5cc7c74bd3df3002fa8d6ff52ff435bcc4fa.jpg", 
+        "packArtSmall": "/182103/63.0x89.0/1013163_SB_63x89_Global_^_2014-02-27-14-05-38_2816f264fb4eae70b9606eb35f8698b632a9a08c.jpg", 
+        "shortDescription": "Leave standard game modes in the dust."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Need for Speed", 
+                    "franchiseId": 50317
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "NFS RIVALS (2014)", 
+                    "masterTitleId": 182103
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001242", 
+    "offerType": "Bundle", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1013163_PreOrderOriginRoW", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "suppressedOfferIds": "OFB-EAST:64824,Origin.OFR.50.0000327"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2013-11-15T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2013-11-19T05:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.4.0.0\"/><featureFlags autoUpdateEnabled=\"1\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"0\"/><requirements osMinVersion=\"6.0\" osReqs64Bit=\"1\"/></buildMetaData>", 
+                                "buildReleaseVersion": "1.4.0.0", 
+                                "downloadURL": "/shift/eagames/needforspeed/rivals/need_for_speed_rivals_pc_dlc__ww_dlc_1_production_31__jupiterpccgretailpatchwin64_retail_ww_stestnfsrivalspc_1502285.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2014-02-18T09:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria><include order=\"1\">%Documents%/Ghost Games/Need for Speed(TM) Rivals/settings/*.sav</include> </saveFileCriteria>", 
+                        "commerceProfile": "bfx", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Need for Speed(TM) Rivals\\Install Dir]\\NFS14.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Need for Speed(TM) Rivals\\Install Dir]\\NFS14.exe", 
+                        "installationDirectory": "Need for Speed(TM) Rivals", 
+                        "multiPlayerId": "1004776", 
+                        "oigClientBehavior": "Default"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000044", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {}
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-11-12T18:21:18Z"
+}

@@ -1,0 +1,152 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1040219"
+    }, 
+    "financeId": "1040219", 
+    "itemId": "Origin.ITM.50.0001254", 
+    "localizableAttributes": {
+        "displayName": "FIFA 17 Gamescom Demo", 
+        "longDescription": "FIFA 17 immerses you in authentic football experiences by leveraging the sophistication of a new game engine, while introducing you to football players full of depth and emotion, and taking you to brand new worlds accessible only in the game. Complete innovation in the way players think and move, physically interact with opponents, and execute in attack lets you own every moment on the pitch.", 
+        "oigBrowserDefaultURL": "https://www.origin.com/store/buy/fifa-17", 
+        "packArtLarge": "/182633/231.0x326.0/1040219_LB_231x326_en_US_^_2016-08-12-14-57-40_2988b837d3a7524d9a2f6a414a61abf5c572d044.jpg", 
+        "packArtMedium": "/182633/142.0x200.0/1040219_MB_142x200_en_US_^_2016-08-12-14-57-44_2f4c28a92d0787231e35b96bb96e84e88df501ae.jpg", 
+        "packArtSmall": "/182633/63.0x89.0/1040219_SB_63x89_en_US_^_2016-08-12-14-57-48_a87cfb34e23cd0ff5830cc605303b1c11fed670b.jpg", 
+        "shortDescription": "Powered by Frostbite, FIFA 17 transforms the way you play, compete and emotionally connect with the game."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 17", 
+                    "masterTitleId": 182633
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001473", 
+    "offerType": "DEMO", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "182633_demo", 
+            "gameDistributionSubType": "Demo", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "useLegacyFriendsLimit": true, 
+            "watermarkDownload": true
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-08-08T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-08-08T00:00:00Z", 
+                    "useEndDate": "2016-08-24T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.45.26330\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.45.26330", 
+                                "downloadURL": "/shift/fifa/fifa_17_g4/demo__ww_x0_demo_ww/fifa_17_g4pcdemo__ww_x0_demo_wwconcept_206__retail__digital__demo_ww_297540511e0e5094b994d63a21bb0fd85d41fc1.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-08-22T09:22:19Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 17 Demo\\Install Dir]FIFASetup\\fifaconfig.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 17 Demo\\Install Dir]fifa17_demo.exe", 
+                        "installationDirectory": "FIFA 17 DEMO", 
+                        "multiPlayerId": "182633_demo", 
+                        "processorArchitecture": "64-bit"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000552", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-09T00:42:31Z"
+}

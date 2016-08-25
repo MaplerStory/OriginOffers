@@ -1,0 +1,138 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 300
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036408"
+    }, 
+    "financeId": "1036408", 
+    "itemId": "Origin.ITM.50.0001071", 
+    "localizableAttributes": {
+        "displayName": "Jade Empire\u2122: Artbook", 
+        "longDescription": "Jade Empire\u2122: Artbook", 
+        "packArtLarge": "/54000/231.0x326.0/1019681_LB_231x326_en_US_^_2015-09-15-14-27-42_4f59eeec3f07b0a9b1ede778b86527db5d54f524.png", 
+        "packArtMedium": "/54000/142.0x200.0/1019681_MB_142x200_en_US_^_2015-09-15-14-25-57_bab97004ca9ebbd126c6a6131efaad7d049dc6c0.png", 
+        "packArtSmall": "/54000/63.0x89.0/1019681_SB_63x89_en_US_^_2015-09-15-14-25-31_d8bd6d279e5c2748dcb68c41b1afe8b916e5a521.png", 
+        "shortDescription": "Jade Empire\u2122: Artbook"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Other", 
+                    "franchiseId": 50823
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "JADE EMPIRE 1", 
+                    "masterTitleId": 54000
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001165", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036408", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2005-04-12T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2005-04-12T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.1\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.1", 
+                                "downloadURL": "/shift/retro_fit/jade_empire/dlc_-_ww_x0_(artbook)/jade_empirepcdlc__ww_x0_artbookrun_2__jade_empire_artbook8d94cdae35234a0084eb743434a67d4f.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-09-16T00:53:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Jade Empire\\Install Dir]\\Extras\\ARTBOOK", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Jade Empire\\Install Dir]\\__Installer\\DLC\\ARTBOOK\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer\\DLC\\ARTBOOK", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000486", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-09-15T19:14:23Z"
+}

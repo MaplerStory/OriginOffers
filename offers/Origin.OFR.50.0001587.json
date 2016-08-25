@@ -1,0 +1,122 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1041867"
+    }, 
+    "financeId": "1041867", 
+    "itemId": "Origin.ITM.50.0001373", 
+    "localizableAttributes": {
+        "backgroundImage": "/195262/1200.0x800.0/1041867_pdpbg_1200x800_en_US_^_2016-07-19-02-59-59_27b7902f3be120e5bb49f145613ef6c254071aff.jpg", 
+        "displayName": "This War of Mine\u2122: The Little Ones DLC", 
+        "longDescription": "This War of Mine: The Little Ones DLC<br>\n$1 from each purchase goes to War Child, a charity helping children in conflict-affected areas<br> \nwww.warchild.org.uk<br><br>\nThis War of Mine: The Little Ones explores the hardships of wartime survival as seen from an entirely new perspective\u2015that of a child. This DLC puts you in charge of a group of adults and children stuck in a besieged city, struggling with basic necessities. TWoM: The Little Ones focuses not only on the reality of enduring war, but also on how even in times of conflict, kids are still kids: they laugh, cry, play, and see the world differently. In addition to thinking about survival, you'll have to summon your inner child to understand how to protect the little ones. Their youth, and their future, are in your hands.<br><br>\nA word from the developers: \"From our perspective, adding children to the experience was the most important move to complete the big picture. But it required utmost respect for victims of war, so understandably, we wanted to present the topic without any gratuitous gore. In fact, our goal was to show how little ones perceive the reality of an armed conflict. And again, if you decide to purchase the DLC, you're contributing one dollar to War Child. Thank you!\"<br><br>\nThis War of Mine: The Little Ones:<br>\n&bull; Experience the biggest expansion to This War of Mine<br>\n&bull; Protect innocent children<br>\n&bull; Craft toys, play with kids, and be the caretaker they need<br>\n&bull; Meet new adult civilians in scenarios with children<br>\n&bull; Support the War Child charity simply by purchasing the DLC", 
+        "packArtLarge": "/195262/231.0x326.0/1041867_LB_231x326_en_US_^_2016-07-08-04-55-55_2f07812dfdeb454536fd0073a1dedc66fc9b2027.jpg", 
+        "packArtMedium": "/195262/142.0x200.0/1041867_MB_142x200_en_US_^_2016-07-08-04-56-18_0cfead9b3af5b3c3718314387291193bd501ae36.jpg", 
+        "packArtSmall": "/195262/63.0x89.0/1041867_SB_63x89_en_US_^_2016-07-08-04-56-34_f9ed2a8ae6063d6c870f72c6788c189dd7abab9f.jpg", 
+        "shortDescription": "Experience the biggest expansion to This War of Mine"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "THIS WAR OF MINE", 
+                    "masterTitleId": 195262
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001587", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1041867", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-06-01T00:00:19Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2016-06-01T00:00:19Z"
+                }, 
+                {
+                    "downloadStartDate": "2016-06-01T00:00:19Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-06-01T00:00:19Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "tr_TR"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-07-28T17:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-07-27T06:17:49Z"
+}

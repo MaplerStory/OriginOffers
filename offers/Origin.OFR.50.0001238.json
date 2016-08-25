@@ -1,0 +1,132 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1037147"
+    }, 
+    "financeId": "1037147", 
+    "itemId": "Origin.ITM.50.0001108", 
+    "localizableAttributes": {
+        "displayName": "DARKSIDERS SOUNDTRACK", 
+        "packArtLarge": "/182309/231.0x326.0/71607_LB_231x326_en_US_^_2013-06-03-18-35-59_b95b22ccfc3f3df8849c5c7a88f827a45ef565556d1fbecad387047ec8824b3c.jpg", 
+        "packArtMedium": "/182309/142.0x200.0/71607_MB_142x200_en_US_^_2013-06-03-18-36-18_f89690c41a556af95551017ceaf873f8fc9334f56929833f9fa5243d78d89956.jpg\" name=\"packArtMedium", 
+        "packArtSmall": "/182309/63.0x89.0/71607_SB_63x89_en_US_^_2013-06-03-18-36-35_4d97ad60032ab3886a7806b310741f601be0dce4e3438c007f50efd697498ea2.jpg\" name=\"packArtSmall", 
+        "shortDescription": "DARKSIDERS SOUNDTRACK"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DARKSIDERS - ORIGIN", 
+                    "masterTitleId": 195238
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001238", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1037147", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2010-01-05T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2010-01-05T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.1.0.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.1.0.0", 
+                                "downloadURL": "/shift/nordic_games/darksiders/dlc_-_ww_x0_(darksiders_soundtrack)/darksiderspcdlc__ww_x0_darksiders_soundtrackrun_1__20151106_11001277739817724c7fa7a62f98a59015d0.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-11-06T22:57:19Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Vigil Games\\Darksiders\\Install Dir]\\Soundtrack", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Vigil Games\\Darksiders\\Install Dir]\\__Installer\\DLC\\SOUNDTRACK\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\Soundtrack", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000509", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-11-10T00:38:53Z"
+}

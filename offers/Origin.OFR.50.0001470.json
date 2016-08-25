@@ -1,0 +1,92 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1040455"
+    }, 
+    "financeId": "1040455", 
+    "itemId": "Origin.ITM.50.0001273", 
+    "localizableAttributes": {
+        "displayName": "PvZ Garden Warfare 2 1,140,000 Coin Pack", 
+        "longDescription": "Face off against the fun-dead to earn coins the old-fashioned way or grab some Coin Packs and stock up on the in-game goods, first. Each Mega Coins Pack includes 1,140,000 to spend in the Sticker Shop on sticker packs and consumables. Plus, spend more and increase the chances of landing a rare sticker or two. Then complete your sticker collection and prove who really rules Suburbia.", 
+        "packArtLarge": "/192470/231.0x326.0/1040455_LB_231x326_en_US_^_2016-04-25-09-59-06_2eb163d75f7a351907a80301dad2673280bcd47d.jpg", 
+        "packArtMedium": "/192470/142.0x200.0/1040455_MB_142x200_en_US_^_2016-04-25-09-59-06_7f08d8827617c9c9efdeaff0b12fb4c019c2cdcb.jpg", 
+        "packArtSmall": "/192470/63.0x89.0/1040455_SB_63x89_en_US_^_2016-04-25-09-59-06_22775f6c758ee2cdc9428ce68d7e28ca0205c228.jpg", 
+        "shortDescription": "Get Weirder"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Plants vs Zombies", 
+                    "franchiseId": 180915
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "PLANTS VS ZOMBIES GARDEN WARFARE 2", 
+                    "masterTitleId": 192470
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001470", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-04-21T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pt_BR"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-06-30T07:37:22Z"
+}

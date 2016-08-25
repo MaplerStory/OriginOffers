@@ -1,0 +1,133 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036223"
+    }, 
+    "financeId": "1036223", 
+    "itemId": "Origin.ITM.50.0001059", 
+    "localizableAttributes": {
+        "displayName": "Tom Clancy's Rainbow Six\u00ae Siege Tiger Weapons Skin", 
+        "longDescription": "Tom Clancy's Rainbow Six\u00ae Siege Tiger Weapons Skin", 
+        "packArtLarge": "/195061/231.0x326.0/1036212_LB_231x326_en_US_^_2015-09-04-16-03-03_74796cc5395ebbb1b348ef5c79af34a99f54c1eb.png", 
+        "packArtMedium": "/195061/142.0x200.0/1036212_MB_142x200_en_US_^_2015-09-04-16-04-03_3b3bbbc190f4338f010a07c4f240e3ccbef97143.png", 
+        "packArtSmall": "/195061/63.0x89.0/1036212_SB_63x89_en_US_^_2015-09-04-16-04-33_f7611b25b838514411c4eef997b952f52335e81c.png", 
+        "shortDescription": "Tom Clancy's Rainbow Six\u00ae Siege Tiger Weapons Skin"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "TOM CLANCYS RAINBOW SIX SIEGE", 
+                    "masterTitleId": 195061
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001149", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036223", 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-12-01T05:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-12-01T05:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000478", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-12-04T17:33:22Z"
+}

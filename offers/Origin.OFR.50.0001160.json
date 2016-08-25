@@ -1,0 +1,156 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001040", 
+            "Origin.OFR.50.0001043", 
+            "Origin.OFR.50.0001044", 
+            "Origin.OFR.50.0001030", 
+            "Origin.OFR.50.0001470", 
+            "Origin.OFR.50.0001042", 
+            "Origin.OFR.50.0001026", 
+            "Origin.OFR.50.0001243", 
+            "Origin.OFR.50.0001595", 
+            "Origin.OFR.50.0001244", 
+            "Origin.OFR.50.0001038", 
+            "Origin.OFR.50.0001522", 
+            "Origin.OFR.50.0001528"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1026482"
+    }, 
+    "financeId": "1026482", 
+    "itemId": "Origin.ITM.50.0000788", 
+    "localizableAttributes": {
+        "displayName": "Plants vs. Zombies\u2122 Garden Warfare 2 (Trial)", 
+        "longDescription": "Ready the Peashooters and prepare for the craziest, funniest shooter in the universe: Plants vs. Zombies Garden Warfare 2. Dr. Zomboss has conquered Suburbia and transformed it into a zombie-filled, plant-free paradise. Now it's the plants' turn to take the offensive in the new 24-player Herbal Assault mode and reclaim their turf. Or, choose your side in 4-player co-op or solo play. With new modes, classes, and loads of humor, Plants vs. Zombies Garden Warfare 2 lets you wage war on seriousness (and your friends!) however you want.&nbsp;Plants vs. Zombies&nbsp;Garden Warfare 2 also introduces the Backyard Battleground, your very own interactive hub where you and up to 3 friends can take on daily quests, challenges, and interact with your favorite PvZ characters.<br><br>\n<b>Game Features:</b><br><br>\n\u2022 <b>Plants attack.</b> This time, bring the fight to the zombies. Go on the offensive as the plants to reclaim Suburbia, or stop the botanical invasion and preserve Zomburbia in all-new game modes.<br><br>\n\u2022 <b>More characters, classes, and skins.</b> 6 new classes join the cast, making for 14 total playable character classes. Choose from more than than 100 playable plants and zombies from the past, present, and future and stand out as you fight. <br><br>\n\u2022 <b>Play your way.</b> Plants vs. Zombies Garden Warfare 2 delivers tons of lawn-inspiring game modes so you can play together or by yourself. Need some company? Play in the new Herbal Assault mode and join 24-players online and duke it out all over Suburbia. Or join the plants or the zombies and team up in 4-player co-op mode. And if you want, you can even play solo!<br><br>\n\u2022 <b>A living PvZ world.</b> The struggle for Suburbia is in full bloom across 12 maps bursting with personality and humor. Fight your way through Zombossified cityscapes and crowded airspaces, all layered with hidden secrets waiting to be discovered.", 
+        "packArtLarge": "/192470/231.0x326.0/1034840_LB_231x326_en_US_^_2015-06-05-11-39-58_ed81c2b4ddfc0e1b52e683ea0176529831dcf020.jpg", 
+        "packArtMedium": "/192470/142.0x200.0/1034840_MB_142x200_en_US_^_2015-06-05-11-40-25_b74a4b1d5ec234d08174020e0a7fc02e9f8a32f3.jpg", 
+        "packArtSmall": "/192470/63.0x89.0/1034840_SB_63x89_en_US_^_2015-06-05-11-40-47_c88cf467c2e1397f6ab0decd93936f6f5e90db83.jpg", 
+        "shortDescription": "Launch an Herbal Assault"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Plants vs Zombies", 
+                    "franchiseId": 180915
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "PLANTS VS ZOMBIES GARDEN WARFARE 2", 
+                    "masterTitleId": 192470
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001160", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1026482_oa", 
+            "gameDistributionSubType": "Gameplay Timer Trial - Access", 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game", 
+            "trialLaunchDuration": 10
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-02-17T22:30:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-02-17T22:30:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.4.0\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.4.0", 
+                                "downloadURL": "/shift/plants_vs_zombies/garden_warfare_2/fg__ww/garden_warfare_2pcfg__wwalpha_731__pvz2_pc_771768_dip_retail_patch3ship71b7d599aeb84ffb848a61497ad01b44.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-05-31T14:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.5.0\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.5.0", 
+                                "downloadURL": "/shift/plants_vs_zombies/garden_warfare_2/fg__ww/garden_warfare_2pcfg__wwalpha_973__pvz2_pc_793850_dip_retail_patch4shipaea03b947b5747399f5fd45ceb7722ba.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2016-09-07T14:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "180915_192470_50844", 
+                        "commerceProfile": "oig-pvzgw2", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\PopCap\\Plants vs Zombies GW2\\Install Dir]gw2.main_win64_retail.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\PopCap\\Plants vs Zombies GW2\\Install Dir]gw2.main_win64_retail.exe", 
+                        "installationDirectory": "Plants vs Zombies Garden Warfare 2", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1026482", 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000345", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-05-06T01:56:20Z"
+}

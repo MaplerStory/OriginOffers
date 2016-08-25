@@ -1,0 +1,157 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1030625"
+    }, 
+    "financeId": "1030625", 
+    "itemId": "Origin.ITM.50.0001090", 
+    "localizableAttributes": {
+        "displayName": "Wasteland 2 Choir Songs EP", 
+        "longDescription": "Wasteland 2  Choir Songs EP", 
+        "packArtLarge": "/193998/231.0x326.0/1028838_LB_231x326_en_US_^_2014-08-29-16-34-56_cf83a96910661cacd63ff949ebf29d960731ae53.jpg", 
+        "packArtMedium": "/193998/142.0x200.0/1028838_MB_142x200_en_US_^_2014-08-29-16-34-40_791eced088b8626024e60991bfddfc60368bffe3.jpg", 
+        "packArtSmall": "/193998/63.0x89.0/1028838_SB_63x89_en_US_^_2014-08-29-16-34-28_c2fea4d345d04b935293f91adc59edddd909b670.jpg", 
+        "shortDescription": "Wasteland 2 Choir Songs EP"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "WASTELAND 2 ORIGIN", 
+                    "masterTitleId": 193998
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001191", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1030625", 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2014-09-19T17:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2014-09-19T17:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2014-09-19T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2014-09-19T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/p/opp/inxile/WASTELAND_2/DDX_DLC/Wasteland_2_Choir_Songs_EP_1.3.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-10-05T11:04:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[unity.inXile.Wasteland2]/Wasteland 2 - Choir Songs EP", 
+                        "installCheckOverride": "[unity.inXile.Wasteland2]/Wasteland 2 - Choir Songs EP/__Installer/Installerdata.xml", 
+                        "installationDirectory": "/Wasteland 2 - Choir Songs EP", 
+                        "macBundleID": "unity.inXile.Wasteland2", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000499", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/p/opp/inxile/WASTELAND_2/DDX_DLC/Wasteland_2_Choir_Songs_EP_1.3.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-10-05T11:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\inXile Entertainment\\<Default Game Folder>\\Install Dir]\\\\Wasteland 2 - Choir Songs EP", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\inXile Entertainment\\<Default Game Folder>\\Install Dir]\\\\Wasteland 2 - Choir Songs EP\\__Installer\\Installerdata.xml", 
+                        "installationDirectory": "\\Wasteland 2 - Choir Songs EP", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000498", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-10-06T18:38:52Z"
+}

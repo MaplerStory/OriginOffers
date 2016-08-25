@@ -1,0 +1,128 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "1000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1040714"
+    }, 
+    "financeId": "1040714", 
+    "itemId": "Origin.ITM.50.0001278", 
+    "localizableAttributes": {
+        "displayName": "FIFA 17 Ultimate Team Pack: Jumbo Premium Gold Players", 
+        "longDescription": "Double the size of a Premium Gold Players Pack with an extra Rare! Includes 24 players, at least 20 Gold with 7 Rares.", 
+        "packArtLarge": "/182633/231.0x326.0/1039351_LB_231x326_en_GB_^_2016-08-12-09-55-58_97465b804591fb08afedc93c8d2df8da9a93deae.jpg", 
+        "packArtMedium": "/182633/142.0x200.0/1039380_MB_142x200_en_GB_^_2016-08-12-09-55-58_b6ae07a3d263286513ee1b6ddd8a7a6ddbe70308.jpg", 
+        "packArtSmall": "/182633/63.0x89.0/1039380_SB_63x89_en_GB_^_2016-08-12-09-55-58_bec095150acb77c42a0e35a3882243c22ad77bea.jpg", 
+        "shortDescription": "Double the size of a Premium Gold Players Pack with an extra Rare! Includes 24 players, at least 20 Gold with 7 Rares."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 17", 
+                    "masterTitleId": 182633
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001482", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-09-19T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-09-19T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-22T10:08:47Z"
+}

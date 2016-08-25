@@ -1,0 +1,285 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VU"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1015264"
+    }, 
+    "financeId": "1015264", 
+    "itemId": "Origin.ITM.50.0001216", 
+    "localizableAttributes": {
+        "backgroundImage": "/192248/1200.0x800.0/1015264_pdpbg_1200x800_en_US_1_^_2016-04-08-10-49-12_55ace887c9d784cfebd778052179f3925726fe78.jpg", 
+        "displayName": "Batman\u2122: Arkham Origins", 
+        "longDescription": "<b><i>This version only supports single player.</i></b><br><br>\n<b>Batman\u2122: Arkham Origins</b> is the next installment in the blockbuster Batman: Arkham videogame franchise. Developed by WB Games Montr\u00e9al, the game features an expanded Gotham City and introduces an original prequel storyline set several years before the events of Batman: Arkham Asylum and Batman: Arkham City, the first two critically acclaimed games of the franchise. Taking place before the rise of Gotham City\u2019s most dangerous criminals, the game showcases a young and unrefined Batman as he faces a defining moment in his early career as a crime fighter that sets his path to becoming the Dark Knight.<br><br>\n<b>Key Features:</b><br><br>\n<b>The Arkham Story Begins:</b> Batman: Arkham Origins features a pivotal tale set on Christmas Eve where Batman is hunted by eight of the deadliest assassins from the DC Comics Universe. Players become an early-career Batman as he encounters for the first time many of the characters that shape his future.<br><br>\n<b>Enhanced Detective Mode:</b> Think like Batman with an all-new Case File system that allows players to analyze seemingly impossible-to-solve crime reconstructions in real time. Combining Batman\u2019s cowl sensors with the Batcomputer, players can digitally recreate crimes and study detailed simulation of the act as it happened.<br><br>\n<b>Gotham City will learn to fear Batman:</b> Take back the sprawling streets of Gotham years before its transformation into Arkham City. Glide above or battle your way through new and ever more dangerous districts in the quest for justice. Prevent crimes in progress, take down gangs of violent new criminals and explore deadly new locations, from the impoverished streets to the penthouses of Gotham\u2019s wealthy.<br><br>\n<b>Gotham\u2019s Most Wanted:</b> The city streets are filled with more than just Black Mask\u2019s assassins. Locate and take down Gotham\u2019s most violent and dangerous criminals to earn unique upgrades. <br><br>\n<b>Lethal New Enemies:</b> Fight new foes such as the Armored Enforcer, the Martial Artist and more \u2013 each of which challenge players to approach Batman\u2019s FreeFlow Combat scenarios in different ways. Classic FreeFlow combat is expanded with every new opponent \u2013 and with Batman\u2019s abilities to engage them.<br><br>\n<b>New Gadgets:</b> Utilize Batman\u2019s signature gadgets or take advantage of powerful new additions such as the Remote Claw, the Concussion Detonator and more. Use the Remote Claw to create new routes by deploying strategic tightropes or directly attack enemies by stringing them up from vantage points. Ready the Concussion Detonator to stun and disorient groups of opponents in close combat.<br><br>\n<b>New and Familiar Characters:</b> Experience a fresh take on iconic Batman characters including Black Mask, Penguin, Deathstroke, Bane, Deadshot, Anarky, Captain Gordon, The Joker, Copperhead, Firefly and others yet to be revealed.<br><br>", 
+        "packArtLarge": "/192248/231.0x326.0/1015264_LB_231x326_en_US_^_2016-04-08-10-37-18_c6033f611dee2c586514928aaed97cd03cf8e310.jpg", 
+        "packArtMedium": "/192248/142.0x200.0/1015264_MB_142x200_en_US_^_2016-04-08-10-37-41_0d75272fd3f5d8af3e68cb5d44fd6c8d4e753759.jpg", 
+        "packArtSmall": "/192248/63.0x89.0/1015264_SB_63x89_en_US_^_2016-04-08-10-37-58_2cc8f7b9990b72ff679348ad37e1f58d9fd24f07.jpg", 
+        "shortDescription": "Take back the sprawling streets of Gotham!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATMAN ARKHAM ORIGINS", 
+                    "masterTitleId": 192248
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001405", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "192248", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2013-10-24T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2013-10-24T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"1\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.3.6.4844\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.3.6.4844", 
+                                "downloadURL": "/shift/warner_brothers_interactive/batman_arkham_origin/fg__ww_x0/batman_arkham_originpcfg__ww_x0run_2__20160429_1364844f9bd1a541aff4a22ad2914b52ea77581.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-04-30T20:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Documents%/WB Games/Batman Arkham Origins/SaveData/</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\WB Games Montreal\\Batman Arkham Origins\\Install Dir]SinglePlayer\\Binaries\\Win32\\BatmanOrigins.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\WB Games Montreal\\Batman Arkham Origins\\Install Dir]SinglePlayer\\Binaries\\Win32\\BatmanOrigins.exe", 
+                        "installationDirectory": "Batman Arkham Origins", 
+                        "monitorPlay": false, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000550", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-04-28T21:53:00Z"
+}

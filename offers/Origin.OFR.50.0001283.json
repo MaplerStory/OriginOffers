@@ -1,0 +1,212 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Stuff Packs", 
+        "extraContentDisplayGroupSortAsc": 410, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 50
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71117"
+    }, 
+    "financeId": "71117", 
+    "itemId": "ITM-EAST:34790", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Master Suite Stuff", 
+        "extraContentDisplayGroupDisplayName": "STUFF PACKS", 
+        "longDescription": "You\u2019ve made your Sim. You\u2019ve built his or her house from the ground up. You\u2019ve got little Sims kids who will burn down the kitchen if left unattended, and who make strange noises when they have to use the bathroom. Now it\u2019s time to turn your home into something stylish and sexy. Step up your space with The Sims 3 Master Suite Stuff PC Download.<br><br>A life of luxury, relaxation, and romance awaits your Sims with this new stuff pack. Turn the bathroom into the ultimate spa experience with tubs full of fragrant bubble bath. Transform the bedroom into an extravagant retreat with the most lavish furnishings, including a canopy bed. Let your Sim lay back and relax, or turn up the heat with a new hairstyle, some lacy lingerie, and candles to light when the sun goes down.<br><br>The Sims 3 Master Suite Stuff packs an exquisite punch. Download it for your PC today and make your bedroom and bathroom fabulous.<br><br><b>Features:</b><br><br>\u2022 <b>The Ultimate Master Suite:</b> Spice up your room with a romantic canopied bed, a 40s-inspired chair, and more.<br><br>\u2022 <b>Lush Bathroom Makeovers:</b> Pile on the luxury with contemporary, spa-worthy furnishings, including a well-crafted vanity and a sleek and stylish tub.<br><br>\u2022 <b>Finishing Touches:</b> From vases of flowers to candles and rose petals, little things can help set the mood.<br><br>\u2022 <b>Dress To Impress:</b> Whether your Sim is seeking a romantic rendezvous or an indulgent evening of relaxation, the new intimate wear options are bound to please.<br><br>\u2022 <b>Stylish New Cuts:</b> Choose a casual yet elegant new hairstyle that complements your Sim\u2019s new commitment to relaxation.<br><br>", 
+        "packArtLarge": "/181112/PACKART_PRESET_LARGE_JPG_231x326/71117_LB_231_^_2013-01-18-15-38-24_affce7a53d86f4b4476302aea523adb5aa71b23dc88a35c2e59a5fe17bd4e441.jpg", 
+        "packArtMedium": "/181112/PACKART_PRESET_MEDIUM_JPG_142x200/71117_MB_142_^_2013-01-18-15-38-43_a5a68eed742e2f6ccf6f4443ee8962b7ba1f58bc2648848e922f2961b9f6b5a2.jpg", 
+        "packArtSmall": "/181112/PACKART_PRESET_SMALL_JPG_63x89/71117_SB_63_^_2013-01-18-15-39-43_3276c0ec41c8bc9bc992849099175780fb03e8ece003990d4003960069a09ed7.jpg", 
+        "shortDescription": "Ignite your Sims' passion and desire."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 MASTER SUITES STUFF (SP5)", 
+                    "masterTitleId": 181112
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001283", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "71117", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2012-01-24T08:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-01-24T08:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_master_suite_stuff_sp5/the_sims_3macdlc__ww_master_suite_stuff_sp5run_1__origin__idjit_data_store6e8ed39114a34c8eaffa78ac4d8bf29e.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3sp05]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3sp05]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 Master Suite Stuff Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3sp05", 
+                        "multiPlayerId": "71117", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "6f5a9ccb-2667-41ab-98e4-fab9065c9bb7", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(sp05:_master_suite_stuff)/the_sims_3pcdlc__ww_sp05_master_suite_stuffbeta_1__sp05__origin_access91efba055dd644e18f7e9efd123330b4.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-22T17:36:43Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Master Suite Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p11.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\SP05", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\71117]"
+                    }, 
+                    "softwareId": "011e42cd-3978-4a5d-bb35-7a92cebc9a85", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:51:12Z"
+}

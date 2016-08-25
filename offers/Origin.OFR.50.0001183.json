@@ -1,0 +1,125 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001180", 
+            "Origin.OFR.50.0001181"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036218"
+    }, 
+    "financeId": "1036218", 
+    "itemId": "Origin.ITM.50.0001065", 
+    "localizableAttributes": {
+        "displayName": "Assassin\u2019s Creed\u00ae Syndicate", 
+        "longDescription": "London, 1868. The Industrial Revolution unleashes an incredible age of invention, transforming the lives of millions with technologies once thought impossible. Opportunities created during this period have people rushing to London to engage in this new world, a world no longer controlled by kings, emperors, politicians, or religion, but by a new common denominator: money.<br><br> Not everyone is able to enjoy the benefits of this boom, however. Despite fueling the engine of the British Empire, workers\u2019 lives are little more than legalized slavery while the top few percent profit from their labor. Living poor and dying young, the lower class unite in protest as a new kind of family, gangs, who turn to a life in the underworld in their struggle to survive. A struggle, until watchful Assassins come to their side and re-ignite an age-old conflict involving London\u2019s leaders that will echo throughout modern history, from the underground up.<br><br> Introducing Jacob Frye, who with the help of his twin sister Evie, will change the fate of millions in Assassin\u2019s Creed\u00ae Syndicate. Rise to rally and lead the underworld to break the corrupt stranglehold on London in a visceral adventure filled with action, intrigue, and brutal combat.<br><br> <b>Assassin\u2019s Creed\u00ae Syndicate Features</b><br><br> THE FIRST ASSASSIN AT THE BIRTH OF THE MODERN AGE<br> As the brash, rebellious Jacob Frye, put up your dukes and take enemies on with lightning-fast multikills and countermoves. Use improved stealth tactics to elude your enemies and unleash your arsenal of weapons, including the kukri knife, brass knuckles, and sword cane. Utilize new technology like the rope launcher to scale buildings in seconds and take your enemies by surprise.<br><br> TRAVERSE THE FAST-PACED WORLD OF INDUSTRIAL LONDON<br> From Buckingham Palace to Big Ben, fight and triumph across the massive open world of Victorian London. Parkour across moving vehicles to track down enemies or escape after a daring raid, hijack carriages to engage in a no-holds-barred street race, or blaze a trail of destruction aboard steamboats along the River Thames.<br><br> TAKE OVER THE LONDON UNDERWORLD<br> With Jacob as the leader, gamers can establish Great Britain\u2019s fiercest gang, the only force that can challenge the elite and defeat rival gangs to bring freedom to the oppressed masses. Enemy strongholds can be infiltrated by using an arsenal of weapons to dominate London\u2019s underworld. From robbing trains to rescuing child laborers, players will stop at nothing to bring justice to London\u2019s dangerous streets.<br><br> MASTER THE ART OF STEALTH AS EVIE FRYE<br> Play as Jacob\u2019s twin sister Evie, a relentless Assassin who has perfected the silent, swift, invisible strike. Parkour across London\u2019s immense open world using your status in London\u2019s leading crime syndicate to change the city for the better.", 
+        "packArtLarge": "/195063/231.0x326.0/1036217_LB_231x326_en_US_^_2015-09-10-11-32-07_dc366e297eb08a9fac46ca6c266970156fc63146.png", 
+        "packArtMedium": "/195063/142.0x200.0/1036217_MB_142x200_en_US_^_2015-09-10-11-32-33_3f3768e36cc2c4c3cdf09a51e76ba828e9e7021d.png", 
+        "packArtSmall": "/195063/63.0x89.0/1036217_SB_63x89_en_US_^_2015-09-10-11-33-00_f097d9e1f265e86fdcb8df47cd635f1808b09243.png", 
+        "shortDescription": "Change the Fate of Millions"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ASSASSINS CREED SYNDICATE", 
+                    "masterTitleId": 195063
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001183", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036218", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-11-17T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-11-19T05:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildReleaseVersion": "1", 
+                                "downloadURL": "/p/opp/Ubisoft/ASSASSINS_CREED_SYNDICATE/Assassins_Creed_Syndicate_RU.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-11-12T16:57:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 1955\\InstallLocation]\\ACS.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 1955\\InstallLocation]\\ACS.exe", 
+                        "installerPath": "autorun.exe", 
+                        "monitorInstall": true, 
+                        "monitorPlay": false, 
+                        "partnerPlatform": "Other", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000492", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-11-19T01:22:03Z"
+}

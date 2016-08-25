@@ -1,0 +1,107 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1037648"
+    }, 
+    "financeId": "1037648", 
+    "itemId": "Origin.ITM.50.0001195", 
+    "localizableAttributes": {
+        "displayName": "Dungeons of Dredmor: Conquest of the Wizardlands", 
+        "longDescription": "Deep within the pocket dimensions of the Wizardlands, the mighty Wizardkings plunge their hands greedily into their stashes of magical wizarding booze, desperately searching for more mana. Their time has passed, and they have faded into the drunken myths of obscurity. Some of them can still be seen on street corners, but most people just give them five zorkmids and walk away.\n<br><br>\nWhile the Wizardkings have faded into the hangover-fuelled mists of time, their artifacts of power corrupt the world. Powerful wizarding keys, strewn about the Dungeons of Dredmor during a grand night out, threaten the very reality of existence. Mystical wizarding graffiti, spray-painted on the walls during a particularily good party, holds the secrets of other worlds.\n<br><br>\nOnce again, it is time to enter the Dungeons of Dredmor. (If you see the Wizard Triangulon, place his hand gently into a bucket full of warm water.)\n<br><br>\n<b>Key Features:</b>\n<br><br>\n\u2022 Explore the Wizardlands!\n<br><br>\n\u2022 Trade grafitti with your friends and send them to their terrifying deaths!\n<br><br>\n\u2022 Crust potent, yet instable, crusts on your equipment with the new Encrusting system!\n<br><br>\n\u2022 Explore your very own pocket dimension, and decorate it to your taste!\n<br><br>\n\u2022 New Skill Trees: Communism, Banksterism, Magical Law, Egyptian Magic, Paranormal Investigator, and Tourist!\n<br><br>\n\u2022 Minibosses!\n<br><br>\n\u2022 New monster types!\n<br><br>\n\u2022 Diggle Hell! It's a real place!\n<br><br>\n\u2022 Two new audio tracks!\n<br><br>\n\u2022 Wield baffling, incredulous, powerful, and just plain stupid items!\n<br><br>\n\u2022 Keep Gaslamp Games off of the streets! We're running out of matches to sell and will soon be forced to start gnawing on our own legs.\n<br><br>", 
+        "packArtLarge": "/195260/231.0x326.0/1037316_LB_231x326_en_US_^_2016-03-18-12-23-31_479d5647e7a8c5f41b694705400c744805f335a0.jpg", 
+        "packArtMedium": "/195260/142.0x200.0/1037316_MB_142x200_en_US_^_2016-03-18-12-24-08_279ef8fa24c83eabcf6c058244dca749e0bd5457.jpg", 
+        "packArtSmall": "/195260/63.0x89.0/1037316_SB_63x89_en_US_^_2016-03-18-12-26-29_41828846db4bc6e564b8a5c346b72c2c602a6fda.jpg", 
+        "shortDescription": "Step into the Dungeons of Dredmor!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DUNGEONS OF DREDMOR", 
+                    "masterTitleId": 195260
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001372", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2011-07-13T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2011-07-13T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.1.4.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.1.4.0", 
+                                "downloadURL": "/shift/gaslamp_games/dungeons_of_dredmor/dlc__ww_us_exp_3/dungeons_of_dredmorpcdlc__ww_us_exp_3run_1__20160318_1140264ac0d8a40d4bfda308d1b2108c4e69.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-03-18T16:51:43Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Gaslamp Games\\Dungeons of Dredmor\\Install Dir]\\__Installer\\DLC\\EXP3\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EXP3", 
+                        "monitorPlay": false, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000535", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-05-03T23:32:56Z"
+}

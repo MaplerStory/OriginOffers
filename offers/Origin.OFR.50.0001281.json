@@ -1,0 +1,212 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Stuff Packs", 
+        "extraContentDisplayGroupSortAsc": 410, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 70
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/70729"
+    }, 
+    "financeId": "70729", 
+    "itemId": "ITM-EAST:25449", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Outdoor Living Stuff", 
+        "extraContentDisplayGroupDisplayName": "STUFF PACKS", 
+        "gameManualURL": "http://akamai.cdn.ea.com/eadownloads/u/f/manuals/GAME-SIMS3SP3/Manuals.zip", 
+        "longDescription": "You\u2019ve spent a lot of time designing your dream house, decorating it, and making it the envy of the other unfortunate Sims who don\u2019t have your taste. Now it\u2019s time to move the charm of your home outside and into your backyard by downloading The Sims 3: Outdoor Living Stuff for the PC.<br><br>The Sims 3 features some of the best expansions to ever hit the franchise. This stuff pack is the first time players get to decorate the outsides of their homes with as much detail as the inside.<br><br>Outdoor Living Stuff offers several new items to add to your patio and yard. Grills expand your range of cooking, fire pits suggest a cozy evening under the stars, and hot tubs set the mood for a perfect romantic evening. Choose from two styles for your outdoor paradise: \u201cGarden Terrace\u201d and \u201cSunset on of the Veranda,\u201d each adding a unique sense of style to your house\u2019s exterior. To add even more fun to the great outdoors, your Sims can dress the part, changing clothes to enjoy a relaxing soak in the hot tub or a fun BBQ with the neighbors &#8212; or don\u2019t invite them and let them smell the delicious ribs from over the fence.<br><br>Downloading The Sims 3: Outdoor Living Stuff is an absolute must to put the finishing touches on your house, making it the perfect place to live &#8212; or party &#8212; both inside and out.<br><br><b>Features:</b><br>&bull; Build the perfect al fresco setting for your Sims with stylish furnishings, outdoor electronics, and cozy fire pits and fireplaces. <br>&bull; Give your Sims several uniquely styled hot tubs where they can relax with friends or get romantic with someone special. <br>&bull; Turn up the heat with an all-new built-in countertop grill as part of your Sims\u2019 outdoor kitchen and take their cooking to a whole new level. <br>&bull; Choose from two new styles. \u201cGarden Terrace\u201d features elegant wrought-iron pieces, while \u201cSunset on the Veranda\u201d embraces the warmth of outdoors. <br>&bull; Dress your Sims in an array of chic but casual attire for a great day in the sun or a relaxing evening under the stars.<br><br>", 
+        "packArtLarge": "/178537/PACKART_PRESET_LARGE_JPG_231x326/70729_LB_231_^_2013-01-18-15-40-14_f04177d3968b2f1f7754835242a372a669b178d700afcbd848bed151d721167d.jpg", 
+        "packArtMedium": "/178537/PACKART_PRESET_MEDIUM_JPG_142x200/70729_MB_142_^_2013-01-18-15-40-26_68f618c2f8e7e0926cb10ae8daaf6064a13a1cdf27e071d4a3097f37dd240003.jpg", 
+        "packArtSmall": "/178537/PACKART_PRESET_SMALL_JPG_63x89/70729_SB_63_^_2013-01-18-15-40-37_898195c2f107e69918fecf01190a97f096cf021a4015c28460fd7fd50e47f3c2.jpg", 
+        "shortDescription": "Get grillin\u2019 under the stars."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 OUTDOOR LIVING STUFF (SP3)", 
+                    "masterTitleId": 178537
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001281", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "sims3_sp03_dd", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2011-02-01T18:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2011-02-01T18:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_outdoor_living_stuff_sp3/the_sims_3macdlc__ww_outdoor_living_stuff_sp3run_1__origin__idjit_data_storefe24ce9e4a8e4a2bb29b52f31e328c66.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3sp03]/Contents/MacOS/cider", 
+                        "installCheckOverride": "[com.transgaming.thesims3sp03]/Contents/MacOS/cider", 
+                        "installerPath": "The SIMS(tm) 3 Outdoor Living Stuff Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3sp03", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "dbe5460c-ff22-414c-86ba-c6c11593229b", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(sp03:_outdoor_living)/the_sims_3pcdlc__ww_sp03_outdoor_livingproduction_1__sp03__origin_accessc5049fb1a7f1481583bb7aed7f8e1b2d.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-17T23:13:36Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Outdoor Living Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p07.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\SP03", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\sims3_sp03_dd]"
+                    }, 
+                    "softwareId": "a392c2bc-9a88-478d-8df8-bb8589b444a6", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:50:19Z"
+}

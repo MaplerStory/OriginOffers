@@ -1,0 +1,233 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "HK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "ID"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "JP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "LA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VN"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001180", 
+            "Origin.OFR.50.0001181"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036303"
+    }, 
+    "financeId": "1036303", 
+    "itemId": "Origin.ITM.50.0001084", 
+    "localizableAttributes": {
+        "displayName": "Assassin\u2019s Creed\u00ae Syndicate Gold Edition", 
+        "longDescription": "The Gold Edition includes the Standard Edition and the Season Pass<br><br>London, 1868. The Industrial Revolution unleashes an incredible age of invention, transforming the lives of millions with technologies once thought impossible. Opportunities created during this period have people rushing to London to engage in this new world, a world no longer controlled by kings, emperors, politicians, or religion, but by a new common denominator: money.<br><br>\nNot everyone is able to enjoy the benefits of this boom, however. Despite fueling the engine of the British Empire, workers\u2019 lives are little more than legalized slavery while the top few percent profit from their labor. Living poor and dying young, the lower class unite in protest as a new kind of family, gangs, who turn to a life in the underworld in their struggle to survive. A struggle, until watchful Assassins come to their side and re-ignite an age-old conflict involving London\u2019s leaders that will echo throughout modern history, from the underground up.<br><br>\nIntroducing Jacob Frye, who with the help of his twin sister Evie, will change the fate of millions in Assassin\u2019s Creed\u00ae Syndicate. Rise to rally and lead the underworld to break the corrupt stranglehold on London in a visceral adventure filled with action, intrigue, and brutal combat.<br><br>\n<b>Assassin\u2019s Creed\u00ae Syndicate Features</b><br><br>\nTHE FIRST ASSASSIN AT THE BIRTH OF THE MODERN AGE<br>\nAs the brash, rebellious Jacob Frye, put up your dukes and take enemies on with lightning-fast multikills and countermoves. Use improved stealth tactics to elude your enemies and unleash your arsenal of weapons, including the kukri knife, brass knuckles, and sword cane. Utilize new technology like the rope launcher to scale buildings in seconds and take your enemies by surprise.<br><br>\nTRAVERSE THE FAST-PACED WORLD OF INDUSTRIAL LONDON<br>\nFrom Buckingham Palace to Big Ben, fight and triumph across the massive open world of Victorian London. Parkour across moving vehicles to track down enemies or escape after a daring raid, hijack carriages to engage in a no-holds-barred street race, or blaze a trail of destruction aboard steamboats along the River Thames.<br><br>\nTAKE OVER THE LONDON UNDERWORLD<br>\nWith Jacob as the leader, gamers can establish Great Britain\u2019s fiercest gang, the only force that can challenge the elite and defeat rival gangs to bring freedom to the oppressed masses. Enemy strongholds can be infiltrated by using an arsenal of weapons to dominate London\u2019s underworld. From robbing trains to rescuing child laborers, players will stop at nothing to bring justice to London\u2019s dangerous streets.<br><br>\nMASTER THE ART OF STEALTH AS EVIE FRYE<br>\nPlay as Jacob\u2019s twin sister Evie, a relentless Assassin who has perfected the silent, swift, invisible strike. Parkour across London\u2019s immense open world using your status in London\u2019s leading crime syndicate to change the city for the better.", 
+        "packArtLarge": "/195063/231.0x326.0/1036219_LB_231x326_en_US_^_2016-06-15-10-47-49_412f72ac274b4e63c8214690c0caf36ea7d72af6.png", 
+        "packArtMedium": "/195063/142.0x200.0/1036219_MB_142x200_en_US_^_2016-06-15-10-48-05_8f6e99451b25911912597b1d59e206fc607ce98e.png", 
+        "packArtSmall": "/195063/63.0x89.0/1036219_SB_63x89_en_US_^_2016-06-15-10-48-20_05182add1225b4613741cf5f8e41954b72ce345f.png", 
+        "shortDescription": "Change the Fate of Millions"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ASSASSINS CREED SYNDICATE", 
+                    "masterTitleId": 195063
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001247", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036303_d1", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-11-17T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-11-19T05:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildReleaseVersion": "1", 
+                                "downloadURL": "/p/opp/Ubisoft/ASSASSINS_CREED_SYNDICATE/Assassins_Creed_Syndicate_APAC.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-11-12T11:56:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 1956\\InstallLocation]\\ACS.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 1956\\InstallLocation]\\ACS.exe", 
+                        "installerPath": "autorun.exe", 
+                        "monitorInstall": true, 
+                        "monitorPlay": false, 
+                        "partnerPlatform": "Other", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000491", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-15T22:45:29Z"
+}

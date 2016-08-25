@@ -1,0 +1,118 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1032909"
+    }, 
+    "financeId": "1032909", 
+    "itemId": "Origin.ITM.50.0000909", 
+    "localizableAttributes": {
+        "displayName": "Star Wars\u2122 Battlefront\u2122 Alpha (Early Access)", 
+        "longDescription": "Star Wars\u2122 Battlefront\u2122 Closed Alpha", 
+        "packArtLarge": "/192140/231.0x326.0/1030897_LB_231x326_en_US_^_2015-04-28-11-47-22_d5e1ae356894059158059186d1a1aa842cae8563.jpg", 
+        "packArtMedium": "/192140/142.0x200.0/1030897_MB_142x200_en_US_^_2015-04-28-11-47-48_586d446ac360aa72ee9dd14fbf137bd95f6466b3.jpg", 
+        "packArtSmall": "/192140/63.0x89.0/1030897_SB_63x89_en_US_^_2015-04-28-11-48-16_e5d3188394bd585fd8489e321f5732cf493a580c.jpg", 
+        "shortDescription": "Star Wars\u2122 Battlefront\u2122 Closed Alpha"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Star Wars", 
+                    "franchiseId": 75158
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFRONT", 
+                    "masterTitleId": 192140
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001052", 
+    "offerType": "DEMO", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1032909", 
+            "gameDistributionSubType": "Alpha", 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None", 
+            "suppressedOfferIds": "Origin.OFR.50.0000932", 
+            "twitchClientBlacklist": true, 
+            "watermarkDownload": true
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-06-30T08:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-06-30T08:00:00Z", 
+                    "useEndDate": "2015-07-06T12:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"0\"/>\n    <gameVersion version=\"1.0.0.1\"/>\n    <requirements osMinVersion=\"6.0\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.1", 
+                                "downloadURL": "/shift/whiteshark/whiteshark/patch_-_ww_(consumer_alpha)/whitesharkpcpatch__ww_consumer_alphaalpha_1e437053fa65f482bbaa3ae15913ac823.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-06-30T08:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\STAR WARS Battlefront Closed Alpha\\Install Dir]\\battlefront.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\STAR WARS Battlefront Closed Alpha\\Install Dir]\\battlefront.exe", 
+                        "installationDirectory": "STAR WARS Battlefront Closed Alpha", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "111110243902222", 
+                        "netPromoterScoreBlacklist": true, 
+                        "oigClientBehavior": "Blacklist", 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000428", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-06-29T17:13:48Z"
+}

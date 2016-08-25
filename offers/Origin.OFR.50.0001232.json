@@ -1,0 +1,150 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "1200", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/102002519"
+    }, 
+    "financeId": "102002519", 
+    "itemId": "ITM-DA2E:26011", 
+    "localizableAttributes": {
+        "displayName": "Dragon Age 2 BioWare-Only Exclusive DLC Bundle", 
+        "longDescription": "This bundle includes all DLC for Dragon Age 2", 
+        "packArtLarge": "/76231/231.0x326.0/70784_LB_231_^_2012-12-08-15-47-21_ee21cb8b4d0ad60f051afcad3226fea3f57ad5010b42a4153d4fe536dd176b68.jpg", 
+        "packArtMedium": "/76231/142.0x200.0/70784_MB_142_^_2012-12-08-15-49-12_304ac635e3a6989c60c11d0b527284f926a4d4339ce785fcaa2e7f3d4d7ed486.jpg", 
+        "packArtSmall": "/76231/63.0x89.0/70784_SB_63_^_2012-12-08-15-50-17_867f18ea13f32eaae67b35e0612f6f79c6bdb396b771810b6894ddb4d90838ad.jpg", 
+        "shortDescription": "This bundle includes all DLC for Dragon Age 2"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Dragon Age", 
+                    "franchiseId": 68222
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DRAGON AGE 2", 
+                    "masterTitleId": 76231
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001232", 
+    "offerType": "Bundle", 
+    "publishing": {
+        "publishingAttributes": {
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-10-01T00:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2015-10-01T00:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2015-10-01T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-10-01T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.0.1.0\"/><featureFlags enableDifferentialUpdate=\"1\"/><requirements osReqs64Bit=\"1\"/></buildMetaData>", 
+                                "buildReleaseVersion": "1.0.1.0", 
+                                "downloadURL": "/shift/dragon_age/dragon_age_2/dlc__ww_signature_edition_bonus_items/dragon_age_2macdlc__ww_signature_edition_bonus_itemsrun_272faf12f22674a018f4fe779b839ec23.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-05T15:54:51Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[com.transgaming.dragonage2]/Contents/Resources/transgaming/c_drive/Program Files/Dragon Age 2/addins/da2_pro_col/manifest.xml", 
+                        "installationDirectory": "/", 
+                        "macBundleID": "com.transgaming.dragonage2", 
+                        "metadataInstallLocation": "/__Installer/DLC/Signature Edition Rewards/"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000572", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.0.0.0\"/><featureFlags enableDifferentialUpdate=\"1\"/><requirements osReqs64Bit=\"1\"/></buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/dragon_age/dragon_age_2/dlc__ww_signature_edition_bonus_items/dragon_age_2pcdlc__ww_signature_edition_bonus_itemsrun_148066759c5ab444c878498c71e03be37.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-01T21:54:05Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age II\\Install Dir]\\__Installer\\DLC\\Signature Edition Rewards\\__Installer\\installerdata.xml", 
+                        "metadataInstallLocation": "__Installer\\DLC\\Signature Edition Rewards"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000571", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-06-21T23:04:37Z"
+}

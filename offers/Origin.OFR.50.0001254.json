@@ -1,0 +1,325 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UZ"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001432", 
+            "Origin.OFR.50.0001433", 
+            "Origin.OFR.50.0001430", 
+            "Origin.OFR.50.0001431", 
+            "Origin.OFR.50.0000984", 
+            "Origin.OFR.50.0001436", 
+            "Origin.OFR.50.0000983", 
+            "Origin.OFR.50.0001437", 
+            "Origin.OFR.50.0001434", 
+            "Origin.OFR.50.0001435", 
+            "Origin.OFR.50.0000977", 
+            "Origin.OFR.50.0001429", 
+            "Origin.OFR.50.0000976", 
+            "Origin.OFR.50.0001427", 
+            "Origin.OFR.50.0001428", 
+            "Origin.OFR.50.0001421", 
+            "Origin.OFR.50.0001422", 
+            "Origin.OFR.50.0000971", 
+            "Origin.OFR.50.0000970", 
+            "Origin.OFR.50.0001024", 
+            "Origin.OFR.50.0001420", 
+            "Origin.OFR.50.0000973", 
+            "Origin.OFR.50.0001425", 
+            "Origin.OFR.50.0000972", 
+            "Origin.OFR.50.0001426", 
+            "Origin.OFR.50.0000931", 
+            "Origin.OFR.50.0000975", 
+            "Origin.OFR.50.0001423", 
+            "Origin.OFR.50.0000930", 
+            "Origin.OFR.50.0000974", 
+            "Origin.OFR.50.0001424", 
+            "Origin.OFR.50.0000966", 
+            "Origin.OFR.50.0001418", 
+            "Origin.OFR.50.0000921", 
+            "Origin.OFR.50.0000965", 
+            "Origin.OFR.50.0001419", 
+            "Origin.OFR.50.0000968", 
+            "Origin.OFR.50.0001416", 
+            "Origin.OFR.50.0000967", 
+            "Origin.OFR.50.0001417", 
+            "Origin.OFR.50.0000969", 
+            "Origin.OFR.50.0000928", 
+            "Origin.OFR.50.0000927", 
+            "Origin.OFR.50.0000929", 
+            "Origin.OFR.50.0001130", 
+            "Origin.OFR.50.0000881", 
+            "Origin.OFR.50.0000880", 
+            "Origin.OFR.50.0000960", 
+            "Origin.OFR.50.0000962", 
+            "Origin.OFR.50.0000961", 
+            "Origin.OFR.50.0001415", 
+            "Origin.OFR.50.0000920", 
+            "Origin.OFR.50.0000964", 
+            "Origin.OFR.50.0000963", 
+            "Origin.OFR.50.0000955", 
+            "Origin.OFR.50.0000954", 
+            "Origin.OFR.50.0000957", 
+            "Origin.OFR.50.0000879", 
+            "Origin.OFR.50.0000956", 
+            "Origin.OFR.50.0001406", 
+            "Origin.OFR.50.0000915", 
+            "Origin.OFR.50.0000959", 
+            "Origin.OFR.50.0000958", 
+            "Origin.OFR.50.0000917", 
+            "Origin.OFR.50.0000916", 
+            "Origin.OFR.50.0000919", 
+            "Origin.OFR.50.0000918", 
+            "Origin.OFR.50.0001440", 
+            "Origin.OFR.50.0001441", 
+            "Origin.OFR.50.0001442", 
+            "Origin.OFR.50.0000951", 
+            "Origin.OFR.50.0001007", 
+            "Origin.OFR.50.0001128", 
+            "Origin.OFR.50.0000950", 
+            "Origin.OFR.50.0001008", 
+            "Origin.OFR.50.0000953", 
+            "Origin.OFR.50.0000952", 
+            "Origin.OFR.50.0000946", 
+            "Origin.OFR.50.0001438", 
+            "Origin.OFR.50.0001439", 
+            "Origin.OFR.50.0000947", 
+            "Origin.OFR.50.0000949"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1037763"
+    }, 
+    "financeId": "1037763", 
+    "itemId": "Origin.ITM.50.0001115", 
+    "localizableAttributes": {
+        "displayName": "FIFA 16 Deluxe Edition", 
+        "longDescription": "Create more moments of magic than ever before with FIFA 16. Make every match memorable with increased control in Midfield, improved defensive moves, more stars, and a new way to play. Build your dream team in FIFA Ultimate Team, or compete as one of 12 Women\u2019s National Teams for the first time ever in the FIFA franchise, including Germany, USA, France, Sweden, England, Brazil, and more. FIFA 16 innovates across the entire pitch, delivering a lifelike and authentic football experience.<br><br>   <b>Game Features:</b><br><br>  <b>Innovative new features.</b> Play your way, in your favorite modes, and experience all-new gameplay elements that bring each match to life. FIFA 16 brings Confidence in Defending, Control in Midfield, and gives you the tools you need to play and experience an incredible match of football.<br><br>   <b>Play as Women's National Teams.</b> Choose from one of 12 Women's National Teams and compete in Match Day, an Offline Tournament, Online Seasons Cup, and Online Friendly Matches. The available teams are: Germany, USA, France, Sweden, England, Brazil, Canada, Australia, Spain, China, Italy, Mexico.<br><br>  <b>Build your dream team.</b> Choose from among the best football stars of all time and build a team to take home the glory in FIFA Ultimate Team. Join an online community of more than 15 million fans to buy, trade, and sell players. Sign up to throw down against your friends\u2019 teams or compete in solo single-player tournaments \u2013 player stats, scores and team standings get updated every week.<br><br><b>Share with fans, share with friends.</b> Experience the social side of football with the EA SPORTS Football Club. The more you play, the faster you move up all 100 levels so track your progress and share it with friends. Join live Challenges and earn rewards that unlock hundreds of in-game items from the Football Club Catalogue. Watch as real-world storylines drive Football Club challenges so FIFA 16 looks, feels and plays like the real-world season.<br><br>", 
+        "packArtLarge": "/182631/231.0x326.0/1035481_LB_231x326_en_US_^_2015-11-19-05-38-38_70c1362364a7ec83c2d41d8705f21cef43c64172.jpg", 
+        "packArtMedium": "/182631/142.0x200.0/1035481_MB_142x200_en_US_^_2015-11-19-05-38-38_39a70b82404961d596e60c6a0d52b80c6df0e479.jpg", 
+        "packArtSmall": "/182631/63.0x89.0/1035481_SB_63x89_en_US_^_2015-11-19-05-38-38_77e2a80b5666df552ccaf2a1644cf4f43e088066.jpg", 
+        "shortDescription": "Play Your Best Season Yet in FIFA 16."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 16", 
+                    "masterTitleId": 182631
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001254", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1025931", 
+            "gameDistributionSubType": "Normal Game", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-09-18T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-09-22T04:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.41.59445.14\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.41.59445.14", 
+                                "downloadURL": "/shift/fifa/fifa_16_g4/patch__ww_x0_ww_patch6/fifa_16_g4pcpatch__ww_x0_ww_patch6concept_21__final2746380bbf84a0615254d519ab388d76ccabf0d.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2036-05-10T21:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.44.20513.9\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.44.20513.9", 
+                                "downloadURL": "/shift/fifa/fifa_16_g4/patch__ww_x0_ww_patch8/fifa_16_g4pcpatch__ww_x0_ww_patch8run_11__final29040539ad5ce9e483e490282022d840d4b0352.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-12T17:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50072_182631_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Documents%/FIFA 16/fifasetup.ini</exclude> <exclude order=\"1\">%Documents%/FIFA 16/httpcache/</exclude> <include order=\"2\">%Documents%/FIFA 16/</include> </saveFileCriteria>", 
+                        "commerceProfile": "oig-fifa-16", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 16\\Install Dir]fifasetup\\fifaconfig.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 16\\Install Dir]fifa16.exe", 
+                        "installationDirectory": "FIFA 16", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1025931", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000344", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {}
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-02-17T14:34:42Z"
+}

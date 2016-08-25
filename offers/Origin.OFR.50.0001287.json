@@ -1,0 +1,211 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Expansion Packs", 
+        "extraContentDisplayGroupSortAsc": 310, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 220
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71472"
+    }, 
+    "financeId": "71472", 
+    "itemId": "ITM-EAST:40335", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Seasons", 
+        "extraContentDisplayGroupDisplayName": "EXPANSION PACKS", 
+        "longDescription": "Have your Sims take a swim in the ocean on a hot summer day, bob for apples in the autumn leaves, test their snowboarding skill on the half pipe or welcome spring showers with a walk in the rain and a colorful umbrella. Each new season brings all-new activities, like soccer, and big seasonal festivals and celebrations. Your Sims can pucker up at the kissing booth for the spring festival, or see what Halloween surprises await in the haunted house. Dress for the weather with seasonal fashions including raincoats, snow gear, and even umbrellas. With all kinds of new foods, d\u00e9cor and weather effects, your Sims can enjoy the bounty and beauty of the ever-changing seasons and play with life like never before.<br><br>  <b>FEATURES:</b><br><br>  &bull; <b>Dress for the weather:</b> Outfit your Sim in new styles for the season, including snow gear, wetsuits, raincoats, umbrellas and new Halloween costumes!<br><br>  &bull; <b>Delight your Sims with new activities for every season:</b> Whether building an intimate igloo, carving a scary Jack o\u2019 lantern, taking a plunge off the diving board or setting off all-new fireworks, your Sim can always find new things to do throughout the year.<br><br>  &bull; <b>Join the fun with seasonal festivals:</b> Sims can get in a snowball fight at the annual winter festival, get their faces painted at the summer festival, whoop it up at the spring dance, or bob for apples during the fall festival.<br><br>  &bull; <b>Experience the joy and challenge of changing weather:</b> New weather effects and Sim reactions capture the power and beauty of nature! Sims can get a tan, be struck by lightning or catch a cold.<br><br>  &bull; <b>Bring the outdoors inside:</b> Your Sim can now learn the recipe for pumpkin pie or style their home with new furniture and d\u00e9cor. There are a host of new items to ring in each season. Get a tanning booth in time for summer, or ring in the holiday spirit with house lights and decorations.<br><br>  &bull; <b>Welcome mysterious visitors:</b> New weather patterns aren\u2019t the only things appearing in the sky! Befriend an alien visitor and use their UFO to abduct a neighbor, invade a community lot, or travel to the stars.<br><br>  <b>*Weather Stone will appear in all worlds, except for those from The Sims 3 World Adventures.</b>", 
+        "packArtLarge": "/185627/231.0x326.0/71472_LB_231_^_2012-12-14-14-37-49_0408673b58a8a757b0832813dc834d4a03673026f8aca610665e6d76fcfb1a80.jpg", 
+        "packArtMedium": "/185627/142.0x200.0/71472_MB_142_^_2012-12-14-14-38-02_89ed6ea8252c820d5ae5d720ff82d058c9d2e5bde475c4b3d52d732f04390548.jpg", 
+        "packArtSmall": "/185627/63.0x89.0/71472_SB_63_^_2012-12-14-14-38-11_3a88c718fa9111adbed5441299c7b86a243fd260e68005f4dba1e8b1ac23aa2e.jpg", 
+        "shortDescription": "Join the seasonal fun."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 SEASONS (EP8)", 
+                    "masterTitleId": 185627
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001287", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "71472", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2012-11-13T05:01:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-11-13T05:01:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_seasons_ep8/the_sims_3macdlc__ww_seasons_ep8run_1__origin__idjit_data_store2ec2988c28fa4933b98f071f8b8fce0b.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3ep08]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3ep08]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 Seasons Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3ep08", 
+                        "multiPlayerId": "71472", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "cf45d4e6-008d-4ac4-86cb-f5c189e237e5", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(ep08:_seasons)/the_sims_3pcdlc__ww_ep08_seasonsproduction_1__ep08__origin_access1ec14ff204b54d0fbf800e21055d7cbd.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-17T01:39:39Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Seasons\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p16.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EP08", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\304174]"
+                    }, 
+                    "softwareId": "0f59610e-e4fa-40d3-aa2c-1147cdb686bf", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:47:53Z"
+}

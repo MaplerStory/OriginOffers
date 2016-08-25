@@ -1,0 +1,205 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1042156"
+    }, 
+    "financeId": "1042156", 
+    "itemId": "Origin.ITM.50.0001404", 
+    "localizableAttributes": {
+        "backgroundImage": "/195969/1200.0x800.0/1042173_pdpbg_1200x800_en_US_1_^_2016-07-05-15-13-00_af1038422a54e74031a32bb09817f78f98d8ef54.jpg", 
+        "displayName": "Mini Metro", 
+        "longDescription": "In Mini Metro, you take on the task of designing the subway layout for a rapidly expanding city. Your city starts with three stations. Draw routes between these stations to connect them with subway lines. Commuters travel along your lines to get around the city as fast as they can. Each station can only hold a handful of waiting commuters so your subway network will need to be well-designed to avoid delays. <br><br>\nThe city is growing. More stations are opening, and commuters are appearing faster. The demands on your network are ever-increasing. You'll be constantly redesigning your lines to maximise efficiency. The new assets you earn every week will help immensely \u2014 as long as they're used wisely. <br><br>\nEventually your network will fail. Stations will open too quickly. Commuters will crowd the platforms. How long the city keeps moving is up to you. <br><br>\n<b>Key Features</b><br>\nCompelling, constructive, hectic, relaxed gameplay. If that makes sense. It doesn't though, aye? You just gotta play it. <br><br>\nThree game modes: Normal for quick scored games, Endless for stress-free sandbox play, and Extreme for the ultimate challenge. <br><br>\nEleven real-world cities to design subways for (London, New York City, Paris, Berlin, Hong Kong, Osaka, Saint Petersburg, Montreal, S\u00e3o Paulo, Cairo, and Auckland). Each has a unique colour theme, set of obstacles, and pace. <br><br>\nRandom city growth, so each game plays out differently. A strategy that proved successful last game may not help you in the next. <br><br>\nEach game's map is a work of art, built by you in the classic abstract subway style of Harry Beck. If you think it's a keeper, save it, tweet it, show it off or make it your desktop background! <br><br>\nSoundtrack by Disasterpeace. <br><br>\nColorblind and night modes. <br><br>\nTrains! Did we mention them yet?", 
+        "packArtLarge": "/195969/231.0x326.0/1042173_LB_231x326_en_US_^_2016-07-05-15-14-28_224a91dfcec8ce0c59444bb32d8b5b198755a608.jpg", 
+        "packArtMedium": "/195969/142.0x200.0/1042173_MB_142x200_en_US_^_2016-07-05-15-14-41_8da46abcb2df6a959b048fa0b7335a6041d6f53e.jpg", 
+        "packArtSmall": "/195969/63.0x89.0/1042173_SB_63x89_en_US_^_2016-07-05-15-15-09_5da4e3a59a9860c5d3a76ffd97d799afeffc2921.jpg", 
+        "shortDescription": "How long the city keeps moving is up to you."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MINI METRO", 
+                    "masterTitleId": 196006
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001613", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196006", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-11-06T00:00:19Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2015-11-06T00:00:19Z"
+                }, 
+                {
+                    "downloadStartDate": "2015-11-06T00:00:19Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-11-06T00:00:19Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"4.7.1.1607\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.7\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "4.7.1.1607", 
+                                "downloadURL": "/shift/plug_in_digital/mini_metro/fg__ww_x0/mini_metromacfg__ww_x0run_1__20160721_4711607b2af557703c0465fa878fadfd2aeabeb.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-21T15:08:44Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_196006_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Library%/Application Support/Unity.Dinosaur Polo Club.MiniMetro/savegame.dat</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[unity.Dinosaur Polo Club.MiniMetro]/Contents/MacOS/MiniMetro", 
+                        "installCheckOverride": "[unity.Dinosaur Polo Club.MiniMetro]/Contents/MacOS/MiniMetro", 
+                        "installationDirectory": "Mini Metro", 
+                        "macBundleID": "unity.Dinosaur Polo Club.MiniMetro", 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000574", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"4.7.1.1607\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "4.7.1.1607", 
+                                "downloadURL": "/shift/plug_in_digital/mini_metro/fg__ww_x0/mini_metropcfg__ww_x0run_1__20160721_47116072d628492d61f4d1aac39bfb48537746d.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-21T00:00:01Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_196006_50844", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dinosaur Polo Club\\Mini Metro\\Install Dir]MiniMetro.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dinosaur Polo Club\\Mini Metro\\Install Dir]MiniMetro.exe", 
+                        "installationDirectory": "Mini Metro", 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000573", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-08-02T17:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-02T08:30:43Z"
+}

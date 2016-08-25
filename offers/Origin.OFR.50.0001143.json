@@ -1,0 +1,113 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001148", 
+            "Origin.OFR.50.0001149"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036214"
+    }, 
+    "financeId": "1036214", 
+    "itemId": "Origin.ITM.50.0001055", 
+    "localizableAttributes": {
+        "displayName": "Tom Clancy's Rainbow Six\u00ae Siege", 
+        "longDescription": "Tom Clancy's Rainbow Six\u00ae Siege is the upcoming installment of the acclaimed first-person shooter franchise developed by the renowned Ubisoft Montreal studio.<br><br>\n\nInspired by the reality of counter terrorist operatives across the world, Rainbow Six Siege invites players to master the art of destruction. Intense close quarters confrontations, high lethality, tactics, team play, and tension are at the center of the experience.<br><br>\n\nThe multiplayer gameplay of Rainbow Six Siege sets a new bar for intense firefights and expert strategy in the rich legacy of past Rainbow Six games.<br><br>\n\n<b>Tom Clancy's Rainbow Six Siege Features</b>:<br><br><b>The Siege Gameplay</b><br>\nFor the first time in Rainbow Six, players will engage in sieges, a brand-new style of assault. Enemies now have the means to transform their environments into strongholds: they can trap, fortify, and create defensive systems to prevent breach by Rainbow teams.<br><br> \n\nTo face this challenge, players have a level of freedom unrivaled by any previous Rainbow Six game. Combining tactical maps, observation drones, and a new rappel system, Rainbow teams have more options than ever before to plan, attack, and diffuse these situations.<br><br>\n\n<b>Counter Terrorist Units</b><br>\nCounter terrorist operatives are trained to handle extreme situations, such as hostage rescue, with surgical precision. As \u201cshort range\u201d specialists, their training is concentrated on indoor environments. Operating in tight formations, they are experts of close quarter combat, demolition, and coordinated assaults. Rainbow Six Siege will include operators coming from five of the most worldwide renowned CTU: the British SAS, the American SWAT, the French GIGN, the German GSG9 and the Russian SPETSNAZ.<br><br> \n\nThese Operators are specialists with their own expertise within Siege operations. Each has their own unique personality & specialty. Some are focused on assault where as others are defense-oriented. They can be combined within the same team to create new team strategies.<br><br>\n\n<b>Procedural Destruction</b><br>\nDestruction is at the heart of the siege gameplay. Players now have the unprecedented ability to destroy environments. Walls can be shattered, opening new lines of fire, and ceiling and floors can be breached, creating new access points. Everything in the environment reacts realistically, dynamically, and uniquely based on the size and caliber of bullets you are using or the amount of explosives you have set. In Rainbow Six Siege, destruction is meaningful and mastering it is often the key to victory.<br><br>", 
+        "packArtLarge": "/195061/231.0x326.0/1036212_LB_231x326_en_US_^_2015-09-04-16-03-03_74796cc5395ebbb1b348ef5c79af34a99f54c1eb.png", 
+        "packArtMedium": "/195061/142.0x200.0/1036212_MB_142x200_en_US_^_2015-09-04-16-04-03_3b3bbbc190f4338f010a07c4f240e3ccbef97143.png", 
+        "packArtSmall": "/195061/63.0x89.0/1036212_SB_63x89_en_US_^_2015-09-04-16-04-33_f7611b25b838514411c4eef997b952f52335e81c.png", 
+        "shortDescription": "Rainbow Six\u00ae Siege invites players to master the art of destruction."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "TOM CLANCYS RAINBOW SIX SIEGE", 
+                    "masterTitleId": 195061
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001143", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036214_po", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-12-01T05:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-12-01T05:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildReleaseVersion": "1", 
+                                "downloadURL": "/p/opp/Ubisoft/RAINBOW_SIX_SIEGE/Rainbow_Six_Siege_RU.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-11-20T14:52:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 1842\\InstallLocation]\\RainbowSix.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 1842\\InstallLocation]\\RainbowSix.exe", 
+                        "installerPath": "autorun.exe", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "partnerPlatform": "Other", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000476", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-12-04T17:23:31Z"
+}

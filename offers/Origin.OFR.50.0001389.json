@@ -1,0 +1,110 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1039801"
+    }, 
+    "financeId": "1039801", 
+    "itemId": "Origin.ITM.50.0001209", 
+    "localizableAttributes": {
+        "displayName": "Battlefield\u2122 1 Closed Alpha", 
+        "longDescription": "<span style=\"font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; line-height: 17.1429px;\">The product code you are redeeming grants you access to the Closed Alpha event. &nbsp;Please note that the Closed Alpha does not reflect the quality of the final product.</span>", 
+        "packArtLarge": "/190132/231.0x326.0/1039801_LB_231x326_en_US_^_2016-05-31-13-01-30_42e0d7756a396df09204ff0e466aca4a60cdc2ab.jpg", 
+        "packArtMedium": "/190132/142.0x200.0/1039801_MB_142x200_en_US_^_2016-05-31-13-01-58_e38354f1a644c94c9ebef7c079ded217b810425e.jpg", 
+        "packArtSmall": "/190132/63.0x89.0/1039801_SB_63x89_en_US_^_2016-05-31-13-03-03_1715c4c29a40a75dfd0c8f3d33bdc37c35e2cc43.jpg", 
+        "shortDescription": "Battlefield\u2122 1 Closed Alpha"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Battlefield", 
+                    "franchiseId": 51302
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFIELD 1", 
+                    "masterTitleId": 190132
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001389", 
+    "offerType": "DEMO", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1035111", 
+            "gameDistributionSubType": "Alpha", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-06-28T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-06-28T00:00:00Z", 
+                    "useEndDate": "2016-07-18T08:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.6.40850\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.6.40850", 
+                                "downloadURL": "/shift/battlefield/tunguska/patch__ww_closed_alpha_digital_retail/tunguskapcpatch__ww_closed_alpha_digital_retailconcept_3__434066_battlefield1_pc_ww_ca_digital640b308194534f62ad787b2766917ea9.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-12T08:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Battlefield 1 Closed Alpha\\Install Dir]bf1.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Battlefield 1 Closed Alpha\\Install Dir]bf1.exe", 
+                        "installationDirectory": "Battlefield 1 Closed Alpha", 
+                        "multiPlayerId": "1035111", 
+                        "netPromoterScoreBlacklist": true, 
+                        "processorArchitecture": "64-bit"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000544", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-07-14T16:58:29Z"
+}

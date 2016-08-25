@@ -1,0 +1,266 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {}, 
+                "countryCode": "KR"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "DR:194011300", 
+            "OFB-EAST:60984", 
+            "Origin.OFR.50.0001279", 
+            "OFB-EAST:43769", 
+            "OFB-EAST:109550229", 
+            "DR:156751300", 
+            "DR:227821700", 
+            "OFB-EAST:109549274", 
+            "OFB-EAST:54854", 
+            "OFB-EAST:64317", 
+            "Origin.OFR.50.0000058", 
+            "DR:191313700", 
+            "Origin.OFR.50.0000013", 
+            "Origin.OFR.50.0000057", 
+            "Origin.OFR.50.0001227", 
+            "Origin.OFR.50.0000059", 
+            "Origin.OFR.50.0001228", 
+            "Origin.OFR.50.0001226", 
+            "OFB-EAST:64320", 
+            "DR:241123300", 
+            "OFB-EAST:109545106", 
+            "OFB-EAST:109545788", 
+            "OFB-EAST:43768", 
+            "DR:215625800", 
+            "DR:137311600", 
+            "OFB-EAST:49463", 
+            "OFB-EAST:49584", 
+            "OFB-EAST:60968", 
+            "Origin.OFR.50.0001292", 
+            "Origin.OFR.50.0001293", 
+            "Origin.OFR.50.0001290", 
+            "Origin.OFR.50.0001291", 
+            "OFB-EAST:60964", 
+            "Origin.OFR.50.0001252", 
+            "Origin.OFR.50.0001296", 
+            "OFB-EAST:60962", 
+            "Origin.OFR.50.0001294", 
+            "Origin.OFR.50.0001251", 
+            "Origin.OFR.50.0001295", 
+            "Origin.OFR.50.0000124", 
+            "Origin.OFR.50.0000167", 
+            "DR:219720800", 
+            "OFB-EAST:109546946", 
+            "OFB-EAST:44568", 
+            "OFB-EAST:49019", 
+            "OFB-EAST:60970", 
+            "Origin.OFR.50.0001281", 
+            "OFB-EAST:52011", 
+            "Origin.OFR.50.0001282", 
+            "Origin.OFR.50.0001280", 
+            "Origin.OFR.50.0001285", 
+            "Origin.OFR.50.0001286", 
+            "DR:234872200", 
+            "OFB-EAST:60533", 
+            "Origin.OFR.50.0001283", 
+            "Origin.OFR.50.0001284", 
+            "Origin.OFR.50.0001289", 
+            "Origin.OFR.50.0001287", 
+            "Origin.OFR.50.0001288", 
+            "DR:234752000", 
+            "OFB-EAST:109546864", 
+            "OFB-EAST:42334", 
+            "DR:169598400", 
+            "DR:231553700", 
+            "OFB-EAST:42373"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1002441"
+    }, 
+    "financeId": "1002441", 
+    "itemId": "ITM-EAST:42521", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3", 
+        "gameManualURL": "http://akamai.cdn.ea.com/eadownloads/u/f/manuals/GAME-SIMS3REFRESH/Sims3_Refresh_Manuals.zip", 
+        "longDescription": "Create the lives you've always wanted!<br><br>\n\nReady to live a freer, more creative life? In The Sims\u2122 3, you can let your fantasies run wild as you design your ideal world. Start with your Sim, refining each shape, color and personality trait until you get the precise person that pleases you. Design your dream home, but don\u2019t let a grid limit you; place, rotate and stack furniture and walls freely and to your heart\u2019s content.<br><br>\n\nOnce the \u201chard work\u201d is over, it\u2019s time to be a mentor. Guide your Sim\u2019s path through life, developing a career, finding love, and pursuing dreams and desires. Spending time with friends and family is just as important as mastering painting or accumulating knowledge.<br><br>\n\nTake things to the next level and record movies of your Sim\u2019s adventures and share them with the ever-growing and thriving community. With a huge catalog of expansion packs and fun objects to discover, there is no end to the possibilities awaiting you. It all begins here; your adventure awaits!<br><br>\n\n<b>KEY FEATURES:</b><br><br>\n\n&bull; <b>Customize Your Sim:</b> Mix and match a vast range of facial features and body types to get the look you want. Infuse your Sim with personality traits and help realize their dreams.<br><br>\n\n&bull; <b>Stage Your Own Extreme Makeover:</b> Decorate your Sim\u2019s home however you want, neat or messy. Use odd angles, create tall stacks of items, and apply your favorite self-made pattern to the walls and floors.<br><br>\n\n&bull; <b>Range From the Home:</b> Get out of the house and explore the lively and entertaining neighborhood for the first time. Be a part of the larger online community!", 
+        "packArtLarge": "/55906/231.0x326.0/1002441_LB_231_^_2013-01-18-09-07-00_d27fc61d1d0282b2b92139d1624d4c65912afa0f09b43c35694c3493f2dec129.jpg", 
+        "packArtMedium": "/55906/142.0x200.0/1002441_MB_142_^_2013-01-18-09-06-55_49125bf6b19eaab05ceb71471d2a601d3309e58d6d0f0115610969cdd621e3b2.jpg", 
+        "packArtSmall": "/55906/63.0x89.0/1002441_SB_63_^_2013-01-18-09-06-48_2683882387beefc274fd4464df2ab920d80c0c569681abf1dd3b37192b5413a1.jpg", 
+        "shortDescription": "Play with Life."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001139", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "sims3_dd", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2009-06-02T09:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2009-06-01T17:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/fg__ww_securom_original/the_sims_3macfg__ww_securom_originalrun_1__origin__idjit_data_store458615dc4f12481c943a21108f6f892f.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3]/Contents/MacOS/cider", 
+                        "installCheckOverride": "[com.transgaming.thesims3]/Contents/MacOS/cider", 
+                        "installerPath": "The SIMS(tm) 3 Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "594106d0-06ea-40af-a391-201e512484e5", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.69.43.024017\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.69.43.024017", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/fg_-_ww_x0_(the_sims_3_base_game)/the_sims_3pcfg__ww_x0_the_sims_3_base_gameproduction_5__16943release9c8685652f5549f09f4546752a7d6a39.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-01-11T17:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3\\Install Dir]\\Game\\Bin\\Sims3Launcher.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3\\Install Dir]\\Game\\Bin\\TS3.exe", 
+                        "installationDirectory": "The Sims 3", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\sims3_dd]", 
+                        "updateNonDipInstall": true
+                    }, 
+                    "softwareId": "422ce467-cb9c-46bc-a32d-25ac0129ace5", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-12T18:54:04Z"
+}

@@ -1,0 +1,136 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036197"
+    }, 
+    "financeId": "1036197", 
+    "itemId": "Origin.ITM.50.0001051", 
+    "localizableAttributes": {
+        "displayName": "Plants vs. Zombies\u2122 Garden Warfare 2: Technical Beta", 
+        "longDescription": "Ready the Peashooters and prepare for the craziest, funniest shooter in the universe: Plants vs. Zombies Garden Warfare 2. Dr. Zomboss has conquered Suburbia and transformed it into a zombie-filled, plant-free paradise. Now it's the plants' turn to take the offensive in the new 24-player Herbal Assault mode and reclaim their turf. Or, choose your side in 4-player co-op or solo play. With new modes, classes, and loads of humor, Plants vs. Zombies Garden Warfare 2 lets you wage war on seriousness (and your friends!) however you want. <br><br>\n<b>Game Features:</b><br><br>\n&bull; <b>Plants attack.</b> This time, bring the fight to the zombies. Go on the offensive as the plants to reclaim Suburbia, or stop the botanical invasion and preserve Zomburbia in all-new game modes.<br><br>\n&bull; <b>More characters, classes, and skins.</b> 6 new classes join the cast, making for 14 total playable character classes. Choose from more than than 100 playable plants and zombies from the past, present, and future and stand out as you fight. <br><br>\n&bull; <b>Play your way.</b> Plants vs. Zombies Garden Warfare 2 delivers tons of lawn-inspiring game modes so you can play together or by yourself. Need some company? Play in the new Herbal Assault mode and join 24-players online and duke it out all over Suburbia. Or join the plants or the zombies and team up in 4-player co-op mode. And if you want, you can even play solo!<br><br>\n&bull; <b>A living PvZ world.</b> The struggle for Suburbia is in full bloom across 12 maps bursting with personality and humor. Fight your way through Zombossified cityscapes and crowded airspaces, all layered with hidden secrets waiting to be discovered.", 
+        "packArtLarge": "/192470/231.0x326.0/1036197_LB_231x326_en_US_^_2015-11-06-15-19-47_33a1c940e3283b5f238c6755751ac84199ba425b.jpg", 
+        "packArtMedium": "/192470/142.0x200.0/1036197_MB_142x200_en_US_^_2015-11-06-15-19-48_60b8133c97a08387dceeab48bc63826521f468df.jpg", 
+        "packArtSmall": "/192470/63.0x89.0/1036197_SB_63x89_en_US_^_2015-11-06-15-19-49_8f991ccf86dc22dc531340e70de123af27c83f83.jpg", 
+        "shortDescription": "Launch an Herbal Assault"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Plants vs Zombies", 
+                    "franchiseId": 180915
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "PLANTS VS ZOMBIES GARDEN WARFARE 2", 
+                    "masterTitleId": 192470
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001136", 
+    "offerType": "DEMO", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036197", 
+            "gameDistributionSubType": "Beta", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "None", 
+            "twitchClientBlacklist": true, 
+            "watermarkDownload": true
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-12-07T18:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-12-08T18:00:00Z", 
+                    "useEndDate": "2015-12-12T00:01:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements osMinVersion=\"6.0\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/plants_vs_zombies/garden_warfare_2/fg_-_ww/garden_warfare_2pcfg__wwalpha_208__pvz2_pc_724842_beta_dip_only0923e92ecd11466cba36cc5899c9d765.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-02T18:33:52Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "commerceProfile": "oig-pvzgw2", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\PopCap\\PVZ GW2 BETA\\Install Dir]gw2beta.main_win64_retail.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\PopCap\\PVZ GW2 BETA\\Install Dir]gw2beta.main_win64_retail.exe", 
+                        "installationDirectory": "Plants vs Zombies Garden Warfare 2 Beta", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1026482", 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000471", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-12-11T00:32:44Z"
+}

@@ -1,0 +1,464 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VU"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001432", 
+            "Origin.OFR.50.0001433", 
+            "Origin.OFR.50.0001430", 
+            "Origin.OFR.50.0001431", 
+            "Origin.OFR.50.0000984", 
+            "Origin.OFR.50.0001436", 
+            "Origin.OFR.50.0000983", 
+            "Origin.OFR.50.0001437", 
+            "Origin.OFR.50.0001434", 
+            "Origin.OFR.50.0001435", 
+            "Origin.OFR.50.0000977", 
+            "Origin.OFR.50.0001429", 
+            "Origin.OFR.50.0000976", 
+            "Origin.OFR.50.0001427", 
+            "Origin.OFR.50.0001428", 
+            "Origin.OFR.50.0001421", 
+            "Origin.OFR.50.0001422", 
+            "Origin.OFR.50.0000971", 
+            "Origin.OFR.50.0000970", 
+            "Origin.OFR.50.0001024", 
+            "Origin.OFR.50.0001420", 
+            "Origin.OFR.50.0000973", 
+            "Origin.OFR.50.0001425", 
+            "Origin.OFR.50.0000972", 
+            "Origin.OFR.50.0001426", 
+            "Origin.OFR.50.0000931", 
+            "Origin.OFR.50.0000975", 
+            "Origin.OFR.50.0001423", 
+            "Origin.OFR.50.0000930", 
+            "Origin.OFR.50.0000974", 
+            "Origin.OFR.50.0001424", 
+            "Origin.OFR.50.0000966", 
+            "Origin.OFR.50.0001418", 
+            "Origin.OFR.50.0000921", 
+            "Origin.OFR.50.0000965", 
+            "Origin.OFR.50.0001419", 
+            "Origin.OFR.50.0000968", 
+            "Origin.OFR.50.0001416", 
+            "Origin.OFR.50.0000967", 
+            "Origin.OFR.50.0001417", 
+            "Origin.OFR.50.0000969", 
+            "Origin.OFR.50.0000928", 
+            "Origin.OFR.50.0000927", 
+            "Origin.OFR.50.0000929", 
+            "Origin.OFR.50.0001130", 
+            "Origin.OFR.50.0000881", 
+            "Origin.OFR.50.0000880", 
+            "Origin.OFR.50.0000960", 
+            "Origin.OFR.50.0000962", 
+            "Origin.OFR.50.0000961", 
+            "Origin.OFR.50.0001415", 
+            "Origin.OFR.50.0000920", 
+            "Origin.OFR.50.0000964", 
+            "Origin.OFR.50.0000963", 
+            "Origin.OFR.50.0000955", 
+            "Origin.OFR.50.0000954", 
+            "Origin.OFR.50.0000957", 
+            "Origin.OFR.50.0000879", 
+            "Origin.OFR.50.0000956", 
+            "Origin.OFR.50.0001406", 
+            "Origin.OFR.50.0000915", 
+            "Origin.OFR.50.0000959", 
+            "Origin.OFR.50.0000958", 
+            "Origin.OFR.50.0000917", 
+            "Origin.OFR.50.0000916", 
+            "Origin.OFR.50.0000919", 
+            "Origin.OFR.50.0000918", 
+            "Origin.OFR.50.0001440", 
+            "Origin.OFR.50.0001441", 
+            "Origin.OFR.50.0001442", 
+            "Origin.OFR.50.0000951", 
+            "Origin.OFR.50.0001007", 
+            "Origin.OFR.50.0001128", 
+            "Origin.OFR.50.0000950", 
+            "Origin.OFR.50.0001008", 
+            "Origin.OFR.50.0000953", 
+            "Origin.OFR.50.0000952", 
+            "Origin.OFR.50.0000946", 
+            "Origin.OFR.50.0001438", 
+            "Origin.OFR.50.0001439", 
+            "Origin.OFR.50.0000947", 
+            "Origin.OFR.50.0000949"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1035707"
+    }, 
+    "financeId": "1035707", 
+    "itemId": "Origin.ITM.50.0001036", 
+    "localizableAttributes": {
+        "displayName": "FIFA 16", 
+        "longDescription": "Create more moments of magic than ever before with FIFA 16. Make every match memorable with increased control in Midfield, improved defensive moves, more stars, and a new way to play. Build your dream team in FIFA Ultimate Team, or compete as one of 12 Women\u2019s National Teams for the first time ever in the FIFA franchise, including Germany, USA, France, Sweden, England, Brazil, and more. FIFA 16 innovates across the entire pitch, delivering a lifelike and authentic football experience.<br><br> \n\n<b>Game Features:</b><br><br>\n\n<b>Innovative new features.</b> Play your way, in your favorite modes, and experience all-new gameplay elements that bring each match to life. FIFA 16 brings Confidence in Defending, Control in Midfield, and gives you the tools you need to play and experience an incredible match of football.<br><br> \n\n<b>Play as Women's National Teams.</b> Choose from one of 12 Women's National Teams and compete in Match Day, an Offline Tournament, Online Seasons Cup, and Online Friendly Matches. The available teams are: Germany, USA, France, Sweden, England, Brazil, Canada, Australia, Spain, China, Italy, Mexico.<br><br>\n\n<b>Build your dream team.</b> Choose from among the best football stars of all time and build a team to take home the glory in FIFA Ultimate Team. Join an online community of more than 15 million fans to buy, trade, and sell players. Sign up to throw down against your friends\u2019 teams or compete in solo single-player tournaments \u2013 player stats, scores and team standings get updated every week.<br><br>\n\n<b>Get up to 15 FUT Gold Packs over 15 weeks.</b>&nbsp;Standard Edition players can extend the excitement with one new FIFA Ultimate Team Gold Pack delivered every week for 15 weeks. Each pack contains a mix of 12 items, including players and consumables: at least 10 are Gold, 1 of which is Rare.  These items include FUT players, contracts, stadiums, managers, staff, fitness, healing, balls, kits, badges, and chemistry styles. Gold Packs may also contain players rated 75+ in-game, rare items like enhanced player attributes, longer contracts, and the most coveted players.<br><br>\n\n<b>Share with fans, share with friends.</b> Experience the social side of football with the EA SPORTS Football Club. The more you play, the faster you move up all 100 levels so track your progress and share it with friends. Join live Challenges and earn rewards that unlock hundreds of in-game items from the Football Club Catalogue. Watch as real-world storylines drive Football Club challenges so FIFA 16 looks, feels and plays like the real-world season.<br><br>", 
+        "packArtLarge": "/182631/231.0x326.0/1032134_LB_231x326_en_US_^_2015-08-06-10-58-54_1a239b8a50dbbbc852a9702f58538afd6f7c12cb.jpg", 
+        "packArtMedium": "/182631/142.0x200.0/1032134_MB_142x200_en_US_^_2015-08-06-10-58-55_70e435f87ab82d89b167fe3810c3ddb940a5505d.jpg", 
+        "packArtSmall": "/182631/63.0x89.0/1032134_SB_63x89_en_US_^_2015-08-06-10-58-52_3da8f0a33c0182672513d0f01f821619ff79536c.jpg", 
+        "shortDescription": "Play Your Best Season Yet in FIFA 16."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 16", 
+                    "masterTitleId": 182631
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001112", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1025931", 
+            "gameDistributionSubType": "3PDD Only", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-09-18T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-09-22T04:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.41.59445.14\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.41.59445.14", 
+                                "downloadURL": "/shift/fifa/fifa_16_g4/patch__ww_x0_ww_patch6/fifa_16_g4pcpatch__ww_x0_ww_patch6concept_21__final2746380bbf84a0615254d519ab388d76ccabf0d.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2036-05-10T21:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.44.20513.9\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.44.20513.9", 
+                                "downloadURL": "/shift/fifa/fifa_16_g4/patch__ww_x0_ww_patch8/fifa_16_g4pcpatch__ww_x0_ww_patch8run_11__final29040539ad5ce9e483e490282022d840d4b0352.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-07-12T17:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50072_182631_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Documents%/FIFA 16/fifasetup.ini</exclude> <exclude order=\"1\">%Documents%/FIFA 16/httpcache/</exclude> <include order=\"2\">%Documents%/FIFA 16/</include> </saveFileCriteria>", 
+                        "commerceProfile": "oig-fifa-16", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 16\\Install Dir]fifasetup\\fifaconfig.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 16\\Install Dir]fifa16.exe", 
+                        "installationDirectory": "FIFA 16", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1025931", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000344", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-09-14T18:51:46Z"
+}

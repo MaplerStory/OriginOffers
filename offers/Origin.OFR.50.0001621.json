@@ -1,0 +1,174 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UZ"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001663"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1042160"
+    }, 
+    "financeId": "1042160", 
+    "itemId": "Origin.ITM.50.0001409", 
+    "localizableAttributes": {
+        "displayName": "Watch_Dogs\u00ae 2", 
+        "longDescription": "<b>Please note:</b><br>\nProduct codes issued for this title will only work in the following countries:<br>\nUnited States, Canada, American Samoa, Puerto Rico, Virgin Islands U.S.<br><br>\nPRE-ORDER NOW and get the extra mission: ZODIAC KILLER+ Additional Bonus Outfit.<br><br>\nAn unwanted ghost of San Francisco\u2019s past has resurfaced after fifty years. A killer is staging the bodies of his victims all over Oakland like the infamous Zodiac Killer of the Sixties, and he\u2019s taunting the police and news outlets with coded messages. Will you succeed in decrypting the messages and hunting down the copycat?<br><br>Use hacking as a weapon in the massive & dynamic open world of Watch Dogs 2.<br><br>\nIn 2016, ctOS 2.0, an advanced operating system networking city infrastructure, was implemented in several US cities to create a safer, more efficient metropolis.<br><br>\nPlay as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area. Team up with Dedsec, a notorious group of hackers, and expose the hidden dangers of ctOS 2.0, which, in the hands of corrupt corporations, is being wrongfully used to monitor and manipulate citizens on a massive scale.<br><br>\nWith the power of hacking and Dedsec by your side, launch the Hack of the Century, take down ctOS 2.0 and give freedom back to whom it belongs: the people.<br><br>\n<b>FEATURES</b><br><br>\n<b>WELCOME TO THE SAN FRANCISCO BAY AREA: </b>Explore a massive and dynamic open-world offering an incredible variety of gameplay possibilities. Hack your way through traffic while you engage in dangerous car chases through the winding streets of San Francisco, traverse the rooftops of the colorful & vibrant neighborhoods of Oakland, and infiltrate the cutting edge offices of Silicon Valley companies. There are many secrets to uncover in the birthplace of the tech revolution.<br><br>\n<b>HACKING IS YOUR WEAPON:</b> Hack into the city\u2019s infrastructure, every connected device, and everyone\u2019s personal database. Take control of drones, cars, cranes, security robots, and much more. Hack your enemies and bystanders alike\u2013 manipulate them in different ways to trigger unpredictable chains of events. Every person, any vehicle they might drive, any connected device they possess can be hacked.<br><br>\n<b>YOU ARE IN CTRL:</b> Use hacking and stealth to complete missions without killing a single enemy or combine hacking and your weapons for a more ferocious approach. Develop different skills to suit your playstyle, and upgrade your hacker tools \u2013 RC cars, Quadcopter drones, 3D printed weapons and much more.<br><br>\n<b>SEAMLESSLY CONNECT WITH FRIENDS:</b> Stay connected to your friends with a brand new seamless multiplayer experience that includes both Co-op and Player vs. Player activities, all available in a shared open world experience.", 
+        "packArtLarge": "/195969/231.0x326.0/1042158_LB_231x326_en_US_^_2016-07-14-16-38-25_1ff8db270b34a41d0ddf62b69986b8434b57a6d7.jpg", 
+        "packArtMedium": "/195969/142.0x200.0/1042158_MB_142x200_en_US_^_2016-07-14-16-38-43_aa25053280dce6c2b7dc009401366cc42e8bc8f2.jpg", 
+        "packArtSmall": "/195969/63.0x89.0/1042158_SB_63x89_en_US_^_2016-07-14-16-39-00_1e24b00bf1f3eed0631649633daab62b5cd1918e.jpg", 
+        "shortDescription": "YOU ARE IN CTRL"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "WATCH_DOGS 2", 
+                    "masterTitleId": 195969
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001621", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "195969", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-11-15T18:00:19Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-11-15T18:00:19Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install XXX\\InstallLocation]Watchdogs2.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install XXX\\InstallLocation]Watchdogs2.exe", 
+                        "installerPath": "autorun.exe", 
+                        "monitorInstall": true, 
+                        "monitorPlay": false, 
+                        "partnerPlatform": "Other", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000579", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-16T21:28:15Z"
+}

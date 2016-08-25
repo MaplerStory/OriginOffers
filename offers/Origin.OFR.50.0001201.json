@@ -1,0 +1,99 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036728"
+    }, 
+    "financeId": "1036728", 
+    "itemId": "Origin.ITM.50.0001096", 
+    "localizableAttributes": {
+        "displayName": "Plants vs. Zombies\u2122 Garden Warfare 2 Pre-Order Pack", 
+        "longDescription": "<ul><li>Extraordinary Pack - This Extraordinary Pack of 6 items contains a good mix of customization items and consumable items. Guaranteed to have at least one Rare item and a high likelihood of a Rare character piece.</li>\n<li>Phenomenal Character Pack - This phenomenal pack contains 5 items, choose this and you are guaranteed to get enough stickers to unlock a Rare or Super Rare character.</li></ul>", 
+        "packArtLarge": "/192470/231.0x326.0/1034840_LB_231x326_en_US_^_2015-06-05-11-39-58_ed81c2b4ddfc0e1b52e683ea0176529831dcf020.jpg", 
+        "packArtMedium": "/192470/142.0x200.0/1034840_MB_142x200_en_US_^_2015-06-05-11-40-25_b74a4b1d5ec234d08174020e0a7fc02e9f8a32f3.jpg", 
+        "packArtSmall": "/192470/63.0x89.0/1034840_SB_63x89_en_US_^_2015-06-05-11-40-47_c88cf467c2e1397f6ab0decd93936f6f5e90db83.jpg", 
+        "shortDescription": "PvZ Garden Warfare 2 Pre-Order Pack"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Plants vs Zombies", 
+                    "franchiseId": 180915
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "PLANTS VS ZOMBIES GARDEN WARFARE 2", 
+                    "masterTitleId": 192470
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001201", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036728", 
+            "gameDistributionSubType": "3PDD Only", 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-02-23T05:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-02-02T16:10:15Z"
+}

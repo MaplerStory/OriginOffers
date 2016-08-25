@@ -1,0 +1,211 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Expansion Packs", 
+        "extraContentDisplayGroupSortAsc": 310, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 210
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71494"
+    }, 
+    "financeId": "71494", 
+    "itemId": "ITM-EAST:46492", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 University Life", 
+        "extraContentDisplayGroupDisplayName": "EXPANSION PACKS", 
+        "longDescription": "College is a time of learning and experimentation. Now your Sims can create their own campus memories and have experiences that will shape their destinies! Choosing a major begins an education that will pay off handsomely after college, with better entry-level jobs and quicker promotions.<br><br>  But of course, it\u2019s not just about studying\u2026 your Sims want to have fun, too! Dorm parties and bonfires are great ways to blow off steam, and there\u2019s no end to the shenanigans. Joining a notable social group can also open up entirely new avenues for advancement. <br><br>  Whether posting on social networks via smartphone, leading a campus protest or researching new scientific discoveries, ambitious Sims will find a lot to engage them in University Life!<br><br>  <b>KEY FEATURES:</b><br><br>  &bull; <b>Major Excitement:</b> Each major comes with its own special Sim enhancement. Play with an anatomically-correct skeleton as part of the Science and Medicine major, or broadcast a radio show with the Communications major.<br><br>  &bull; <b>Be the Big Sim On Campus:</b> Joining a prominent social clique\u2014Jock, Nerd, or Rebel\u2014can lead to unique job specializations: Sports Agent, Video Game Designer, and Art Appraiser. But your Sim will have to work hard to rise to the top.<br><br>  &bull; <b>Master Procrastination:</b> The surrounding town has a wealth of options for exploration and entertainment. Down java at Roasted Toasted Beans or argue superheroes at Keith\u2019s Komics. Anything to avoid studying.", 
+        "packArtLarge": "/191438/231.0x326.0/71494_LB_231x326_en_US_%5E_2013-05-29-03-03-46_7e3701fd911b6790fe51cca4acdfea99a6ddb0bd7a0e6e4edb2c4d2c4cf4fe38.jpg", 
+        "packArtMedium": "/191438/142.0x200.0/71494_MB_142x200_en_US_%5E_2013-05-29-03-04-06_9320c40d32e90e291141847abce943e2501eb0bfd3e3536f213226c8906dcd71.jpg", 
+        "packArtSmall": "/191438/63.0x89.0/71494_SB_63x89_en_US_%5E_2013-05-29-03-04-16_c01005b7c3748cdef129fe9d294df1ed69e2f6523b6ebb075ff15ebf466ddbc5.jpg", 
+        "shortDescription": "There\u2019s more to school than studying."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 UNIVERSITY LIFE (EP9)", 
+                    "masterTitleId": 191438
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001295", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "71494", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2013-03-05T05:01:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2013-03-05T05:01:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-03-07T22:01:15Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-03-07T22:01:15Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_university_life_ep9/the_sims_3macdlc__ww_university_life_ep9run_1__origin__idjit_data_store21a646a66a18426da92c0a1d671042d8.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3ep09]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3ep09]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 University Life Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3ep09", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "8009dbe1-981c-417d-ae2b-c09f11dc883e", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(ep09:_university_life)/the_sims_3pcdlc__ww_ep09_university_lifeproduction_1__ep09__origin_access419492bf3a56457e8266f38d64df9c4f.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-17T19:17:19Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 University Life\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p18.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EP09", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\304646]"
+                    }, 
+                    "softwareId": "e6035766-57e0-4ee1-aaa9-20acae0c8a76", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:48:22Z"
+}

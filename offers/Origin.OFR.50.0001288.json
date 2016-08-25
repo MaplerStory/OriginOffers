@@ -1,0 +1,210 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "extraContentDisplayGroup": "Expansion Packs", 
+        "extraContentDisplayGroupSortAsc": 310, 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 250
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71140"
+    }, 
+    "financeId": "71140", 
+    "itemId": "ITM-EAST:35670", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Pets", 
+        "extraContentDisplayGroupDisplayName": "EXPANSION PACKS", 
+        "longDescription": "Make your Sims\u2019 home feel even more alive with a new pet!<br><br>Sometimes an animal is the best companion. Your Sims will love their new pets and all the things they can do. Teaching them tricks is only the beginning. They\u2019ll travel with your Sims as they go about their day, and provide endless and unpredictable entertainment.<br><br>Just like your Sims, these pets are customizable, with their own unique appearances and traits. And they\u2019re smart, too: They can be taught to accomplish a wide variety of actions outside of the usual \u201cFetch!\u201d and even warn your Sims when danger threatens.<br><br>Pets will enjoy their own social lives with other animals, and you might end up with new mouths to feed! Or tame wild animals to bring them into the fold. If your Sims have been feeling lonely, be kind and get them a pet!<br>", 
+        "packArtLarge": "/179361/PACKART_PRESET_LARGE_JPG_231x326/71140_LB_231_^_2013-01-18-15-40-59_9158ef1fa7185b26ac808d9d12e1177d1d55a9d92a93f8f2284c55b957623ea5.jpg", 
+        "packArtMedium": "/179361/PACKART_PRESET_MEDIUM_JPG_142x200/71140_MB_142_^_2013-01-18-15-41-10_a6570f1bf380459491e72e28b9077b3f6ae21ffa28e984ef4be6beae534b04c1.jpg", 
+        "packArtSmall": "/179361/PACKART_PRESET_SMALL_JPG_63x89/71140_SB_63_^_2013-01-18-15-41-22_099b32b170490dbdc22297c730faa3e7146c5701d7afb284d4aba80782321cb6.jpg", 
+        "shortDescription": "Pets make your Sims happier!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 PETS (EP5)", 
+                    "masterTitleId": 179361
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001288", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "71140", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2011-10-18T07:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2011-10-18T07:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2013-01-23T09:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2013-01-23T09:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc__ww_pets_ep5/the_sims_3macdlc__ww_pets_ep5run_1__origin__idjit_data_store458e2e7c4ea8482cb06226bd380131e9.dmg", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-20T16:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.thesims3ep05]/Contents/MacOS/bootstrap", 
+                        "installCheckOverride": "[com.transgaming.thesims3ep05]/Contents/MacOS/bootstrap", 
+                        "installerPath": "The SIMS(tm) 3 Pets Install.app/Contents/MacOS/tgInstall", 
+                        "macBundleID": "com.transgaming.thesims3ep05", 
+                        "oigClientBehavior": "Blacklist", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "34c23c15-5ab7-48d0-9472-16685599586f", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "0", 
+                                "downloadURL": "/shift/the_sims/the_sims_3/dlc_-_ww_(ep05:_pets)/the_sims_3pcdlc__ww_ep05_petsproduction_1__ep05__origin_access1464aa325ade48c1b6d2abbbf87deceb.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-12-16T21:13:37Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Pets\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild0_p10.package", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "\\__Installer\\DLC\\EP05", 
+                        "oigClientBehavior": "Blacklist", 
+                        "stagingKeyPath": "[HKEY_CURRENT_USER\\Software\\Electronic Arts\\EA Core\\Staging\\eadm\\eadm\\online_content\\300809]"
+                    }, 
+                    "softwareId": "b5adbc76-c9f0-4456-b2cd-fa45097fb3b5", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-01-14T22:46:06Z"
+}

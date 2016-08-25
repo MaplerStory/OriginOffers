@@ -1,0 +1,144 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "10000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1010282"
+    }, 
+    "financeId": "1010282", 
+    "itemId": "ITM-EAST:49293", 
+    "localizableAttributes": {
+        "displayName": "The Sims\u2122 3 Starter Pack", 
+        "longDescription": "The Sims 3 Starter Pack has everything you need\u2014and far more\u2014to play with life. Make unique Sims with customizable bodies, faces, hairstyles and personalities. Build and decorate their homes with a huge variety of furniture and patterns, or import your own designs.<br><br>\n\nThis bundle also lets your Sims paint the town red in the included expansion pack and modernize their homes with the bundled stuff pack. If you haven\u2019t jumped into the world of The Sims yet, it's a perfect time to start and a great bundle to get you started.<br><br>\n\n<b>KEY FEATURES:</b><br><br> \u2022&nbsp;<b>The Sims 3:</b> Create the perfect world with full customization at your fingertips. Refine personalities and help fulfill destinies. Go online and share your creations and movies with the ever-growing community.<br><br>\n\n\u2022 <b>Late Night Expansion Pack:</b> Your Sims can explore the night life with trips to dance clubs, dive bars, and high-class lounges. Give them new careers to match, like mixologist, movie director, or local celebrity. They might even fall in with a pack of vampires!<br><br>\n\n\u2022 <b>High-End Loft Stuff Pack:</b> Transform your Sims\u2019 homes into sleek, high-tech lofts with contemporary sofas, ultra-slim TVs, video game systems and eclectic art. Upgrade their wardrobe with tailored suits, dresses and sophisticated outerwear.<br><br>", 
+        "packArtLarge": "/191672/231.0x326.0/1010282_LB_231x326_en_US_^_2015-12-11-14-42-35_d5efe2e5315fc5a3780577550fd798f285ae417e.jpg", 
+        "packArtMedium": "/191672/142.0x200.0/1010282_MB_142x200_en_US_^_2015-12-11-14-42-41_673bcad6508304b8bb9f9d2fc7c96c2ae597dff3.jpg", 
+        "packArtSmall": "/191672/63.0x89.0/1010282_SB_63x89_en_US_^_2015-12-11-14-42-46_44586231e2c7288eb68789d89a1c4709acdb78a6.jpg", 
+        "shortDescription": "Start Your Sims Experience Today!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3", 
+                    "masterTitleId": 55906
+                }, 
+                "type": "Alternate"
+            }, 
+            {
+                "mdmFranchise": {
+                    "franchise": "The Sims", 
+                    "franchiseId": 68491
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SIMS 3 STARTER PACK", 
+                    "masterTitleId": 191672
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001249", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2013-05-15T15:32:43Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "el_GR"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-03-01T21:43:01Z"
+}

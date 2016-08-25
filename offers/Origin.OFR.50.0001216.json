@@ -1,0 +1,193 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UZ"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001306", 
+            "Origin.OFR.50.0001355", 
+            "Origin.OFR.50.0000997", 
+            "Origin.OFR.50.0001039", 
+            "Origin.OFR.50.0001336", 
+            "Origin.OFR.50.0001358"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1030899"
+    }, 
+    "financeId": "1030899", 
+    "itemId": "Origin.ITM.50.0000983", 
+    "localizableAttributes": {
+        "displayName": "Mirror's Edge\u2122 Catalyst (Trial)", 
+        "longDescription": "Run, leap and fight your way to freedom in the city of Glass. Get ready to hit the ground running in this fast-paced, free-running adventure with stunning visuals. Experience Faith's incredible freedom of movement as she darts up walls, zips down wires and makes death-defying leaps from rooftop to rooftop. Combine her punishing martial arts skills with a mastery of the surroundings to take out any enemies she can't outrun.<br><br> \n\n<b>Key Features:</b><br><br> \n<b>Explore every inch of a vast city.</b> Run free in the city of Glass at your own pace, however you want, and unlock its many districts as you play.<br><br>\n\n<b>High-velocity action.</b> Whether she's smoothly slipping past enemies or delivering a serious beat down, Faith knows just how to make the most of her speed, agility and momentum. String together a series of attacks at top speed or outmaneuver opponents by Shifting or free-running out of range.<br><br>  \n\n<b>Gadgets and upgrades.</b> Faith has some very handy toys at her disposal that can help her turn the Conglomerate's own equipment against them.  Use the MAG Rope to latch on to (and swing from) cameras throughout the city or the Disruptor to take out enemy systems.<br><br>   \n\n<b>Share the experience.</b> Social Play lets you customize your profile, check the leaderboards for Time Trials or create your own to share with friends. Add a Beat Location Emitter to create the ultimate treasure hunt in the massive city. How many seconds can you shave off your best time?<br><br>", 
+        "packArtLarge": "/190134/231.0x326.0/1030900_LB_231x326_en_US_^_2015-06-09-16-57-20_b530ed3ed0ff42213dbd5ac4f41427325c8a3096.jpg", 
+        "packArtMedium": "/190134/142.0x200.0/1030900_MB_142x200_en_US_^_2015-06-09-16-57-41_a892a09654728976bcf8fb21e116665fb56c84e7.jpg", 
+        "packArtSmall": "/190134/63.0x89.0/1030900_SB_63x89_en_US_^_2015-06-09-16-58-23_82c744ecd595243b773581cd98136b2bfa00ec5b.jpg", 
+        "shortDescription": "Experience the Rise of Faith."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mirrors Edge", 
+                    "franchiseId": 50314
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MIRRORS EDGE CATALYST", 
+                    "masterTitleId": 190134
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001216", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1026480_oa", 
+            "gameDistributionSubType": "Gameplay Timer Trial - Access", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game", 
+            "trialLaunchDuration": 6
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-06-01T13:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-06-01T13:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.3.47248\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.3.47248", 
+                                "downloadURL": "/shift/pamplona/pamplona/patch__ww_patch_build/pamplonapcpatch__ww_patch_buildproduction_472__243856_mec_retail_digital_ww_day_21_patch_2438566e32d0065a7c4f20933200c7b9f7952b.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-06-27T08:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50314_190134_50844", 
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria><include order=\"0\">%Documents%/Mirrors Edge Catalyst/settings/PROF_SAVE</include></saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Mirrors Edge Catalyst\\Install Dir]\\MirrorsEdgeCatalyst.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Mirrors Edge Catalyst\\Install Dir]\\MirrorsEdgeCatalyst.exe", 
+                        "installationDirectory": "Mirrors Edge Catalyst", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1026480", 
+                        "netPromoterScoreBlacklist": true, 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000346", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-05-31T14:25:35Z"
+}

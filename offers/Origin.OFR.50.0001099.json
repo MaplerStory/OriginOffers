@@ -1,0 +1,149 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UZ"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/71779"
+    }, 
+    "financeId": "71779", 
+    "itemId": "ITM-EAST:43854", 
+    "localizableAttributes": {
+        "displayName": "Crysis\u00ae 3 Digital Deluxe Edition", 
+        "longDescription": "The fate of the world is in your hands. New and old enemies threaten the peace you worked so hard to achieve 24 years ago. Your search for the Alpha Ceph continues, but this time you'll also need to expose the truth behind the C.E.L.L. corporation. It won't be easy, but your Nanosuit helps you clear a path to victory. Craft a stealthy attack to defeat your opponents quietly, or decimate the enemy with a blaze of brute force. There's no wrong way to save the world.<br><br>\n<b>Game Features:</b><br><br>\n<b>Master the Seven Wonders.</b> The evil C.E.L.L. corporation turned New York City into a sprawling urban rainforest housed in a giant nanodome. Devise new tactics to fight your way through seven distinct landscapes and confront the enemies hiding within. <br><br>\n<b>Choose your arsenal.</b> This fight requires the best weapons available. You'll have an arsenal stocked with Earth's finest military tools, like the Predator Bow. Use it to unleash a Super-thermite arrow and counter heavy artillery fire. Facing a group of opponents walking through water? Fire just one Electro arrow and defeat them all at once. .<br><br>\n<b>Assess, adapt, attack.</b> Choose your path and approach. Fight with guns blazing and make the most of your Nanosuit's superior technology. Or opt for stealth and use the Nanosuit to become the silent savior the world has been waiting for. .<br><br>\n<b>The Digital Deluxe Edition includes: </b>  <br><br>\n\u2022 <b>The Crysis 3 Hunter Edition</b>  -- Instantly unlock the Predator Bow, a bow skin, attachment and the hunter Nanosuit mod. You'l also unlock the delightful Explosive Arrow: silent to fire, but lands with a big boom. <br>\n\u2022 <b>The Overkill Pack</b>  -- Unlock the Typhoon assault rifle and unleash destruction at 500 rounds per second. Not enough? Use Rapid-Fire Nanosuit mod to boost your rate of fire even further. <br>\n\u2022 <b>Gauss Rifle Unlock</b>  -- Get your hands on this electromagnetic long-range rifle and one extra skin, and watch enemies crumble with a single shot. <br>\n\u2022 <b>Crysis series soundtrack</b>   -- Relive the glory of taking back Earth long after you've completed the game with the official soundtrack. <br><br>\n***As of June 2014, our friends at GameSpy have ended all hosted game services. This has affected the online multiplayer aspect of one or more games in this collection. Because of technical challenges and concerns, we do not have a solution to keep these services up and running at this time,and online services for this game and other EA games on the GameSpy platform have ended. We are still investigating a range of options to restore official online functionality and multiplayer gameplay for these titles.\u2028You can find more information on this change at ea.com, and find the full list of impacted games on our Online Service Updates page.", 
+        "packArtLarge": "/76860/231.0x326.0/71779_LB_231x326_en_US_^_2013-01-18-08-59-41_842a1aba742dbcc03faa1acef2e1a0ff5a4d403a0d53e396f340193899a48316.jpg", 
+        "packArtMedium": "/76860/142.0x200.0/71779_MB_142x200_en_US_^_2013-01-18-08-59-35_e6dd7ab2a4b46ab1f4bc7457155f1be117c74413f1b9e05cab7b15d73d25b47e.jpg", 
+        "packArtSmall": "/76860/63.0x89.0/71779_SB_63x89_en_US_^_2013-01-18-08-59-25_9df0488b67480121ce8bf9a1c2772f414fa3595b011a31fbcfb9003829a314d8.jpg", 
+        "shortDescription": "Eliminate the Enemy"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Crysis", 
+                    "franchiseId": 51305
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "CRYSIS 3", 
+                    "masterTitleId": 76860
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001099", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "71779_RUPL", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2013-02-19T00:00:51Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2013-02-19T00:00:51Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-09-30T23:54:43Z"
+}

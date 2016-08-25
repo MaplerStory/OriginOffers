@@ -1,0 +1,152 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 220
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036868"
+    }, 
+    "financeId": "1036868", 
+    "itemId": "Origin.ITM.50.0001092", 
+    "localizableAttributes": {
+        "displayName": "The Witcher\u00ae 3: Wild Hunt - Hearts of Stone Extras", 
+        "longDescription": "The Witcher\u00ae 3: Wild Hunt - Hearts of Stone Extras", 
+        "packArtLarge": "/194188/231.0x326.0/1033416_LB_231x326_en_US_^_2015-08-27-12-13-14_90154bc7e2886d0245e1f98f7bf1a07dc70be28b.png", 
+        "packArtMedium": "/194188/142.0x200.0/1033416_MB_142x200_en_US_^_2015-08-27-12-28-08_ae4372c9c41c7e0f38626edb4113ea6954fe098b.png", 
+        "packArtSmall": "/194188/63.0x89.0/1033416_SB_63x89_en_US_^_2015-08-27-12-41-12_b4588368db9c0823a3efc8c40b5e7bc88bdc6a4a.png", 
+        "shortDescription": "The Witcher\u00ae 3: Wild Hunt - Hearts of Stone Extras"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "THE WITCHER 3: WILD HUNT", 
+                    "masterTitleId": 194188
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001195", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1036868", 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-10-12T23:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-10-12T23:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/cd_projekt_red/the_witcher_3:_wild_hunt/dlc_-_ww_x0_(ep1_hearts_of_stone_extras)/the_witcher_3_wild_huntpcdlc__ww_x0_ep1_hearts_of_stone_extrasrun_2__20151007_10005c244f87dc224e10b51e35ad9f2b37b4.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2015-10-07T21:26:08Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]Extras\\Hearts of Stone Extras", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]Extras\\Hearts of Stone Extras\\__Installer\\Installerdata.xml", 
+                        "installationDirectory": "\\Extras\\Hearts of Stone Extras", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000501", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-10-07T21:21:13Z"
+}
