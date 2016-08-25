@@ -23,7 +23,7 @@ headers = {
 s.headers.update(headers)
 
 special_ids = [
-    "ofb-east:109546867"  # BF4
+    "OFB-EAST:109546867"  # BF4
 ]
 
 offer_pat = "Origin.OFR.50.%s"
@@ -58,8 +58,8 @@ for sid in special_ids:
             continue
         else:
             r = r.json()
-            print offer_id, r['localizableAttributes']['displayName'], r['localizableAttributes']['shortDescription']
-            file_name = offer_id
+            print sid, r['localizableAttributes']['displayName'], r['localizableAttributes']['shortDescription']
+            file_name = sid
             json.dump(r, open('special_offers/%s.json' % file_name, 'w'), sort_keys=True, indent=4)
     except Exception as e:
         print e.message
