@@ -22,6 +22,10 @@ headers = {
 }
 s.headers.update(headers)
 
+special_ids = [
+    "ofb-east:109546867"  # BF4
+]
+
 offer_pat = "Origin.OFR.50.%s"
 # offer_pat = "OFB-EAST:%s"
 # offer_pat = "DR:%s"
@@ -43,5 +47,19 @@ for i in range(i, i + 2000):
             print offer_id, r['localizableAttributes']['displayName'], r['localizableAttributes']['shortDescription']
             file_name = offer_id
             json.dump(r, open('offers/%s.json' % file_name, 'w'), sort_keys=True, indent=4)
+    except Exception as e:
+        print e.message
+
+for sid in special_ids:
+    # print i
+    try:
+        r = s.get(url % ("public", sid))
+        if r.status_code != 200:
+            continue
+        else:
+            r = r.json()
+            print offer_id, r['localizableAttributes']['displayName'], r['localizableAttributes']['shortDescription']
+            file_name = offer_id
+            json.dump(r, open('special_offers/%s.json' % file_name, 'w'), sort_keys=True, indent=4)
     except Exception as e:
         print e.message
