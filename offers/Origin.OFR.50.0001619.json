@@ -54,10 +54,8 @@
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
-        "addonsAvailable": true, 
-        "availableExtraContent": [
-            "Origin.OFR.50.0001663"
-        ], 
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1042158"
     }, 
     "financeId": "1042158", 
@@ -88,14 +86,6 @@
     "offerId": "Origin.OFR.50.0001619", 
     "offerType": "Base Game", 
     "publishing": {
-        "publishingAttributes": {
-            "contentId": "195969", 
-            "gameDistributionSubType": "Normal Game", 
-            "greyMarketControls": false, 
-            "isDownloadable": true, 
-            "isPublished": true, 
-            "originDisplayType": "Full Game"
-        }, 
         "softwareControlDates": {
             "softwareControlDate": [
                 {
