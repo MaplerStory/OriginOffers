@@ -1,0 +1,198 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "9000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001195", 
+            "Origin.OFR.50.0001014", 
+            "Origin.OFR.50.0001036", 
+            "Origin.OFR.50.0001015", 
+            "Origin.OFR.50.0000982", 
+            "Origin.OFR.50.0000841", 
+            "Origin.OFR.50.0001018", 
+            "Origin.OFR.50.0000840", 
+            "Origin.OFR.50.0001019", 
+            "Origin.OFR.50.0000843", 
+            "Origin.OFR.50.0001016", 
+            "Origin.OFR.50.0000842", 
+            "Origin.OFR.50.0001017", 
+            "Origin.OFR.50.0000834", 
+            "Origin.OFR.50.0000833", 
+            "Origin.OFR.50.0001727", 
+            "Origin.OFR.50.0000836", 
+            "Origin.OFR.50.0000835", 
+            "Origin.OFR.50.0000838", 
+            "Origin.OFR.50.0001728", 
+            "Origin.OFR.50.0000839", 
+            "Origin.OFR.50.0001020", 
+            "Origin.OFR.50.0000850", 
+            "Origin.OFR.50.0000830", 
+            "Origin.OFR.50.0000852", 
+            "Origin.OFR.50.0001469", 
+            "Origin.OFR.50.0000851", 
+            "Origin.OFR.50.0000832", 
+            "Origin.OFR.50.0000831", 
+            "Origin.OFR.50.0000845", 
+            "Origin.OFR.50.0000988", 
+            "Origin.OFR.50.0000844", 
+            "Origin.OFR.50.0000989", 
+            "Origin.OFR.50.0000849", 
+            "Origin.OFR.50.0000848", 
+            "Origin.OFR.50.0000829"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046147"
+    }, 
+    "financeId": "1046147", 
+    "itemId": "Origin.ITM.50.0001442", 
+    "localizableAttributes": {
+        "displayName": "The Witcher\u00ae 3: Wild Hunt Game of the Year", 
+        "longDescription": "Play the most polished and complete version of the most awarded game of 2015 - The Witcher 3: Wild Hunt. Now available with all expansions and additional content. <br><br>\n<b>About the Game of the Year Edition</b><br>\nBecome a professional monster slayer and embark on an adventure of epic proportions!\n<br>\nUpon its release, The Witcher 3: Wild Hunt became an instant classic, claiming over 250 Game of the Year awards. Now you can enjoy this huge, over 100-hour long, open-world adventure along with both its story-driven expansions worth an extra 50 hours of gameplay. This edition includes all additional content - new weapons, armor, companion outfits, new game mode and side quests.\n<br><br>\n<b>About the GAME OF THE YEAR</b>\n<br>\nThe most awarded game of 2015!\n<br>\nBecome a monster slayer for hire and embark on an epic journey to track down the child of prophecy, a living weapon capable of untold destruction.\n<br>\nINCLUDES ALL EXPANSIONS AND ADDITIONAL CONTENT.\n<br><br>\n<b><i>Features:</i></b>\n<br><br>\n<b>Play as a Highly Trained Monster Slayer for Hire</b><br>\nTrained from early childhood and mutated to have superhuman skills, strength, and reflexes, witchers are a socially ostracized counterbalance to the monster-infested world in which they live.\n<br><br>\n\u25cf&nbsp;&nbsp;Gruesomely destroy foes as a professional monster hunter armed with a range of upgradeable weapons, mutating potions, and combat magic.\n<br>\n\u25cf&nbsp;&nbsp;Hunt down a wide variety of exotic monsters, from savage beasts prowling mountain passes to cunning supernatural predators lurking in the shadowy back alleys of densely populated cities.\n<br>\n\u25cf&nbsp;&nbsp;Invest your rewards to upgrade your weaponry and buy custom armor, or spend them on horse races, card games, fist fighting and other pleasures life brings.\n<br><br>\n<b>Track Down the Child of Prophecy in a Morally Ambiguous Fantasy Open World</b>\n<br>\nBuilt for endless adventure, the massive open world of The Witcher sets new standards in terms of size, depth and complexity. \n<br>\n\u25cf&nbsp;&nbsp;Traverse a fantastical open world: explore forgotten ruins, caves and shipwrecks, trade with merchants and dwarven smiths in cities, and hunt across open plains, amidst mountains and at sea.\n<br>\n\u25cf&nbsp;&nbsp;In a time of war, track down the child of prophecy, a living weapon of great power whose coming was foretold in ancient elven legends.\n<br>\n\u25cf&nbsp;&nbsp;Make choices that go beyond good and evil and face their far-reaching consequences.\n<br><br>\n<b>Game of the Year EDITION</b>\n<br>\nThe Witcher 3: Wild Hunt Game of the Year edition brings together the base game and all the additional content released to date.\n<br>\n\u25cf&nbsp;&nbsp;Includes the Hearts of Stone and Blood &amp; Wine expansions, which offer a massive 50 hours of additional storytelling as well as new features and new areas that expand the explorable world by over a third!\n<br>\n\u25cf&nbsp;&nbsp;Affords access to all additional content released so far, including weapons, armor, side quests, game modes and new GWENT cards!\n<br>\n\u25cf&nbsp;&nbsp;Features all technical and visual updates as well as a new user interface completely redesigned on the basis of feedback from members of the Witcher Community.", 
+        "packArtLarge": "/194188/231.0x326.0/1046147_LB_231x326_en_US_^_2016-08-29-12-28-11_043f19e2b87111f9cdafcd4fd1059c71355e1ba1.jpg", 
+        "packArtMedium": "/194188/142.0x200.0/1046147_MB_142x200_en_US_^_2016-08-29-12-28-27_c4dfa9dd1ff043e33f9a25ed7c94bda0dd41ec70.jpg", 
+        "packArtSmall": "/194188/63.0x89.0/1046147_SB_63x89_en_US_^_2016-08-29-12-28-40_ef9050a103719c753fccc45a2f93fdef3b00093d.jpg", 
+        "shortDescription": "Become a monster slayer for hire."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "THE WITCHER 3: WILD HUNT", 
+                    "masterTitleId": 194188
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001672", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "194188", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-08-29T23:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-08-29T23:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.9.64921\"/>    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>    <requirements osMinVersion=\"6.0\" osReqs64Bit=\"false\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.9.64921", 
+                                "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/fg__ww_x0_goty_build/the_witcher_3_wild_huntpcfg__ww_x0_goty_buildrun_4c4d01e11019042f2a694e4597e4790ce.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-08-29T00:00:59Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_194188_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Documents%/The Witcher 3/gamesaves/*</include> <include order=\"1\">*.png</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]bin\\x64\\witcher3.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]bin\\x64\\witcher3.exe", 
+                        "installationDirectory": "The Witcher 3 Wild Hunt", 
+                        "monitorPlay": false, 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000588", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-08-29T23:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-29T20:18:07Z"
+}

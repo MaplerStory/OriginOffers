@@ -216,17 +216,10 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.9.18185\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "3.0.9.18185", 
-                                "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/dlc__ww_witcher3_brazilian_vo_pack/the_witcher_3_wild_huntpcdlc__ww_witcher3_brazilian_vo_packrun_11__20160526_30918185a39addc981924678a545da964f73aba0.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2016-05-30T10:00:00Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.9.64944\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "3.0.9.64944", 
                                 "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/dlc__ww_witcher3_brazilian_vo_pack/the_witcher_3_wild_huntpcdlc__ww_witcher3_brazilian_vo_packrun_12__20160827_30964944a38757ee374d4c5bbc84386c44d5dc73.zip", 
-                                "downloadURLType": "staged", 
+                                "downloadURLType": "live", 
                                 "effectiveDate": "2016-08-29T23:00:00Z"
                             }
                         ]

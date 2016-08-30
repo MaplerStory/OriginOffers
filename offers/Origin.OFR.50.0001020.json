@@ -215,18 +215,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.9.64944\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.9.64944\"/>    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "3.0.9.64944", 
                                 "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/dlc__ww_witcher3_german_vo_pack/the_witcher_3_wild_huntpcdlc__ww_witcher3_german_vo_packrun_10__20160827_30964944917ee98ed2ce490ba0a4aeae1a57fc93.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2016-08-29T23:00:00Z"
-                            }, 
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.9.18185\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "3.0.9.18185", 
-                                "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/dlc__ww_witcher3_german_vo_pack/the_witcher_3_wild_huntpcdlc__ww_witcher3_german_vo_packrun_9__20160526_30918185fe8373b272614cabbeb0daa8c4256986.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2016-05-30T10:00:00Z"
+                                "effectiveDate": "2016-08-30T11:00:00Z"
                             }
                         ]
                     }, 

@@ -6,68 +6,31 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "AS"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "GB"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "GU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "PR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "US"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "VI"
             }
         ]
     }, 
     "customAttributes": {
-        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
-        "sortOrderDescending": 9
+        "sortOrderDescending": 219
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1033964"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046661"
     }, 
-    "financeId": "1033964", 
-    "itemId": "Origin.ITM.50.0000974", 
+    "financeId": "1046661", 
+    "itemId": "Origin.ITM.50.0001468", 
     "localizableAttributes": {
-        "displayName": "The Witcher\u00ae 3: Wild Hunt French Voice-Over Pack", 
-        "longDescription": "This will enable all dialogue to be in French and is an optional add-on to your Witcher experience.", 
-        "packArtLarge": "/194188/231.0x326.0/1030225_LB_231x326_en_US_^_2014-11-19-13-05-12_669cc849366a23eb81459dfa928203468dcb1e05.jpg", 
-        "packArtMedium": "/194188/142.0x200.0/1030225_MB_142x200_en_US_^_2014-11-19-13-05-45_9e921d5b22d6a9d02b5712b90458ebf3e1d5ac94.jpg", 
-        "packArtSmall": "/194188/63.0x89.0/1030225_SB_63x89_en_US_^_2014-11-19-13-06-17_e73879e4c0fccf2656991bdfb56484ea06b75343.jpg", 
-        "shortDescription": "Discover the French version of The Witcher\u00ae 3: Wild Hunt by downloading the voice-over pack."
+        "displayName": "The Witcher\u00ae 3: Hearts of Stone Soundtrack", 
+        "longDescription": "The Witcher\u00ae 3: Hearts of Stone Soundtrack", 
+        "packArtLarge": "/194188/231.0x326.0/1033416_LB_231x326_en_US_^_2015-08-27-12-13-14_90154bc7e2886d0245e1f98f7bf1a07dc70be28b.png", 
+        "packArtMedium": "/194188/142.0x200.0/1033416_MB_142x200_en_US_^_2015-08-27-12-28-08_ae4372c9c41c7e0f38626edb4113ea6954fe098b.png", 
+        "packArtSmall": "/194188/63.0x89.0/1033416_SB_63x89_en_US_^_2015-08-27-12-41-12_b4588368db9c0823a3efc8c40b5e7bc88bdc6a4a.png", 
+        "shortDescription": "The Witcher\u00ae 3: Hearts of Stone Soundtrack"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -84,21 +47,22 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001014", 
+    "offerId": "Origin.OFR.50.0001727", 
     "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
-            "contentId": "1033964", 
+            "contentId": "1046661", 
+            "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Addon"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2015-05-18T22:00:00Z", 
+                    "downloadStartDate": "2016-08-29T23:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2015-05-18T22:00:00Z"
+                    "releaseDate": "2016-08-29T23:00:00Z"
                 }
             ]
         }, 
@@ -108,26 +72,27 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.9.64944\"/>    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "3.0.9.64944", 
-                                "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/dlc__ww_witcher3_french_vo_pack/the_witcher_3_wild_huntpcdlc__ww_witcher3_french_vo_packrun_9__20160827_309649447a4e038f7b374cdaba08c2f974ad6ed8.zip", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/dlc__ww_ep1_hearts_of_stone_soundtrack/the_witcher_3_wild_huntpcdlc__ww_ep1_hearts_of_stone_soundtrackrun_1__20160824_10008f5f34a69d3d45f9ae897c87123911bd.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2016-08-30T11:00:00Z"
+                                "effectiveDate": "2016-08-24T15:34:00Z"
                             }
                         ]
                     }, 
                     "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]content\\content0\\frpc.w3speech", 
-                        "installationDirectory": "\\", 
-                        "metadataInstallLocation": "\\__Installer\\DLC\\WITCHER3_FRENCH_VO_PACK\\__Installer", 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]Extras\\Hearts of Stone Soundtrack", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]Extras\\Hearts of Stone Soundtrack\\__Installer\\Installerdata.xml", 
+                        "installationDirectory": "\\Extras\\Hearts of Stone Soundtrack", 
                         "monitorInstall": true, 
                         "monitorPlay": true, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 
-                    "softwareId": "Origin.SFT.50.0000437", 
+                    "softwareId": "Origin.SFT.50.0000599", 
                     "softwarePlatform": "PCWIN"
                 }
             ]
@@ -183,5 +148,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2015-05-18T00:56:04Z"
+    "updatedDate": "2016-08-24T15:03:45Z"
 }

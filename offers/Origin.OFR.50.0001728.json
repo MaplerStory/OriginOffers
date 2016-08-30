@@ -1,0 +1,151 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+        "sortOrderDescending": 229
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046660"
+    }, 
+    "financeId": "1046660", 
+    "itemId": "Origin.ITM.50.0001469", 
+    "localizableAttributes": {
+        "displayName": "THE WITCHER\u00ae 3: Blood & Wine Soundtrack", 
+        "longDescription": "THE WITCHER\u00ae 3: Blood &amp; Wine Soundtrack", 
+        "packArtLarge": "/194188/231.0x326.0/1033417_LB_231x326_en_US_^_2016-04-19-09-03-17_d0c8137d07806fac083259ce78993f71730a7523.jpg", 
+        "packArtMedium": "/194188/142.0x200.0/1033417_MB_142x200_en_US_^_2016-04-19-09-03-33_267ba6ad60dd0ea147ab14568f2c7285ec0327b2.jpg", 
+        "packArtSmall": "/194188/63.0x89.0/1033417_SB_63x89_en_US_^_2016-04-19-09-04-40_6ef4ed7c104518dd8f0cc4bbdbad427252556667.jpg", 
+        "shortDescription": "THE WITCHER\u00ae 3: Blood & Wine Soundtrack"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "THE WITCHER 3: WILD HUNT", 
+                    "masterTitleId": 194188
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001728", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1046660", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-08-29T23:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-08-29T23:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/dlc__ww_ep2_blood_and_wine_soundtrack/the_witcher_3_wild_huntpcdlc__ww_ep2_blood_and_wine_soundtrackrun_1__20160824_1000f99ee8ecfcb14cf495ee91da842af9d2.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-08-24T14:52:49Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]Extras\\Blood and Wine Soundtrack", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]Extras\\Blood and Wine Soundtrack\\__Installer\\Installerdata.xml", 
+                        "installationDirectory": "\\Extras\\Blood and Wine Soundtrack", 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000600", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-08-24T14:58:12Z"
+}
