@@ -6,9 +6,15 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
             }
         ]
     }, 
@@ -56,8 +62,7 @@
             "greyMarketControls": false, 
             "isDownloadable": true, 
             "isPublished": true, 
-            "originDisplayType": "Full Game", 
-            "twitchClientBlacklist": true
+            "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -108,11 +113,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableStartDate": "2016-08-24T00:00:19Z"
+                    "storeAvailableStartDate": "2016-08-20T00:00:19Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-08-19T20:11:23Z"
+    "updatedDate": "2016-08-24T18:41:16Z"
 }
