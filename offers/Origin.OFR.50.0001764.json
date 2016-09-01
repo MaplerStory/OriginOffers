@@ -1,0 +1,126 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UZ"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1029957"
+    }, 
+    "financeId": "1029957", 
+    "itemId": "Origin.ITM.50.0000774", 
+    "localizableAttributes": {
+        "displayName": "Origin Access Membership - Recurring 2 Day Renew - Code Redemption- (QA only)", 
+        "longDescription": "Origin Access Membership - Recurring 2 Day Renew - Code Redemption- (QA only)- Long desc", 
+        "shortDescription": "Origin Access Membership - Recurring 2 Day Renew - Code Redemption- (QA only) - Short desc"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "EA ACCESS", 
+                    "franchiseId": 193972
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ORIGIN ACCESS", 
+                    "masterTitleId": 195092
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001764", 
+    "offerType": "Subscription", 
+    "publishing": {
+        "publishingAttributes": {
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2014-01-02T00:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-09-01T19:28:24Z"
+}
