@@ -85,6 +85,13 @@
                                 "downloadURL": "/shift/battlefield/tunguska/demo__ww_open_beta_digital_retail/tunguskapcdemo__ww_open_beta_digital_retailconcept_61__535057_battlefield1_pc_ww_ob_digitalfa9265d85ab447269a94fc0a717df2c1.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2016-08-22T09:17:21Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.8.62791\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.8.62791", 
+                                "downloadURL": "/shift/battlefield/tunguska/demo__ww_open_beta_digital_retail/tunguskapcdemo__ww_open_beta_digital_retailconcept_64__587071_battlefield1_pc_ww_ob_digitald8d99f8ae41249b6a8ea3134371b5fd8.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2016-09-07T08:00:00Z"
                             }
                         ]
                     }, 
