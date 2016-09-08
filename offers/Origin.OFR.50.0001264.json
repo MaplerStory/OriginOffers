@@ -1,0 +1,76 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1037100"
+    }, 
+    "financeId": "1037100", 
+    "itemId": "Origin.ITM.50.0001124", 
+    "localizableAttributes": {
+        "displayName": "Mass Effect\u2122 Multiplayer 700 APEX Points", 
+        "longDescription": "Mass Effect\u2122 Multiplayer 700 APEX Points", 
+        "packArtLarge": "/74889/231.0x326.0/1037100_LB_231x326_en_US_^_2015-12-07-10-38-55_1d7890a7c477e9f93da7ed5045b10cec72f641d3.jpg", 
+        "packArtMedium": "/74889/142.0x200.0/1037100_MB_142x200_en_US_^_2015-12-07-10-39-21_bdcbab7ea8cfbfa966db6c96463320312fe1bbf2.jpg", 
+        "packArtSmall": "/74889/63.0x89.0/1037100_SB_63x89_en_US_^_2015-12-07-10-39-54_a688e2e54f1e0004ce3ceaf9e59fdf00de1eb25b.jpg", 
+        "shortDescription": "Mass Effect\u2122 Multiplayer 700 APEX Points"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mass Effect", 
+                    "franchiseId": 68481
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MASS EFFECT: ANDROMEDA", 
+                    "masterTitleId": 74889
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001264", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2025-11-26T21:53:15Z", 
+                    "platform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2015-11-26T21:53:36Z"
+}

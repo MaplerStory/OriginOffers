@@ -6,15 +6,9 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "DEFAULT"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "KR"
+                "countryCode": "DEFAULT"
             }
         ]
     }, 
@@ -61,7 +55,7 @@
             "gameDistributionSubType": "Beta", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
@@ -120,5 +114,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-06T23:18:53Z"
+    "updatedDate": "2016-09-06T23:21:20Z"
 }
