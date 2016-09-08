@@ -73,17 +73,10 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.4.0\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.4.0", 
-                                "downloadURL": "/shift/plants_vs_zombies/garden_warfare_2/fg__ww/garden_warfare_2pcfg__wwalpha_731__pvz2_pc_771768_dip_retail_patch3ship71b7d599aeb84ffb848a61497ad01b44.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2016-05-31T14:00:00Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.5.0\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.5.0", 
                                 "downloadURL": "/shift/plants_vs_zombies/garden_warfare_2/fg__ww/garden_warfare_2pcfg__wwalpha_973__pvz2_pc_793850_dip_retail_patch4shipaea03b947b5747399f5fd45ceb7722ba.zip", 
-                                "downloadURLType": "staged", 
+                                "downloadURLType": "live", 
                                 "effectiveDate": "2016-09-07T14:00:00Z"
                             }
                         ]

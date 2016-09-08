@@ -32,10 +32,10 @@
             "Origin.OFR.50.0001545", 
             "Origin.OFR.50.0001567"
         ], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1038188"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1038189"
     }, 
-    "financeId": "1038188", 
-    "itemId": "Origin.ITM.50.0001204", 
+    "financeId": "1038189", 
+    "itemId": "Origin.ITM.50.0001203", 
     "localizableAttributes": {
         "displayName": "Battlefield\u2122 1 (Trial)", 
         "longDescription": "Battlefield\u2122 1 takes you back to The Great War, WW1, where new technology and worldwide conflict changed the face of warfare forever. Take part in every battle, control every massive vehicle, and execute every maneuver that turns an entire fight around. The whole world is at war \u2013 see what\u2019s beyond the trenches.<br><br>\n\n<b>Key Features:</b><br><br>\n\n<b>Changing environments in locations all over the world.</b> Discover every part of a global conflict from shore to shore \u2013 fight in besieged French cities, great open spaces in the Italian Alps, or vast Arabian deserts. Fully destructible environments and ever-changing weather create landscapes that change moment to moment; whether you\u2019re tearing apart fortifications with gunfire or blasting craters in the earth, no battle is ever the same.<br><br>\n\n<b>Huge multiplayer battles.</b> Swarm the battlefield in massive multiplayer battles with up to 64 players. Charge in on foot as infantry, lead a cavalry assault, and battle in fights so intense and complex you'll need the help of all your teammates to make it through.<br><br>\n\n<b>Game-changing vehicles.</b> Turn the tide of battle in your favor with vehicles both large and larger, from tanks and biplanes to gigantic Behemoths, unique and massive vehicles that will be critical in times of crisis. Rain fire from the sky in a gargantuan Airship, tear through the world in the Armored Train, or bombard the land from the sea in the Dreadnought.<br><br>\n\n<b>A new Operations multiplayer mode.</b> In Operations mode, execute expert maneuvers in a series of inter-connected multiplayer battles spread across multiple maps. Attackers must break through the defense line and push the conflict onto the next map, and defenders must try to stop them.<br><br>", 
@@ -59,13 +59,13 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001387", 
+    "offerId": "Origin.OFR.50.0001771", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
             "contentId": "1026023_oa", 
-            "gameDistributionSubType": "Gameplay Timer Trial - Access", 
-            "greyMarketControls": true, 
+            "gameDistributionSubType": "Gameplay Timer Trial - Game Time", 
+            "greyMarketControls": false, 
             "isDownloadable": true, 
             "isPublished": false, 
             "originDisplayType": "Full Game", 
@@ -74,9 +74,9 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2016-10-11T00:00:00Z", 
+                    "downloadStartDate": "2016-10-12T00:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2016-10-11T00:00:00Z"
+                    "releaseDate": "2016-10-12T00:00:00Z"
                 }
             ]
         }, 
@@ -105,14 +105,47 @@
         "softwareLocales": {
             "locale": [
                 {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
                     "value": "pl_PL"
                 }, 
                 {
+                    "value": "pt_BR"
+                }, 
+                {
                     "value": "ru_RU"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-07T14:20:31Z"
+    "updatedDate": "2016-09-07T14:18:19Z"
 }

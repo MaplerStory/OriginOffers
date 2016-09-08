@@ -110,11 +110,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.9.64921\"/>    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>    <requirements osMinVersion=\"6.0\" osReqs64Bit=\"false\"/>  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.9.64921\"/>    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>    <requirements osMinVersion=\"6.0\" osReqs64Bit=\"true\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "3.0.9.64921", 
-                                "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/fg__ww_x0_goty_build/the_witcher_3_wild_huntpcfg__ww_x0_goty_buildrun_4c4d01e11019042f2a694e4597e4790ce.zip", 
+                                "downloadURL": "/shift/cd_projekt_red/the_witcher_3_wild_hunt/fg__ww_x0_goty_build/the_witcher_3_wild_huntpcfg__ww_x0_goty_buildrun_5__20160906_309649210091d622938a459aba35ad449eb352ca.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2016-08-29T00:00:59Z"
+                                "effectiveDate": "2016-09-06T00:00:23Z"
                             }
                         ]
                     }, 
@@ -126,7 +126,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]bin\\x64\\witcher3.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]bin\\x64\\witcher3.exe", 
                         "installationDirectory": "The Witcher 3 Wild Hunt", 
-                        "monitorPlay": false, 
+                        "monitorPlay": true, 
                         "processorArchitecture": "64-bit", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
@@ -194,5 +194,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-08-29T20:18:07Z"
+    "updatedDate": "2016-09-05T09:21:21Z"
 }

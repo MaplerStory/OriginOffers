@@ -59,12 +59,12 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001387", 
+    "offerId": "Origin.OFR.50.0001772", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
             "contentId": "1026023_oa", 
-            "gameDistributionSubType": "Gameplay Timer Trial - Access", 
+            "gameDistributionSubType": "Gameplay Timer Trial - Game Time", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
             "isPublished": false, 
@@ -74,9 +74,9 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2016-10-11T00:00:00Z", 
+                    "downloadStartDate": "2016-10-12T00:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2016-10-11T00:00:00Z"
+                    "releaseDate": "2016-10-12T00:00:00Z"
                 }
             ]
         }, 
@@ -114,5 +114,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-07T14:20:31Z"
+    "updatedDate": "2016-09-07T14:22:09Z"
 }
