@@ -885,7 +885,7 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.05.13263.0\"/><featureFlags autoUpdateEnabled=\"1\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"0\"/><requirements osMinVersion=\"5.1\" osReqs64Bit=\"1\"/></buildMetaData>", 
+                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.05.13263.0\"/><featureFlags autoUpdateEnabled=\"1\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"0\"/><requirements osMinVersion=\"5.1\"/></buildMetaData>", 
                                 "buildReleaseVersion": "1.05.13263.0", 
                                 "downloadURL": "/shift/dragon_age/dragon_age_origins/fg__ww_rtp/dragon_age_originspcfg__ww_rtprun_3a217df5006924d89ba777ad293689cb2.zip", 
                                 "downloadURLType": "live", 

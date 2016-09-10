@@ -66,7 +66,28 @@
         "softwareLocales": {
             "locale": [
                 {
+                    "value": "de_DE"
+                }, 
+                {
                     "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
                 }
             ]
         }

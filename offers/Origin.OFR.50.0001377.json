@@ -104,7 +104,7 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.2.1604.0\"/><featureFlags autoUpdateEnabled=\"1\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"0\"/><requirements osMinVersion=\"5.1\" osReqs64Bit=\"1\"/></buildMetaData>", 
+                                "buildMetaData": "<buildMetaData><gameVersion version=\"1.2.1604.0\"/><featureFlags autoUpdateEnabled=\"1\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"0\"/><requirements osMinVersion=\"5.1\"/></buildMetaData>", 
                                 "buildReleaseVersion": "4", 
                                 "downloadURL": "/shift/mass_effect/mass_effect_2/fg__ww_rtp_remaster/mass_effect_2_pc_fg__ww_rtp_remaster_run_2_b9873ab229934e329bfae72e3dc70805.zip", 
                                 "downloadURLType": "live", 
