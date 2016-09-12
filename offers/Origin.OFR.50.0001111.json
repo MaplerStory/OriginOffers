@@ -365,13 +365,6 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.41.59445.14\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.41.59445.14", 
-                                "downloadURL": "/shift/fifa/fifa_16_g4/patch__ww_x0_ww_patch6/fifa_16_g4pcpatch__ww_x0_ww_patch6concept_21__final2746380bbf84a0615254d519ab388d76ccabf0d.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2036-05-10T21:00:00Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.44.20513.9\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.44.20513.9", 
                                 "downloadURL": "/shift/fifa/fifa_16_g4/patch__ww_x0_ww_patch8/fifa_16_g4pcpatch__ww_x0_ww_patch8run_11__final29040539ad5ce9e483e490282022d840d4b0352.zip", 
