@@ -226,7 +226,13 @@
                     "value": "it_IT"
                 }, 
                 {
+                    "value": "pl_PL"
+                }, 
+                {
                     "value": "pt_BR"
+                }, 
+                {
+                    "value": "zh_TW"
                 }
             ]
         }
