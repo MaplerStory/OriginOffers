@@ -82,6 +82,7 @@
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Gaslamp Games\\Dungeons of Dredmor\\Install Dir]\\__Installer\\DLC\\EXP3\\__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Gaslamp Games\\Dungeons of Dredmor\\Install Dir]\\__Installer\\DLC\\EXP3\\__Installer\\installerdata.xml", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "\\__Installer\\DLC\\EXP3", 

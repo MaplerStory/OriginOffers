@@ -87,6 +87,7 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[com.transgaming.dragonage2]/Contents/Resources/transgaming/c_drive/Program Files/Dragon Age 2/addins/da2_pro_col/manifest.xml", 
                         "installCheckOverride": "[com.transgaming.dragonage2]/Contents/Resources/transgaming/c_drive/Program Files/Dragon Age 2/addins/da2_pro_col/manifest.xml", 
                         "installationDirectory": "/", 
                         "macBundleID": "com.transgaming.dragonage2", 
@@ -111,6 +112,7 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age II\\Install Dir]\\__Installer\\DLC\\Signature Edition Rewards\\__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age II\\Install Dir]\\__Installer\\DLC\\Signature Edition Rewards\\__Installer\\installerdata.xml", 
                         "metadataInstallLocation": "__Installer\\DLC\\Signature Edition Rewards"
                     }, 
