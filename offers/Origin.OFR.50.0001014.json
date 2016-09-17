@@ -119,6 +119,7 @@
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]content\\content0\\frpc.w3speech", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]content\\content0\\frpc.w3speech", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "\\__Installer\\DLC\\WITCHER3_FRENCH_VO_PACK\\__Installer", 

@@ -130,6 +130,7 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Seasons\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p16.package", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Seasons\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p16.package", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "\\__Installer\\DLC\\EP08", 

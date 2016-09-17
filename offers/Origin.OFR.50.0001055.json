@@ -263,6 +263,7 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition\\Install Dir]\\Update\\SinglePlayer_DLCRed\\package.mft", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition\\Install Dir]\\Update\\SinglePlayer_DLCRed\\package.mft", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "\\__Installer\\DLC\\SinglePlayer_DLCRed", 

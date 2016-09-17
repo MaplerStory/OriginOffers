@@ -234,6 +234,7 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition\\Install Dir]\\Update\\ItemPack3\\package.mft", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition\\Install Dir]\\Update\\ItemPack3\\package.mft", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "\\__Installer\\DLC\\ItemPack3", 

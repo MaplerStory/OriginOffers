@@ -130,6 +130,7 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Generations\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p08.package", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Generations\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p08.package", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "\\__Installer\\DLC\\EP04", 

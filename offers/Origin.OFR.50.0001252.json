@@ -125,6 +125,7 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 High-End Loft Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p03.package", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 High-End Loft Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p03.package", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "\\__Installer\\DLC\\SP01", 

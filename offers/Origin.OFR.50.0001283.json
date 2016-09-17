@@ -131,6 +131,7 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Master Suite Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p11.package", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Master Suite Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p11.package", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "\\__Installer\\DLC\\SP05", 

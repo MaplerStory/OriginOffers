@@ -131,6 +131,7 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Diesel Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p14.package", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Sims\\The Sims 3 Diesel Stuff\\Install Dir]\\GameData\\Shared\\Packages\\FullBuild_p14.package", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "\\__Installer\\DLC\\SP07", 

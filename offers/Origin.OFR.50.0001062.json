@@ -113,6 +113,7 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition Trial\\Install Dir]\\Update\\Multiplayer_DLC2\\package.mft", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Dragon Age Inquisition Trial\\Install Dir]\\Update\\Multiplayer_DLC2\\package.mft", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "\\__Installer\\DLC\\Multiplayer_DLC2", 
