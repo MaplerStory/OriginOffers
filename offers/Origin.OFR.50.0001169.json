@@ -25,12 +25,12 @@
     "financeId": "1036389", 
     "itemId": "Origin.ITM.50.0001075", 
     "localizableAttributes": {
-        "displayName": "STAR WARS\u2122 Battlefront\u2122 Expansion Pack 3", 
-        "longDescription": "Third Expansion Pack for <i>Star Wars</i>\u2122 Battlefront\u2122", 
-        "packArtLarge": "/192140/231.0x326.0/1036380_LB_231x326_en_US_^_2015-09-15-10-12-49_f02fe589158081c1f97e21455bf2b3583d7cbe0e.jpg", 
-        "packArtMedium": "/192140/142.0x200.0/1036380_MB_142x200_en_US_^_2015-09-15-10-14-55_d450059e866a65522893a93586a5bfe835f74cc7.jpg", 
-        "packArtSmall": "/192140/63.0x89.0/1036380_SB_63x89_en_US_^_2015-09-15-10-30-42_b2eae5d9303b366b2476c68e7c2065382df38155.jpg", 
-        "shortDescription": "Third Expansion Pack for <i>Star Wars</i>\u2122 Battlefront\u2122"
+        "displayName": "<i>Star Wars</i>\u2122 Battlefront\u2122 Death Star", 
+        "longDescription": "As part of the <i>Star Wars</i>\u2122 Battlefront\u2122 Season Pass, expand your galaxy with the <i>Star Wars</i>\u2122 Battlefront\u2122 Death Star digital expansion pack. Fire up your starships and ready your blasters as one of the deadliest weapons in the galaxy makes its highly-anticipated debut. Everyone\u2019s favorite Wookiee, Chewbacca, arrives alongside bounty hunter Bossk as the two new playable heroes. Board the Death Star and blast foes with the new K-16 Bryar Pistol or TL-50 Heavy Repeater. Take your starfighters to space in an all-new game mode and even hop into the cockpits of Darth Vader\u2019s TIE Advanced or Luke Skywalker\u2019s Red Five X-wing. If the Force\u2122 is strong with you, attempt a trench run to take down the Empire\u2019s ultimate weapon.", 
+        "packArtLarge": "/192140/231.0x326.0/1036389_LB_231x326_en_US_^_2016-09-05-01-54-32_8227496eff0f407bc1b6e49ed551e6c1f32c8507.jpg", 
+        "packArtMedium": "/192140/142.0x200.0/1036389_MB_142x200_en_US_^_2016-09-05-01-54-32_345474ce450fc51b19862904ba70134cda332311.jpg", 
+        "packArtSmall": "/192140/63.0x89.0/1036389_SB_63x89_en_US_^_2016-09-05-01-54-32_9d361c13d2bcb5622bc9c80572da4e20e75e3165.jpg", 
+        "shortDescription": "Expand your galaxy with the <i>Star Wars</i>\u2122 Battlefront\u2122 Death Star digital expansion pack."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
