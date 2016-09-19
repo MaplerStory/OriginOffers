@@ -56,7 +56,7 @@
             "greyMarketControls": false, 
             "isDownloadable": true, 
             "isPublished": false, 
-            "originDisplayType": "Full Game"
+            "originDisplayType": "None"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -100,7 +100,7 @@
         "softwareLocales": {
             "locale": [
                 {
-                    "value": "en_US"
+                    "value": "ru_RU"
                 }
             ]
         }, 

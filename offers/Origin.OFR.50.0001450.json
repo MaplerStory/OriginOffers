@@ -1,0 +1,127 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1040522"
+    }, 
+    "financeId": "1040522", 
+    "itemId": "Origin.ITM.50.0001261", 
+    "localizableAttributes": {
+        "displayName": "FIFA 17 Standard Edition Pre-Order", 
+        "longDescription": "Pre-order and kick-off your season with 5 FIFA Ultimate Team Draft Tokens, one 8-match FUT loan player, and access to Special Edition FUT kits. Test your squad building skills with 5 FUT Draft Tokens, and choose Eden Hazard, Anthony Martial, Marco Reus, or James Rodriguez as your loan player for 8 full matches.<br><br>\n\n <b>Own Every Moment</b><br><br>Complete innovation in the way players think and move, physically interact with opponents, and execute in attack lets fans own every moment on the pitch.<br><br>\n\n<b>KEY FEATURES:</b><br><br>\n\n<b>Powered by Frostbite technology.</b> One of the industry\u2019s leading game engines, Frostbite delivers authentic, true-to-life action; takes players to new football worlds; and introduces fans to characters full of depth and emotion in FIFA 17.<br><br>\n\n<b>A fresh new story mode.</b> For the first time ever in FIFA, live your story on and off the pitch as the Premier League\u2019s next rising star, Alex Hunter. Play alongside some of the best players on the planet, work with four authentic managers and take part in a brand new football experience, all while navigating the emotional highs and lows of The Journey.<br><br>\n\n<b>Physical play overhaul and new attacking techniques.</b> FIFA 17 represents transformation in the way players physically interact in all areas of the pitch. Control is now in your hands as you battle for space and possession. Plus, new options in attack give players more ways to create shot chances and finish in front of goal.<br><br>\n\n<b>Set piece rewrite.</b> From free kicks to penalties to corner kicks, inject personality into your game and experience control from every dead ball situation.<br><br> \n\n<b>Active Intelligence System.</b> A brand new system introduces constant spatial analysis, increases activity off the ball and changes the way players move, read, and react.<br><br>", 
+        "packArtLarge": "/182633/231.0x326.0/1038862_LB_231x326_en_US_^_2016-07-21-10-11-54_1b27093a8723b707c8433a4aafc9203fd660d669.jpg", 
+        "packArtMedium": "/182633/142.0x200.0/1038862_MB_142x200_en_US_^_2016-07-21-10-11-54_2b2521acba991494f6a37d2cd196c33c18cac77b.jpg", 
+        "packArtSmall": "/182633/63.0x89.0/1038862_SB_63x89_en_US_^_2016-07-21-10-11-54_b36a0e6115768dc63778d6bb5ea7749de08f4f6e.jpg", 
+        "shortDescription": "Build your FIFA Ultimate Team Squad with great bonuses"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 17", 
+                    "masterTitleId": 182633
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001450", 
+    "offerType": "Bundle", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-09-19T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-09-19T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-09-06T12:20:29Z"
+}

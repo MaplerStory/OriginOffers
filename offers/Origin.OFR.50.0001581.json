@@ -61,8 +61,8 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2025-08-07T11:51:19Z", 
-                    "platform": "PCWIN"
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-10-18T00:00:00Z"
                 }
             ]
         }, 
@@ -118,5 +118,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-06T17:49:19Z"
+    "updatedDate": "2016-09-19T18:14:17Z"
 }

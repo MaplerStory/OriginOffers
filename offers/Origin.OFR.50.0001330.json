@@ -126,11 +126,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableStartDate": "2016-09-09T00:00:00Z"
+                    "storeAvailableStartDate": "2016-09-19T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-09T16:43:17Z"
+    "updatedDate": "2016-09-19T16:34:26Z"
 }

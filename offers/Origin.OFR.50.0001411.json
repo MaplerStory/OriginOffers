@@ -6,7 +6,7 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
             }
@@ -20,17 +20,17 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1039383"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1039345"
     }, 
-    "financeId": "1039383", 
-    "itemId": "Origin.ITM.50.0001153", 
+    "financeId": "1039345", 
+    "itemId": "Origin.ITM.50.0001222", 
     "localizableAttributes": {
-        "displayName": "750 FIFA 17 Points Pack", 
-        "longDescription": "<b>BUILD -</b> Build your squad with over 12,000 players. Choose your favorites or pick players that fit your style of football.<br>\n<b>MANAGE -</b> You can open packs or use the Transfer Market to acquire new players that can enhance team chemistry.<br>\n<b>COMPETE -</b> With millions of games played daily, there is always an opponent ready in FIFA 17 Ultimate Team\u2122.<br>", 
-        "packArtLarge": "/182633/231.0x326.0/1039351_LB_231x326_en_GB_^_2016-08-12-09-55-58_97465b804591fb08afedc93c8d2df8da9a93deae.jpg", 
-        "packArtMedium": "/182633/142.0x200.0/1039380_MB_142x200_en_GB_^_2016-08-12-09-55-58_b6ae07a3d263286513ee1b6ddd8a7a6ddbe70308.jpg", 
-        "packArtSmall": "/182633/63.0x89.0/1039380_SB_63x89_en_GB_^_2016-08-12-09-55-58_bec095150acb77c42a0e35a3882243c22ad77bea.jpg", 
-        "shortDescription": "Use your 750 FIFA Points Pack to open packs and build your Ultimate Team\u2122 even faster."
+        "displayName": "Up to 40 Jumbo Premium Gold Packs", 
+        "longDescription": "Build out your FUT Squad with up to 40 FIFA Ultimate Team Jumbo Premium Gold Packs, two per week over 20 weeks.", 
+        "packArtLarge": "/182633/231.0x326.0/1039345_LB_231x326_en_GB_^_2016-05-10-07-47-24_f6482fb4a7bd79dfe8824139109b2f799829e3f1.jpg", 
+        "packArtMedium": "/182633/142.0x200.0/1039345_MB_142x200_en_GB_^_2016-05-10-07-47-24_59dbfccac1e84a76adfbb0cb373cc0c41819e2a0.jpg", 
+        "packArtSmall": "/182633/63.0x89.0/1039345_SB_63x89_en_GB_^_2016-05-10-07-47-26_9c131e8ec08d5dab54a877560471eeafb337d5e2.jpg", 
+        "shortDescription": "Build out your FUT Squad with up to 40 FIFA Ultimate Team Jumbo Premium Gold Packs, two per week over 20 weeks."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -47,14 +47,13 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001326", 
-    "offerType": "Fictional Currency", 
+    "offerId": "Origin.OFR.50.0001411", 
+    "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
-            "greyMarketControls": false, 
             "isDownloadable": false, 
-            "isPublished": true, 
-            "originDisplayType": "None"
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -122,15 +121,8 @@
                     "value": "zh_TW"
                 }
             ]
-        }, 
-        "storeControlDates": {
-            "storeControlDate": [
-                {
-                    "storeAvailableStartDate": "2016-09-19T17:00:00Z"
-                }
-            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-19T16:34:29Z"
+    "updatedDate": "2016-09-08T11:21:16Z"
 }
