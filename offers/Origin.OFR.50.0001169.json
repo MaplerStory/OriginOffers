@@ -25,7 +25,7 @@
     "financeId": "1036389", 
     "itemId": "Origin.ITM.50.0001075", 
     "localizableAttributes": {
-        "displayName": "<i>Star Wars</i>\u2122 Battlefront\u2122 Death Star", 
+        "displayName": "STAR WARS\u2122 Battlefront\u2122 Death Star", 
         "longDescription": "As part of the <i>Star Wars</i>\u2122 Battlefront\u2122 Season Pass, expand your galaxy with the <i>Star Wars</i>\u2122 Battlefront\u2122 Death Star digital expansion pack. Fire up your starships and ready your blasters as one of the deadliest weapons in the galaxy makes its highly-anticipated debut. Everyone\u2019s favorite Wookiee, Chewbacca, arrives alongside bounty hunter Bossk as the two new playable heroes. Board the Death Star and blast foes with the new K-16 Bryar Pistol or TL-50 Heavy Repeater. Take your starfighters to space in an all-new game mode and even hop into the cockpits of Darth Vader\u2019s TIE Advanced or Luke Skywalker\u2019s Red Five X-wing. If the Force\u2122 is strong with you, attempt a trench run to take down the Empire\u2019s ultimate weapon.", 
         "packArtLarge": "/192140/231.0x326.0/1036389_LB_231x326_en_US_^_2016-09-05-01-54-32_8227496eff0f407bc1b6e49ed551e6c1f32c8507.jpg", 
         "packArtMedium": "/192140/142.0x200.0/1036389_MB_142x200_en_US_^_2016-09-05-01-54-32_345474ce450fc51b19862904ba70134cda332311.jpg", 
@@ -55,12 +55,11 @@
             "gameDistributionSubType": "Normal Game", 
             "isDownloadable": false, 
             "isPublished": true, 
-            "originDisplayType": "None"
+            "originDisplayType": "Expansion"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2016-09-20T13:00:00Z", 
                     "platform": "PCWIN", 
                     "releaseDate": "2016-09-20T13:00:00Z"
                 }
@@ -115,5 +114,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-09T13:39:12Z"
+    "updatedDate": "2016-09-20T13:57:17Z"
 }
