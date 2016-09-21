@@ -1,0 +1,110 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1042196"
+    }, 
+    "financeId": "1042196", 
+    "itemId": "Origin.ITM.50.0001464", 
+    "localizableAttributes": {
+        "displayName": "BATTLEFIELD 1 DELUXE UPGRADE & HELLFIGHTER PACK BUNDLE", 
+        "longDescription": "BATTLEFIELD 1 DELUXE UPGRADE &amp; HELLFIGHTER PACK BUNDLE", 
+        "shortDescription": "BATTLEFIELD 1 DELUXE UPGRADE & HELLFIGHTER PACK BUNDLE"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Battlefield", 
+                    "franchiseId": 51302
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFIELD 1", 
+                    "masterTitleId": 190132
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001780", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-10-20T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-09-21T15:16:28Z"
+}
