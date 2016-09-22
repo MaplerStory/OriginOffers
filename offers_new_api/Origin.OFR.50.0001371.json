@@ -1,0 +1,121 @@
+{
+    "alternateMasterTitleIds": [], 
+    "brand": null, 
+    "bundleOffers": [
+        "Origin.OFR.50.0001372", 
+        "Origin.OFR.50.0001373", 
+        "Origin.OFR.50.0001374"
+    ], 
+    "contentId": "195260", 
+    "countries": {
+        "catalogPrice": 6.99, 
+        "catalogPriceA": [
+            6.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
+        "hasSubscriberDiscount": "Y", 
+        "inStock": null, 
+        "isPublished": true, 
+        "isPurchasable": "Y"
+    }, 
+    "developerFacetKey": null, 
+    "duration": null, 
+    "durationUnit": null, 
+    "dynamicPricing": "N", 
+    "extraContent": [
+        "Origin.OFR.50.0001372", 
+        "Origin.OFR.50.0001373", 
+        "Origin.OFR.50.0001374"
+    ], 
+    "extraContentDisplayGroup": null, 
+    "extraContentDisplayGroupSortAsc": null, 
+    "franchiseFacetKey": "dungeonsofdredmor", 
+    "gameDistributionSubType": "Normal Game", 
+    "gameEditionTypeFacetKey": "Standard Edition", 
+    "gameEditionTypeFacetKeyRankDesc": "3000", 
+    "gameNameFacetKey": "dungeons-of-dredmor", 
+    "gameRatingDesc": [], 
+    "gameRatingDescriptionLong": null, 
+    "gameRatingPendingMature": null, 
+    "gameRatingReason": null, 
+    "gameRatingType": null, 
+    "gameRatingTypeValue": null, 
+    "gameRatingUrl": null, 
+    "gameTypeFacetKey": "BASEGAME", 
+    "genreFacetKey": "Role Playing", 
+    "i18n": {
+        "brand": null, 
+        "developerFacetKey": null, 
+        "displayName": "Dungeons of Dredmor Complete", 
+        "eulaURL": null, 
+        "extraContentDisplayGroupDisplayName": null, 
+        "franchiseFacetKey": null, 
+        "franchisePageLink": null, 
+        "gameForumURL": "https://community.gaslampgames.com/", 
+        "gameManualURL": null, 
+        "gameTypeFacetKey": null, 
+        "genreFacetKey": null, 
+        "longDescription": "<b>Includes:</b>\n<br><br>\nDungeons of Dredmor Base Game\n<br>\nDungeons of Dredmor: Conquest of the Wizardlands\n<br>\nDungeons of Dredmor: You Have To Name The Expansion Pack\n<br>\nDungeons of Dredmor: Realm of the Diggle Gods\n<br><br>\nLong ago, the Dark Lord Dredmor was bound in the darkest dungeons beneath the earth by great and mighty heroes. Centuries later, the magical bonds that hold him in place are loosening and his power grows ever stronger. The land cries out for a new hero, a powerful warrior or a mystic wizard like those spoken of in the prophecies of yore.\nWhat they have, unfortunately, is you...\n<br><br>\nStep into the Dungeons of Dredmor! Embrace your destiny! Face evil of the likes the world has never known - the terrifying Swarmies, the undulating Thrusties, and the adoreable nest-building Diggles. Worship Inconsequentia, the Goddess of Pointless Sidequests, or try your luck as a devotee of the nameless Lutefisk God. Cast powerful magic learned from the dark business warlocks of the school of Necronomiconomics, or summon the Viking Runes of your ancestors to blast your foes with thunder and lightning! Discover the power that can be had by wielding a bizarre armament of devastating weaponry such as the Interdimensional Axe, the Plastic Ring, and the Invisible Shield (if you can remember where you left it). Wield shoes decorated by the Dwarven Glittersmiths, all of whom have now committed suicide because of their shame, and embrace the joys of destroying giant moustache-wielding brick demons with a mace decorated with tawdry, delicious bacon.\n<br><br>\nWhile you\u2019re at it, be prepared to die. A lot. In hideous, screaming pain that makes you throw your keyboard out the window.\nThe Dungeons of Dredmor await. Are you ready for them?\n<br><br>\n<b>Dungeons of Dredmor Complete Features</b>\n<br><br>\n\u2022 Classic Roguelike gameplay with the sweet, refreshing taste of point-and-click interfaces. No longer must you press CTRL-ALT-SHIFT-x to drink a potion.\n<br><br>\n\u2022 Randomly generated dungeons entice you with the sweet, sweet promises of treasure and \u2026 things.\n<br><br>\n\u2022 Old-school pixel goodness. Face lovingly hand-animated monsters and enjoy the great taste of beautiful, individually rendered items on top of a sea of gorgeous, potent tile-work.\n<br><br>\n\u2022 Wield the awesome power of the Anvil of Krong, lest it wield you!\n<br><br>\n\u2022 Incredibly complicated crafting system! Wield relics of the Great Elven/Dwarven conflict; grind down ingots to make powdered aluminum and shove it directly up your nostrils!\n<br><br>\n\u2022 Hordes of monsters never-before-seen in a video game!\n<br><br>\n\u2022 Deploy cunning traps to defeat your foes!\n<br><br>\n\u2022 Infinite replay value: choose from a selection of mind-boggling skills to create your character. A new gameplay experience awaits every time!\n<br><br>\n\u2022 Did we mention there\u2019s lutefisk?\n<br><br>", 
+        "mediumDescription": null, 
+        "numberOfPlayersFacetKey": null, 
+        "officialSiteURL": "https://dungeonsofdredmor.com/", 
+        "onlineDisclaimer": "\u00a9 2011 - 2016 Gaslamp Games Inc. \n<br><br>\nINTERNET CONNECTION AND ACCEPTANCE OF THE ORIGIN END USER LICENSE AGREEMENT REQUIRED. \n<br><br>\nEA DOES NOT GUARANTEE THAT ORIGIN FEATURES WILL BE AVAILABLE ON ALL GAMES DISTRIBUTED ON THE ORIGIN STORE. SEE GAME-SPECIFIC DISCLOSURES FOR MORE DETAILS.\n<br><br>", 
+        "packArtLarge": "/195260/231.0x326.0/1037316_LB_231x326_en_US_^_2016-03-18-12-23-31_479d5647e7a8c5f41b694705400c744805f335a0.jpg", 
+        "packArtMedium": "/195260/142.0x200.0/1037316_MB_142x200_en_US_^_2016-03-18-12-24-08_279ef8fa24c83eabcf6c058244dca749e0bd5457.jpg", 
+        "packArtSmall": "/195260/63.0x89.0/1037316_SB_63x89_en_US_^_2016-03-18-12-26-29_41828846db4bc6e564b8a5c346b72c2c602a6fda.jpg", 
+        "platformFacetKey": null, 
+        "preAnnouncementDisplayDate": null, 
+        "publisherFacetKey": null, 
+        "ratingSystemIcon": null, 
+        "shortDescription": "Step into the Dungeons of Dredmor!", 
+        "systemRequirements": "<b>System Requirements:</b>\n<br><br>\n<b>OS:</b> Windows XP, Vista, 7\n<br>\n<b>Processor:</b> Core 2 Duo/Athlon 64 or above recommended\n<br>\n<b>Memory:</b> 1 GB of RAM minimum; 2 GB recommended\n<br>\n<b>Hard Disk Space:</b> 400+ megabytes\n<br>\n<b>Video Card:</b> Any DirectX-compatible video device with a minimum resolution of 1024 x 600 or 1024 x 768\n<br>\n<b>DirectX\u00ae:</b> 9\n<br>\n<b>Sound:</b> Any DirectX-compatible audio device\n<br><br>"
+    }, 
+    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "includeOffers": [], 
+    "isDownloadable": "True", 
+    "isThirdPartyTitle": "true", 
+    "itemId": "Origin.ITM.50.0001194", 
+    "itemName": "Dungeons of Dredmor Complete - PC - WW (Origin)", 
+    "itemType": "Base Game", 
+    "masterTitle": "DUNGEONS OF DREDMOR", 
+    "masterTitleId": "195260", 
+    "mdmItemType": "Full Game", 
+    "numberOfPlayersFacetKey": "SinglePlayer", 
+    "offerId": "Origin.OFR.50.0001371", 
+    "offerPath": "/dungeonsofdredmor/dungeons-of-dredmor/standard-edition", 
+    "offerType": "Base Game", 
+    "originDisplayType": "Full Game", 
+    "platformFacetKey": "PC Download", 
+    "platforms": [
+        {
+            "achievementSetOverride": null, 
+            "commerceProfile": null, 
+            "downloadPackageType": "DownloadInPlace", 
+            "downloadStartDate": "2011-07-13T00:00:00Z", 
+            "executePathOverride": null, 
+            "multiPlayerId": null, 
+            "originSubscriptionUseEndDate": null, 
+            "platform": "PCWIN", 
+            "releaseDate": "2011-07-13T00:00:00Z", 
+            "showSubsSaveGameWarning": "false", 
+            "useEndDate": null
+        }
+    ], 
+    "publisherFacetKey": null, 
+    "ratingSystemIcon": null, 
+    "rbuCode": "3131", 
+    "revenueModel": "Digital - Full Game", 
+    "softwareLocales": [
+        "en_US"
+    ], 
+    "storeGroupId": "Origin", 
+    "suppressedOfferIds": [], 
+    "trialLaunchDuration": null, 
+    "vault": {
+        "isUpgradeable": "N", 
+        "path": "/dungeonsofdredmor/dungeons-of-dredmor/standard-edition"
+    }
+}
