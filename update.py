@@ -26,14 +26,15 @@ special_ids = [
     "OFB-EAST:109546867"  # BF4
 ]
 
+how_many = 1500
 offer_pat = "Origin.OFR.50.%s"
 # offer_pat = "OFB-EAST:%s"
 # offer_pat = "DR:%s"
 url = "https://ecommerce2.dm.origin.com/ecommerce2/%s/%s/en_US?country=US&machine_hash=17400363085085971258"
+url_new = "https://api2.origin.com/ecommerce2/%s/supercat/%s/en_US?country=US&lmd=1461618623000"
 i = 1000
 
-for i in range(i, i + 2000):
-    # print i
+for i in range(i, i + how_many):
     try:
         offer_id = offer_pat % str(i).zfill(7)
         r = s.get(url % ("public", offer_id))
@@ -47,6 +48,19 @@ for i in range(i, i + 2000):
             print offer_id, r['localizableAttributes']['displayName'], r['localizableAttributes']['shortDescription']
             file_name = offer_id
             json.dump(r, open('offers/%s.json' % file_name, 'w'), sort_keys=True, indent=4)
+    except Exception as e:
+        print e.message
+    # This is ugly as shit lol
+    try:
+        offer_id = offer_pat % str(i).zfill(7)
+        r = s.get(url_new % ("public", offer_id))
+        if r.status_code != 200:
+            continue
+        else:
+            r = r.json()
+            print offer_id, r['i18n']['displayName'], r['i18n']['shortDescription']
+            file_name = offer_id
+            json.dump(r, open('offers_new_api/%s.json' % file_name, 'w'), sort_keys=True, indent=4)
     except Exception as e:
         print e.message
 
