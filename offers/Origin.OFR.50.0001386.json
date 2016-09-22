@@ -9,6 +9,12 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "JP"
             }
         ]
     }, 
@@ -20,16 +26,18 @@
     "ecommerceAttributes": {
         "addonsAvailable": true, 
         "availableExtraContent": [
-            "Origin.OFR.50.0001548", 
-            "Origin.OFR.50.0001549", 
+            "Origin.OFR.50.0001780", 
             "Origin.OFR.50.0001550", 
             "Origin.OFR.50.0001581", 
             "Origin.OFR.50.0001542", 
             "Origin.OFR.50.0001378", 
+            "Origin.OFR.50.0001562", 
             "Origin.OFR.50.0001546", 
             "Origin.OFR.50.0001547", 
             "Origin.OFR.50.0001379", 
-            "Origin.OFR.50.0001545"
+            "Origin.OFR.50.0001545", 
+            "Origin.OFR.50.0001548", 
+            "Origin.OFR.50.0001549"
         ], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1038189"
     }, 
@@ -66,9 +74,9 @@
             "gameDistributionSubType": "Gameplay Timer Trial - Access", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game", 
-            "trialLaunchDuration": 1
+            "trialLaunchDuration": 10
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -143,8 +151,15 @@
                     "value": "zh_TW"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-09-11T00:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-07T14:13:58Z"
+    "updatedDate": "2016-09-22T18:20:56Z"
 }

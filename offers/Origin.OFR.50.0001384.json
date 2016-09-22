@@ -20,16 +20,18 @@
     "ecommerceAttributes": {
         "addonsAvailable": true, 
         "availableExtraContent": [
-            "Origin.OFR.50.0001548", 
-            "Origin.OFR.50.0001549", 
+            "Origin.OFR.50.0001780", 
             "Origin.OFR.50.0001550", 
             "Origin.OFR.50.0001581", 
             "Origin.OFR.50.0001542", 
             "Origin.OFR.50.0001378", 
+            "Origin.OFR.50.0001562", 
             "Origin.OFR.50.0001546", 
             "Origin.OFR.50.0001547", 
             "Origin.OFR.50.0001379", 
-            "Origin.OFR.50.0001545"
+            "Origin.OFR.50.0001545", 
+            "Origin.OFR.50.0001548", 
+            "Origin.OFR.50.0001549"
         ], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1038424"
     }, 

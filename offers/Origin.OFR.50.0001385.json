@@ -8,7 +8,79 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
                 "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "JP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UZ"
             }
         ]
     }, 
@@ -20,16 +92,18 @@
     "ecommerceAttributes": {
         "addonsAvailable": true, 
         "availableExtraContent": [
-            "Origin.OFR.50.0001548", 
-            "Origin.OFR.50.0001549", 
+            "Origin.OFR.50.0001780", 
             "Origin.OFR.50.0001550", 
             "Origin.OFR.50.0001581", 
             "Origin.OFR.50.0001542", 
             "Origin.OFR.50.0001378", 
+            "Origin.OFR.50.0001562", 
             "Origin.OFR.50.0001546", 
             "Origin.OFR.50.0001547", 
             "Origin.OFR.50.0001379", 
-            "Origin.OFR.50.0001545"
+            "Origin.OFR.50.0001545", 
+            "Origin.OFR.50.0001548", 
+            "Origin.OFR.50.0001549"
         ], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1026023"
     }, 
@@ -66,9 +140,9 @@
             "gameDistributionSubType": "Gameplay Timer Trial - Access", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game", 
-            "trialLaunchDuration": 1
+            "trialLaunchDuration": 10
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -140,8 +214,15 @@
                     "value": "zh_TW"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-09-11T00:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-07T14:11:54Z"
+    "updatedDate": "2016-09-22T18:18:39Z"
 }

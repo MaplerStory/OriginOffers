@@ -20,14 +20,17 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1042196"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1041488"
     }, 
-    "financeId": "1042196", 
-    "itemId": "Origin.ITM.50.0001464", 
+    "financeId": "1041488", 
+    "itemId": "Origin.ITM.50.0001350", 
     "localizableAttributes": {
-        "displayName": "Battlefield\u2122 1 Deluxe Upgrade and Hellfighter Pack Bundle", 
-        "longDescription": "Battlefield\u2122 1 Deluxe Upgrade and Hellfighter Pack Bundle", 
-        "shortDescription": "Battlefield\u2122 1 Deluxe Upgrade and Hellfighter Pack Bundle"
+        "displayName": "Battlefield\u2122 1 Rent a Server (30 days)", 
+        "longDescription": "Get your own Battlefield 1 server for 30 days where everyone plays by your rules. Name your server and upload a banner. Practice with friends in private, or go public with ranked games.<br><br>\n\nUse our quick and simple server setup wizard and ready-made presets, or manually tweak every detail from spawn times to tickets to create your personal game experience.<br><br>\n\nUse this item to start a new server or extend your current lease by 30 days.<br><br>", 
+        "packArtLarge": "/190132/231.0x326.0/1041488_LB_231x326_en_US_^_2016-09-11-21-12-42_bc7af5997cb69388d46d26582f8c40ae7fd83fbf.jpg", 
+        "packArtMedium": "/190132/142.0x200.0/1041488_MB_142x200_en_US_^_2016-09-11-21-12-42_21749c15be15aa4aad691319ab9a77a119547986.jpg", 
+        "packArtSmall": "/190132/63.0x89.0/1041488_SB_63x89_en_US_^_2016-09-11-21-12-42_21d114d6eba2f4cd51da10f6525b07f676879747.jpg", 
+        "shortDescription": "Get your own Battlefield 1 server. Use our quick and simple server setup wizard and ready-made presets, or manually tweak every detail from spawn times to tickets to create your personal game experience."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -44,7 +47,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001780", 
+    "offerId": "Origin.OFR.50.0001562", 
     "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
@@ -58,7 +61,7 @@
             "softwareControlDate": [
                 {
                     "platform": "PCWIN", 
-                    "releaseDate": "2016-10-20T00:00:00Z"
+                    "releaseDate": "2016-09-20T00:00:00Z"
                 }
             ]
         }, 
@@ -114,5 +117,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-21T16:48:00Z"
+    "updatedDate": "2016-09-21T16:15:23Z"
 }
