@@ -58,7 +58,7 @@ for i in range(i, i + how_many):
             continue
         else:
             r = r.json()
-            print offer_id, r['i18n']['displayName'], r['i18n']['shortDescription']
+            print "NEW API:", offer_id, r['i18n']['displayName'], r['i18n']['shortDescription']
             file_name = offer_id
             json.dump(r, open('offers_new_api/%s.json' % file_name, 'w'), sort_keys=True, indent=4)
     except Exception as e:
@@ -75,5 +75,16 @@ for sid in special_ids:
             print sid, r['localizableAttributes']['displayName'], r['localizableAttributes']['shortDescription']
             file_name = sid
             json.dump(r, open('special_offers/%s.json' % file_name, 'w'), sort_keys=True, indent=4)
+    except Exception as e:
+        print e.message
+    try:
+        r = s.get(url_new % ("public", sid))
+        if r.status_code != 200:
+            continue
+        else:
+            r = r.json()
+            print "NEW API:", sid, r['i18n']['displayName'], r['i18n']['shortDescription']
+            file_name = sid
+            json.dump(r, open('special_offers/%s_new_api.json' % file_name, 'w'), sort_keys=True, indent=4)
     except Exception as e:
         print e.message
