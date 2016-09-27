@@ -24,7 +24,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
             }, 
@@ -79,7 +79,7 @@
         ]
     }, 
     "customAttributes": {
-        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "gameEditionTypeFacetKeyRankDesc": "9000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -153,17 +153,17 @@
             "Origin.OFR.50.0001486", 
             "Origin.OFR.50.0001489"
         ], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1038862"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1039662"
     }, 
-    "financeId": "1038862", 
-    "itemId": "Origin.ITM.50.0001260", 
+    "financeId": "1039662", 
+    "itemId": "Origin.ITM.50.0001308", 
     "localizableAttributes": {
-        "displayName": "FIFA 17", 
+        "displayName": "FIFA 17 Super Deluxe Edition", 
         "longDescription": "Powered by Frostbite, FIFA 17 transforms the way you play, compete and emotionally connect with the game.<br><br>\n\nFIFA 17 immerses you in authentic football experiences by leveraging the sophistication of a new game engine, while introducing you to football players full of depth and emotion, and taking you to brand new worlds accessible only in the game. Complete innovation in the way players think and move, physically interact with opponents, and execute in attack lets you own every moment on the pitch.<br><br>\n\n<b>KEY FEATURES:</b><br><br>\n\n<b>Powered by Frostbite technology.</b> One of the industry\u2019s leading game engines, Frostbite delivers authentic, true-to-life action; takes players to new football worlds; and introduces fans to characters full of depth and emotion in FIFA 17.<br><br>\n\n<b>A fresh new story mode.</b> For the first time ever in FIFA, live your story on and off the pitch as the Premier League\u2019s next rising star, Alex Hunter. Play alongside some of the best players on the planet, work with four authentic managers and take part in a brand new football experience, all while navigating the emotional highs and lows of The Journey.<br><br>\n\n<b>Physical play overhaul and new attacking techniques.</b> FIFA 17 represents transformation in the way players physically interact in all areas of the pitch. Control is now in your hands as you battle for space and possession. Plus, new options in attack give players more ways to create shot chances and finish in front of goal.<br><br>\n\n<b>Set piece rewrite.</b> From free kicks to penalties to corner kicks, inject personality into your game and experience control from every dead ball situation.<br><br> \n\n<b>Active Intelligence System.</b> A brand new system introduces constant spatial analysis, increases activity off the ball and changes the way players move, read, and react.<br><br>", 
-        "packArtLarge": "/182633/231.0x326.0/1038862_LB_231x326_en_US_^_2016-07-21-10-11-54_1b27093a8723b707c8433a4aafc9203fd660d669.jpg", 
-        "packArtMedium": "/182633/142.0x200.0/1038862_MB_142x200_en_US_^_2016-07-21-10-11-54_2b2521acba991494f6a37d2cd196c33c18cac77b.jpg", 
-        "packArtSmall": "/182633/63.0x89.0/1038862_SB_63x89_en_US_^_2016-07-21-10-11-54_b36a0e6115768dc63778d6bb5ea7749de08f4f6e.jpg", 
-        "shortDescription": "Build your FIFA Ultimate Team Squad with great bonuses"
+        "packArtLarge": "/182633/231.0x326.0/1038875_LB_231x326_en_US_^_2016-07-21-10-22-52_9283b53d099cc30571dc4d6653e0e1bec566776b.jpg", 
+        "packArtMedium": "/182633/142.0x200.0/1038875_MB_142x200_en_US_^_2016-07-21-10-22-52_6fd634775d7c1238031b529c0547e42b8f2761f1.jpg", 
+        "packArtSmall": "/182633/63.0x89.0/1038875_SB_63x89_en_US_^_2016-07-21-10-22-52_cc763a3bff9326d9e4f1791a51a9e9fdf9b40541.jpg", 
+        "shortDescription": "Get FIFA 17 Super Deluxe Edition, and you'll receive 8000 FIFA Points!"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -180,7 +180,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001449", 
+    "offerId": "Origin.OFR.50.0001511", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
@@ -188,7 +188,7 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Full Game", 
             "useLegacyFriendsLimit": true
         }, 
@@ -289,8 +289,15 @@
                     "value": "zh_TW"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-10-11T17:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-07T09:34:02Z"
+    "updatedDate": "2016-09-20T15:49:49Z"
 }
