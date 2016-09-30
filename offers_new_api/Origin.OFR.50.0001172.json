@@ -4,18 +4,14 @@
     "bundleOffers": [], 
     "contentId": null, 
     "countries": {
-        "catalogPrice": 0.0, 
-        "catalogPriceA": [
-            0.0
-        ], 
-        "countryCurrency": "USD", 
-        "countryCurrencyA": [
-            "USD"
-        ], 
+        "catalogPrice": null, 
+        "catalogPriceA": [], 
+        "countryCurrency": null, 
+        "countryCurrencyA": [], 
         "hasSubscriberDiscount": "N", 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "Y"
+        "isPurchasable": "N"
     }, 
     "developerFacetKey": null, 
     "duration": null, 
