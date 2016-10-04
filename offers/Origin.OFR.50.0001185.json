@@ -112,11 +112,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.1.783\"/>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifestEnabled=\"0\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "3.0.1.783", 
-                                "downloadURL": "/shift/origin/client_automation_pi/patch_-_ww_ende/client_automation_pipcpatch__ww_endeconcept_1479de0b4e4f4746f7a5ef1a233c470244.zip", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.1.4045\"/>    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifestEnabled=\"0\"/>    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.1.4045", 
+                                "downloadURL": "/shift/origin/client_automation_hpi/patch__ww_ende/client_automation_pipcpatch__ww_endeconcept_156636aa9db8484c4381cef9a8db3e14c4.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2015-10-20T10:30:00Z"
+                                "effectiveDate": "2016-10-03T00:00:00Z"
                             }
                         ]
                     }, 
