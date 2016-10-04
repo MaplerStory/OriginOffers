@@ -15,7 +15,7 @@
         "hasSubscriberDiscount": "Y", 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "EA Canada", 
     "duration": null, 
