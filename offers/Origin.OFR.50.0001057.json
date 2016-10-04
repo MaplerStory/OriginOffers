@@ -24,7 +24,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "DEFAULT"
             }, 
@@ -188,7 +188,7 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game", 
             "useLegacyFriendsLimit": true
         }, 
@@ -299,5 +299,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-10-04T10:16:43Z"
+    "updatedDate": "2016-10-04T16:01:26Z"
 }

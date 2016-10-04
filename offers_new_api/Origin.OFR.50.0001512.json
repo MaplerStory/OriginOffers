@@ -10,7 +10,7 @@
         "countryCurrencyA": [], 
         "hasSubscriberDiscount": "N", 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "N"
     }, 
     "developerFacetKey": "EA Canada", 
