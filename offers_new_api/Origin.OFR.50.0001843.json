@@ -18,7 +18,10 @@
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
+        "DR:111229500", 
         "DR:111229600", 
+        "DR:111229700", 
+        "DR:110843700", 
         "OFB-EAST:57886"
     ], 
     "extraContentDisplayGroup": null, 

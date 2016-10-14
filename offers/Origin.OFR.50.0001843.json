@@ -19,8 +19,11 @@
     "ecommerceAttributes": {
         "addonsAvailable": true, 
         "availableExtraContent": [
+            "DR:110843700", 
             "OFB-EAST:57886", 
-            "DR:111229600"
+            "DR:111229600", 
+            "DR:111229700", 
+            "DR:111229500"
         ], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1047372"
     }, 
