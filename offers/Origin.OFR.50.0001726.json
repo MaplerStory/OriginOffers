@@ -19,14 +19,14 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046641"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1041464"
     }, 
-    "financeId": "1046641", 
-    "itemId": "Origin.ITM.50.0001497", 
+    "financeId": "1041464", 
+    "itemId": "Origin.ITM.50.0001467", 
     "localizableAttributes": {
-        "displayName": "BATTLEFIELD 1 DOMINOS BATTLEPACK", 
-        "longDescription": "<span style=\"color: rgb(61, 61, 61); font-family: NotoSansRegular; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(228, 227, 227);\">BATTLEFIELD 1 DOMINOS BATTLEPACK</span><br>", 
-        "shortDescription": "BATTLEFIELD 1 DOMINOS BATTLEPACK"
+        "displayName": "BATTLEFIELD 1 PROMO BATTLEPACK 2 Display Name Placeholder Text.", 
+        "longDescription": "BATTLEFIELD 1 PROMO BATTLEPACK 2 Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "shortDescription": "BATTLEFIELD 1 PROMO BATTLEPACK 2 Short Description Placeholder Text."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -43,19 +43,19 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001769", 
+    "offerId": "Origin.OFR.50.0001726", 
     "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
-            "contentId": "NA", 
             "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
             "isPublished": false, 
             "originDisplayType": "None"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2016-10-18T00:00:00Z", 
                     "platform": "PCWIN", 
                     "releaseDate": "2016-10-18T00:00:00Z"
                 }
@@ -106,5 +106,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-10-18T10:01:04Z"
+    "updatedDate": "2016-10-18T10:02:06Z"
 }
