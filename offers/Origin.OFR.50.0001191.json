@@ -80,6 +80,12 @@
                                 "downloadURL": "/p/opp/inxile/WASTELAND_2/DDX_DLC/Wasteland_2_Choir_Songs_EP_1.3.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2015-10-05T11:04:00Z"
+                            }, 
+                            {
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/inxile_entertainment/wasteland_2/dlc__ww_choir_songs_ep/wasteland_2macdlc__ww_choir_songs_eprun_1__idjiteca641185c3d4d818861bea5b36704fd.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2036-10-22T00:13:33Z"
                             }
                         ]
                     }, 
@@ -106,6 +112,12 @@
                                 "downloadURL": "/p/opp/inxile/WASTELAND_2/DDX_DLC/Wasteland_2_Choir_Songs_EP_1.3.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2015-10-05T11:00:00Z"
+                            }, 
+                            {
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/inxile_entertainment/wasteland_2/dlc__ww_choir_songs_ep/wasteland_2pcdlc__ww_choir_songs_eprun_1__origin__idjit_data_store2b579cfea69a4405978dd9ddf9c828fa.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2036-10-21T22:14:02Z"
                             }
                         ]
                     }, 
