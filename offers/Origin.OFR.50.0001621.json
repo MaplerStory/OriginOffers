@@ -119,9 +119,9 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2016-11-15T18:00:19Z", 
+                    "downloadStartDate": "2016-11-29T18:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2016-11-15T18:00:19Z"
+                    "releaseDate": "2016-11-29T18:00:00Z"
                 }
             ]
         }, 
@@ -144,8 +144,21 @@
                     "softwarePlatform": "PCWIN"
                 }
             ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-08-16T21:28:15Z"
+    "updatedDate": "2016-10-20T20:15:06Z"
 }

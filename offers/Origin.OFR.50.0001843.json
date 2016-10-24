@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -30,9 +31,12 @@
     "financeId": "1047372", 
     "itemId": "Origin.ITM.50.0001544", 
     "localizableAttributes": {
-        "displayName": "Mirror's Edge Display Name Placeholder Text.", 
-        "longDescription": "Mirror's Edge Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "Mirror's Edge Short Description Placeholder Text."
+        "displayName": "Mirror's Edge (2009)", 
+        "longDescription": "You are a Runner named Faith \u2013 an agile courier who transports sensitive data, using the rooftops to avoid prying eyes. Now your sister has been framed for murder and you\u2019re running for your life. <br><br>\nThis action-adventure classic delivers you straight into the shoes of a unique heroine as she traverses a vertigo-inducing cityscape, engaging in intense combat and fast paced chases. Live or die? Soar or plummet? One thing is certain: this city will teach you to run. <br><br>\n\n<b>Key Features</b><br><br>\n\n<b>Move yourself.</b> String together an acrobatic combination of wall-runs, leaps, vaults and more that uses every level of the urban environment to your advantage. <br><br>\n\n<b>Immerse yourself.</b> Through a first-person point of view, every breath, collision and impact is acutely felt. Heights create real vertigo, movements flow naturally and bullet impacts create genuine fear and push you to act. <br><br>\n\n<b>Challenge yourself.</b> Your speed and agility allow you not only to evade capture and perform daring escapes, but also to disable and disarm unwary opponents in a mix of chase, strategy and intense combat. <br><br>\n\n<b>Free yourself.</b> \u201cRunner vision\u201d allows you to see the flow of the city as Runners do. Rooftops become pathways and conduits, opportunities and escape routes. The flow is what keeps you running \u2013 what keeps you alive. <br><br>", 
+        "packArtLarge": "/54744/PACKART_PRESET_LARGE_JPG_231x326/70362_LB_231_en_US_%5E_2013-04-22-15-50-25_87383eba365adcc6c3c011bd54a5fb513dac21bb93c1f6af6373d5392624176f.jpg", 
+        "packArtMedium": "/54744/PACKART_PRESET_MEDIUM_JPG_142x200/70362_MB_142_en_US_%5E_2013-04-22-15-50-35_1a11f4614a0e8785c4f3a13454805b001d63ab32a28c6440a5dcfef049499388.jpg", 
+        "packArtSmall": "/54744/PACKART_PRESET_SMALL_JPG_63x89/70362_SB_63_en_US_%5E_2013-04-22-15-50-47_301efa324f9721e6c9fddb6a0199ba27e9712f34bf2f20f077f3a1e3049398df.jpg", 
+        "shortDescription": "This city used to pulse with energy. Now it\u2019s something else."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -72,6 +76,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.1.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.1.0", 
+                                "downloadURL": "/shift/mirrors_edge/mirrors_edge/fg__ww_x0_ooartp/mirrors_edgepcfg__ww_x0_ooartprun_3__20161019_1010d484f9be84dc4647a25a8e28505a4d15.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-10-21T22:40:49Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"1\">%Documents%/EA Games/Mirror's Edge/TDGame/Savefiles/*</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 

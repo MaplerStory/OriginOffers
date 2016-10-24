@@ -15,7 +15,7 @@
         "hasSubscriberDiscount": "N", 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Coldwood Interactive", 
     "duration": null, 

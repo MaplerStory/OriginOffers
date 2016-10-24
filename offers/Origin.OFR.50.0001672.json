@@ -126,6 +126,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]bin\\x64\\witcher3.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\CD Projekt RED\\The Witcher 3 Wild Hunt\\Install Dir]bin\\x64\\witcher3.exe", 
                         "installationDirectory": "The Witcher 3 Wild Hunt", 
+                        "monitorInstall": true, 
                         "monitorPlay": true, 
                         "processorArchitecture": "64-bit", 
                         "showKeyDialogOnInstall": false, 

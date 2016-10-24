@@ -25,9 +25,12 @@
     "financeId": "1041459", 
     "itemId": "Origin.ITM.50.0001363", 
     "localizableAttributes": {
-        "displayName": "BATTLEFIELD 1 BATTLEPACK X 4 Display Name Placeholder Text.", 
-        "longDescription": "BATTLEFIELD 1 BATTLEPACK X 4 Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "BATTLEFIELD 1 BATTLEPACK X 4 Short Description Placeholder Text."
+        "displayName": "Battlefield\u2122 1 Battlepacks x 4", 
+        "longDescription": "Battlefield 1 Battlepacks contains stand-out weapon skins.", 
+        "packArtLarge": "/190132/231.0x326.0/1041459_LB_231x326_en_US_^_2016-09-06-18-54-14_938845d2ee2aaf9c703d190639b31111fa66f1be.jpg", 
+        "packArtMedium": "/190132/142.0x200.0/1041459_MB_142x200_en_US_^_2016-09-06-18-54-14_83ded55738ecfa3b329871618dbabbe243ad142c.jpg", 
+        "packArtSmall": "/190132/63.0x89.0/1041459_SB_63x89_en_US_^_2016-09-06-18-54-14_b027ae2073a5be6a85b7c81df8fbeec81d9227b1.jpg", 
+        "shortDescription": "Battlefield 1 Battlepacks contains stand-out weapon skins."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [

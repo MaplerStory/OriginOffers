@@ -1,0 +1,488 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "EH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ET"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ML"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZW"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001847", 
+            "Origin.OFR.50.0001848", 
+            "Origin.OFR.50.0001845", 
+            "Origin.OFR.50.0001856", 
+            "Origin.OFR.50.0001725", 
+            "Origin.OFR.50.0001849", 
+            "Origin.OFR.50.0001850", 
+            "Origin.OFR.50.0001851"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1047225"
+    }, 
+    "financeId": "1047225", 
+    "itemId": "Origin.ITM.50.0001532", 
+    "localizableAttributes": {
+        "displayName": "Tyranny\u2122 Overlord Edition", 
+        "longDescription": "<b>PRE-ORDER INCENTIVE:</b><br> \nFatebinder\u2019s Signet &amp; Commander\u2019s Chain (In-Game Items)\n<br><br>\n\n<b>TYRANNY\u2122 OVERLORD EDITION INCLUDES:</b><br><br>\n\n\u2022 <b>Base Game</b><br><br>\n\n\u2022 <b>Ringtones (three notification tones and one ringtone)</b><br><br>\n \n\u2022 <b>Overlord Edition Forum Icon (Paradox Plaza)</b><br><br>\n\n\u2022 <b>Exclusive Forum Avatars (Paradox Plaza)</b><br><br>\n\n\u2022 <b>Digital Original Soundtrack.</b>\nThe Tyranny soundtrack delivers 57 min of original music, including a total of 18 tracks.<br><br>\n\n\u2022 <b>Digital High-Resolution Game Map</b><br><br>\n\n\u2022 <b>Short Story Collection.</b>\nA rich digital collection of ten short stories from the world of Tyranny, giving readers a deeper look at the brutal world and powerful characters that live under Kyros\u2019 rule. Written by the creative team behind Tyranny, these stories introduce several of the game\u2019s companions and key characters. This collection includes several exclusive tales never seen before, alongside seven originally published on the official Tyranny website.<br><br>\n\n\u2022 <b>Digital High-Resolution Wallpapers.</b>\nAdd your desktop to Kyros\u2019 domain with a selection of high-quality artwork from Tyranny, sized for PC desktops in high resolution. The collection includes ten different pieces from the Tyranny art team, including one signed by the developers.<br><br>\n\n\u2022 <b>Digital Collector\u2019s Guide Book.</b>\nDiscover the lore and secrets of Tyranny in a comprehensive world guide from author John Helfers. Explore artwork from the game alongside the stories of the people and places of the Tiers, and discover the world that Kyros has brought to heel. Includes a foreword from Obsidian Entertainment.<br><br>\n\n\u2022 <b>Digital Art Book.</b> Immerse yourself in the war-torn world of Tyranny in an extensive collection of original artwork.<br><br>\n\n\u2022 <b>Exclusive Coat of Arms.</b> Adds 4 unique coat of arms to the Fatebinder\u2019s selection of personalized war banners \u2013 show your allegiance with either The Disfavored, Scarlet Chorus, Tunon the Adjudicator, or Kyros the Overlord.<br><br>\n\nIn Tyranny, the grand war between good and evil is over \u2013 and the forces of evil, led by Kyros the Overlord, have won. The Overlord\u2019s merciless armies dominate the face of the world, and its denizens must find their new roles within the war-torn realm. Players interact with the populace to inspire loyalty, disgust, or fear as they roam the world as an officer in Kyros\u2019 forces, empowered to act as both judge and executioner.<br><br>\n\n<b>FEATURES:</b><br><br>\n\n<b>A branching narrative with a unique story in an original setting.</b> The Battle between good and evil has already taken place, and evil stands victorious.<br><br>\n\n<b>Choices matter \u2013 a different player experience every time you play it.</b> As an Officer in the Overlord\u2019s army you wield a vast amount of power in the occupied lands of the Tiers. Will you use that power to inspire stability and loyalty, or will you be a feared oppressor?<br><br>\n\n<b>Challenging, classic RPG combat.</b> Characteristical RPG combat with modern mechanics and presentation.<br><br>\n\n<b>A rich original setting.</b> A completely new and original fantasy world with rich lore and many paths to follow.", 
+        "packArtLarge": "/196008/231.0x326.0/1042157_LB_231x326_en_US_^_2016-07-12-04-00-29_741dd577dba398fae665b4d73cc18c706fbaa300.jpg", 
+        "packArtMedium": "/196008/142.0x200.0/1042157_MB_142x200_en_US_^_2016-07-12-04-00-48_25e6f212508b963542d5d2777eeb02ef334475a8.jpg", 
+        "packArtSmall": "/196008/63.0x89.0/1042157_SB_63x89_en_US_^_2016-07-12-04-01-19_d37713521d28009b9c48840ba631f63b28991e96.jpg", 
+        "shortDescription": "The grand war between good and evil is over."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "TYRANNY", 
+                    "masterTitleId": 196008
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001828", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196008", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-11-10T16:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2016-11-10T16:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2016-11-10T16:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-11-10T16:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.677\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.677", 
+                                "downloadURL": "/shift/paradox_interactive/tyranny/fg__ww/tyrannymacfg__wwrun_8__20161020_10066732c46354af704a3db049afa44b5fcaa7.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-10-20T18:27:34Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_196008_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Library%/Application Support/Tyranny/Saved Games/*.savegame</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[unity.Obsidian Entertainment.Tyranny]/Contents/MacOS/Tyranny", 
+                        "installCheckOverride": "[unity.Obsidian Entertainment.Tyranny]/Contents/MacOS/Tyranny", 
+                        "installationDirectory": "Tyranny", 
+                        "macBundleID": "unity.Obsidian Entertainment.Tyranny", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000576", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.667\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.667", 
+                                "downloadURL": "/shift/paradox_interactive/tyranny/fg__ww/tyrannypcfg__wwrun_9__20161020_100667c0610e89b4594ab9a51bb2da4151c7cd.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-10-20T17:41:39Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_196008_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%SavedGames%/Tyranny/*.savegame</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Obsidian Entertainment\\Tyranny\\Install Dir]Tyranny.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Obsidian Entertainment\\Tyranny\\Install Dir]Tyranny.exe", 
+                        "installationDirectory": "Tyranny", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000575", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-10-13T17:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-10-18T07:03:08Z"
+}

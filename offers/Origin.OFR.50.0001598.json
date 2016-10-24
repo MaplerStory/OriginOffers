@@ -1,0 +1,114 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1041452"
+    }, 
+    "financeId": "1041452", 
+    "itemId": "Origin.ITM.50.0001390", 
+    "localizableAttributes": {
+        "displayName": "Battlefield\u2122 1 DICE LA Dog Tag", 
+        "longDescription": "Battlefield\u2122 1 DICE LA Dog Tag", 
+        "packArtLarge": "/190132/231.0x326.0/1026023_LB_231x326_en_US_^_2016-04-06-17-07-24_e4a13ff27f163b5aff85fd96ed1864d63078af0b.jpg", 
+        "packArtMedium": "/190132/142.0x200.0/1026023_MB_142x200_en_US_^_2016-04-06-17-07-30_ba9e568a3541562335597b1ee29029fff012e039.jpg", 
+        "packArtSmall": "/190132/63.0x89.0/1026023_SB_63x89_en_US_^_2016-04-06-17-07-38_e2aa0f4b9869f43cb936a24d11bb09ca299222b2.jpg", 
+        "shortDescription": "Battlefield\u2122 1 DICE LA Dog Tag"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Battlefield", 
+                    "franchiseId": 51302
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BATTLEFIELD 1", 
+                    "masterTitleId": 190132
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001598", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-10-18T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-09-22T20:47:04Z"
+}

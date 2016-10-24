@@ -26,8 +26,20 @@
     "ecommerceAttributes": {
         "addonsAvailable": true, 
         "availableExtraContent": [
+            "Origin.OFR.50.0001880", 
             "Origin.OFR.50.0001465", 
-            "Origin.OFR.50.0001466"
+            "Origin.OFR.50.0001883", 
+            "Origin.OFR.50.0001466", 
+            "Origin.OFR.50.0001873", 
+            "Origin.OFR.50.0001881", 
+            "Origin.OFR.50.0001882", 
+            "Origin.OFR.50.0001876", 
+            "Origin.OFR.50.0001844", 
+            "Origin.OFR.50.0001877", 
+            "Origin.OFR.50.0001874", 
+            "Origin.OFR.50.0001875", 
+            "Origin.OFR.50.0001878", 
+            "Origin.OFR.50.0001879"
         ], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1039093"
     }, 
@@ -79,6 +91,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/respawn/titanfall_2/fg__ww_fgww/titanfall_2pcfg__ww_fgwwproduction_37__2338254b583a6d030a435bb42e56c971cc2405.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-10-11T10:57:16Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "193634_192492_50844", 
                         "cloudSaveConfigurationOverride": "<saveFileCriteria>\n   <include order=\"0\">%Documents%/Respawn/Titanfall2/local/settings.cfg</include>\n   <include order=\"1\">%Documents%/Respawn/Titanfall2/profile/</include>\n  </saveFileCriteria>", 
@@ -136,8 +159,16 @@
                     "value": "zh_TW"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableEndDate": "2016-10-27T15:00:02Z", 
+                    "storeAvailableStartDate": "2016-08-24T08:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-08-13T23:39:35Z"
+    "updatedDate": "2016-10-21T00:01:00Z"
 }

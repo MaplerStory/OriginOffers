@@ -32,7 +32,7 @@
     "gameEditionTypeFacetKeyRankDesc": "7000", 
     "gameNameFacetKey": "watch-dogs-2", 
     "gameRatingDesc": [], 
-    "gameRatingDescriptionLong": null, 
+    "gameRatingDescriptionLong": "May contain content inappropriate for children. Visit www.esrb.org for rating information.", 
     "gameRatingPendingMature": "true", 
     "gameRatingReason": null, 
     "gameRatingType": "ESRB", 
@@ -88,12 +88,12 @@
             "achievementSetOverride": null, 
             "commerceProfile": null, 
             "downloadPackageType": "Unpacked", 
-            "downloadStartDate": "2016-11-15T18:00:19Z", 
+            "downloadStartDate": "2016-11-29T18:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
-            "releaseDate": "2016-11-15T18:00:19Z", 
+            "releaseDate": "2016-11-29T18:00:00Z", 
             "showSubsSaveGameWarning": "false", 
             "useEndDate": null
         }

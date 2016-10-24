@@ -13,7 +13,7 @@
         ]
     }, 
     "customAttributes": {
-        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -25,9 +25,12 @@
     "financeId": "1042196", 
     "itemId": "Origin.ITM.50.0001464", 
     "localizableAttributes": {
-        "displayName": "Battlefield\u2122 1 Deluxe Upgrade and Hellfighter Pack Bundle", 
-        "longDescription": "Battlefield\u2122 1 Deluxe Upgrade and Hellfighter Pack Bundle", 
-        "shortDescription": "Battlefield\u2122 1 Deluxe Upgrade and Hellfighter Pack Bundle"
+        "displayName": "Battlefield\u2122 1 Deluxe Edition Upgrade", 
+        "longDescription": "Gear up before you hit the front lines with the Battlefield\u2122 1 Deluxe Edition Upgrade. Get it today and unlock three WWI content packs stuffed with themed weapons and gear, five extra Battlepacks, and more.<br><br>\n\nThe Battlefield\u2122 1 Deluxe Edition includes:<br><br>\nRed Baron Pack\n<br>\u2022 Vehicle Package: Red Baron\u2019s Triplane\n<br>\u2022 Sidearm: Red Baron\u2019s P08 \n<br>\u2022 Emblem: Red Baron\u2019s Flyer Pin<br><br>\n\nLawrence of Arabia Pack\n<br>\u2022 Horse: Lawrence of Arabia\u2019s Black Stallion (new visual appearance for the horse)\n<br>\u2022 Weapon: Lawrence of Arabia\u2019s SMLE \n<br>\u2022 Melee: Lawrence of Arabia\u2019s Jambiya \n<br>\u2022 Emblem: Lawrence of Arabia\u2019s Emblem<br><br>\n\nHellfighter Pack\n<br>\u2022 Weapon: Hellfighter Trench Shotgun\n<br>\u2022 Sidearm: Hellfighter M1911\n<br>\u2022 Melee: Hellfighter Bolo Knife\n<br>\u2022 Emblem: Hellfighter Insignia<br><br>\n\nNew visual appearance of the Behemoths\n<br>\u2022 Frontline Camouflage Train \n<br>\u2022 Night Raid Airship \n<br>\u2022 Dazzle Camouflage Dreadnought<br>\n\n<br>\u2022 Five Battlefield 1 Battlepacks containing stand-out weapon skins.<br><br>", 
+        "packArtLarge": "/190132/231.0x326.0/1042196_LB_231x326_en_US_^_2016-09-04-17-09-00_d4bed06f0b83128037adeb3bb46bc2b549ab6db3.jpg", 
+        "packArtMedium": "/190132/142.0x200.0/1042196_MB_142x200_en_US_^_2016-09-04-17-09-00_cbacdcf3cfc0971a5136b698c53de070a31bf820.jpg", 
+        "packArtSmall": "/190132/63.0x89.0/1042196_SB_63x89_en_US_^_2016-09-04-17-09-00_7870002703b0ecb456e2be46234e6808399a91d3.jpg", 
+        "shortDescription": "Upgrade to Battlefield\u2122 1 Deluxe Edition and unlock additional content"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -52,7 +55,7 @@
             "greyMarketControls": false, 
             "isDownloadable": false, 
             "isPublished": true, 
-            "originDisplayType": "Game Only"
+            "originDisplayType": "Addon"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -108,11 +111,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableStartDate": "2016-09-20T00:00:00Z"
+                    "storeAvailableStartDate": "2016-10-21T04:00:05Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-21T16:48:00Z"
+    "updatedDate": "2016-10-20T15:20:21Z"
 }

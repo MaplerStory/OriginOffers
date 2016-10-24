@@ -37,7 +37,9 @@
             "SIMS4.OFF.SOLP.0x0000000000009AED", 
             "SIMS4.OFF.SOLP.0x0000000000011A4B", 
             "SIMS4.OFF.SOLP.0x0000000000022C32", 
+            "SIMS4.OFR.50.0000060", 
             "SIMS4.OFF.SOLP.0x0000000000008E14", 
+            "SIMS4.OFR.50.0000061", 
             "OFB-EAST:109552680", 
             "SIMS4.OFR.50.0000042", 
             "SIMS4.OFR.50.0000005", 
@@ -60,11 +62,11 @@
     "itemId": "Origin.ITM.50.0000123", 
     "localizableAttributes": {
         "displayName": "The Sims\u2122 4 Digital Deluxe", 
-        "longDescription": "The Sims 4 is the highly anticipated life simulation game that lets you play with life like never before! Create and control Sims with big personalities, new emotions, and distinct appearances. Experience new levels of creativity when you sculpt Sims with the powerful Create A Sim and design beautiful homes with tactile, room-based Build Mode. With free content updates for owners of The Sims 4 if and when available, you\u2019ll have the latest content and features to evolve your game experience. Control the mind, body, and heart of your Sims and explore lively, vibrant neighborhoods filled with rich communities of smarter Sims that bring your stories to life.<br><br>\n\n<b>KEY FEATURES</b><br><br>\n\n<b>Now with Pools and Ghosts:</b> Pools and ghosts have arrived and are now included in The Sims 4 with the most recent updates. We\u2019ve designed the game to be a live service so that we can continually evolve The Sims 4 experience with exciting new features and content.<br><br>\n\n<b>Sims with Big Personalities:</b> Create and control a new generation of Sims with big personalities, new emotions, and distinct appearances. Smarter Sims are more relatable, have the ability to multi-task, and come to life with new emotions and lively animations. The Sims provide you endless possibilities to create rich, entertaining, and weird stories.<br><br>\n\n<b>Powerful Creative Tools:</b> All-New Create A Sim and Build Mode have been reinvented to be more powerful, intuitive and fun than ever before. You have the control to sculpt Sims with tactile precision. Effortlessly construct the home of your dreams with the all new, room-based Build Mode. Styled Looks and Rooms inspire you with curated outfits and designs to add to your Sims and homes in The Sims 4.<br><br>\n\n<b>Vibrant Worlds:</b> Explore lively, beautiful worlds filled with rich communities of Sims. Choose among beautiful and diverse lots for your Sims to build their homes and explore activities. Expand your social circle and interact with other Sims in the neighborhood and hang out in community parks and venues.<br><br>\n\n<b>Share Your Creations:</b> The Gallery allows you to see, share, and download new content without ever leaving your game. Get inspired by rich content created by The Sims community and add new experiences to your game.<br><br>", 
+        "longDescription": "Enjoy the power to create and control people in a virtual world with The Sims\u2122 4. Customize your Sims' appearances and personalities. Build them the perfect home, choosing your favorite design and d\u00e9cor options. Create relationships with other Sims; let them pursue careers and develop skills. It's up to you who your Sims will be and the direction each one's story will take.<br><br>\n\n<b>KEY FEATURES</b><br><br>\n\n<b>Create your Sims.</b> Create and play with one or multiple Sims. Customize everything about them from body shape to ethnicity and hairstyles to accessories. Give them personality traits and figure out their aspiration in life. Every detail helps to make your Sims unique, fascinating people.<br><br>\n\n<b>Build your Sims the perfect home.</b> Everything is up to you, from the house's location to furnishings.  Control its interior and exterior design, landscape and d\u00e9cor. You can even add features like pools and basements. * Need a little inspiration? Check out the curated, Styled Rooms that can easily be added to your game.<br><br>\n\n<b>Explore beautiful game worlds.</b> Your Sims will have plenty of vibrant communities and interesting venues to explore. Let them travel between game worlds experiencing everything each location has to offer. Watch their social circle expand as they meet new Sims in each world's distinct destinations!<br><br>\n*REQUIRES THE SIMS 4 GAME UPDATES.", 
         "packArtLarge": "/55482/231.0x326.0/1015806_LB_231x326_en_US_^_2014-05-29-11-23-54_11fd546a0ef9bf48e70c5f17389a37bb58c182d1.jpg", 
         "packArtMedium": "/55482/142.0x200.0/1015806_MB_142x200_en_US_^_2014-05-29-11-24-21_4d5774815adacde02dad586f0e7298e5fd7d3d4a.jpg", 
         "packArtSmall": "/55482/63.0x89.0/1015806_SB_63x89_en_US_^_2014-05-29-11-24-47_bf4fefa3bc42115d2ed2238c3ad2d34dece74bf0.jpg", 
-        "shortDescription": "The Sims 4 lets you play with life like never before \u2013 now with Pools & Ghosts!"
+        "shortDescription": "You create. You control. You rule."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -113,18 +115,18 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.21.39.1220\"/>\n    <requirements osMinVersion=\"10.7.5\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.21.39.1220", 
-                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4macfg__ww_usbeta_686__macbgmlrprodretaildip_12139122099d5c2b4bda840c0a222b3afc3c1ff93.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2036-07-21T06:04:39Z"
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.23.24.1210\"/>\n    <requirements osMinVersion=\"10.7.5\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.23.24.1210", 
+                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4macfg__ww_usbeta_806__macbgbetarprodretaildip_123241210a5e0d695bcf643baab39cdfd8fcc6fa0.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-09-27T17:00:00Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.22.22.1220\"/>\n    <requirements osMinVersion=\"10.7.5\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.22.22.1220", 
-                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4macfg__ww_usbeta_731__macbgmlrprodretaildip_122221220867c6cecb5284b90aae3e0f79176a247.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2016-08-16T17:00:00Z"
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.24.102.1220\"/>\n    <requirements osMinVersion=\"10.7.5\" osReqs64Bit=\"true\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.24.102.1220", 
+                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4macfg__ww_usbeta_875__macbgmlrprodretaildip_1241021220ed1491aa39a84bffae3ccef0a2984db0.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2016-10-27T17:00:00Z"
                             }
                         ]
                     }, 
@@ -148,18 +150,18 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.21.39.1020\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.21.39.1020", 
-                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4pcfg__ww_usbeta_1093__pcbgmlrprodretaildip_121391020862fc55d0fa7490e8e687ea2f4c3dfa7.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2036-07-21T09:49:06Z"
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.23.24.1010\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.23.24.1010", 
+                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4pcfg__ww_usbeta_1213__pcbgbetarprodretaildip_123241010734a7a0d4d0847b4adc7739c356ef424.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-09-27T17:00:00Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.22.22.1020\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.22.22.1020", 
-                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4pcfg__ww_usbeta_1136__pcbgmlrprodretaildip_122221020a322113223584cfd96eb4970a511e70b.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2016-08-16T17:00:00Z"
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.24.102.1020\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.24.102.1020", 
+                                "downloadURL": "/shift/the_sims/the_sims_4/fg__ww_us/the_sims_4pcfg__ww_usbeta_1278__pcbgmlrprodretaildip_12410210202cbb862498fb4061bc1975c3b1042b9a.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2016-10-27T17:00:00Z"
                             }
                         ]
                     }, 

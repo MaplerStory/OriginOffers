@@ -890,7 +890,7 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
@@ -908,11 +908,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.18994\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.18994", 
-                                "downloadURL": "/shift/warner_brothers_interactive/lego_batman_2/fg__ww_x0_ooartp/lego_batman_2pcfg__ww_x0_ooartprun_1__20160405_10018994fba54cb9f99b472eaf469959a356b046.zip", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.1.18994\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.1.18994", 
+                                "downloadURL": "/shift/warner_brothers_interactive/lego_batman_2/fg__ww_x0_ooartp/lego_batman_2pcfg__ww_x0_ooartprun_2__20161012_101189940fe560ba2de34db995c1e001824a7cb8.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2016-04-07T22:45:02Z"
+                                "effectiveDate": "2016-10-12T23:41:32Z"
                             }
                         ]
                     }, 
@@ -964,8 +964,15 @@
                     "value": "ru_RU"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableEndDate": "2016-10-21T17:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-04-18T20:35:01Z"
+    "updatedDate": "2016-10-21T08:01:21Z"
 }

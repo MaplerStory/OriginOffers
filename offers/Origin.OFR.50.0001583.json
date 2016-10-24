@@ -25,9 +25,12 @@
     "financeId": "1041771", 
     "itemId": "Origin.ITM.50.0001371", 
     "localizableAttributes": {
-        "displayName": "BATTLEFIELD 1 MONSTER BATTLEPACK Display Name Placeholder Text.", 
-        "longDescription": "BATTLEFIELD 1 MONSTER BATTLEPACK Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "BATTLEFIELD 1 MONSTER BATTLEPACK Short Description Placeholder Text."
+        "displayName": "Battlefield\u2122 1 Battlepack", 
+        "longDescription": "Battlefield 1 Battlepacks contains stand-out weapon skins.", 
+        "packArtLarge": "/190132/231.0x326.0/1041457_LB_231x326_en_US_^_2016-09-06-18-59-06_3bb41f20235c30b57e00e92986f8042ee39fcd1e.jpg", 
+        "packArtMedium": "/190132/142.0x200.0/1041457_MB_142x200_en_US_^_2016-09-06-18-59-06_bc51cfb598e012a03d0aa7c2925cdfd564a45f27.jpg", 
+        "packArtSmall": "/190132/63.0x89.0/1041457_SB_63x89_en_US_^_2016-09-06-18-59-06_133aee3d3f1341953de4369f6ddbdec792a38eda.jpg", 
+        "shortDescription": "Battlefield 1 Battlepacks contains stand-out weapon skins."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [

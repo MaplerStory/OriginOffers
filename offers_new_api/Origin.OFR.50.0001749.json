@@ -20,7 +20,7 @@
         "isPublished": true, 
         "isPurchasable": "Y"
     }, 
-    "developerFacetKey": null, 
+    "developerFacetKey": "Ubisoft", 
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
@@ -36,7 +36,7 @@
     "gameEditionTypeFacetKeyRankDesc": "7000", 
     "gameNameFacetKey": "south-park-the-fractured-but-whole", 
     "gameRatingDesc": [], 
-    "gameRatingDescriptionLong": null, 
+    "gameRatingDescriptionLong": "May contain content inappropriate for children. Visit www.esrb.org for rating information.", 
     "gameRatingPendingMature": "true", 
     "gameRatingReason": null, 
     "gameRatingType": "ESRB", 

@@ -25,8 +25,20 @@
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
+        "Origin.OFR.50.0001876", 
         "Origin.OFR.50.0001465", 
-        "Origin.OFR.50.0001466"
+        "Origin.OFR.50.0001466", 
+        "Origin.OFR.50.0001844", 
+        "Origin.OFR.50.0001873", 
+        "Origin.OFR.50.0001874", 
+        "Origin.OFR.50.0001875", 
+        "Origin.OFR.50.0001877", 
+        "Origin.OFR.50.0001878", 
+        "Origin.OFR.50.0001879", 
+        "Origin.OFR.50.0001880", 
+        "Origin.OFR.50.0001881", 
+        "Origin.OFR.50.0001882", 
+        "Origin.OFR.50.0001883"
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
@@ -35,12 +47,16 @@
     "gameEditionTypeFacetKey": "Deluxe Edition", 
     "gameEditionTypeFacetKeyRankDesc": "7000", 
     "gameNameFacetKey": "titanfall-2", 
-    "gameRatingDesc": [], 
+    "gameRatingDesc": [
+        "Blood and Gore", 
+        "Language", 
+        "Violence"
+    ], 
     "gameRatingDescriptionLong": null, 
-    "gameRatingPendingMature": "true", 
+    "gameRatingPendingMature": null, 
     "gameRatingReason": null, 
     "gameRatingType": "ESRB", 
-    "gameRatingTypeValue": "Rating Pending", 
+    "gameRatingTypeValue": "Mature", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
     "genreFacetKey": "Action,Shooter", 
@@ -67,9 +83,9 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
+        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "Customize or camouflage your Titan, Pilot and gear with the Titanfall\u00ae 2 Deluxe Edition!", 
-        "systemRequirements": "Coming Soon"
+        "systemRequirements": "<b>Minimum</b><br>\nOS: Win 7/8/8.1/10 64bit<br>\nCPU: Intel Core i3-3600t or equivalent<br>\nRAM: 8GB<br>\nHDD Free Space: 45GB<br>\nGPU : NVIDIA Geforce GTX 660 2GB or AMD Radeon HD 7850 2GB<br>\nDirectX: 11<br>\nInternet Connection: 512Kbps or faster<br><br>\n\n<b>Recommended</b><br>\nOS: Win 7/8/8.1/10 64bit<br>\nCPU: Intel Core i5-6600 or equivalent<br>\nRAM: 16GB<br>\nHDD Free Space: 45GB<br>\nGPU: NVIDIA Geforce GTX 1060 6GB or AMD Radeon RX 480 8GB<br>\nDirectX: 11<br>\nInternet Connection: 512Kbps or faster<br><br>\n\n<b>Ultra 4K60</b><br>\nOS: Win 7/8/8.1/10 64bit<br>\nCPU: Intel Core i7-6700k or equivalent<br>\nRAM: 16GB<br>\nHDD Free Space: 45GB<br>\nGPU: NVIDIA Geforce GTX 1080 8GB<br>\nDirectX: 11<br>\nInternect Connection: 512Kbps or faster<br>"
     }, 
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
@@ -103,7 +119,7 @@
         }
     ], 
     "publisherFacetKey": "Electronic Arts", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
+    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4318", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

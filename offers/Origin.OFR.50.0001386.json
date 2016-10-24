@@ -12,7 +12,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "JP"
             }
@@ -81,15 +81,26 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2016-10-11T00:00:00Z", 
+                    "downloadStartDate": "2016-10-12T13:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2016-10-11T00:00:00Z"
+                    "releaseDate": "2016-10-12T13:00:00Z"
                 }
             ]
         }, 
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.9.53998\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.9.53998", 
+                                "downloadURL": "/shift/battlefield/tunguska/patch__ww_day7_retail/tunguskapcpatch__ww_day7_retailproduction_11__643813_battlefield1_pc_ww_day7_retail_patchdd043536b1a84f79951e247895e61774.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-10-24T07:00:00Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "51302_190132_50844", 
                         "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<include order=\"0\">%Documents%/Battlefield 1/settings/*.xml</include>\n<include order=\"1\">%Documents%/Battlefield 1/settings/PROFSAVE</include>\n<include order=\"2\">%Documents%/Battlefield 1/settings/PROFSAVE_profile_synced</include>\n</saveFileCriteria>", 
@@ -155,11 +166,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableStartDate": "2016-09-11T00:00:00Z"
+                    "storeAvailableStartDate": "2016-10-04T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-22T18:20:56Z"
+    "updatedDate": "2016-09-29T18:43:58Z"
 }
