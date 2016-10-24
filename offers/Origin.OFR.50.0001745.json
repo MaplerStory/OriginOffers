@@ -67,7 +67,6 @@
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect Andromeda\\Install Dir]\\__Installer\\DLC\\Deep_Space\\__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect Andromeda\\Install Dir]\\__Installer\\DLC\\Deep_Space\\__Installer\\installerdata.xml", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "__Installer\\DLC\\Deep_Space", 
