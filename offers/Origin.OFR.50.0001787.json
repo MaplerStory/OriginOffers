@@ -1,0 +1,172 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1047075"
+    }, 
+    "financeId": "1047075", 
+    "itemId": "Origin.ITM.50.0001510", 
+    "localizableAttributes": {
+        "displayName": "Farming Simulator 17", 
+        "longDescription": "Take on the role of a modern farmer in Farming Simulator 17! Immerse yourself in a huge open world loaded with new content: new environment, vehicles, animals, crops and gameplay mechanics!<br><br>\n\nExplore farming possibilities over hundreds of acres of land, including a detailed new North American environment. Drive over 250 authentic farming vehicles and equipment from over 75 manufacturers, including new brands such as Challenger, Fendt, Valtra or Massey Ferguson.<br><br>\n\nHarvest many types of crops, including for the first time sunflowers and soy beans. Take care of your livestock - cows, sheep, chicken and now pigs - take part in forestry, and sell your products to expand your farm! Transport your goods with trucks and trailers, or load and drive trains to reach your destination.<br><br>\n\nFarming Simulator 17 offers rich online activities: play in co-operative multiplayer up to 16 players, and download mods created by the passionate community for unlimited content and an ever-evolving Farming Simulator 17 experience.<br><br>", 
+        "packArtLarge": "/196136/231.0x326.0/1047075_LB_231x326_en_US_^_2016-09-28-12-40-25_552d712d32cb0b43a4c56eafd899f3057388857e.png", 
+        "packArtMedium": "/196136/142.0x200.0/1047075_MB_142x200_en_US_^_2016-09-28-12-40-52_2521c92f487418a8beb5cc2286a0282c463b2382.png", 
+        "packArtSmall": "/196136/63.0x89.0/1047075_SB_63x89_en_US_^_2016-09-28-12-41-11_f9defbf62421c94b9bcb3df42aff461340dd6e73.png", 
+        "shortDescription": "Expand your farm!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FARMING SIMULATOR 17", 
+                    "masterTitleId": 196136
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001787", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196136", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-10-25T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-10-25T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.2.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.2.0.0", 
+                                "downloadURL": "/shift/focus_home_interactive/farming_simulator_2017/fg__ww_x0/farming_simulator_2017pcfg__ww_x0run_1__20161019_1200ac8c62cdb09d47f8b9a976792e061944.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-10-19T21:16:02Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Documents%/My Games/FarmingSimulator2017/inputBinding.xml</include> <include order=\"1\">%Documents%/My Games/FarmingSimulator2017/savegame1/*</include> <include order=\"2\">%Documents%/My Games/FarmingSimulator2017/savegame2/*</include> <include order=\"3\">%Documents%/My Games/FarmingSimulator2017/savegame3/*</include> <include order=\"4\">%Documents%/My Games/FarmingSimulator2017/savegame4/*</include> <include order=\"5\">%Documents%/My Games/FarmingSimulator2017/savegame5/*</include> <include order=\"6\">%Documents%/My Games/FarmingSimulator2017/savegame6/*</include> <include order=\"7\">%Documents%/My Games/FarmingSimulator2017/savegame7/*</include> <include order=\"8\">%Documents%/My Games/FarmingSimulator2017/savegame8/*</include> <include order=\"9\">%Documents%/My Games/FarmingSimulator2017/savegame9/*</include> <include order=\"10\">%Documents%/My Games/FarmingSimulator2017/savegame10/*</include> <include order=\"11\">%Documents%/My Games/FarmingSimulator2017/savegame11/*</include> <include order=\"12\">%Documents%/My Games/FarmingSimulator2017/savegame12/*</include> <include order=\"13\">%Documents%/My Games/FarmingSimulator2017/savegame13/*</include> <include order=\"14\">%Documents%/My Games/FarmingSimulator2017/savegame14/*</include> <include order=\"15\">%Documents%/My Games/FarmingSimulator2017/savegame15/*</include> <include order=\"16\">%Documents%/My Games/FarmingSimulator2017/savegame16/*</include> <include order=\"17\">%Documents%/My Games/FarmingSimulator2017/savegame17/*</include> <include order=\"18\">%Documents%/My Games/FarmingSimulator2017/savegame18/*</include> <include order=\"19\">%Documents%/My Games/FarmingSimulator2017/savegame19/*</include> <include order=\"20\">%Documents%/My Games/FarmingSimulator2017/savegame20/*</include> <include order=\"21\">*.xml</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\GIANTS Software\\Farming Simulator 17\\Install Dir]FarmingSimulator2017.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\GIANTS Software\\Farming Simulator 17\\Install Dir]FarmingSimulator2017.exe", 
+                        "installationDirectory": "Farming Simulator 17", 
+                        "monitorInstall": true, 
+                        "monitorPlay": false, 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000614", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-10-25T17:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-10-24T17:56:42Z"
+}
