@@ -171,7 +171,7 @@
     "localizableAttributes": {
         "displayName": "Origin Access Membership", 
         "longDescription": "Members enjoy the following benefits:\n<br><br>\n\u2022 Unlimited access to great PC games on Origin<br>\n\u2022 Try new EA games before they're released at no extra cost<br>\n\u2022 Save 10% on Origin purchases, including pre-orders and expansions<br>\n<br>\nJust $4.99 a month. Cancel anytime.\n<br><br>", 
-        "shortDescription": "GREAT PC GAMES, UNLIMITED PLAY"
+        "shortDescription": "Origin Access Membership - Recurring 1 Month"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -213,5 +213,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-10-24T21:19:41Z"
+    "updatedDate": "2016-10-31T14:21:04Z"
 }
