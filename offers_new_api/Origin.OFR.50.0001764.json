@@ -12,7 +12,7 @@
         "countryCurrencyA": [
             "USD"
         ], 
-        "giftable": null, 
+        "giftable": "N", 
         "hasSubscriberDiscount": "N", 
         "inStock": null, 
         "isPublished": false, 
@@ -29,7 +29,7 @@
     "gameDistributionSubType": null, 
     "gameEditionTypeFacetKey": "Standard Edition", 
     "gameEditionTypeFacetKeyRankDesc": "3000", 
-    "gameNameFacetKey": null, 
+    "gameNameFacetKey": "origin-access", 
     "gameRatingDesc": [], 
     "gameRatingDescriptionLong": null, 
     "gameRatingPendingMature": null, 
@@ -78,7 +78,7 @@
     "mdmItemType": "Online Subscription", 
     "numberOfPlayersFacetKey": null, 
     "offerId": "Origin.OFR.50.0001764", 
-    "offerPath": null, 
+    "offerPath": "/origin/origin-access/game-time/origin-access-membership--recurring-2-day-renew--code-redemption--qa-only-", 
     "offerType": "Subscription", 
     "originDisplayType": "None", 
     "platformFacetKey": "PC Download", 

@@ -487,6 +487,13 @@
                                 "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_the_white_march_part_i/pillars_of_eternitypcdlc__ww_the_white_march_part_irun_11__20160706_3031047dd040b9e0a5d4f0bb9f453e6935c86a0.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2016-07-07T16:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.4.1165\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.4.1165", 
+                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_the_white_march_part_i/pillars_of_eternitypcdlc__ww_the_white_march_part_irun_12__20161102_30411652e5a92b915294658b1e2b53db8466ce2.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2036-11-02T23:02:03Z"
                             }
                         ]
                     }, 
