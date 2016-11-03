@@ -550,11 +550,18 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.3.1047\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.3.1047\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "3.0.3.1047", 
                                 "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_the_white_march_part_ii/pillars_of_eternitymacdlc__ww_x0_the_white_march_part_iirun_8__20160706_3031047d5b35d8a106a491e9de272d1c4188530.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2016-07-07T16:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.4.1165\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.4.1165", 
+                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_the_white_march_part_ii/pillars_of_eternitymacdlc__ww_x0_the_white_march_part_iirun_9__20161102_30411654cbef229ad844e1e952ac613abcc663b.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2016-11-03T17:00:02Z"
                             }
                         ]
                     }, 
@@ -578,11 +585,18 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.3.1047\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.3.1047\"/>    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "3.0.3.1047", 
                                 "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_poe_twm_ii/pillars_of_eternitypcdlc__ww_x0_poe_twm_iirun_5__20160706_3031047aacbc9c65e2a430bad7701efa4b19415.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2016-07-07T16:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.4.1165\"/>    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.4.1165", 
+                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_poe_twm_ii/pillars_of_eternitypcdlc__ww_x0_poe_twm_iirun_6__20161102_304116548f4f30ea52e4f04aaac063a61c5f68e.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2016-11-03T17:00:00Z"
                             }
                         ]
                     }, 
