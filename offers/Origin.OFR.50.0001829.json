@@ -379,11 +379,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.32.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.32.0.0", 
-                                "downloadURL": "/shift/nordic_games/titan_quest_anniversary_edition/fg__ww_x0/titan_quest_anniversary_editionpcfg__ww_x0run_4__20161019_132006af1fb7deb2048c5b229a42552da4125.zip", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.31.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.31.0.0", 
+                                "downloadURL": "/shift/nordic_games/titan_quest_anniversary_edition/fg__ww_x0/titan_quest_anniversary_editionpcfg__ww_x0run_1__20161010_13100bae27ce08f2b4b8e86ed5cdcf16017c2.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2016-10-19T00:00:02Z"
+                                "effectiveDate": "2016-11-03T08:09:33Z"
                             }
                         ]
                     }, 
