@@ -12,7 +12,7 @@
         "countryCurrencyA": [
             "EUR"
         ], 
-        "giftable": null, 
+        "giftable": "N", 
         "hasSubscriberDiscount": "N", 
         "inStock": null, 
         "isPublished": true, 
