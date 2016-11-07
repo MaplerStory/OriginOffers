@@ -1,0 +1,132 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "GB"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001748", 
+            "Origin.OFR.50.0001746", 
+            "Origin.OFR.50.0001263", 
+            "Origin.OFR.50.0001582", 
+            "Origin.OFR.50.0001264", 
+            "Origin.OFR.50.0001261", 
+            "Origin.OFR.50.0001262", 
+            "Origin.OFR.50.0001265", 
+            "Origin.OFR.50.0001744", 
+            "Origin.OFR.50.0001745"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1039960"
+    }, 
+    "financeId": "1039960", 
+    "itemId": "Origin.ITM.50.0001327", 
+    "localizableAttributes": {
+        "displayName": "Mass Effect Andromeda Standard Edition PCDD - UK  Display Name Placeholder Text.", 
+        "longDescription": "Mass Effect Andromeda Standard Edition PCDD - UK  Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "shortDescription": "Mass Effect Andromeda Standard Edition PCDD - UK  Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mass Effect", 
+                    "franchiseId": 68481
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MASS EFFECT: ANDROMEDA", 
+                    "masterTitleId": 74889
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001742", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1019025", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2025-08-07T11:51:19Z", 
+                    "platform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildReleaseVersion": ".0001", 
+                                "downloadURL": "/p/dummymasseffectContact.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2020-11-26T11:14:31Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "68481_74889_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n   <exclude order=\"0\">%Documents%/BioWare/Mass Effect Andromeda/Save/ProfOpts_profile</exclude>\n   <include order=\"1\">%Documents%/BioWare/Mass Effect Andromeda/Save/</include>\n  </saveFileCriteria>", 
+                        "commerceProfile": "bioware", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect Andromeda\\Install Dir]\\MassEffectAndromeda.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect Andromeda\\Install Dir]\\MassEffectAndromeda.exe", 
+                        "installationDirectory": "Mass Effect Andromeda", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1019025", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000160", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_GB"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-11-07T17:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2016-11-07T12:59:58Z"
+}
