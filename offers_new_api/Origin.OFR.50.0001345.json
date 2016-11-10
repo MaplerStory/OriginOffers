@@ -12,7 +12,7 @@
         "countryCurrencyA": [
             "_FF"
         ], 
-        "giftable": null, 
+        "giftable": "Y", 
         "hasSubscriberDiscount": "N", 
         "inStock": null, 
         "isPublished": true, 

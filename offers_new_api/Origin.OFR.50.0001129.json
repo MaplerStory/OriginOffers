@@ -11,7 +11,7 @@
         "catalogPriceA": [], 
         "countryCurrency": null, 
         "countryCurrencyA": [], 
-        "giftable": null, 
+        "giftable": "Y", 
         "hasSubscriberDiscount": "N", 
         "inStock": null, 
         "isPublished": false, 
