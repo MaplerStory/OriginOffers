@@ -79,18 +79,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.2.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.2.0.0", 
-                                "downloadURL": "/shift/focus_home_interactive/farming_simulator_2017/fg__ww_x0/farming_simulator_2017pcfg__ww_x0run_1__20161019_1200ac8c62cdb09d47f8b9a976792e061944.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2016-10-19T21:16:02Z"
-                            }, 
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.3.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.3.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.3.0.0", 
                                 "downloadURL": "/shift/focus_home_interactive/farming_simulator_2017/fg__ww_x0/farming_simulator_2017pcfg__ww_x0run_2__20161110_13007725bc1b9e76453f97ae8708cafe6aec.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2036-11-10T22:32:27Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-11-11T14:00:27Z"
                             }
                         ]
                     }, 
