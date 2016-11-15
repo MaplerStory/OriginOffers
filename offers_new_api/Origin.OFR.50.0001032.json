@@ -17,7 +17,7 @@
         "countryCurrencyA": [
             "AED"
         ], 
-        "giftable": "Y", 
+        "giftable": "false", 
         "hasSubscriberDiscount": "N", 
         "inStock": null, 
         "isPublished": true, 
