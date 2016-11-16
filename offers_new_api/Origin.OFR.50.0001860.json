@@ -45,7 +45,7 @@
     "gameRatingTypeValue": "Teen", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
-    "genreFacetKey": "Action", 
+    "genreFacetKey": "Action,Adventure", 
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 
