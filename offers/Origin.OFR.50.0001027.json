@@ -6,12 +6,6 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "AZ"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
@@ -208,5 +202,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2015-09-24T13:49:31Z"
+    "updatedDate": "2016-11-18T03:12:18Z"
 }
