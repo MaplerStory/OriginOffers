@@ -150,6 +150,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001095", 
     "itemName": "FIFA 16 & PVZ Bundle - PCDD - RU/PL (Origin.com)", 

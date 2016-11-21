@@ -76,6 +76,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001136", 
     "itemName": "Origin Automation Test Offer 022 Browser 0 Worldwide Digital - Full Game", 

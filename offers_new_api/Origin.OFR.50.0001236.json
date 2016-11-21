@@ -79,6 +79,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0001106", 
     "itemName": "Darksiders (OOA/RTP) - PCDD - WW -- (Origin.com)", 

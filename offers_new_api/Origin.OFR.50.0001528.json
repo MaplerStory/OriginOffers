@@ -73,6 +73,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001322", 
     "itemName": "PvZ Garden Warfare 2 1,500,000 Coin Pack - WW (Origin.com/3PDD)", 

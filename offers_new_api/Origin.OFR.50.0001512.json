@@ -132,6 +132,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001309", 
     "itemName": "FIFA 17 Standard Edition - PC - RU/PL (Origin/3PDD)", 

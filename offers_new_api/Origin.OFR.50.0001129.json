@@ -68,6 +68,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001045", 
     "itemName": "FIFA 16 Extra Content Bundle #3 - (KnockOut+15 FUT)", 

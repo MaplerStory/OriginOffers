@@ -137,6 +137,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001257", 
     "itemName": "FIFA 17 Super Deluxe Edition Origin Exclusive Pre-Order - PC - RU/PL (Origin)", 

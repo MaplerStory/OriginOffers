@@ -74,6 +74,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0001041", 
     "itemName": "Pillars of Eternity: The White March - Part 2 - PDLC - WW - (Origin.com)", 

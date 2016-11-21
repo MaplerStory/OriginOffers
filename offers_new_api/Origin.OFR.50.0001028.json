@@ -157,6 +157,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": "false", 
     "itemId": "Origin.ITM.50.0000988", 
     "itemName": "FIFA 16 Deluxe Pre-order - PCDD - RU/PL (Origin.com)", 

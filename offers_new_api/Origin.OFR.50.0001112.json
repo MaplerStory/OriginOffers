@@ -156,6 +156,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": "false", 
     "itemId": "Origin.ITM.50.0001036", 
     "itemName": "FIFA 16 Standard Pre-order Edition - GameStop Exclusive - 3PDD - NA (GameStop) ", 

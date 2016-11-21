@@ -74,6 +74,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0001460", 
     "itemName": "For Honor Gold Edition - PCWIN - [ASIA] - (Origin)", 

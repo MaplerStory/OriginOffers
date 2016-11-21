@@ -65,6 +65,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
+    "isShellBundle": null, 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001569", 
     "itemName": "PVZ Heroes 7200 Gems - PDLC - WW (Origin)", 
