@@ -86,11 +86,11 @@
                                 "effectiveDate": "2016-11-11T14:00:27Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.3.1.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.3.1.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.3.1.0", 
                                 "downloadURL": "/shift/focus_home_interactive/farming_simulator_2017/fg__ww_x0/farming_simulator_2017pcfg__ww_x0run_3__20161123_13103fd5b157d50c4f119fb46aa8ccc35738.zip", 
                                 "downloadURLType": "staged", 
-                                "effectiveDate": "2036-11-23T18:38:21Z"
+                                "effectiveDate": "2016-11-24T10:00:00Z"
                             }
                         ]
                     }, 
