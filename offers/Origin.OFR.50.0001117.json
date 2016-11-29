@@ -583,6 +583,13 @@
                                 "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_poe_twm_ii/pillars_of_eternitypcdlc__ww_x0_poe_twm_iirun_6__20161102_304116548f4f30ea52e4f04aaac063a61c5f68e.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2016-11-03T17:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.5.1186\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.5.1186", 
+                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_poe_twm_ii/pillars_of_eternitypcdlc__ww_x0_poe_twm_iirun_7__20161129_3051186a4ba471094c6491aaac13c9b906b5aea.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2036-11-29T20:53:51Z"
                             }
                         ]
                     }, 
