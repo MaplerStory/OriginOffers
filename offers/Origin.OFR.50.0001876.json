@@ -24,9 +24,12 @@
     "financeId": "1047417", 
     "itemId": "Origin.ITM.50.0001575", 
     "localizableAttributes": {
-        "displayName": "Titanfall 2 Extra Content - DLC 1 Tone Art Pack Display Name Placeholder Text.", 
-        "longDescription": "Titanfall 2 Extra Content - DLC 1 Tone Art Pack Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "Titanfall 2 Extra Content - DLC 1 Tone Art Pack Short Description Placeholder Text."
+        "displayName": "Titanfall 2: Tone Art Pack 1", 
+        "longDescription": "Customize your Tone Titan in Titanfall 2 with five new Nose Arts and an exclusive Warpaint skin.", 
+        "packArtLarge": "/192492/231.0x326.0/1047417_LB_231x326_en_US_^_2016-11-16-07-35-46_17962111e2b6113c318ece04b5aa45281cc17b23.jpg", 
+        "packArtMedium": "/192492/142.0x200.0/1047417_MB_142x200_en_US_^_2016-11-16-07-35-46_43d39501b5a45704d4b829ac200d27b45636f94d.jpg", 
+        "packArtSmall": "/192492/63.0x89.0/1047417_SB_63x89_en_US_^_2016-11-16-07-35-46_4d6e76031f01b792e225ab0ff6aa0a37aa7e508f.jpg", 
+        "shortDescription": "Customize your Tone Titan in Titanfall 2 with five new Nose Arts and an exclusive Warpaint skin."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [

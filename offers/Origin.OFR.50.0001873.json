@@ -24,9 +24,12 @@
     "financeId": "1047414", 
     "itemId": "Origin.ITM.50.0001572", 
     "localizableAttributes": {
-        "displayName": "Titanfall 2 Extra Content - DLC1 Ion Prime Titan Display Name Placeholder Text.", 
-        "longDescription": "Titanfall 2 Extra Content - DLC1 Ion Prime Titan Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "Titanfall 2 Extra Content - DLC1 Ion Prime Titan Short Description Placeholder Text."
+        "displayName": "Titanfall 2: Ion Prime", 
+        "longDescription": "Get Ion Prime today to give your Ion a new look with an exclusive chassis, unique sound effects and a new execution.", 
+        "packArtLarge": "/192492/231.0x326.0/1047414_LB_231x326_en_US_^_2016-11-16-07-37-24_4209cd2f64437d0ae1fe4d3da91020580b1b81f0.jpg", 
+        "packArtMedium": "/192492/142.0x200.0/1047414_MB_142x200_en_US_^_2016-11-16-07-37-24_3b47acbc83357ec9db790e9ef3c4730609d68ec9.jpg", 
+        "packArtSmall": "/192492/63.0x89.0/1047414_SB_63x89_en_US_^_2016-11-16-07-37-24_a13971f11dc0bf31d63d8f9239eb8beed8a06df7.jpg", 
+        "shortDescription": "Get Ion Prime today to give your Ion a new look with an exclusive chassis, unique sound effects and a new execution."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
