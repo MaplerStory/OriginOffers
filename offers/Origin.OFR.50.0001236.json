@@ -132,7 +132,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
             }, 
@@ -760,5 +760,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-11-29T01:28:30Z"
+    "updatedDate": "2016-11-30T00:43:52Z"
 }

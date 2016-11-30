@@ -13,7 +13,7 @@
             "USD"
         ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "hasSubscriberDiscount": "Y", 
         "inStock": null, 
         "isPublished": true, 
         "isPurchasable": "Y"

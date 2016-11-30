@@ -4,15 +4,19 @@
     "bundleOffers": [], 
     "contentId": null, 
     "countries": {
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
-        "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "catalogPrice": 2.99, 
+        "catalogPriceA": [
+            2.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
+        "giftable": "Y", 
+        "hasSubscriberDiscount": "Y", 
         "inStock": null, 
-        "isPublished": false, 
-        "isPurchasable": "N"
+        "isPublished": true, 
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": null, 
     "duration": null, 
@@ -84,12 +88,12 @@
             "achievementSetOverride": null, 
             "commerceProfile": null, 
             "downloadPackageType": null, 
-            "downloadStartDate": null, 
+            "downloadStartDate": "2016-11-29T23:45:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
-            "releaseDate": null, 
+            "releaseDate": "2016-11-29T23:45:00Z", 
             "showSubsSaveGameWarning": null, 
             "useEndDate": null
         }
