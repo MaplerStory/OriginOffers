@@ -69,7 +69,7 @@
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": null, 
-    "isShellBundle": null, 
+    "isShellBundle": "Y", 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001261", 
     "itemName": "FIFA 17 Pre-Order Extra Content Bundle - PC - WW (Retail)", 
