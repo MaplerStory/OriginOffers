@@ -47,7 +47,7 @@
         "gameManualURL": null, 
         "gameTypeFacetKey": null, 
         "genreFacetKey": null, 
-        "longDescription": "DARKSIDERS COMIC", 
+        "longDescription": null, 
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": null, 
@@ -59,7 +59,7 @@
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
         "ratingSystemIcon": null, 
-        "shortDescription": "DARKSIDERS COMIC.", 
+        "shortDescription": "DARKSIDERS COMIC", 
         "systemRequirements": null
     }, 
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
