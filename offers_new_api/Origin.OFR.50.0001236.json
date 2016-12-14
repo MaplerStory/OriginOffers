@@ -1,10 +1,7 @@
 {
     "alternateMasterTitleIds": [], 
     "brand": "DARKSIDERS", 
-    "bundleOffers": [
-        "Origin.OFR.50.0001237", 
-        "Origin.OFR.50.0001238"
-    ], 
+    "bundleOffers": [], 
     "contentId": "1037145", 
     "countries": {
         "catalogPrice": 19.99, 
