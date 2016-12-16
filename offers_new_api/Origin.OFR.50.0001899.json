@@ -17,7 +17,7 @@
         "giftable": "N", 
         "hasSubscriberDiscount": "Y", 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Vigil Games", 
