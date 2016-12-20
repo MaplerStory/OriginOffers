@@ -388,9 +388,9 @@
                             {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.40.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.40.0.0", 
-                                "downloadURL": "/shift/nordic_games/titan_quest_anniversary_edition/fg__ww_x0/titan_quest_anniversary_editionpcfg__ww_x0run_6__20161219_1400089a403b660bd434a8bbd225367f51ef5.zip", 
+                                "downloadURL": "/shift/nordic_games/titan_quest_anniversary_edition/fg__ww_x0/titan_quest_anniversary_editionpcfg__ww_x0run_7__20161219_1400089ff020d91d547108581928fd7976790.zip", 
                                 "downloadURLType": "staged", 
-                                "effectiveDate": "2036-12-19T22:18:43Z"
+                                "effectiveDate": "2036-12-20T01:38:51Z"
                             }
                         ]
                     }, 

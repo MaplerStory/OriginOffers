@@ -700,6 +700,13 @@
                                 "downloadURL": "/shift/nordic_games/darksiders_warmastered_edition/fg__ww/darksiders_warmastered_editionpcfg__wwrun_1__201213_1002267adffe9d1839441519692b9f397041873.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2016-12-14T23:53:54Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.2343\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.2343", 
+                                "downloadURL": "/shift/nordic_games/darksiders_warmastered_edition/fg__ww/darksiders_warmastered_editionpcfg__wwrun_3__20161219_1002343b43470d11d554e21ac1403f6b60da343.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2036-12-19T23:41:52Z"
                             }
                         ]
                     }, 
