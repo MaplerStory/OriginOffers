@@ -379,18 +379,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.32.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.32.0.0", 
-                                "downloadURL": "/shift/nordic_games/titan_quest_anniversary_edition/fg__ww_x0/titan_quest_anniversary_editionpcfg__ww_x0run_4__20161019_132006af1fb7deb2048c5b229a42552da4125.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2016-12-14T20:00:28Z"
-                            }, 
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.40.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.40.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.40.0.0", 
                                 "downloadURL": "/shift/nordic_games/titan_quest_anniversary_edition/fg__ww_x0/titan_quest_anniversary_editionpcfg__ww_x0run_7__20161219_1400089ff020d91d547108581928fd7976790.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2036-12-20T01:38:51Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-12-20T01:38:51Z"
                             }
                         ]
                     }, 
