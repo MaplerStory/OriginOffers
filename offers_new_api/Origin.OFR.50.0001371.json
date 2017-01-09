@@ -18,6 +18,7 @@
         ], 
         "giftable": "N", 
         "hasSubscriberDiscount": "Y", 
+        "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": true, 
         "isPurchasable": "Y"
@@ -106,6 +107,7 @@
             "useEndDate": null
         }
     ], 
+    "projectNumber": null, 
     "publisherFacetKey": null, 
     "ratingSystemIcon": null, 
     "rbuCode": "3131", 

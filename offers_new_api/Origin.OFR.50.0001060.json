@@ -13,6 +13,7 @@
         "countryCurrencyA": [], 
         "giftable": "Y", 
         "hasSubscriberDiscount": "N", 
+        "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
         "isPurchasable": "N"
@@ -97,6 +98,7 @@
             "useEndDate": null
         }
     ], 
+    "projectNumber": null, 
     "publisherFacetKey": "Electronic Arts", 
     "ratingSystemIcon": null, 
     "rbuCode": "4311", 

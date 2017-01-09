@@ -10,6 +10,7 @@
         "countryCurrencyA": [], 
         "giftable": "Y", 
         "hasSubscriberDiscount": "N", 
+        "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
         "isPurchasable": "N"
@@ -94,6 +95,7 @@
             "useEndDate": null
         }
     ], 
+    "projectNumber": null, 
     "publisherFacetKey": "Electronic Arts", 
     "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
     "rbuCode": "4205", 

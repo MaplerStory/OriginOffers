@@ -10,6 +10,7 @@
         "countryCurrencyA": [], 
         "giftable": "Y", 
         "hasSubscriberDiscount": "N", 
+        "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
         "isPurchasable": "N"
@@ -94,6 +95,7 @@
             "useEndDate": null
         }
     ], 
+    "projectNumber": null, 
     "publisherFacetKey": "Versus Evil", 
     "ratingSystemIcon": null, 
     "rbuCode": "3131", 

@@ -14,6 +14,7 @@
         ], 
         "giftable": "N", 
         "hasSubscriberDiscount": "Y", 
+        "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": true, 
         "isPurchasable": "Y"
@@ -105,6 +106,7 @@
             "useEndDate": null
         }
     ], 
+    "projectNumber": null, 
     "publisherFacetKey": "Versus Evil", 
     "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "3131", 

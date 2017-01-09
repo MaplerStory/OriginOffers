@@ -21,6 +21,7 @@
         "countryCurrencyA": [], 
         "giftable": "Y", 
         "hasSubscriberDiscount": "N", 
+        "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
         "isPurchasable": "N"
@@ -118,6 +119,7 @@
             "useEndDate": null
         }
     ], 
+    "projectNumber": null, 
     "publisherFacetKey": null, 
     "ratingSystemIcon": null, 
     "rbuCode": "4326", 
