@@ -79,18 +79,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"4.7.1.1607\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.7\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "4.7.1.1607", 
-                                "downloadURL": "/shift/plug_in_digital/mini_metro/fg__ww_x0/mini_metromacfg__ww_x0run_1__20160721_4711607b2af557703c0465fa878fadfd2aeabeb.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2016-07-21T15:08:44Z"
-                            }, 
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"5.2016.913.1123\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.7\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"5.2016.913.1123\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.7\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "5.2016.913.1123", 
                                 "downloadURL": "/shift/plug_in_digital/mini_metro/fg__ww_x0/mini_metromacfg__ww_x0run_3__20160927_5201691311232d8acca0d83b4d20850fd23714b7354a.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2036-09-27T17:18:56Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2016-09-27T17:18:56Z"
                             }
                         ]
                     }, 
