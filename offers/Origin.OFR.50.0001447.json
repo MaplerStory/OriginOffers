@@ -212,6 +212,13 @@
                                 "downloadURL": "/shift/fifa/fifa_17_g4/patch__ww_x0_ww_patch3/fifa_17_g4pcpatch__ww_x0_ww_patch3concept_29__denuvo__retail__digital__ww_3035625f63d766cc86e4e4b821fe16a4efa51c8.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2016-11-10T04:15:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.46.44686\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.46.44686", 
+                                "downloadURL": "/shift/fifa/fifa_17_g4/patch__ww_x0_ww_patch5/fifa_17_g4pcpatch__ww_x0_ww_patch5concept_35__denuvo__retail__digital__ww_3059296bfa5f3f5c542400a940a7cdb25255f93.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-01-11T10:38:18Z"
                             }
                         ]
                     }, 
