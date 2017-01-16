@@ -40,7 +40,7 @@
         "brand": null, 
         "developerFacetKey": null, 
         "displayName": "FIFA 17 Gamescom Demo", 
-        "eulaURL": null, 
+        "eulaURL": "http://www.ea.com/legal", 
         "extraContentDisplayGroupDisplayName": null, 
         "franchiseFacetKey": null, 
         "franchisePageLink": null, 
@@ -52,7 +52,7 @@
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": null, 
-        "onlineDisclaimer": null, 
+        "onlineDisclaimer": "INTERNET CONNECTION, EA ACCOUNT, ACCEPTANCE OF PRODUCT AND ORIGIN END USER LICENSE AGREEMENTS (EULAS), EA PRIVACY AND COOKIE POLICY, AND TERMS OF SERVICE; INSTALLATION OF THE ORIGIN CLIENT SOFTWARE (www.origin.com/about); AND REGISTRATION WITH ENCLOSED SINGLE-USE SERIAL CODE REQUIRED TO PLAY AND ACCESS ONLINE FEATURES. SERIAL CODE REGISTRATION IS LIMITED TO ONE EA ACCOUNT PER SERIAL CODE. SERIAL CODES ARE NON-TRANSFERABLE ONCE USED AND SHALL BE VALID, AT A MINIMUM, SO LONG AS ONLINE FEATURES ARE AVAILABLE. YOU MUST BE 13+ TO ACCESS ONLINE FEATURES. EA PRIVACY AND COOKIE POLICY AND TERMS OF SERVICE CAN BE FOUND AT www.ea.com. EULAS AND ADDITIONAL DISCLOSURES CAN BE FOUND AT www.ea.com/1/product-eulas. EA MAY RETIRE ONLINE FEATURES AFTER 30 DAYS NOTICE POSTED ON www.ea.com/1/service-updates. INCLUDES SOFTWARE THAT COLLECTS DATA ONLINE TO PROVIDE IN-GAME ADVERTISING. EA MAY PROVIDE CERTAIN INCREMENTAL CONTENT AND/OR UPDATES FOR NO ADDITIONAL CHARGE, IF AND WHEN AVAILABLE. ADDITIONAL IN-GAME CONTENT MAY BE PURCHASED. MANDATORY CONTENT UPDATES REQUIRED TO PLAY. CONTENT DOWNLOADS MAY INCUR BANDWIDTH USAGE CHARGES.", 
         "packArtLarge": "/182633/231.0x326.0/1040219_LB_231x326_en_US_^_2016-08-12-14-57-40_2988b837d3a7524d9a2f6a414a61abf5c572d044.jpg", 
         "packArtMedium": "/182633/142.0x200.0/1040219_MB_142x200_en_US_^_2016-08-12-14-57-44_2f4c28a92d0787231e35b96bb96e84e88df501ae.jpg", 
         "packArtSmall": "/182633/63.0x89.0/1040219_SB_63x89_en_US_^_2016-08-12-14-57-48_a87cfb34e23cd0ff5830cc605303b1c11fed670b.jpg", 
@@ -95,7 +95,7 @@
             "useEndDate": "2016-08-24T00:00:00Z"
         }
     ], 
-    "projectNumber": null, 
+    "projectNumber": "314599", 
     "publisherFacetKey": "Electronic Arts", 
     "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
     "rbuCode": "4212", 
