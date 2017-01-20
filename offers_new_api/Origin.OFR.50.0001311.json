@@ -19,7 +19,7 @@
         "isPublished": true, 
         "isPurchasable": "Y"
     }, 
-    "developerFacetKey": null, 
+    "developerFacetKey": "Frozenbyte", 
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
@@ -102,8 +102,8 @@
             "useEndDate": null
         }
     ], 
-    "projectNumber": null, 
-    "publisherFacetKey": null, 
+    "projectNumber": "314495", 
+    "publisherFacetKey": "Frozenbyte", 
     "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
     "rbuCode": "3131", 
     "revenueModel": "Digital - Full Game", 
