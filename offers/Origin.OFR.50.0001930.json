@@ -377,15 +377,26 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2015-08-04T00:00:19Z", 
+                    "downloadStartDate": "2016-08-04T00:00:19Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2015-08-04T00:00:19Z"
+                    "releaseDate": "2016-08-04T00:00:19Z"
                 }
             ]
         }, 
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"0.0.01.06\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "0.0.01.06", 
+                                "downloadURL": "/shift/lince_works/aragami/fg__ww_x0/aragamipcfg__ww_x0run_1__20170202_0106b96bbffcacb104f768e38fc1590ee2c91.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-02-02T13:25:52Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_196400_50844", 
                         "downloadPackageType": "DownloadInPlace", 
@@ -441,5 +452,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-02-01T19:18:07Z"
+    "updatedDate": "2017-02-02T13:29:22Z"
 }
