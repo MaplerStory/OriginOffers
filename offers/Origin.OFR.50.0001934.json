@@ -52,7 +52,7 @@
         "publishingAttributes": {
             "greyMarketControls": false, 
             "isDownloadable": false, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Addon"
         }, 
         "softwareControlDates": {
