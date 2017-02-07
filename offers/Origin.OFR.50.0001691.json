@@ -87,7 +87,8 @@
         "addonsAvailable": true, 
         "availableExtraContent": [
             "Origin.OFR.50.0001716", 
-            "Origin.OFR.50.0001717"
+            "Origin.OFR.50.0001717", 
+            "Origin.OFR.50.0001951"
         ], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046150"
     }, 
@@ -139,8 +140,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/ubisoft/for_honor/fg__ww_x0/for_honorpcfg__ww_x0run_15d52e5ccdabc43cbb1e21b1e60b23495.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-02-07T20:32:43Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
-                        "downloadPackageType": "DownloadInPlace", 
+                        "downloadPackageType": "Unpacked", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install XXX\\InstallLocation]FH.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install XXX\\InstallLocation]FH.exe", 
@@ -152,7 +162,7 @@
                         "showKeyDialogOnInstall": true, 
                         "showKeyDialogOnPlay": true
                     }, 
-                    "softwareId": "Origin.SFT.50.0000593", 
+                    "softwareId": "Origin.SFT.50.0000591", 
                     "softwarePlatform": "PCWIN"
                 }
             ]

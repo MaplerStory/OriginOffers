@@ -27,7 +27,8 @@
     "dynamicPricing": "N", 
     "extraContent": [
         "Origin.OFR.50.0001716", 
-        "Origin.OFR.50.0001717"
+        "Origin.OFR.50.0001717", 
+        "Origin.OFR.50.0001951"
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
@@ -93,7 +94,7 @@
         {
             "achievementSetOverride": null, 
             "commerceProfile": null, 
-            "downloadPackageType": "DownloadInPlace", 
+            "downloadPackageType": "Unpacked", 
             "downloadStartDate": "2017-02-14T18:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 
