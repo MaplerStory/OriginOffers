@@ -152,8 +152,8 @@
                     "fulfillmentAttributes": {
                         "downloadPackageType": "Unpacked", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 569\\InstallLocation]FH.exe", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 569\\InstallLocation]FH.exe", 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 569\\InstallLocation]forhonor.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 569\\InstallLocation]forhonor.exe", 
                         "installationDirectory": "For Honor", 
                         "installerPath": "autorun.exe", 
                         "monitorInstall": true, 
