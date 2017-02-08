@@ -58,7 +58,8 @@
         "availableExtraContent": [
             "Origin.OFR.50.0001716", 
             "Origin.OFR.50.0001717", 
-            "Origin.OFR.50.0001951"
+            "Origin.OFR.50.0001951", 
+            "Origin.OFR.50.0001952"
         ], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046153"
     }, 
@@ -122,8 +123,8 @@
                     "fulfillmentAttributes": {
                         "downloadPackageType": "Unpacked", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install XXX\\InstallLocation]FH.exe", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install XXX\\InstallLocation]FH.exe", 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 569\\InstallLocation]FH.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 569\\InstallLocation]FH.exe", 
                         "installationDirectory": "For Honor", 
                         "installerPath": "autorun.exe", 
                         "monitorInstall": true, 
