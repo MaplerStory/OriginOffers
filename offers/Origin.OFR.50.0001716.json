@@ -1,0 +1,121 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7500", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046163"
+    }, 
+    "financeId": "1046163", 
+    "itemId": "Origin.ITM.50.0001462", 
+    "localizableAttributes": {
+        "displayName": "For Honor Season Pass", 
+        "longDescription": "For Honor Season Pass", 
+        "packArtLarge": "/195973/231.0x326.0/1046163_LB_231x326_en_US_^_2016-08-25-20-47-43_099480589d185649e3dd92f7854603dea6da6462.jpg", 
+        "packArtMedium": "/195973/142.0x200.0/1046163_MB_142x200_en_US_^_2016-08-25-20-48-40_ca3bf3aef7503204dfa972add099583905f35282.jpg", 
+        "packArtSmall": "/195973/63.0x89.0/1046163_SB_63x89_en_US_^_2016-08-25-20-49-18_8365f0f251fa617399236fa79879a2a0d8fe2986.jpg", 
+        "shortDescription": "For Honor Season Pass"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FOR HONOR", 
+                    "masterTitleId": 195973
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001716", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "195973", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Expansion"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-02-13T13:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-02-13T13:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-02-09T13:56:27Z"
+}

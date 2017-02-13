@@ -1,0 +1,289 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "HK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "ID"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "IN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "LA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "LK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VN"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001716", 
+            "Origin.OFR.50.0001717", 
+            "Origin.OFR.50.0001951", 
+            "Origin.OFR.50.0001952"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046156"
+    }, 
+    "financeId": "1046156", 
+    "itemId": "Origin.ITM.50.0001455", 
+    "localizableAttributes": {
+        "displayName": "For Honor Deluxe Edition", 
+        "longDescription": "Please note:<br>\nProduct codes issued for this title will only work in the following countries:<br>\nUnited States, Canada, American Samoa, Puerto Rico, Virgin Islands U.S.<div><br>Preorder now to receive the Legacy Battle Pack including 3 exclusive Hero outfits, one each for the Warden, Raider and the Kensei.<br><br><b>Deluxe Edition Includes:</b><br>\n\u2022 The Game<br>\n\u2022 Deluxe Pack<br><br>Get the deluxe edition for access to exclusive day 1 content with the [Deluxe Pack]<br><br>Enter the chaos of war as a bold Knight, brutal Viking, or deadly Samurai. Wield your weapon like never before with the innovative Art of Battle combat system that puts you in control of your warrior. Fight in brutal, fast-paced melee combat across a single-player campaign and groundbreaking multiplayer modes.<br><br>\n\u2022 UNIQUE WARRIORS TO MASTER<br>\nChoose your warrior amongst a variety of bold Knights, brutal Vikings and deadly Samurai, each with their own weapon set and play style.<br><br>\n\u2022 MEMORABLE STORY CAMPAIGN<br>\nStorm castles and fortresses in massive battles and confront deadly bosses in intense duels to ensure the survival of your people against a mysterious deadly foe.<br><br>\n\u2022 CONQUER FOES ALONE OR WITH FRIENDS<br>\nFor Honor offers an engaging single-player, offline campaign and thrilling multiplayer.<br><br>\n\u2022 INNOVATIVE ART OF BATTLE CONTROL SYSTEM<br>\nWield the weight of your weapon and feel the power of every strike through this system, putting you in total control.<br><br>\n\u2022 YOUR WARRIOR, YOUR COLORS<br>\nCustomize each facet of your warrior, including your chest, shoulders, and helmet.</div>", 
+        "packArtLarge": "/195973/231.0x326.0/1046163_LB_231x326_en_US_^_2016-08-25-23-07-13_69b3c0f529de137f51d1766f46be2532528fb917.jpg", 
+        "packArtMedium": "/195973/142.0x200.0/1046163_MB_142x200_en_US_^_2016-08-25-23-07-31_341120d70734a0ec926d09852dd52c0ef619794e.jpg", 
+        "packArtSmall": "/195973/63.0x89.0/1046163_SB_63x89_en_US_^_2016-08-25-23-07-47_67faa9e7d68ee8e31ae0387c25a97aa72b3a5366.jpg", 
+        "shortDescription": "Enter the chaos of war!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FOR HONOR", 
+                    "masterTitleId": 195973
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001702", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "195973", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-02-13T13:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-02-13T13:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "downloadURL": "/shift/ubisoft/for_honor/fg__ww_x0/for_honorpcfg__ww_x0run_15d52e5ccdabc43cbb1e21b1e60b23495.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-02-07T20:32:43Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "Unpacked", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 569\\InstallLocation]forhonor.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Uplay Install 569\\InstallLocation]forhonor.exe", 
+                        "installationDirectory": "For Honor", 
+                        "installerPath": "autorun.exe", 
+                        "monitorInstall": true, 
+                        "monitorPlay": false, 
+                        "partnerPlatform": "Other", 
+                        "showKeyDialogOnInstall": true, 
+                        "showKeyDialogOnPlay": true
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000591", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-02-13T14:18:48Z"
+}
