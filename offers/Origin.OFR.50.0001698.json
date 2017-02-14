@@ -8,13 +8,7 @@
                 "attributes": {
                     "isPurchasable": true
                 }, 
-                "countryCode": "AS"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "CA"
+                "countryCode": "BR"
             }, 
             {
                 "attributes": {
@@ -26,30 +20,12 @@
                 "attributes": {
                     "isPurchasable": true
                 }, 
-                "countryCode": "GU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "PR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "US"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "VI"
+                "countryCode": "MX"
             }
         ]
     }, 
     "customAttributes": {
-        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -61,16 +37,16 @@
             "Origin.OFR.50.0001951", 
             "Origin.OFR.50.0001952"
         ], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046148"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046154"
     }, 
-    "financeId": "1046148", 
-    "itemId": "Origin.ITM.50.0001447", 
+    "financeId": "1046154", 
+    "itemId": "Origin.ITM.50.0001453", 
     "localizableAttributes": {
-        "displayName": "For Honor Standard Edition", 
-        "longDescription": "Please note:<br>\nProduct codes issued for this title will only work in the following countries:<br>\nUnited States, Canada, American Samoa, Puerto Rico, Virgin Islands U.S.<br><br>\nEnter the chaos of war as a bold Knight, brutal Viking, or deadly Samurai. Wield your weapon like never before with the innovative Art of Battle combat system that puts you in control of your warrior. Fight in brutal, fast-paced melee combat across a single-player campaign and groundbreaking multiplayer modes.<br><br>\n\u2022 UNIQUE WARRIORS TO MASTER<br>\nChoose your warrior amongst a variety of bold Knights, brutal Vikings and deadly Samurai, each with their own weapon set and play style.<br><br>\n\u2022 MEMORABLE STORY CAMPAIGN<br>\nStorm castles and fortresses in massive battles and confront deadly bosses in intense duels to ensure the survival of your people against a mysterious deadly foe.<br><br>\n\u2022 CONQUER FOES ALONE OR WITH FRIENDS<br>\nFor Honor offers an engaging single-player, offline campaign and thrilling multiplayer.<br><br>\n\u2022 INNOVATIVE ART OF BATTLE CONTROL SYSTEM<br>\nWield the weight of your weapon and feel the power of every strike through this system, putting you in total control.<br><br>\n\u2022 YOUR WARRIOR, YOUR COLORS<br>\nCustomize each facet of your warrior, including your chest, shoulders, and helmet.", 
-        "packArtLarge": "/195973/231.0x326.0/1046148_LB_231x326_en_US_^_2016-08-25-20-47-43_86bf4c8d54d066953ec6146fe6a63401827b925e.jpg", 
-        "packArtMedium": "/195973/142.0x200.0/1046148_MB_142x200_en_US_^_2016-08-25-20-48-40_05384e258adb9c3b0986d0bb8e9db076c28aa7df.jpg", 
-        "packArtSmall": "/195973/63.0x89.0/1046148_SB_63x89_en_US_^_2016-08-25-20-49-18_844f6bcfb1eaab09eabb833e45ad41af38494f44.jpg", 
+        "displayName": "For Honor Deluxe Edition", 
+        "longDescription": "Please note:<br>\nProduct codes issued for this title will only work in the following countries:<br>\nUnited States, Canada, American Samoa, Puerto Rico, Virgin Islands U.S.<br><b>Deluxe Edition Includes:</b><br>\n\u2022 The Game<br>\n\u2022 Deluxe Pack<br><br>Enter the chaos of war as a bold Knight, brutal Viking, or deadly Samurai. Wield your weapon like never before with the innovative Art of Battle combat system that puts you in control of your warrior. Fight in brutal, fast-paced melee combat across a single-player campaign and groundbreaking multiplayer modes.<br><br>\n\u2022 UNIQUE WARRIORS TO MASTER<br>\nChoose your warrior amongst a variety of bold Knights, brutal Vikings and deadly Samurai, each with their own weapon set and play style.<br><br>\n\u2022 MEMORABLE STORY CAMPAIGN<br>\nStorm castles and fortresses in massive battles and confront deadly bosses in intense duels to ensure the survival of your people against a mysterious deadly foe.<br><br>\n\u2022 CONQUER FOES ALONE OR WITH FRIENDS<br>\nFor Honor offers an engaging single-player, offline campaign and thrilling multiplayer.<br><br>\n\u2022 INNOVATIVE ART OF BATTLE CONTROL SYSTEM<br>\nWield the weight of your weapon and feel the power of every strike through this system, putting you in total control.<br><br>\n\u2022 YOUR WARRIOR, YOUR COLORS<br>\nCustomize each facet of your warrior, including your chest, shoulders, and helmet.</div>", 
+        "packArtLarge": "/195973/231.0x326.0/1046163_LB_231x326_en_US_^_2016-08-25-23-07-13_69b3c0f529de137f51d1766f46be2532528fb917.jpg", 
+        "packArtMedium": "/195973/142.0x200.0/1046163_MB_142x200_en_US_^_2016-08-25-23-07-31_341120d70734a0ec926d09852dd52c0ef619794e.jpg", 
+        "packArtSmall": "/195973/63.0x89.0/1046163_SB_63x89_en_US_^_2016-08-25-23-07-47_67faa9e7d68ee8e31ae0387c25a97aa72b3a5366.jpg", 
         "shortDescription": "Enter the chaos of war!"
     }, 
     "mdmHierarchies": {
@@ -88,7 +64,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001687", 
+    "offerId": "Origin.OFR.50.0001698", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
@@ -186,16 +162,8 @@
                     "value": "zh_TW"
                 }
             ]
-        }, 
-        "storeControlDates": {
-            "storeControlDate": [
-                {
-                    "storeAvailableEndDate": "2017-02-14T05:00:00Z", 
-                    "storeAvailableStartDate": "2016-09-13T17:00:00Z"
-                }
-            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-02-13T10:19:07Z"
+    "updatedDate": "2017-02-13T15:42:18Z"
 }

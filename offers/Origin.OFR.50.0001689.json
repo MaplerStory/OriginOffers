@@ -43,7 +43,7 @@
     "itemId": "Origin.ITM.50.0001448", 
     "localizableAttributes": {
         "displayName": "For Honor Standard Edition", 
-        "longDescription": "Please note:<br>\nProduct codes issued for this title will only work in the following countries:<br>\nUnited States, Canada, American Samoa, Puerto Rico, Virgin Islands U.S.<br><br>\nPreorder now to receive the Legacy Battle Pack including 3 exclusive Hero outfits, one each for the Warden, Raider and the Kensei.<br><br>\nEnter the chaos of war as a bold Knight, brutal Viking, or deadly Samurai. Wield your weapon like never before with the innovative Art of Battle combat system that puts you in control of your warrior. Fight in brutal, fast-paced melee combat across a single-player campaign and groundbreaking multiplayer modes.<br><br>\n\u2022 UNIQUE WARRIORS TO MASTER<br>\nChoose your warrior amongst a variety of bold Knights, brutal Vikings and deadly Samurai, each with their own weapon set and play style.<br><br>\n\u2022 MEMORABLE STORY CAMPAIGN<br>\nStorm castles and fortresses in massive battles and confront deadly bosses in intense duels to ensure the survival of your people against a mysterious deadly foe.<br><br>\n\u2022 CONQUER FOES ALONE OR WITH FRIENDS<br>\nFor Honor offers an engaging single-player, offline campaign and thrilling multiplayer.<br><br>\n\u2022 INNOVATIVE ART OF BATTLE CONTROL SYSTEM<br>\nWield the weight of your weapon and feel the power of every strike through this system, putting you in total control.<br><br>\n\u2022 YOUR WARRIOR, YOUR COLORS<br>\nCustomize each facet of your warrior, including your chest, shoulders, and helmet.", 
+        "longDescription": "Please note:<br>\nProduct codes issued for this title will only work in the following countries:<br>\nUnited States, Canada, American Samoa, Puerto Rico, Virgin Islands U.S.<br><br>\nEnter the chaos of war as a bold Knight, brutal Viking, or deadly Samurai. Wield your weapon like never before with the innovative Art of Battle combat system that puts you in control of your warrior. Fight in brutal, fast-paced melee combat across a single-player campaign and groundbreaking multiplayer modes.<br><br>\n\u2022 UNIQUE WARRIORS TO MASTER<br>\nChoose your warrior amongst a variety of bold Knights, brutal Vikings and deadly Samurai, each with their own weapon set and play style.<br><br>\n\u2022 MEMORABLE STORY CAMPAIGN<br>\nStorm castles and fortresses in massive battles and confront deadly bosses in intense duels to ensure the survival of your people against a mysterious deadly foe.<br><br>\n\u2022 CONQUER FOES ALONE OR WITH FRIENDS<br>\nFor Honor offers an engaging single-player, offline campaign and thrilling multiplayer.<br><br>\n\u2022 INNOVATIVE ART OF BATTLE CONTROL SYSTEM<br>\nWield the weight of your weapon and feel the power of every strike through this system, putting you in total control.<br><br>\n\u2022 YOUR WARRIOR, YOUR COLORS<br>\nCustomize each facet of your warrior, including your chest, shoulders, and helmet.", 
         "packArtLarge": "/195973/231.0x326.0/1046148_LB_231x326_en_US_^_2016-08-25-20-47-43_86bf4c8d54d066953ec6146fe6a63401827b925e.jpg", 
         "packArtMedium": "/195973/142.0x200.0/1046148_MB_142x200_en_US_^_2016-08-25-20-48-40_05384e258adb9c3b0986d0bb8e9db076c28aa7df.jpg", 
         "packArtSmall": "/195973/63.0x89.0/1046148_SB_63x89_en_US_^_2016-08-25-20-49-18_844f6bcfb1eaab09eabb833e45ad41af38494f44.jpg", 
@@ -72,7 +72,7 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
@@ -166,11 +166,12 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
+                    "storeAvailableEndDate": "2017-02-09T16:00:00Z", 
                     "storeAvailableStartDate": "2016-09-13T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-02-09T14:29:30Z"
+    "updatedDate": "2017-02-13T10:19:15Z"
 }
