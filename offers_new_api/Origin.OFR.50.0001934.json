@@ -112,5 +112,8 @@
     "storeGroupId": "Origin", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": null
+    "vault": {
+        "isUpgradeable": "Y", 
+        "path": "/aragami/aragami/standard-edition"
+    }
 }
