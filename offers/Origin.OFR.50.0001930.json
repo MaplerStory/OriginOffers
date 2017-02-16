@@ -399,6 +399,7 @@
                     }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_196400_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Profile%/AppData/LocalLow/Lince Works/Aragami/saveData.dat</include></saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Lince Works\\Aragami\\Install Dir]Aragami.exe", 
