@@ -1,0 +1,136 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049661"
+    }, 
+    "financeId": "1049661", 
+    "itemId": "Origin.ITM.50.0001639", 
+    "localizableAttributes": {
+        "displayName": "LIMBO", 
+        "longDescription": "Uncertain of his sister's fate, a boy enters LIMBO", 
+        "packArtLarge": "/196395/231.0x326.0/1049661_LB_231x326_en_US_^_2017-02-02-06-23-58_dfae36dcae05fe0f932306973a6328183127059b.jpg", 
+        "packArtMedium": "/196395/142.0x200.0/1049661_MB_142x200_en_US_^_2017-02-02-06-24-26_3ccb04535620cafcd965bddb4465e64bcab686de.jpg", 
+        "packArtSmall": "/196395/63.0x89.0/1049661_SB_63x89_en_US_^_2017-02-02-06-24-37_e1f99c246ed5f6e6e8a5f5f6aa5eb59b98a7c7a5.jpg", 
+        "shortDescription": "Uncertain of his sister's fate, a boy enters LIMBO"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "LIMBO", 
+                    "masterTitleId": 196395
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001943", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196395", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2011-08-02T00:00:19Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2011-08-02T00:00:19Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_196395_50844", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Playdead\\LIMBO\\Install Dir]limbo.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Playdead\\LIMBO\\Install Dir]limbo.exe", 
+                        "installationDirectory": "LIMBO", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000674", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-02-16T15:34:20Z"
+}
