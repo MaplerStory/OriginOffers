@@ -102,7 +102,7 @@
     "gameRatingTypeValue": "Everyone", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
-    "genreFacetKey": "Sports", 
+    "genreFacetKey": "Action,Sports", 
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 

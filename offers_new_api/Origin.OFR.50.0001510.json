@@ -104,7 +104,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "BASEGAME", 
-    "genreFacetKey": "Sports", 
+    "genreFacetKey": "Action,Sports", 
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 
