@@ -208,17 +208,10 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.46.52227\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.46.52227", 
-                                "downloadURL": "/shift/fifa/fifa_17_g4/patch__ww_x0_ww_patch6/fifa_17_g4pcpatch__ww_x0_ww_patch6concept_5__denuvo__retail__digital__ww_3066837ffeed136e9b14920afda7402fd050efa.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-01-25T13:00:00Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.47.2427\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.47.2427", 
                                 "downloadURL": "/shift/fifa/fifa_17_g4/patch__ww_x0_ww_patch7/fifa_17_g4pcpatch__ww_x0_ww_patch7concept_20__denuvo__retail__digital__ww_3082572ad2c5f3383f947e1ab25634084675d17.zip", 
-                                "downloadURLType": "staged", 
+                                "downloadURLType": "live", 
                                 "effectiveDate": "2017-02-21T10:00:00Z"
                             }
                         ]

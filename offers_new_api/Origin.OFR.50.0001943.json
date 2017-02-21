@@ -64,7 +64,7 @@
         "publisherFacetKey": null, 
         "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
         "shortDescription": "Uncertain of his sister's fate, a boy enters LIMBO", 
-        "systemRequirements": "<b>WINDOWS:</b><br><br>\n<b>OS:</b> Windows XP, Vista, 7, 8, 10<br>\n<b>Processor:</b> 2 GHz<br>\n<b>Memory:</b>512MB<br>\n<b>Hard Disk Space:</b> 150MB <br>\n<b>Video Card:</b> 10 years or younger. Integrated graphics and very low budget cards may not work. Shader Model 3.0 required<br>\n<b>DirectX\u00ae:</b> 9.0c"
+        "systemRequirements": "<b>WINDOWS:</b><br><br>\n<b>OS:</b> Windows XP, Vista, 7, 8, 10<br>\n<b>Processor:</b> 2 GHz<br>\n<b>Memory:</b> 512MB<br>\n<b>Hard Disk Space:</b> 150MB <br>\n<b>Video Card:</b> 10 years or younger. Integrated graphics and very low budget cards may not work. Shader Model 3.0 required<br>\n<b>DirectX\u00ae:</b> 9.0c"
     }, 
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
@@ -72,7 +72,7 @@
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0001639", 
-    "itemName": "Limbo - PCWIN - WW", 
+    "itemName": "Limbo - PC - WW", 
     "itemType": "Base Game", 
     "masterTitle": "LIMBO", 
     "masterTitleId": "196395", 
