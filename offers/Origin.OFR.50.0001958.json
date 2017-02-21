@@ -1,0 +1,122 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1051535"
+    }, 
+    "financeId": "1051535", 
+    "itemId": "Origin.ITM.50.0001653", 
+    "localizableAttributes": {
+        "displayName": "Beholder", 
+        "longDescription": "Seize control of your destiny in a grim dystopian world! As the manager of a government-run apartment building, you must keep your residents comfortable and well-fed while fulfilling the directives of your superiors. Featuring beautifully bleak visuals and rich strategic gameplay, Beholder will hold you in its grip until you have mastered its many challenges!", 
+        "packArtLarge": "/196479/231.0x326.0/1051535_LB_231x326_en_US_^_2017-02-10-12-36-35_7fe977dc1ee70ccd893467f3303307c466571a3f.jpg", 
+        "packArtMedium": "/196479/142.0x200.0/1051535_MB_142x200_en_US_^_2017-02-10-12-37-20_27f63659c309d484d519778229a501d8261c60b1.jpg", 
+        "packArtSmall": "/196479/63.0x89.0/1051535_SB_63x89_en_US_^_2017-02-10-12-38-08_34539c56bfce03619602af801773d7cd730d0bf5.jpg", 
+        "shortDescription": "Every choice has a consequence"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "BEHOLDER", 
+                    "masterTitleId": 196479
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001958", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196479", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-11-09T00:00:19Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-11-09T00:00:19Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/alawar_entertainment/beholder/fg__ww_x0/beholderpcfg__ww_x0run_1__20170209_10007434f2c792db49f886f03b8932f5f81e.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-02-21T18:39:46Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_196479_50844", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Warm Lamp Games\\Beholder\\Install Dir]Beholder.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Warm Lamp Games\\Beholder\\Install Dir]Beholder.exe", 
+                        "installationDirectory": "Beholder", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000684", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-02-21T22:07:45Z"
+}
