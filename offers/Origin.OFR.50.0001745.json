@@ -67,6 +67,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/mass_effect/mass_effect_andromeda/dlc__ww_dlc_preorder/mass_effect_andromedapcdlc__ww_dlc_preorderbeta_1__717905_pc_dlc_preorder_rc80c43ef473b14d178ca7d0d1370ba4cc.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-02-23T18:54:27Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "addonDeploymentStrategy": "Restart Game", 
                         "downloadPackageType": "DownloadInPlace", 

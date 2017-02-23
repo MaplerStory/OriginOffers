@@ -1,0 +1,116 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1050422"
+    }, 
+    "financeId": "1050422", 
+    "itemId": "Origin.ITM.50.0001654", 
+    "localizableAttributes": {
+        "displayName": "Syberia II", 
+        "longDescription": "Having searched Eastern and Western Europe for a missing heir, Kate Walker finally completed her long and arduous journey, obtaining the signature of Hans Voralberg and closing the automaton factory buyout. <br><br>\nMission accomplished? Not for this sophisticated New York lawyer\u2026<br><br>\nAn unlikely pair, young Kate Walker and old, eccentric Hans Voralberg now set off on a journey together: in search of the last of the fabled Syberian mammoths at the heart of a long and forgotten universe. The surreal quest Hans began alone several years ago will come to a final close as he and Kate face obstacles far more dangerous than ever before, testing their courage and determination. <br><br>\nFar and beyond, a mystical Syberia awaits their arrival\u2026<br><br>\n<b>Key Features:</b><br>\nOriginal and captivating storyline.<br><br>\nRich and intriguing new characters with new, realistically detailed 3D environments.<br><br>\nCompletely integrated, original puzzles that test the players skill throughout the game.", 
+        "packArtLarge": "/196468/231.0x326.0/1050422_LB_231x326_en_US_^_2017-02-10-13-31-10_3738f07e3722d0453e31e4f4bc01220849a6e014.jpg", 
+        "packArtMedium": "/196468/142.0x200.0/1050422_MB_142x200_en_US_^_2017-02-10-13-31-29_0a0cf8b0021c2704efb97f1e6cb419fb00d62bee.jpg", 
+        "packArtSmall": "/196468/63.0x89.0/1050422_SB_63x89_en_US_^_2017-02-10-13-31-50_ba29dc72c450c11dbcb6ef9e5ef6800bf892db1a.jpg", 
+        "shortDescription": "At the heart of a long and forgotten universe!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SYBERIA II", 
+                    "masterTitleId": 196468
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001959", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196468", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2004-03-04T00:00:19Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2004-03-04T00:00:19Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia II\\Install Dir]Syberia2.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia II\\Install Dir]Syberia2.exe", 
+                        "installationDirectory": "Syberia II", 
+                        "monitorPlay": false, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000685", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-02-23T23:09:24Z"
+}
