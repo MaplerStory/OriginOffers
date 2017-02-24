@@ -573,6 +573,13 @@
                                 "downloadURL": "/shift/versus_evil/the_banner_saga_2/fg__ww_x0/the_banner_saga_2pcfg__ww_x0run_6__20161216_23508005f5265a4a4d743e0bd2a8863af63b6ab.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2016-12-16T22:02:32Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"2.38.58.00\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "2.38.58.00", 
+                                "downloadURL": "/shift/versus_evil/the_banner_saga_2/fg__ww_x0/the_banner_saga_2pcfg__ww_x0run_7__20170224_2385800f0b0483d0b2f488a849d3e78cf4ba782.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-02-24T21:08:00Z"
                             }
                         ]
                     }, 

@@ -70,6 +70,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.16\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.16", 
+                                "downloadURL": "/shift/plug_in_digital/syberia_ii/fg__ww_x0/syberia_iipcfg__ww_x0run_2__20160223_10016320e72b8d0374fd9882b53d85b4bc397.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-02-24T19:10:06Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
