@@ -116,10 +116,13 @@
     "softwareLocales": [
         "de_DE", 
         "en_US", 
+        "es_ES", 
         "fr_FR", 
         "it_IT", 
         "ja_JP", 
-        "pl_PL"
+        "pl_PL", 
+        "pt_PT", 
+        "ru_RU"
     ], 
     "storeGroupId": "Origin", 
     "suppressedOfferIds": [], 
