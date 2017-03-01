@@ -14,18 +14,6 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "AQ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "AU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "BF"
             }, 
             {
@@ -80,12 +68,6 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "CK"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "CM"
             }, 
             {
@@ -93,12 +75,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "CV"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "CX"
             }, 
             {
                 "attributes": {
@@ -129,18 +105,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "ET"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "FJ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "FM"
             }, 
             {
                 "attributes": {
@@ -182,19 +146,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "HM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "KE"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "KI"
             }, 
             {
                 "attributes": {
@@ -225,12 +177,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "MG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "MH"
             }, 
             {
                 "attributes": {
@@ -284,25 +230,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "NF"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "NG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "NR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "NU"
             }, 
             {
                 "attributes": {
@@ -314,31 +242,13 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "PG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "PN"
             }, 
             {
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "PW"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "RW"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "SB"
             }, 
             {
                 "attributes": {
@@ -386,12 +296,6 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "TK"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "TN"
             }, 
             {
@@ -399,12 +303,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "TO"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "TV"
             }, 
             {
                 "attributes": {
@@ -423,12 +321,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "UG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "VU"
             }, 
             {
                 "attributes": {
@@ -468,19 +360,24 @@
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
-        "addonsAvailable": false, 
-        "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1050422"
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001983", 
+            "Origin.OFR.50.0001981", 
+            "Origin.OFR.50.0001984", 
+            "Origin.OFR.50.0001985"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1050423"
     }, 
-    "financeId": "1050422", 
-    "itemId": "Origin.ITM.50.0001654", 
+    "financeId": "1050423", 
+    "itemId": "Origin.ITM.50.0001655", 
     "localizableAttributes": {
-        "displayName": "Syberia II", 
-        "longDescription": "Having searched Eastern and Western Europe for a missing heir, Kate Walker finally completed her long and arduous journey, obtaining the signature of Hans Voralberg and closing the automaton factory buyout. <br><br>\nMission accomplished? Not for this sophisticated New York lawyer\u2026<br><br>\nAn unlikely pair, young Kate Walker and old, eccentric Hans Voralberg now set off on a journey together: in search of the last of the fabled Syberian mammoths at the heart of a long and forgotten universe. The surreal quest Hans began alone several years ago will come to a final close as he and Kate face obstacles far more dangerous than ever before, testing their courage and determination. <br><br>\nFar and beyond, a mystical Syberia awaits their arrival\u2026<br><br>\n<b>Key Features:</b><br>\nOriginal and captivating storyline.<br><br>\nRich and intriguing new characters with new, realistically detailed 3D environments.<br><br>\nCompletely integrated, original puzzles that test the players skill throughout the game.", 
-        "packArtLarge": "/196468/231.0x326.0/1050422_LB_231x326_en_US_^_2017-02-10-13-31-10_3738f07e3722d0453e31e4f4bc01220849a6e014.jpg", 
-        "packArtMedium": "/196468/142.0x200.0/1050422_MB_142x200_en_US_^_2017-02-10-13-31-29_0a0cf8b0021c2704efb97f1e6cb419fb00d62bee.jpg", 
-        "packArtSmall": "/196468/63.0x89.0/1050422_SB_63x89_en_US_^_2017-02-10-13-31-50_ba29dc72c450c11dbcb6ef9e5ef6800bf892db1a.jpg", 
-        "shortDescription": "At the heart of a long and forgotten universe!"
+        "displayName": "Syberia 3", 
+        "longDescription": "Pre-order Syberia 3 Standard or Digital Deluxe edition and secure your Digital Artbook of Syberia 3.<br><br>\n\nAuthor and creator: Beno\u00eet Sokal<br><br>\n\n<b>Overview:</b><br>\nThe limitless imagination of Beno\u00eet Sokal continues in Syberia 3, focusing on an entirely new adventure. After abandoning the island, Kate is found dying on the edge of a river by the Youkole tribe, a nomadic people migrating with their snow ostriches. Stuck in Valsembor village, together they must find a way to continue their journey in a race against their enemies and unexpected obstacles, not to mention Kate's past, which catches up with her.<br><br>\n\nThe next generation in adventure games, Syberia 3 takes you inside an enchanting, mysterious universe full of life for you to explore in 3D. Plunged into the heart of a world inhabited by a cast of interesting characters, you'll discover and experience a fabulous tale as imagined by Benoit Sokal.<br><br>\n\n<li>A brand new tale, completely different from the first two Syberia games.<br><br></li>\n\n<li>Exceptionally immersive storytelling, multiplied by Benoit Sokal's unparalleled artistic direction<br><br></li>\n\n<li>Explore Benoit Sokal's poetic universe in 3D for the first time<br><br></li>\n\n<li>Original score by Inon Zur (Syberia 2, Fallout, Dragon Age, Prince of Persia)<br><br></li>\n\n<li>Original, real-time 3D puzzles and mysteries<br><br></li>\n\n<b>Previously in Syberia</b><br>\nA lawyer in NYC, Kate Walker was sent to Europe on a simple mission that gradually transformed into personal quest, an adventure that led her on a voyage aboard a locomotive bound for the reaches of the Europe. Accompanied by a robot named Oscar, she fulfilled inventor Hans Voralberg's dream, searching for the last mammoths all the way on the legendary island of Syberia.<br><br>", 
+        "packArtLarge": "/196474/231.0x326.0/1050423_LB_231x326_en_US_^_2017-02-10-15-40-34_15774fe082bfa07c4bf6314a0099eaae08222623.jpg", 
+        "packArtMedium": "/196474/142.0x200.0/1050423_MB_142x200_en_US_^_2017-02-10-15-40-50_e66f26b15389892b0bedcb6b03891925ab5eeb3a.jpg", 
+        "packArtSmall": "/196474/63.0x89.0/1050423_SB_63x89_en_US_^_2017-02-10-15-41-07_1b28be997eca92822fa1e8ea7144413f5952ada0.jpg", 
+        "shortDescription": "The next generation in adventure games!"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -490,18 +387,18 @@
                     "franchiseId": 50318
                 }, 
                 "mdmMasterTitle": {
-                    "masterTitle": "SYBERIA II", 
-                    "masterTitleId": 196468
+                    "masterTitle": "SYBERIA 3", 
+                    "masterTitleId": 196474
                 }, 
                 "type": "Primary"
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001959", 
+    "offerId": "Origin.OFR.50.0001960", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
-            "contentId": "196468", 
+            "contentId": "196474", 
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
@@ -511,37 +408,22 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2004-03-30T00:00:19Z", 
-                    "platform": "PCWIN", 
-                    "releaseDate": "2004-03-30T00:00:19Z"
+                    "downloadStartDate": "2025-08-07T11:51:19Z", 
+                    "platform": "PCWIN"
                 }
             ]
         }, 
         "softwareList": {
             "software": [
                 {
-                    "downloadURLs": {
-                        "downloadURL": [
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.16\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.16", 
-                                "downloadURL": "/shift/plug_in_digital/syberia_ii/fg__ww_x0/syberia_iipcfg__ww_x0run_2__20160223_10016320e72b8d0374fd9882b53d85b4bc397.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-02-24T19:10:06Z"
-                            }
-                        ]
-                    }, 
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia II\\Install Dir]Syberia2.exe", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia II\\Install Dir]Syberia2.exe", 
-                        "installationDirectory": "Syberia II", 
                         "monitorPlay": false, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 
-                    "softwareId": "Origin.SFT.50.0000685", 
+                    "softwareId": "Origin.SFT.50.0000686", 
                     "softwarePlatform": "PCWIN"
                 }
             ]
@@ -564,10 +446,22 @@
                     "value": "it_IT"
                 }, 
                 {
-                    "value": "ja_JP"
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pl_PL"
                 }, 
                 {
                     "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
                 }
             ]
         }, 
@@ -580,5 +474,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-03-01T09:22:43Z"
+    "updatedDate": "2017-03-01T20:14:59Z"
 }
