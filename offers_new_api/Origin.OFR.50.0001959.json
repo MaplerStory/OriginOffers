@@ -17,7 +17,7 @@
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Microids", 
     "duration": null, 
@@ -92,12 +92,12 @@
             "achievementSetOverride": null, 
             "commerceProfile": null, 
             "downloadPackageType": "DownloadInPlace", 
-            "downloadStartDate": "2004-03-04T00:00:19Z", 
+            "downloadStartDate": "2004-03-30T00:00:19Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
-            "releaseDate": "2004-03-04T00:00:19Z", 
+            "releaseDate": "2004-03-30T00:00:19Z", 
             "showSubsSaveGameWarning": "false", 
             "useEndDate": null
         }
