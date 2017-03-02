@@ -73,16 +73,15 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.0", 
-                                "downloadURL": "/shift/playdead/limbo/fg__ww_x0/limbopcfg__ww_x0run_1__20170301_100042efc8010f4f4d289f3c9b00336dc4eb.zip", 
+                                "downloadURL": "/shift/playdead/limbo/fg__ww_x0/limbopcfg__ww_x0run_2__20170301_10000ddb60631638413d91ca7eb63a7f501f.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2017-03-01T22:29:48Z"
+                                "effectiveDate": "2017-03-01T05:00:10Z"
                             }
                         ]
                     }, 
                     "fulfillmentAttributes": {
-                        "achievementSetOverride": "50318_196395_50844", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Playdead\\LIMBO\\Install Dir]limbo.exe", 

@@ -85,7 +85,7 @@
     "platformFacetKey": "PC Download", 
     "platforms": [
         {
-            "achievementSetOverride": "50318_196395_50844", 
+            "achievementSetOverride": null, 
             "commerceProfile": null, 
             "downloadPackageType": "DownloadInPlace", 
             "downloadStartDate": "2011-08-02T00:00:19Z", 
