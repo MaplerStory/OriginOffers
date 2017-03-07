@@ -523,18 +523,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.0", 
-                                "downloadURL": "/shift/alawar_entertainment/beholder/fg__ww_x0/beholderpcfg__ww_x0run_1__20170209_10007434f2c792db49f886f03b8932f5f81e.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-02-21T18:39:46Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.2.0.7626\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.2.0.7626", 
                                 "downloadURL": "/shift/alawar_entertainment/beholder/fg__ww_x0/beholderpcfg__ww_x0run_4__20170301_120762615b5e5b25226477f8d7cdde725d67d62.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2037-03-01T23:44:17Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-03-01T23:44:17Z"
                             }
                         ]
                     }, 
