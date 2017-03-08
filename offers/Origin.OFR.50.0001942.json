@@ -8,7 +8,19 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
                 "countryCode": "AO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AZ"
             }, 
             {
                 "attributes": {
@@ -39,6 +51,12 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "BW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BY"
             }, 
             {
                 "attributes": {
@@ -152,7 +170,19 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
                 "countryCode": "KM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KZ"
             }, 
             {
                 "attributes": {
@@ -230,6 +260,12 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
                 "countryCode": "RW"
             }, 
             {
@@ -278,6 +314,18 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
                 "countryCode": "TN"
             }, 
             {
@@ -290,7 +338,19 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
                 "countryCode": "UG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UZ"
             }, 
             {
                 "attributes": {
@@ -313,24 +373,24 @@
         ]
     }, 
     "customAttributes": {
-        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "gameEditionTypeFacetKeyRankDesc": "6000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049661"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049660"
     }, 
-    "financeId": "1049661", 
-    "itemId": "Origin.ITM.50.0001639", 
+    "financeId": "1049660", 
+    "itemId": "Origin.ITM.50.0001638", 
     "localizableAttributes": {
-        "displayName": "LIMBO", 
-        "longDescription": "Uncertain of his sister's fate, a boy enters LIMBO", 
-        "packArtLarge": "/196395/231.0x326.0/1049661_LB_231x326_en_US_^_2017-03-08-05-49-13_f45179a16072ff43c58e33c0ab0232314388840f.jpg", 
-        "packArtMedium": "/196395/142.0x200.0/1049661_MB_142x200_en_US_^_2017-03-08-05-49-25_8e57fd849a8f58aa7ab4f52fcabf315025944568.jpg", 
-        "packArtSmall": "/196395/63.0x89.0/1049661_SB_63x89_en_US_^_2017-03-08-05-49-38_3accda8d2d7e80861d97b12e6b96dc2929b182a5.jpg", 
-        "shortDescription": "Uncertain of his sister's fate, a boy enters LIMBO"
+        "displayName": "INSIDE + LIMBO", 
+        "longDescription": "\u201cMASTERPIECE! Inside is a 2D puzzle platformer that builds upon what made Limbo great, and in fact builds something greater.\u201d\n10/10 \u2013 IGN <br><br>\n\u201cInside expands on the concepts and scope of its predecessor in wildly creative ways, and it's so immaculately designed and constructed from top to bottom that it almost feels suitable for display in an art museum. This is one hell of a followup.\u201d\n5/5 \u2013 Giant Bomb <br><br>\n\u201cLimbo is genius. Freaky, weird genius. Disturbing, uncomfortable genius.\u201d The Escapist<br><br>", 
+        "packArtLarge": "/196402/231.0x326.0/1049660_LB_231x326_en_US_^_2017-03-08-04-24-35_4994dcd8074b2e9bf92ca04138f43e048c24b9fd.jpg", 
+        "packArtMedium": "/196402/142.0x200.0/1049660_MB_142x200_en_US_^_2017-03-08-04-24-48_d27b3651b362b204c6b6d61822de3fc63b365af2.jpg", 
+        "packArtSmall": "/196402/63.0x89.0/1049660_SB_63x89_en_US_^_2017-03-08-04-25-03_8ab6085a361ebf923d3ea1675d1d10a15f25caa6.jpg", 
+        "shortDescription": "Get Playdead's two critically acclaimed titles LIMBO and INSIDE."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -340,60 +400,29 @@
                     "franchiseId": 50318
                 }, 
                 "mdmMasterTitle": {
-                    "masterTitle": "LIMBO", 
-                    "masterTitleId": 196395
+                    "masterTitle": "INSIDE", 
+                    "masterTitleId": 196402
                 }, 
                 "type": "Primary"
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001943", 
+    "offerId": "Origin.OFR.50.0001942", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
-            "contentId": "196395", 
-            "gameDistributionSubType": "Normal Game", 
+            "contentId": "196402", 
             "greyMarketControls": false, 
-            "isDownloadable": true, 
+            "isDownloadable": false, 
             "isPublished": false, 
-            "originDisplayType": "Full Game"
+            "originDisplayType": "None"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2011-08-02T00:00:19Z", 
+                    "downloadStartDate": "2016-07-07T00:00:19Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2011-08-02T00:00:19Z"
-                }
-            ]
-        }, 
-        "softwareList": {
-            "software": [
-                {
-                    "downloadURLs": {
-                        "downloadURL": [
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.0", 
-                                "downloadURL": "/shift/playdead/limbo/fg__ww_x0/limbopcfg__ww_x0run_2__20170301_10000ddb60631638413d91ca7eb63a7f501f.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-03-01T05:00:10Z"
-                            }
-                        ]
-                    }, 
-                    "fulfillmentAttributes": {
-                        "downloadPackageType": "DownloadInPlace", 
-                        "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Playdead\\LIMBO\\Install Dir]limbo.exe", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Playdead\\LIMBO\\Install Dir]limbo.exe", 
-                        "installationDirectory": "LIMBO", 
-                        "monitorInstall": true, 
-                        "monitorPlay": true, 
-                        "showKeyDialogOnInstall": false, 
-                        "showKeyDialogOnPlay": false
-                    }, 
-                    "softwareId": "Origin.SFT.50.0000674", 
-                    "softwarePlatform": "PCWIN"
+                    "releaseDate": "2016-07-07T00:00:19Z"
                 }
             ]
         }, 
@@ -416,6 +445,9 @@
                 }, 
                 {
                     "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
                 }, 
                 {
                     "value": "pl_PL"
@@ -449,5 +481,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-03-08T16:14:20Z"
+    "updatedDate": "2017-03-08T10:44:57Z"
 }

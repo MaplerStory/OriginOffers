@@ -4,16 +4,20 @@
     "bundleOffers": [], 
     "contentId": "196395", 
     "countries": {
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
+        "catalogPrice": 9.99, 
+        "catalogPriceA": [
+            9.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Playdead", 
     "duration": null, 
@@ -56,9 +60,9 @@
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": "http://playdead.com/games/limbo/", 
         "onlineDisclaimer": "\u00a9 2010, PLAYDEAD. <br><br>\nREQUIRES INTERNET CONNECTION AND ACCEPTANCE OF THE ORIGIN END USER LICENSE AGREEMENT.<br><br>\nEA DOES NOT GUARANTEE THAT ORIGIN FEATURES WILL BE AVAILABLE ON ALL GAMES DISTRIBUTED ON THE ORIGIN STORE. SEE GAME-SPECIFIC DISCLOSURES FOR MORE DETAILS.", 
-        "packArtLarge": "/196395/231.0x326.0/1049661_LB_231x326_en_US_^_2017-03-06-19-38-44_a36b65b3a26e2ea7600a1ca5f3c54438541aaa3f.jpg", 
-        "packArtMedium": "/196395/142.0x200.0/1049661_MB_142x200_en_US_^_2017-03-06-19-39-08_af01f72d41ed42b0fa88feb175d5c10043c37351.jpg", 
-        "packArtSmall": "/196395/63.0x89.0/1049661_SB_63x89_en_US_^_2017-03-06-19-39-29_73d929a9295ed6ed08b3da05024c6708fc5d6e90.jpg", 
+        "packArtLarge": "/196395/231.0x326.0/1049661_LB_231x326_en_US_^_2017-03-08-05-49-13_f45179a16072ff43c58e33c0ab0232314388840f.jpg", 
+        "packArtMedium": "/196395/142.0x200.0/1049661_MB_142x200_en_US_^_2017-03-08-05-49-25_8e57fd849a8f58aa7ab4f52fcabf315025944568.jpg", 
+        "packArtSmall": "/196395/63.0x89.0/1049661_SB_63x89_en_US_^_2017-03-08-05-49-38_3accda8d2d7e80861d97b12e6b96dc2929b182a5.jpg", 
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
