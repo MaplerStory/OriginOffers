@@ -169,8 +169,8 @@
     "financeId": "1029957", 
     "itemId": "Origin.ITM.50.0000774", 
     "localizableAttributes": {
-        "displayName": "Origin Access Membership", 
-        "longDescription": "Origin Access Membership", 
+        "displayName": "Origin Access 1-month membership", 
+        "longDescription": "Origin Access 1-month membership", 
         "shortDescription": "Origin Access Membership - Recurring 1 Month"
     }, 
     "mdmHierarchies": {
