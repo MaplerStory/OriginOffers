@@ -414,7 +414,7 @@
             "contentId": "196402", 
             "greyMarketControls": false, 
             "isDownloadable": false, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "None"
         }, 
         "softwareControlDates": {
