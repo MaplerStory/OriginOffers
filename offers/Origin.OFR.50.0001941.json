@@ -443,6 +443,7 @@
                     }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_196402_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%InstallDir%/INSIDE_Data/Game2.sav</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Playdead\\INSIDE\\Install Dir]INSIDE.exe", 
