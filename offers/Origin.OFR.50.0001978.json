@@ -49,7 +49,7 @@
         "publishingAttributes": {
             "contentId": "193608_oa", 
             "gameDistributionSubType": "Gameplay Timer Trial - Access", 
-            "greyMarketControls": false, 
+            "greyMarketControls": true, 
             "isDownloadable": true, 
             "isPublished": false, 
             "originDisplayType": "Full Game", 
