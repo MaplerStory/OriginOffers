@@ -411,7 +411,6 @@
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
-            "contentId": "196402", 
             "greyMarketControls": false, 
             "isDownloadable": false, 
             "isPublished": true, 
