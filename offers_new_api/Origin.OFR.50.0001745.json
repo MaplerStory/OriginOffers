@@ -39,7 +39,7 @@
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 
-        "displayName": "Mass Effect Andromeda - Deep Space Pack - Pre-Order DLC Extra Content", 
+        "displayName": "Mass Effect Andromeda - Deep Space Pack", 
         "eulaURL": null, 
         "extraContentDisplayGroupDisplayName": null, 
         "franchiseFacetKey": null, 
@@ -48,7 +48,7 @@
         "gameManualURL": null, 
         "gameTypeFacetKey": null, 
         "genreFacetKey": null, 
-        "longDescription": "Mass Effect Andromeda - Deep Space Pack - Pre-Order DLC Extra Content", 
+        "longDescription": "Mass Effect Andromeda - Deep Space Pack&nbsp;", 
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": null, 
@@ -60,7 +60,7 @@
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
         "ratingSystemIcon": null, 
-        "shortDescription": "Mass Effect Andromeda - Deep Space Pack - Pre-Order DLC Extra Content", 
+        "shortDescription": "Mass Effect Andromeda - Deep Space Pack", 
         "systemRequirements": null
     }, 
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 

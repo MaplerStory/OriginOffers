@@ -24,12 +24,12 @@
     "financeId": "1046675", 
     "itemId": "Origin.ITM.50.0001479", 
     "localizableAttributes": {
-        "displayName": "Mass Effect Andromeda - Deep Space Pack - Pre-Order DLC Extra Content", 
-        "longDescription": "Mass Effect Andromeda - Deep Space Pack - Pre-Order DLC Extra Content", 
+        "displayName": "Mass Effect Andromeda - Deep Space Pack", 
+        "longDescription": "Mass Effect Andromeda - Deep Space Pack&nbsp;", 
         "packArtLarge": "/74889/231.0x326.0/1046675_LB_231x326_en_US_^_2016-10-05-11-12-28_af5126a79f052ff62bce8beca84be320199338a1.jpg", 
         "packArtMedium": "/74889/142.0x200.0/1046675_MB_142x200_en_US_^_2016-10-05-11-12-28_c8e2bdcf493e5310bbf7fb9d4ac853647bc6d8e1.jpg", 
         "packArtSmall": "/74889/63.0x89.0/1046675_SB_63x89_en_US_^_2016-10-05-11-12-28_9f00efe012af4246a9ae6a862822f81093a6fec7.jpg", 
-        "shortDescription": "Mass Effect Andromeda - Deep Space Pack - Pre-Order DLC Extra Content"
+        "shortDescription": "Mass Effect Andromeda - Deep Space Pack"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
