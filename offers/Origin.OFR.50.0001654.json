@@ -1,0 +1,125 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": []
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0001748", 
+            "Origin.OFR.50.0001746", 
+            "Origin.OFR.50.0001911", 
+            "Origin.OFR.50.0001263", 
+            "Origin.OFR.50.0001264", 
+            "Origin.OFR.50.0001261", 
+            "Origin.OFR.50.0001262", 
+            "Origin.OFR.50.0001265", 
+            "Origin.OFR.50.0001744", 
+            "Origin.OFR.50.0001745"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1039961"
+    }, 
+    "financeId": "1039961", 
+    "itemId": "Origin.ITM.50.0001326", 
+    "localizableAttributes": {
+        "displayName": "Mass Effect Andromeda Standard Edition PCDD - RuPl  Display Name Placeholder Text.- Open Trial", 
+        "longDescription": "Mass Effect: Andromeda takes you to the Andromeda galaxy, far beyond the Milky Way. There, you'll lead our fight for a new home in hostile territory - where WE are the aliens.<br><br>\nPlay as the Pathfinder - a leader of a squad of military-trained explorers - with deep progression and customization systems. This is the story of humanity\u2019s next chapter, and your choices throughout the game will ultimately determine our survival in the Andromeda Galaxy.<br><br>\nAs you unfold the mysteries of the Andromeda Galaxy and the hope for humanity lies on your shoulders \u2013 You must ask yourself\u2026 How far will you go?<br><br>\n<b>Key Features:</b><br><br>\n<b>The Mass Effect Universe.</b> Lead the first humans in Andromeda on a desperate search for our New Home. In this new chapter of Mass Effect, meet and recruit all-new, interesting characters caught up in an epic space saga filled with mystery and galactic conflict.<br><br>\n <b>Fight For Survival.</b> Fight with your Pathfinder team In battle against terrifying enemies and creatures. New additions like destructible environments, boosted jumps for added verticality, and all-new weapons and Biotics make combat more thrilling than ever.<br><br>\n <b>Build Your Hero.</b> Build a formidable hero with amazing weapons, powers and tech. With a much more flexible skill and weapon progression tree, you can replicate your play style to make you unstoppable against new, powerful alien enemies.<br><br>\n <b>Explore A New Galaxy.</b> Chart your own course in a dangerous new galaxy. Unravel the mysteries of the Andromeda galaxy as you discover rich, alien worlds in the search for humanity\u2019s new home.<br><br>", 
+        "packArtLarge": "/74889/231.0x326.0/1019025_LB_231x326_en_US_^_2016-09-09-18-10-26_834d4754eb4e81553bc3b69a4b60a79b154cfaa3.jpg", 
+        "packArtMedium": "/74889/142.0x200.0/1019025_MB_142x200_en_US_^_2016-09-09-18-10-26_1a3f634a953e4979ddf34dfe04170c860c4e4ad9.jpg", 
+        "packArtSmall": "/74889/63.0x89.0/1019025_SB_63x89_en_US_^_2016-09-09-18-10-26_69a42ba55002606b74d432a808e8b3c554a0f41b.jpg", 
+        "shortDescription": "Discover a new galaxy"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mass Effect", 
+                    "franchiseId": 68481
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MASS EFFECT: ANDROMEDA", 
+                    "masterTitleId": 74889
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001654", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1019025_oa", 
+            "gameDistributionSubType": "Gameplay Timer Trial - Game Time", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "trialLaunchDuration": 10
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-03-15T21:30:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-03-15T21:30:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildReleaseVersion": ".0001", 
+                                "downloadURL": "/p/dummymasseffectContact.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2020-11-26T11:14:31Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.3\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.3", 
+                                "downloadURL": "/shift/mass_effect/mass_effect_andromeda/patch__ww_ww/mass_effect_andromedapcpatch__ww_wwconcept_295__725067_pc_retail_patch1_14ba8412166a44d28b97dd7947aa6742f.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-03-15T17:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "68481_74889_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n   <exclude order=\"0\">%Documents%/BioWare/Mass Effect Andromeda/Save/*_profile</exclude>\n   <include order=\"1\">%Documents%/BioWare/Mass Effect Andromeda/Save/</include>\n  </saveFileCriteria>", 
+                        "commerceProfile": "bioware", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect Andromeda\\Install Dir]\\MassEffectAndromeda.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect Andromeda\\Install Dir]\\MassEffectAndromeda.exe", 
+                        "installationDirectory": "Mass Effect Andromeda", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1019025", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000160", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-02-10T17:38:34Z"
+}
