@@ -512,6 +512,11 @@
             "softwareControlDate": [
                 {
                     "downloadStartDate": "2016-11-09T00:00:19Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2016-11-09T00:00:19Z"
+                }, 
+                {
+                    "downloadStartDate": "2016-11-09T00:00:19Z", 
                     "platform": "PCWIN", 
                     "releaseDate": "2016-11-09T00:00:19Z"
                 }
@@ -578,5 +583,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-02-28T17:31:10Z"
+    "updatedDate": "2017-03-16T20:58:54Z"
 }
