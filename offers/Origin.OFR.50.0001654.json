@@ -78,17 +78,18 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildReleaseVersion": ".0001", 
-                                "downloadURL": "/p/dummymasseffectContact.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2020-11-26T11:14:31Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.3\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.3", 
                                 "downloadURL": "/shift/mass_effect/mass_effect_andromeda/patch__ww_ww/mass_effect_andromedapcpatch__ww_wwconcept_295__725067_pc_retail_patch1_14ba8412166a44d28b97dd7947aa6742f.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-03-15T17:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.4\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.4", 
+                                "downloadURL": "/shift/mass_effect/mass_effect_andromeda/patch__ww_ww/mass_effect_andromedapcpatch__ww_wwconcept_316__725907_pc_retail_patch1_04474ae540a72d48638c7e3d7241686e59.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2017-03-20T14:00:00Z"
                             }
                         ]
                     }, 
