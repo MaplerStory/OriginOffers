@@ -1,0 +1,98 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1050590"
+    }, 
+    "financeId": "1050590", 
+    "itemId": "Origin.ITM.50.0001649", 
+    "localizableAttributes": {
+        "displayName": "BioWare Convention Promo Pack", 
+        "longDescription": "Jump-start your multiplayer co-op play with a reward pack. Contains 5 random items or characters, including at least 1 Uncommon, with a small chance for a Rare.", 
+        "packArtLarge": "/74889/231.0x326.0/1019025_LB_231x326_en_US_^_2016-09-09-18-10-26_834d4754eb4e81553bc3b69a4b60a79b154cfaa3.jpg", 
+        "packArtMedium": "/74889/142.0x200.0/1019025_MB_142x200_en_US_^_2016-09-09-18-10-26_1a3f634a953e4979ddf34dfe04170c860c4e4ad9.jpg", 
+        "packArtSmall": "/74889/63.0x89.0/1019025_SB_63x89_en_US_^_2016-09-09-18-10-26_69a42ba55002606b74d432a808e8b3c554a0f41b.jpg", 
+        "shortDescription": "BioWare Convention Promo Pack"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mass Effect", 
+                    "franchiseId": 68481
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MASS EFFECT: ANDROMEDA", 
+                    "masterTitleId": 74889
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001954", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-03-20T15:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-03-20T15:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-03-08T01:59:37Z"
+}

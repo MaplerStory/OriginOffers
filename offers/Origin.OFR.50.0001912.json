@@ -1,0 +1,97 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1048998"
+    }, 
+    "financeId": "1048998", 
+    "itemId": "Origin.ITM.50.0001607", 
+    "localizableAttributes": {
+        "displayName": "Totinos Promo Pack", 
+        "longDescription": "Jump-start your multiplayer co-op play with a booster pack. Includes five 50% XP Boosters (entitled instantly, limit 1 per match).", 
+        "packArtLarge": "/74889/231.0x326.0/1048998_LB_231x326_en_US_^_2017-02-20-12-19-16_eb935e5093a3abebf5fc3a646c2af6c0f3481083.jpg", 
+        "packArtMedium": "/74889/142.0x200.0/1048998_MB_142x200_en_US_^_2017-02-20-12-19-20_32429e5f42bde839e0df095e14b02ef29b0a6bf5.jpg", 
+        "packArtSmall": "/74889/63.0x89.0/1048998_SB_63x89_en_US_^_2017-02-20-12-19-32_daf4685059c0c755697e232e54fceabec49ceba1.jpg", 
+        "shortDescription": "Totinos Promo Pack"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mass Effect", 
+                    "franchiseId": 68481
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MASS EFFECT: ANDROMEDA", 
+                    "masterTitleId": 74889
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001912", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-03-20T15:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-01-06T21:33:22Z"
+}
