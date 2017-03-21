@@ -1,0 +1,127 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046679"
+    }, 
+    "financeId": "1046679", 
+    "itemId": "Origin.ITM.50.0001480", 
+    "localizableAttributes": {
+        "displayName": "Mass Effect Andromeda - Digital soundtrack", 
+        "longDescription": "Mass Effect Andromeda - PC Soundtrack Download", 
+        "packArtLarge": "/74889/231.0x326.0/1019025_LB_231x326_en_US_^_2016-09-09-18-10-26_834d4754eb4e81553bc3b69a4b60a79b154cfaa3.jpg", 
+        "packArtMedium": "/74889/142.0x200.0/1019025_MB_142x200_en_US_^_2016-09-09-18-10-26_1a3f634a953e4979ddf34dfe04170c860c4e4ad9.jpg", 
+        "packArtSmall": "/74889/63.0x89.0/1019025_SB_63x89_en_US_^_2016-09-09-18-10-26_69a42ba55002606b74d432a808e8b3c554a0f41b.jpg", 
+        "shortDescription": "Mass Effect Andromeda - PC Soundtrack Download"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mass Effect", 
+                    "franchiseId": 68481
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MASS EFFECT: ANDROMEDA", 
+                    "masterTitleId": 74889
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001746", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-03-21T04:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-03-21T04:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/mass_effect/mass_effect_andromeda/dlc__ww_dlc_soundtrack/mass_effect_andromedapcdlc__ww_dlc_soundtrackbeta_2__717905_dlc_digitalsoundtracka043d5bd41db44979f9dfb05897781fb.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-02-24T11:34:12Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect Andromeda\\Install Dir]Bonus\\Soundtrack", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect Andromeda\\Install Dir]\\__Installer\\DLC\\DLCSoundtrack\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "installerPath": "/__Installer/DLC/DLCSoundtrack", 
+                        "metadataInstallLocation": "/__Installer/DLC/DLCSoundtrack"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000608", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-03-17T16:12:51Z"
+}
