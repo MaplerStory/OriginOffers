@@ -1,0 +1,98 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0002041"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1056286"
+    }, 
+    "financeId": "1056286", 
+    "itemId": "Origin.ITM.50.0001724", 
+    "localizableAttributes": {
+        "displayName": "Orwell", 
+        "longDescription": "Orwell Standard Edition Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/196589/231.0x326.0/1056286_LB_231x326_en_US_^_2017-03-21-09-07-43_8db803a9223188b14600d2364531490e82096dfa.jpg", 
+        "packArtMedium": "/196589/142.0x200.0/1056286_MB_142x200_en_US_^_2017-03-21-09-08-00_fb0e20deb90ab2f1bf863487da9ab67b412ae8b7.jpg", 
+        "packArtSmall": "/196589/63.0x89.0/1056286_SB_63x89_en_US_^_2017-03-21-09-33-23_e05d3269f3b30b2084577e2809b13602c85704de.jpg", 
+        "shortDescription": "Orwell Standard Edition Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ORWELL", 
+                    "masterTitleId": 196589
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002039", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196589", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-10-27T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-10-27T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Osmotic Studios\\Orwell\\Install Dir]Orwell.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Osmotic Studios\\Orwell\\Install Dir]Orwell.exe", 
+                        "installationDirectory": "Orwell", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000698", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-03-22T20:20:28Z"
+}
