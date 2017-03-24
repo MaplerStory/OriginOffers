@@ -105,6 +105,6 @@
     ], 
     "storeGroupId": "Origin", 
     "suppressedOfferIds": [], 
-    "trialLaunchDuration": "10", 
+    "trialLaunchDuration": "1", 
     "vault": null
 }
