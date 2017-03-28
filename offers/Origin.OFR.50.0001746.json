@@ -25,11 +25,11 @@
     "itemId": "Origin.ITM.50.0001480", 
     "localizableAttributes": {
         "displayName": "Mass Effect Andromeda - Digital soundtrack", 
-        "longDescription": "Mass Effect Andromeda - PC Soundtrack Download", 
+        "longDescription": "Mass Effect Andromeda - Digital soundtrack", 
         "packArtLarge": "/74889/231.0x326.0/1019025_LB_231x326_en_US_^_2016-09-09-18-10-26_834d4754eb4e81553bc3b69a4b60a79b154cfaa3.jpg", 
         "packArtMedium": "/74889/142.0x200.0/1019025_MB_142x200_en_US_^_2016-09-09-18-10-26_1a3f634a953e4979ddf34dfe04170c860c4e4ad9.jpg", 
         "packArtSmall": "/74889/63.0x89.0/1019025_SB_63x89_en_US_^_2016-09-09-18-10-26_69a42ba55002606b74d432a808e8b3c554a0f41b.jpg", 
-        "shortDescription": "Mass Effect Andromeda - PC Soundtrack Download"
+        "shortDescription": "Mass Effect Andromeda - Digital soundtrack"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -123,5 +123,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-03-21T05:38:13Z"
+    "updatedDate": "2017-03-28T08:58:57Z"
 }
