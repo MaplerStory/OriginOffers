@@ -83,7 +83,7 @@
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0001656", 
-    "itemName": "Syberia 3 Deluxe Edition Pre-Order - PC - WW (Origin)", 
+    "itemName": "Syberia 3 Deluxe Edition - PC - WW (Origin)", 
     "itemType": "Base Game", 
     "masterTitle": "SYBERIA 3", 
     "masterTitleId": "196474", 
@@ -99,12 +99,12 @@
             "achievementSetOverride": null, 
             "commerceProfile": null, 
             "downloadPackageType": "DownloadInPlace", 
-            "downloadStartDate": null, 
+            "downloadStartDate": "2017-04-20T17:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
-            "releaseDate": null, 
+            "releaseDate": "2017-04-20T17:00:00Z", 
             "showSubsSaveGameWarning": "false", 
             "useEndDate": null
         }
