@@ -140,7 +140,7 @@
     "platforms": [
         {
             "achievementSetOverride": null, 
-            "commerceProfile": null, 
+            "commerceProfile": "oig-fifa-18", 
             "downloadPackageType": "DownloadInPlace", 
             "downloadStartDate": "2037-02-28T00:00:00Z", 
             "executePathOverride": null, 

@@ -24,8 +24,11 @@
     "financeId": "1056290", 
     "itemId": "Origin.ITM.50.0001726", 
     "localizableAttributes": {
-        "displayName": "ORWELL - ORIGINAL SOUNDTRACK Display Name Placeholder Text.", 
+        "displayName": "Orwell Original Soundtrack", 
         "longDescription": "ORWELL - ORIGINAL SOUNDTRACK Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/196589/231.0x326.0/1056286_LB_231x326_en_US_^_2017-03-21-09-07-43_8db803a9223188b14600d2364531490e82096dfa.jpg", 
+        "packArtMedium": "/196589/142.0x200.0/1056286_MB_142x200_en_US_^_2017-03-21-09-08-00_fb0e20deb90ab2f1bf863487da9ab67b412ae8b7.jpg", 
+        "packArtSmall": "/196589/63.0x89.0/1056286_SB_63x89_en_US_^_2017-03-21-09-33-23_e05d3269f3b30b2084577e2809b13602c85704de.jpg", 
         "shortDescription": "ORWELL - ORIGINAL SOUNDTRACK Short Description Placeholder Text."
     }, 
     "mdmHierarchies": {

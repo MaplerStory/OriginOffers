@@ -1,8 +1,10 @@
 {
     "alternateMasterTitleIds": [], 
     "brand": null, 
-    "bundleOffers": [], 
-    "contentId": null, 
+    "bundleOffers": [
+        "Origin.OFR.50.0002041"
+    ], 
+    "contentId": "196589", 
     "countries": {
         "catalogPrice": null, 
         "catalogPriceA": [], 
@@ -19,11 +21,13 @@
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
-    "extraContent": [], 
+    "extraContent": [
+        "Origin.OFR.50.0002041"
+    ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
     "franchiseFacetKey": null, 
-    "gameDistributionSubType": null, 
+    "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": null, 
     "gameEditionTypeFacetKeyRankDesc": null, 
     "gameNameFacetKey": null, 
@@ -34,12 +38,12 @@
     "gameRatingType": null, 
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
-    "gameTypeFacetKey": null, 
+    "gameTypeFacetKey": "BASEGAME", 
     "genreFacetKey": null, 
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 
-        "displayName": "Orwell Original Soundtrack", 
+        "displayName": "Orwell Deluxe Edition", 
         "eulaURL": null, 
         "extraContentDisplayGroupDisplayName": null, 
         "franchiseFacetKey": null, 
@@ -48,7 +52,7 @@
         "gameManualURL": null, 
         "gameTypeFacetKey": null, 
         "genreFacetKey": null, 
-        "longDescription": "ORWELL - ORIGINAL SOUNDTRACK Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "longDescription": "Orwell Deluxe Edition Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": null, 
@@ -60,7 +64,7 @@
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
         "ratingSystemIcon": null, 
-        "shortDescription": "ORWELL - ORIGINAL SOUNDTRACK Short Description Placeholder Text.", 
+        "shortDescription": "Orwell Deluxe Edition Short Description Placeholder Text.", 
         "systemRequirements": null
     }, 
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
@@ -68,17 +72,17 @@
     "isDownloadable": "True", 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "itemId": "Origin.ITM.50.0001726", 
-    "itemName": "ORWELL - ORIGINAL SOUNDTRACK - PC - WW (Origin)", 
-    "itemType": "Extra Content", 
+    "itemId": "Origin.ITM.50.0001725", 
+    "itemName": "Orwell Deluxe Edition - PC - WW (Origin) PCWIN", 
+    "itemType": "Base Game", 
     "masterTitle": "ORWELL", 
     "masterTitleId": "196589", 
-    "mdmItemType": "Expansion Pack", 
+    "mdmItemType": "Full Game", 
     "numberOfPlayersFacetKey": null, 
-    "offerId": "Origin.OFR.50.0002041", 
+    "offerId": "Origin.OFR.50.0002040", 
     "offerPath": null, 
-    "offerType": "Extra Content", 
-    "originDisplayType": "Addon", 
+    "offerType": "Base Game", 
+    "originDisplayType": "Full Game", 
     "platformFacetKey": null, 
     "platforms": [
         {
@@ -95,11 +99,11 @@
             "useEndDate": null
         }
     ], 
-    "projectNumber": "315734", 
+    "projectNumber": "315735", 
     "publisherFacetKey": null, 
     "ratingSystemIcon": null, 
     "rbuCode": "4460", 
-    "revenueModel": "Digital - Extra Content", 
+    "revenueModel": "Digital - Full Game", 
     "softwareLocales": [
         "en_US"
     ], 
