@@ -76,8 +76,15 @@
                     "value": "en_US"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableEndDate": "2017-04-03T17:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-09-19T09:49:25Z"
+    "updatedDate": "2017-03-31T21:28:57Z"
 }
