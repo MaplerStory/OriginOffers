@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "5000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -25,11 +26,11 @@
     "itemId": "Origin.ITM.50.0001726", 
     "localizableAttributes": {
         "displayName": "Orwell Original Soundtrack", 
-        "longDescription": "ORWELL - ORIGINAL SOUNDTRACK Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "longDescription": "This is the original soundtrack for Orwell, a privacy invasion thriller in which you investigate the lives of citizens to find those responsible for a series of terror attacks. Information from the internet, personal communications and private files are all accessible to you. But, be warned, the information you supply will have consequences.<br><br>\n\n<b>Track listing</b><br>\n1. Orwell (Title Theme)<br>\n2. Day 1 - Nescience<br>\n3. Day 2 - Permutations<br>\n4. Day 3 - Full Dark No Stars<br>\n5. The Autonomy Expires<br>\n6. Day 4 - The Line Emerges<br>\n7. Day 5 - Terminus<br>\n8. Die Gedanken Sind Frei (Credits)<br>\n9. Ratking - Pipedreams (Bonus Track)<br><br>\n\nOST produced by The Otherworld Agency<br>\nComposed by feeding | ear<br>\n'Pipedreams' written and performed by Ratking<br><br>", 
         "packArtLarge": "/196589/231.0x326.0/1056286_LB_231x326_en_US_^_2017-03-21-09-07-43_8db803a9223188b14600d2364531490e82096dfa.jpg", 
         "packArtMedium": "/196589/142.0x200.0/1056286_MB_142x200_en_US_^_2017-03-21-09-08-00_fb0e20deb90ab2f1bf863487da9ab67b412ae8b7.jpg", 
         "packArtSmall": "/196589/63.0x89.0/1056286_SB_63x89_en_US_^_2017-03-21-09-33-23_e05d3269f3b30b2084577e2809b13602c85704de.jpg", 
-        "shortDescription": "ORWELL - ORIGINAL SOUNDTRACK Short Description Placeholder Text."
+        "shortDescription": "Soundtrack for Orwell, a privacy invasion thriller"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
