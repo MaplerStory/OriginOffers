@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "5000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -28,8 +29,11 @@
     "itemId": "Origin.ITM.50.0001821", 
     "localizableAttributes": {
         "displayName": "HACKNET - SOUNDTRACK Display Name Placeholder Text.", 
-        "longDescription": "HACKNET - SOUNDTRACK Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "HACKNET - SOUNDTRACK Short Description Placeholder Text."
+        "longDescription": "This is the official soundtrack to Hacknet Labyrinths: an immersive, terminal-based hacking simulator for PC.", 
+        "packArtLarge": "/196587/231.0x326.0/1056282_LB_231x326_en_US_^_2017-03-23-06-11-47_1a046369f70babd0314dcb7b9ae36d74eb3c011f.jpg", 
+        "packArtMedium": "/196587/142.0x200.0/1056282_MB_142x200_en_US_^_2017-03-23-06-12-04_b039742f9e196d937b2fdb2823ddf48f515fc5cd.jpg", 
+        "packArtSmall": "/196587/231.0x326.0/1056282_LB_231x326_en_US_^_2017-03-23-06-11-47_1a046369f70babd0314dcb7b9ae36d74eb3c011f.jpg", 
+        "shortDescription": "Official soundtrack to Hacknet Labyrinths"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
