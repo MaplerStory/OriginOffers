@@ -29,13 +29,15 @@
     "gameEditionTypeFacetKey": "Standard Edition", 
     "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "orwell", 
-    "gameRatingDesc": [], 
+    "gameRatingDesc": [
+        "Strong Language"
+    ], 
     "gameRatingDescriptionLong": null, 
-    "gameRatingPendingMature": null, 
+    "gameRatingPendingMature": "true", 
     "gameRatingReason": null, 
-    "gameRatingType": null, 
-    "gameRatingTypeValue": null, 
-    "gameRatingUrl": null, 
+    "gameRatingType": "ESRB", 
+    "gameRatingTypeValue": "Mature", 
+    "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
     "genreFacetKey": "Puzzle,Simulation", 
     "i18n": {
@@ -61,7 +63,7 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": null, 
+        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "You have been chosen", 
         "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS:</b> Windows XP SP2+<br>\n\n<b>Processor:</b> 2.0 GHz<br>\n\n<b>Memory:</b> 4 GB RAM<br>\n\n<b>Graphics:</b> GPU: DirectX 9 compatible<br>\n\n<b>DirectX:</b> Version 9.0<br>\n\n<b>Storage:</b> 3 GB available space<br><br>"
     }, 
@@ -99,7 +101,7 @@
     ], 
     "projectNumber": "315723", 
     "publisherFacetKey": "Surprise Attack Games", 
-    "ratingSystemIcon": null, 
+    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

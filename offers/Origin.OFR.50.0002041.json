@@ -68,9 +68,25 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/surprise_attack_games/orwell/dlc__ww_x0_orwell_orignal_soundtrack/orwellpcdlc__ww_x0_orwell_orignal_soundtrackrun_1__20170404_100099c3b2653b174c2392078bb038c5b6ff.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-04-04T16:15:18Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Osmotic Studios\\Orwell\\Install Dir]\\Orwell Original Soundtrack", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Osmotic Studios\\Orwell\\Install Dir]\\__Installer\\DLC\\ORWELL_ORIGINAL_SOUNDTRACK\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer\\DLC\\ORWELL_ORIGINAL_SOUNDTRACK", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

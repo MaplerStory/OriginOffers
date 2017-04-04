@@ -31,9 +31,11 @@
     "gameEditionTypeFacetKey": "Deluxe Edition", 
     "gameEditionTypeFacetKeyRankDesc": "7000", 
     "gameNameFacetKey": "orwell", 
-    "gameRatingDesc": [], 
+    "gameRatingDesc": [
+        "Strong Language"
+    ], 
     "gameRatingDescriptionLong": null, 
-    "gameRatingPendingMature": null, 
+    "gameRatingPendingMature": "true", 
     "gameRatingReason": null, 
     "gameRatingType": "ESRB", 
     "gameRatingTypeValue": "Mature", 

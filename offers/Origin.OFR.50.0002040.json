@@ -75,11 +75,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.1.6254.19879\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.1.6254.19879\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.1.6254.19879", 
-                                "downloadURL": "/shift/surprise_attack_games/orwell/fg__ww_x0/orwellpcfg__ww_x0run_1__20170323_11625419879b80be6685be2472d8422383b685bce17.zip", 
+                                "downloadURL": "/shift/surprise_attack_games/orwell/fg__ww_x0/orwellpcfg__ww_x0run_2__20170404_11625419879d17b9d6d6c79447291e0b9c847ef3966.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2017-03-23T15:21:17Z"
+                                "effectiveDate": "2017-04-04T00:00:00Z"
                             }
                         ]
                     }, 
