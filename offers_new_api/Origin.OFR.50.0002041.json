@@ -27,13 +27,15 @@
     "gameEditionTypeFacetKey": "Soundtrack Edition", 
     "gameEditionTypeFacetKeyRankDesc": "5000", 
     "gameNameFacetKey": "orwell", 
-    "gameRatingDesc": [], 
+    "gameRatingDesc": [
+        "Strong Language"
+    ], 
     "gameRatingDescriptionLong": null, 
     "gameRatingPendingMature": null, 
     "gameRatingReason": null, 
-    "gameRatingType": null, 
-    "gameRatingTypeValue": null, 
-    "gameRatingUrl": null, 
+    "gameRatingType": "ESRB", 
+    "gameRatingTypeValue": "Mature", 
+    "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "DLC", 
     "genreFacetKey": "Puzzle,Simulation", 
     "i18n": {
@@ -51,7 +53,7 @@
         "longDescription": "This is the original soundtrack for Orwell, a privacy invasion thriller in which you investigate the lives of citizens to find those responsible for a series of terror attacks. Information from the internet, personal communications and private files are all accessible to you. But, be warned, the information you supply will have consequences.<br><br>\n\n<b>Track listing</b><br>\n1. Orwell (Title Theme)<br>\n2. Day 1 - Nescience<br>\n3. Day 2 - Permutations<br>\n4. Day 3 - Full Dark No Stars<br>\n5. The Autonomy Expires<br>\n6. Day 4 - The Line Emerges<br>\n7. Day 5 - Terminus<br>\n8. Die Gedanken Sind Frei (Credits)<br>\n9. Ratking - Pipedreams (Bonus Track)<br><br>\n\nOST produced by The Otherworld Agency<br>\nComposed by feeding | ear<br>\n'Pipedreams' written and performed by Ratking<br><br>", 
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
-        "officialSiteURL": null, 
+        "officialSiteURL": "http://orwellgame.com", 
         "onlineDisclaimer": "Requires Orwell base game to play.<br><br> \u00a92016 OSMOTIC STUDIOS <br><br>\nREQUIRES INTERNET CONNECTION AND ACCEPTANCE OF THE ORIGIN END USER LICENSE AGREEMENT. <br><br>\nEA DOES NOT GUARANTEE THAT ORIGIN FEATURES WILL BE AVAILABLE ON ALL GAMES DEVELOPED BY THIRD PARTIES.", 
         "packArtLarge": "/196589/231.0x326.0/1056286_LB_231x326_en_US_^_2017-03-21-09-07-43_8db803a9223188b14600d2364531490e82096dfa.jpg", 
         "packArtMedium": "/196589/142.0x200.0/1056286_MB_142x200_en_US_^_2017-03-21-09-08-00_fb0e20deb90ab2f1bf863487da9ab67b412ae8b7.jpg", 
@@ -59,7 +61,7 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": null, 
+        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "Soundtrack for Orwell, a privacy invasion thriller", 
         "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS:</b> Windows XP SP2+<br>\n\n<b>Processor:</b> 2.0 GHz<br>\n\n<b>Memory:</b> 4 GB RAM<br>\n\n<b>Graphics:</b> GPU: DirectX 9 compatible<br>\n\n<b>DirectX:</b> Version 9.0<br>\n\n<b>Storage:</b> 3 GB available space<br><br>"
     }, 
@@ -97,7 +99,7 @@
     ], 
     "projectNumber": "315734", 
     "publisherFacetKey": "Surprise Attack Games", 
-    "ratingSystemIcon": null, 
+    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Extra Content", 
     "softwareLocales": [
