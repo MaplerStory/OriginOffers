@@ -120,5 +120,8 @@
     "storeGroupId": "Origin", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": null
+    "vault": {
+        "isUpgradeable": "N", 
+        "path": "/pony-island/pony-island/standard-edition"
+    }
 }

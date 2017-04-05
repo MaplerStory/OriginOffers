@@ -18,22 +18,19 @@
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
-        "addonsAvailable": true, 
-        "availableExtraContent": [
-            "Origin.OFR.50.0002134", 
-            "Origin.OFR.50.0002135"
-        ], 
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1056284"
     }, 
     "financeId": "1056284", 
     "itemId": "Origin.ITM.50.0001821", 
     "localizableAttributes": {
-        "displayName": "Hacknet - Soundtrack", 
-        "longDescription": "This is the official soundtrack to Hacknet Labyrinths: an immersive, terminal-based hacking simulator for PC.", 
+        "displayName": "Hacknet Original Soundtrack", 
+        "longDescription": "Hacknet Original Soundtrack", 
         "packArtLarge": "/196587/231.0x326.0/1056282_LB_231x326_en_US_^_2017-03-23-06-11-47_1a046369f70babd0314dcb7b9ae36d74eb3c011f.jpg", 
         "packArtMedium": "/196587/142.0x200.0/1056282_MB_142x200_en_US_^_2017-03-23-06-12-04_b039742f9e196d937b2fdb2823ddf48f515fc5cd.jpg", 
         "packArtSmall": "/196587/231.0x326.0/1056282_LB_231x326_en_US_^_2017-03-23-06-11-47_1a046369f70babd0314dcb7b9ae36d74eb3c011f.jpg", 
-        "shortDescription": "Official soundtrack to Hacknet Labyrinths"
+        "shortDescription": "Hacknet Original Soundtrack"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -57,7 +54,7 @@
             "greyMarketControls": false, 
             "isDownloadable": true, 
             "isPublished": false, 
-            "originDisplayType": "Full Game"
+            "originDisplayType": "Addon"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -71,9 +68,25 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/surprise_attack_games/hacknet/dlc__ww_x0_hacknet_official_soundtrack/hacknetpcdlc__ww_x0_hacknet_official_soundtrackrun_1__20170404_1000cb35a32ba03f4e248393f076314ed32d.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-04-04T17:54:44Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Team Fractal Alligator\\Hacknet\\Install Dir]Hacknet Official Soundtrack", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Team Fractal Alligator\\Hacknet\\Install Dir]\\__Installer\\DLC\\HACKNET_OFFICAL_SOUNDTRACK\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer\\DLC\\HACKNET_OFFICAL_SOUNDTRACK", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

@@ -22,9 +22,9 @@
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
-        "Origin.OFR.50.0002134", 
         "Origin.OFR.50.0002135", 
-        "Origin.OFR.50.0002136"
+        "Origin.OFR.50.0002136", 
+        "Origin.OFR.50.0002134"
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
@@ -58,7 +58,7 @@
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": "http://www.hacknet-os.com/index_base.php", 
-        "onlineDisclaimer": null, 
+        "onlineDisclaimer": "\u00a92012 TEAM FRACTAL ALLIGATOR PTY LTD<br><br>\n\nREQUIRES INTERNET CONNECTION AND ACCEPTANCE OF THE ORIGIN END USER LICENSE AGREEMENT<br><br>\n\nEA DOES NOT GUARANTEE THAT ORIGIN FEATURES WILL BE AVAILABLE ON ALL GAMES DEVELOPED BY THIRD PARTIES. <br><br>", 
         "packArtLarge": "/196587/231.0x326.0/1056282_LB_231x326_en_US_^_2017-03-23-06-11-47_1a046369f70babd0314dcb7b9ae36d74eb3c011f.jpg", 
         "packArtMedium": "/196587/142.0x200.0/1056282_MB_142x200_en_US_^_2017-03-23-06-12-04_b039742f9e196d937b2fdb2823ddf48f515fc5cd.jpg", 
         "packArtSmall": "/196587/231.0x326.0/1056282_LB_231x326_en_US_^_2017-03-23-06-11-47_1a046369f70babd0314dcb7b9ae36d74eb3c011f.jpg", 
