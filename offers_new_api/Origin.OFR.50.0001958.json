@@ -23,7 +23,9 @@
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
-    "extraContent": [], 
+    "extraContent": [
+        "Origin.OFR.50.0002145"
+    ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
     "franchiseFacetKey": "beholder", 
