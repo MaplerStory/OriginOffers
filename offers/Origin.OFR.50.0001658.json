@@ -20,6 +20,7 @@
             "Origin.OFR.50.0001264", 
             "Origin.OFR.50.0001261", 
             "Origin.OFR.50.0001262", 
+            "Origin.OFR.50.0001773", 
             "Origin.OFR.50.0001265", 
             "Origin.OFR.50.0001744", 
             "Origin.OFR.50.0001745"
@@ -95,7 +96,6 @@
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "68481_74889_50844", 
                         "cloudSaveConfigurationOverride": "<saveFileCriteria>\n   <exclude order=\"0\">%Documents%/BioWare/Mass Effect Andromeda/Save/*_profile</exclude>\n   <include order=\"1\">%Documents%/BioWare/Mass Effect Andromeda/Save/</include>\n  </saveFileCriteria>", 
-                        "commerceProfile": "bioware", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\BioWare\\Mass Effect Andromeda\\Install Dir]\\MassEffectAndromeda.exe", 

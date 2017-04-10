@@ -469,11 +469,12 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
+                    "storeAvailableEndDate": "2017-04-20T17:00:00Z", 
                     "storeAvailableStartDate": "2017-03-01T18:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-03-27T22:56:18Z"
+    "updatedDate": "2017-04-10T13:49:20Z"
 }

@@ -33,7 +33,8 @@
         "Origin.OFR.50.0001911", 
         "Origin.OFR.50.0001745", 
         "Origin.OFR.50.0001263", 
-        "Origin.OFR.50.0001746"
+        "Origin.OFR.50.0001746", 
+        "Origin.OFR.50.0001773"
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
@@ -84,7 +85,7 @@
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001328", 
-    "itemName": "Mass Effect Andromeda Standard Edition PCDD - BP ", 
+    "itemName": "Mass Effect Andromeda Standard Edition - PC - BR", 
     "itemType": "Base Game", 
     "masterTitle": "MASS EFFECT: ANDROMEDA", 
     "masterTitleId": "74889", 
@@ -98,7 +99,7 @@
     "platforms": [
         {
             "achievementSetOverride": "68481_74889_50844", 
-            "commerceProfile": "bioware", 
+            "commerceProfile": null, 
             "downloadPackageType": "DownloadInPlace", 
             "downloadStartDate": "2017-03-15T21:30:00Z", 
             "executePathOverride": null, 

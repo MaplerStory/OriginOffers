@@ -6,25 +6,29 @@
     ], 
     "contentId": "196587", 
     "countries": {
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
+        "catalogPrice": 15.29, 
+        "catalogPriceA": [
+            15.29
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": null, 
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
+        "Origin.OFR.50.0002136", 
         "Origin.OFR.50.0002134", 
-        "Origin.OFR.50.0002135", 
-        "Origin.OFR.50.0002136"
+        "Origin.OFR.50.0002135"
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 

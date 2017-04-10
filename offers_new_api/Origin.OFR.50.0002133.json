@@ -8,25 +8,29 @@
     ], 
     "contentId": "196587", 
     "countries": {
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
+        "catalogPrice": 23.99, 
+        "catalogPriceA": [
+            23.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": null, 
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
+        "Origin.OFR.50.0002136", 
         "Origin.OFR.50.0002134", 
-        "Origin.OFR.50.0002135", 
-        "Origin.OFR.50.0002136"
+        "Origin.OFR.50.0002135"
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
@@ -77,7 +81,7 @@
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0001818", 
-    "itemName": "HACKNET ULTIMATE EDITION - PC - WW (Origin)", 
+    "itemName": "Hacknet Ultimate Edition - PC - WW (Origin)", 
     "itemType": "Base Game", 
     "masterTitle": "HACKNET", 
     "masterTitleId": "196587", 

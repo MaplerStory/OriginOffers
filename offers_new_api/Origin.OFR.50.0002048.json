@@ -4,25 +4,29 @@
     "bundleOffers": [], 
     "contentId": "196587", 
     "countries": {
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
+        "catalogPrice": 9.99, 
+        "catalogPriceA": [
+            9.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": null, 
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
+        "Origin.OFR.50.0002136", 
         "Origin.OFR.50.0002134", 
-        "Origin.OFR.50.0002135", 
-        "Origin.OFR.50.0002136"
+        "Origin.OFR.50.0002135"
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
@@ -73,7 +77,7 @@
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0001733", 
-    "itemName": "HACKNET Standard Edition - PC - WW (Origin)", 
+    "itemName": "Hacknet Standard Edition - PC - WW (Origin)", 
     "itemType": "Base Game", 
     "masterTitle": "HACKNET", 
     "masterTitleId": "196587", 
