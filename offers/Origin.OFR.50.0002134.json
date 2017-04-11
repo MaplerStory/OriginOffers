@@ -521,18 +521,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"5.14.0.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "5.14.0.0", 
-                                "downloadURL": "/shift/surprise_attack_games/hacknet/dlc__ww_x0_hacknet_labyrinths/hacknetpcdlc__ww_x0_hacknet_labyrinthsrun_1__20170404_514009c4a989d515a4cabb461834602f1c030.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-04-04T19:40:23Z"
-                            }, 
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"5.34.0.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"5.34.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "5.34.0.0", 
-                                "downloadURL": "/shift/surprise_attack_games/hacknet/dlc__ww_x0_hacknet_labyrinths/hacknetpcdlc__ww_x0_hacknet_labyrinthsrun_2__20170405_53400fa4ce7535c184cd5b67a4450a3931053.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2037-04-06T13:49:39Z"
+                                "downloadURL": "/shift/surprise_attack_games/hacknet/dlc__ww_x0_hacknet_labyrinths/hacknetpcdlc__ww_x0_hacknet_labyrinthsrun_3__20170411_5340039b10f079df44377b0b46ff94d39b457.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-04-11T00:00:15Z"
                             }
                         ]
                     }, 

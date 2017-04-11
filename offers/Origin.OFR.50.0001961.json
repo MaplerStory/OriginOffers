@@ -420,6 +420,9 @@
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia 3\\Install Dir]syberia3.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia 3\\Install Dir]syberia3.exe", 
+                        "installationDirectory": "Syberia 3", 
                         "monitorPlay": false, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
