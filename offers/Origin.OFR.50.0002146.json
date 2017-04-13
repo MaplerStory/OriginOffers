@@ -1,0 +1,65 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1030473"
+    }, 
+    "financeId": "1030473", 
+    "itemId": "Origin.ITM.50.0001831", 
+    "localizableAttributes": {
+        "displayName": "TEST USE ONLY - Origin Access 3-day membership", 
+        "longDescription": "TEST USE ONLY - Origin Access 3-day membership", 
+        "shortDescription": "TEST USE ONLY - Origin Access 3-day membership"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "EA ACCESS", 
+                    "franchiseId": 193972
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ORIGIN ACCESS", 
+                    "masterTitleId": 195092
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002146", 
+    "offerType": "Subscription", 
+    "publishing": {
+        "publishingAttributes": {
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-04-01T00:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-04-13T00:49:33Z"
+}

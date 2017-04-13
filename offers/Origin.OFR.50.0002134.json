@@ -503,7 +503,7 @@
         "publishingAttributes": {
             "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Addon"
         }, 
         "softwareControlDates": {
@@ -581,5 +581,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-04-10T16:13:56Z"
+    "updatedDate": "2017-04-13T16:40:51Z"
 }

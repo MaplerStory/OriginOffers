@@ -13,7 +13,7 @@
             "USD"
         ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "Y", 
+        "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": true, 
