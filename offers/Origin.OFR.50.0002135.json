@@ -537,6 +537,7 @@
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Team Fractal Alligator\\Hacknet\\Install Dir]\\__Installer\\DLC\\HACKNET_LABYRINTHS_OFFICAL_SOUNDTRACK\\__Installer\\installerdata.xml", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "__Installer\\DLC\\HACKNET_LABYRINTHS_OFFICAL_SOUNDTRACK", 
+                        "monitorPlay": false, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

@@ -71,7 +71,7 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.0", 
                                 "downloadURL": "/shift/surprise_attack_games/hacknet/dlc__ww_x0_hacknet_official_soundtrack/hacknetpcdlc__ww_x0_hacknet_official_soundtrackrun_1__20170404_1000cb35a32ba03f4e248393f076314ed32d.zip", 
                                 "downloadURLType": "live", 
@@ -87,6 +87,7 @@
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Team Fractal Alligator\\Hacknet\\Install Dir]\\__Installer\\DLC\\HACKNET_OFFICAL_SOUNDTRACK\\__Installer\\installerdata.xml", 
                         "installationDirectory": "\\", 
                         "metadataInstallLocation": "__Installer\\DLC\\HACKNET_OFFICAL_SOUNDTRACK", 
+                        "monitorPlay": true, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 
