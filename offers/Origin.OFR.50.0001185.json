@@ -37,6 +37,7 @@
     }, 
     "financeId": "1028414", 
     "itemId": "Origin.ITM.50.0001087", 
+    "itemName": "Client Automation PI", 
     "localizableAttributes": {
         "displayName": "Client Automation PI en_US", 
         "longDescription": "Client Automation PI en_US", 

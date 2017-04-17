@@ -31,6 +31,7 @@
     }, 
     "financeId": "71820", 
     "itemId": "Origin.ITM.50.0000660", 
+    "itemName": "ORIGIN TOOLS - NON REV (FULL GAME 2) Browser 35 Worldwide Other", 
     "localizableAttributes": {
         "displayName": "Test 28 - Base game offer type - Preorder/Preload messaging test **TESTING for OPOI-57625**", 
         "longDescription": "1) GEO:<br>\n- Configure pricing/purchasability in all locales<br>\n- Set billing/download date to 11/4 @ 12PM PDT<br>\n- Set release date to future<br>\n- Label to PROD, activate PDP to Approve ONLY<br>\nhttps://approve.www.cms.origin.com/en-us/store/buy/180977/pc-download/base-game/hunter-pack<br><br>\n\n2) QA: Pre-order before 11/4 @ 12PM PDT<br><br>\n\n3) GEO: Deactivate PDP to Review, create new revision that is not purchasable and label to PROD after QA has placed order<br><br>\n\n4) QA: Watch for Preload/Preorder email notification<br><br>", 
