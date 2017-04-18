@@ -35,9 +35,9 @@
     "gameRatingDescriptionLong": null, 
     "gameRatingPendingMature": null, 
     "gameRatingReason": null, 
-    "gameRatingType": "ESRB", 
-    "gameRatingTypeValue": "Rating Pending", 
-    "gameRatingUrl": "http://www.esrb.org/", 
+    "gameRatingType": null, 
+    "gameRatingTypeValue": null, 
+    "gameRatingUrl": null, 
     "gameTypeFacetKey": "DLC", 
     "genreFacetKey": "Simulation", 
     "i18n": {
@@ -63,7 +63,7 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
+        "ratingSystemIcon": null, 
         "shortDescription": "Official soundtrack to Hacknet Labyrinths", 
         "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS: </b>Windows XP<br>\n<b>Processor: </b>2.0 GHz<br>\n<b>Memory: </b>512 MB RAM<br>\n<b>Graphics: </b>OpenGL 3.0+ (2.1 with ARB extensions acceptable)<br>\n<b>Storage: </b>500 MB available space<br><br>"
     }, 
@@ -101,7 +101,7 @@
     ], 
     "projectNumber": "315752", 
     "publisherFacetKey": "Surprise Attack Games", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
+    "ratingSystemIcon": null, 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Extra Content", 
     "softwareLocales": [
