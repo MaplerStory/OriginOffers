@@ -537,9 +537,9 @@
                             {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"5.34.0.1\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "5.34.0.1", 
-                                "downloadURL": "/shift/surprise_attack_games/hacknet/fg__ww_x0/hacknetpcfg__ww_x0run_5__20170414_5340124ad0d9ec5be42d58276a68c262d79d9.zip", 
+                                "downloadURL": "/shift/surprise_attack_games/hacknet/fg__ww_x0/hacknetpcfg__ww_x0run_6__20170419_53401de2bd6ff5dce45c9b8f53871c352b8d3.zip", 
                                 "downloadURLType": "staged", 
-                                "effectiveDate": "2037-04-17T17:39:54Z"
+                                "effectiveDate": "2037-04-19T09:50:29Z"
                             }
                         ]
                     }, 

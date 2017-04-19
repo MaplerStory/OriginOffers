@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -25,9 +26,9 @@
     "itemId": "Origin.ITM.50.0001857", 
     "itemName": "OXENFREE Standard Edition - PC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "OXENFREE Display Name Placeholder Text.", 
-        "longDescription": "OXENFREE Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "OXENFREE Short Description Placeholder Text."
+        "displayName": "OXENFREE", 
+        "longDescription": "Oxenfree is a supernatural thriller about a group of friends who unwittingly open a ghostly rift. Play as Alex, a bright, rebellious teenager who brings her new stepbrother Jonas to an overnight party on an old military island. The night takes a terrifying turn when you unwittingly open a ghostly gate spawned from the island\u2019s cryptic past. How you deal with these events, your peers, and the ominous creatures you\u2019ve unleashed is up to you.<br><br>\nDetermine every aspect of Alex's story while exploring Edwards Island, uncovering the base's dark secrets, and changing the course of your friends' lives.<br><br>\n\n<b>Features:<br></b>\n\u25cf An intelligent conversation system that changes the story and your relationships based on every decision<br>\n\u25cf A unique radio mechanic that allows Alex to communicate with mysterious spectres and manipulate her world<br>\n\u25cf Art from Disney alumni and an original soundtrack by scntfc (Sword &amp; Sworcery, Galak-Z)<br>\n\u25cf Multiple mysteries to unravel, spanning decades and lifetimes<br>\n\u25cf Inspired by little-known events of World War II<br>\n\u25cf Featuring voice talent from The Wolf Among Us, The Walking Dead, Borderlands and more<br><br>\n\n<b>Starring:<br></b>\n\u25cf Erin Yvette (The Wolf Among Us, Tales From the Borderlands)<br>\n\u25cf Gavin Hammon (The Walking Dead, The Wolf Among Us, Tomb Raider)<br>\n\u25cf Britanni Johnson (Borderlands, Borderlands 2)<br><br>\n\nMusic and Sound by scntfc<br>", 
+        "shortDescription": "A supernatural thriller about a group of friends who unwittingly open a ghostly rift."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [

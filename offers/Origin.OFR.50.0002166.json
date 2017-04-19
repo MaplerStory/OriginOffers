@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -25,9 +26,9 @@
     "itemId": "Origin.ITM.50.0001840", 
     "itemName": "Rebel Galaxy Standard Edition - PC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "Rebel Galaxy Display Name Placeholder Text.", 
-        "longDescription": "Rebel Galaxy Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "Rebel Galaxy Short Description Placeholder Text."
+        "displayName": "Rebel Galaxy", 
+        "longDescription": "Rebel Galaxy is a swashbuckling space adventure, with action-packed combat, exploration, discovery, trade, and \u201cnegotiation\u201d with the outlandish denizens at the edge of the known universe.<br><br>\n\nAs the commander of an immensely powerful star destroyer, you\u2019ll battle pirates, explore anomalies, befriend aliens, scavenge battle wreckage, mine asteroids, and discover artifacts. Choose your path as a roguish do-gooder, crafty space-trader or power-hungry privateer \u2013 or maybe a little of each! Buy larger and more powerful craft with your hard-earned credits, and outfit them with a variety of wicked weapons and defenses. Set in a galaxy of fantastic sights, and secrets to be found, [b]Rebel Galaxy[/b] is above all a space epic of adventure, exploration, and combat.<br><br>\n\nThe edge of the universe is a pretty dangerous place, so watch your back.<br><br>", 
+        "shortDescription": "The edge of the universe is a pretty dangerous place, so watch your back."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
