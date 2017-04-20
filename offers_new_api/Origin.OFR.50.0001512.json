@@ -174,5 +174,8 @@
     "storeGroupId": "Origin", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": null
+    "vault": {
+        "isUpgradeable": "N", 
+        "path": "/fifa/fifa-17/standard-edition"
+    }
 }
