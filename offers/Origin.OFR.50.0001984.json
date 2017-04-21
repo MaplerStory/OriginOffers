@@ -1,0 +1,137 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1055810"
+    }, 
+    "financeId": "1055810", 
+    "itemId": "Origin.ITM.50.0001670", 
+    "itemName": "SYBERIA 3 - Exclusive Digital 20 first pages of the next Comic Books - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Exclusive Digital 20 first pages of the next Comic Books", 
+        "longDescription": "Exclusive Digital 20 first pages of the next Comic Books", 
+        "packArtLarge": "/196474/142.0x200.0/1050423_MB_142x200_en_US_^_2017-02-10-15-40-50_e66f26b15389892b0bedcb6b03891925ab5eeb3a.jpg", 
+        "packArtMedium": "/196474/142.0x200.0/1050423_MB_142x200_en_US_^_2017-02-10-15-40-50_e66f26b15389892b0bedcb6b03891925ab5eeb3a.jpg", 
+        "packArtSmall": "/196474/63.0x89.0/1050423_SB_63x89_en_US_^_2017-02-10-15-41-07_1b28be997eca92822fa1e8ea7144413f5952ada0.jpg", 
+        "shortDescription": "Exclusive Digital 20 first pages of the next Comic Books"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SYBERIA 3", 
+                    "masterTitleId": 196474
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001984", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-04-20T23:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-04-20T23:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/plug_in_digital/syberia_3/dlc__ww_x0_syberia_3_comic_book/syberia_3pcdlc__ww_x0_syberia_3_comic_bookrun_1__20170413_10005e3100a5aadf4937ad148f60bec0093f.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-04-13T21:10:01Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia 3\\Install Dir]\\Extras\\Comic Book", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia 3\\Install Dir]\\__Installer\\DLC\\SYBERIA_3_COMIC_BOOK\\__Installer\\installer.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer\\DLC\\SYBERIA_3_COMIC_BOOK", 
+                        "monitorPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000694", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-04-20T22:56:12Z"
+}

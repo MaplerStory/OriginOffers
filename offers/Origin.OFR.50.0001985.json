@@ -1,0 +1,139 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1055811"
+    }, 
+    "financeId": "1055811", 
+    "itemId": "Origin.ITM.50.0001671", 
+    "itemName": "SYBERIA 3 - Wallpaper  - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Digital 1 Wallpaper", 
+        "longDescription": "Digital 1 Wallpaper", 
+        "packArtLarge": "/196474/63.0x89.0/1050423_SB_63x89_en_US_^_2017-02-10-15-41-07_1b28be997eca92822fa1e8ea7144413f5952ada0.jpg", 
+        "packArtMedium": "/196474/63.0x89.0/1050423_SB_63x89_en_US_^_2017-02-10-15-41-07_1b28be997eca92822fa1e8ea7144413f5952ada0.jpg", 
+        "packArtSmall": "/196474/63.0x89.0/1050423_SB_63x89_en_US_^_2017-02-10-15-41-07_1b28be997eca92822fa1e8ea7144413f5952ada0.jpg", 
+        "shortDescription": "Digital 1 Wallpaper"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SYBERIA 3", 
+                    "masterTitleId": 196474
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001985", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-04-20T23:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-04-20T23:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/plug_in_digital/syberia_3/dlc__ww_x0_syberia_3_wallpaper/syberia_3pcdlc__ww_x0_syberia_3_wallpaperrun_1__20170413_1000f6dbef04229c49e2bf0cd596d26115c8.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-04-13T21:09:54Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia 3\\Install Dir]\\Extras\\Wallpaper", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia 3\\Install Dir]\\__Installer\\DLC\\SYBERIA_3_WALLPAPER\\__Installer\\installer.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer\\DLC\\SYBERIA_3_WALLPAPER", 
+                        "monitorPlay": false, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000692", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-04-20T22:57:09Z"
+}

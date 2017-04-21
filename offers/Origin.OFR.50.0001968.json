@@ -8,7 +8,301 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
+                "countryCode": "AO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
                 "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "EH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ET"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ML"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZW"
             }
         ]
     }, 
@@ -32,7 +326,7 @@
     "itemName": "Syberia 3 Deluxe Edition - PC - WW (Origin)", 
     "localizableAttributes": {
         "displayName": "Syberia 3 Deluxe Edition", 
-        "longDescription": "Pre-order Syberia 3 Standard or Digital Deluxe edition and secure your Digital Artbook of Syberia 3.<br><br>\n\n<b>Digital Deluxe Edition includes:</b><br>\n<li>Digital Standard Game<br></li>\n<li>Digital Soundtracks (*mp3)<br></li>\n<li>Exclusive Digital 20 first pages of the next Comic Books (*Pdf)<br></li>\n<li>Digital 1 Wallpaper<br><br></li>\n\nAuthor and creator: Beno\u00eet Sokal<br><br>\n\n<b>Overview:</b><br>\nThe limitless imagination of Beno\u00eet Sokal continues in Syberia 3, focusing on an entirely new adventure. After abandoning the island, Kate is found dying on the edge of a river by the Youkole tribe, a nomadic people migrating with their snow ostriches. Stuck in Valsembor village, together they must find a way to continue their journey in a race against their enemies and unexpected obstacles, not to mention Kate's past, which catches up with her.<br><br>\n\nThe next generation in adventure games, Syberia 3 takes you inside an enchanting, mysterious universe full of life for you to explore in 3D. Plunged into the heart of a world inhabited by a cast of interesting characters, you'll discover and experience a fabulous tale as imagined by Benoit Sokal.<br><br>\n\n<li>A brand new tale, completely different from the first two Syberia games.<br><br></li>\n\n<li>Exceptionally immersive storytelling, multiplied by Benoit Sokal's unparalleled artistic direction<br><br></li>\n\n<li>Explore Benoit Sokal's poetic universe in 3D for the first time<br><br></li>\n\n<li>Original score by Inon Zur (Syberia 2, Fallout, Dragon Age, Prince of Persia)<br><br></li>\n\n<li>Original, real-time 3D puzzles and mysteries<br><br></li>\n\n<b>Previously in Syberia</b><br>\nA lawyer in NYC, Kate Walker was sent to Europe on a simple mission that gradually transformed into personal quest, an adventure that led her on a voyage aboard a locomotive bound for the reaches of the Europe. Accompanied by a robot named Oscar, she fulfilled inventor Hans Voralberg's dream, searching for the last mammoths all the way on the legendary island of Syberia.<br><br>", 
+        "longDescription": "<b>Digital Deluxe Edition includes:</b><br>\n<li>Digital Standard Game<br></li>\n<li>Digital Soundtracks (*mp3)<br></li>\n<li>Exclusive Digital 20 first pages of the next Comic Books (*Pdf)<br></li>\n<li>Digital 1 Wallpaper<br><br></li>\n\nAuthor and creator: Beno\u00eet Sokal<br><br>\n\n<b>Overview:</b><br>\nThe limitless imagination of Beno\u00eet Sokal continues in Syberia 3, focusing on an entirely new adventure. After abandoning the island, Kate is found dying on the edge of a river by the Youkole tribe, a nomadic people migrating with their snow ostriches. Stuck in Valsembor village, together they must find a way to continue their journey in a race against their enemies and unexpected obstacles, not to mention Kate's past, which catches up with her.<br><br>\n\nThe next generation in adventure games, Syberia 3 takes you inside an enchanting, mysterious universe full of life for you to explore in 3D. Plunged into the heart of a world inhabited by a cast of interesting characters, you'll discover and experience a fabulous tale as imagined by Benoit Sokal.<br><br>\n\n<li>A brand new tale, completely different from the first two Syberia games.<br><br></li>\n\n<li>Exceptionally immersive storytelling, multiplied by Benoit Sokal's unparalleled artistic direction<br><br></li>\n\n<li>Explore Benoit Sokal's poetic universe in 3D for the first time<br><br></li>\n\n<li>Original score by Inon Zur (Syberia 2, Fallout, Dragon Age, Prince of Persia)<br><br></li>\n\n<li>Original, real-time 3D puzzles and mysteries<br><br></li>\n\n<b>Previously in Syberia</b><br>\nA lawyer in NYC, Kate Walker was sent to Europe on a simple mission that gradually transformed into personal quest, an adventure that led her on a voyage aboard a locomotive bound for the reaches of the Europe. Accompanied by a robot named Oscar, she fulfilled inventor Hans Voralberg's dream, searching for the last mammoths all the way on the legendary island of Syberia.<br><br>", 
         "packArtLarge": "/196474/231.0x326.0/1050423_LB_231x326_en_US_^_2017-02-10-15-40-34_15774fe082bfa07c4bf6314a0099eaae08222623.jpg", 
         "packArtMedium": "/196474/142.0x200.0/1050423_MB_142x200_en_US_^_2017-02-10-15-40-50_e66f26b15389892b0bedcb6b03891925ab5eeb3a.jpg", 
         "packArtSmall": "/196474/63.0x89.0/1050423_SB_63x89_en_US_^_2017-02-10-15-41-07_1b28be997eca92822fa1e8ea7144413f5952ada0.jpg", 
@@ -61,15 +355,15 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2017-04-20T17:00:00Z", 
+                    "downloadStartDate": "2017-04-20T23:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2017-04-20T17:00:00Z"
+                    "releaseDate": "2017-04-20T23:00:00Z"
                 }
             ]
         }, 
@@ -138,8 +432,15 @@
                     "value": "zh_TW"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-04-20T23:20:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-04-03T16:59:11Z"
+    "updatedDate": "2017-04-20T23:02:14Z"
 }
