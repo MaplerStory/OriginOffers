@@ -13,7 +13,7 @@
         ]
     }, 
     "customAttributes": {
-        "gameEditionTypeFacetKeyRankDesc": "7500", 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -56,7 +56,8 @@
             "greyMarketControls": false, 
             "isDownloadable": false, 
             "isPublished": false, 
-            "originDisplayType": "Expansion"
+            "originDisplayType": "Expansion", 
+            "suppressedOfferIds": "Origin.OFR.50.0001717,Origin.OFR.50.0001951,Origin.OFR.50.0001952"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [

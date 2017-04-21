@@ -8,7 +8,7 @@
         "catalogPriceA": [], 
         "countryCurrency": null, 
         "countryCurrencyA": [], 
-        "giftable": "Y", 
+        "giftable": "N", 
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
@@ -24,8 +24,8 @@
     "extraContentDisplayGroupSortAsc": null, 
     "franchiseFacetKey": "for-honor", 
     "gameDistributionSubType": null, 
-    "gameEditionTypeFacetKey": "Gold Edition", 
-    "gameEditionTypeFacetKeyRankDesc": "7500", 
+    "gameEditionTypeFacetKey": "Standard Edition", 
+    "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "for-honor", 
     "gameRatingDesc": [], 
     "gameRatingDescriptionLong": null, 
@@ -67,7 +67,7 @@
     "includeOffers": [], 
     "isDownloadable": "False", 
     "isShellBundle": "N", 
-    "isThirdPartyTitle": null, 
+    "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0001462", 
     "itemName": "For Honor  Season Pass  - PCWIN - [WW] - (Origin) (Gold Edition - No Key Issued)", 
     "itemType": "Extra Content", 
@@ -79,7 +79,7 @@
     "offerPath": "/for-honor/for-honor/expansion/for-honor-season-pass", 
     "offerType": "Extra Content", 
     "originDisplayType": "Expansion", 
-    "platformFacetKey": null, 
+    "platformFacetKey": "PC Download", 
     "platforms": [
         {
             "achievementSetOverride": null, 
@@ -118,7 +118,11 @@
         "zh_TW"
     ], 
     "storeGroupId": "Origin", 
-    "suppressedOfferIds": [], 
+    "suppressedOfferIds": [
+        "Origin.OFR.50.0001717", 
+        "Origin.OFR.50.0001951", 
+        "Origin.OFR.50.0001952"
+    ], 
     "trialLaunchDuration": null, 
     "vault": null
 }
