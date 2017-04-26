@@ -78,6 +78,13 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"0.0.01.08\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "0.0.01.08", 
+                                "downloadURL": "/shift/lince_works/aragami/fg__ww_x0/aragamipcfg__ww_x0run_10__20170426_00010893b36717d2bd40b8b5fba2a21c560499.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-04-26T19:22:13Z"
+                            }, 
+                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"0.0.01.077\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "0.0.01.077", 
                                 "downloadURL": "/shift/lince_works/aragami/fg__ww_x0/aragamipcfg__ww_x0run_9__20170307_000107748f1b9186b44455dab9f528eed6b6e04.zip", 
