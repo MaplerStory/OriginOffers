@@ -4,16 +4,20 @@
     "bundleOffers": [], 
     "contentId": null, 
     "countries": {
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
+        "catalogPrice": 9.99, 
+        "catalogPriceA": [
+            9.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "PopCap Games", 
     "duration": null, 

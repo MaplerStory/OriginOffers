@@ -20,18 +20,18 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1047570"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1046931"
     }, 
-    "financeId": "1047570", 
-    "itemId": "Origin.ITM.50.0001567", 
-    "itemName": "PVZ Heroes 1300 Gems - PDLC - WW (Origin)", 
+    "financeId": "1046931", 
+    "itemId": "Origin.ITM.50.0001541", 
+    "itemName": "PVZ Heroes Legendary Bundle - PDLC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "Plants vs. Zombies Heroes - 1300 Gems", 
-        "longDescription": "Plants vs. Zombies Heroes - 1300 Gems", 
-        "packArtLarge": "/194178/231.0x326.0/1047570_LB_231x326_en_US_^_2016-11-10-16-12-34_b5ca4a8cffd553967e1ba50c33d117e185a4b121.png", 
-        "packArtMedium": "/194178/142.0x200.0/1047570_MB_142x200_en_US_^_2016-11-10-16-12-54_e5351e8d3bbbe9b5559346962bafc47eb2bef836.png", 
-        "packArtSmall": "/194178/63.0x89.0/1047570_SB_63x89_en_US_^_2016-11-10-16-13-34_aadcbbfec395a012277121ae3b9a10c84444ee2c.png", 
-        "shortDescription": "Plants vs. Zombies Heroes - 1300 Gems"
+        "displayName": "Plants vs. Zombies Heroes - Legendary Bundle", 
+        "longDescription": "Plants vs. Zombies Heroes - Legendary Bundle", 
+        "packArtLarge": "/194178/231.0x326.0/1046931_LB_231x326_en_US_^_2016-11-08-10-33-22_3345aac53fbe866322590beb67b8cbfb121283ec.png", 
+        "packArtMedium": "/194178/142.0x200.0/1046931_MB_142x200_en_US_^_2016-11-10-15-59-56_2fcc616cbc8d41f2bffa3045a9af1ffb154a1f30.png", 
+        "packArtSmall": "/194178/63.0x89.0/1046931_SB_63x89_en_US_^_2016-11-10-16-00-32_10a186523f4e9fa6aa165902b92547d6204b8d11.png", 
+        "shortDescription": "Plants vs. Zombies Heroes - Legendary Bundle"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -48,7 +48,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001868", 
+    "offerId": "Origin.OFR.50.0001839", 
     "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
@@ -60,7 +60,6 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2025-08-07T11:51:19Z", 
                     "platform": "PCWIN"
                 }
             ]
@@ -104,5 +103,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-11-14T03:40:56Z"
+    "updatedDate": "2016-11-14T03:38:16Z"
 }
