@@ -70,6 +70,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"2.4.014.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "2.4.014.0", 
+                                "downloadURL": "/shift/night_school_studio/oxenfree/fg__ww_x0/oxenfreepcfg__ww_x0run_1__20170419_240140636849f38376460cbd609b6fbc16a277.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-04-27T23:51:58Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
