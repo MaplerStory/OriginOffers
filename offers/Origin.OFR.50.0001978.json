@@ -127,6 +127,7 @@
             "software": [
                 {
                     "fulfillmentAttributes": {
+                        "achievementSetOverride": "50072_193608_50844", 
                         "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<exclude order=\"0\">%Documents%/FIFA 18/fifasetup.ini</exclude>\n<exclude order=\"1\">%Documents%/FIFA 18/filesystemcache/</exclude>\n<exclude order=\"2\">%Documents%/FIFA 18/dumps/</exclude>\n<exclude order=\"3\">%Documents%/FIFA 18/Temp/</exclude>\n<include order=\"4\">%Documents%/FIFA 18/</include>\n</saveFileCriteria>", 
                         "commerceProfile": "oig-fifa-18", 
                         "downloadPackageType": "DownloadInPlace", 
