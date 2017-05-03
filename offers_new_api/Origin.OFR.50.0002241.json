@@ -1,7 +1,18 @@
 {
     "alternateMasterTitleIds": [], 
     "brand": null, 
-    "bundleOffers": [], 
+    "bundleOffers": [
+        "Origin.OFR.50.0002242", 
+        "Origin.OFR.50.0002243", 
+        "Origin.OFR.50.0002244", 
+        "Origin.OFR.50.0002245", 
+        "Origin.OFR.50.0002246", 
+        "Origin.OFR.50.0002247", 
+        "Origin.OFR.50.0002248", 
+        "Origin.OFR.50.0002249", 
+        "Origin.OFR.50.0002250", 
+        "Origin.OFR.50.0002251"
+    ], 
     "contentId": "196495", 
     "countries": {
         "catalogPrice": null, 
