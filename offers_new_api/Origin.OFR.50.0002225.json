@@ -114,6 +114,7 @@
         "es_MX", 
         "fr_FR", 
         "it_IT", 
+        "ja_JP", 
         "nl_NL", 
         "no_NO", 
         "pl_PL", 
@@ -122,6 +123,7 @@
         "ru_RU", 
         "sv_SE", 
         "tr_TR", 
+        "zh_CN", 
         "zh_TW"
     ], 
     "storeGroupId": "Origin", 

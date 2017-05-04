@@ -90,6 +90,9 @@
                     "value": "it_IT"
                 }, 
                 {
+                    "value": "ja_JP"
+                }, 
+                {
                     "value": "nl_NL"
                 }, 
                 {
@@ -112,6 +115,9 @@
                 }, 
                 {
                     "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_CN"
                 }, 
                 {
                     "value": "zh_TW"
