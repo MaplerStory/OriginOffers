@@ -1,0 +1,107 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1056852"
+    }, 
+    "financeId": "1056852", 
+    "itemId": "Origin.ITM.50.0001894", 
+    "itemName": "PVZ Heroes Event Rewind Mega Bundle 3 - PDLC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Plants vs. Zombies Heroes - Event Rewind Mega Bundle 3", 
+        "longDescription": "Plants vs. Zombies Heroes - Event Rewind Mega Bundle 3", 
+        "packArtLarge": "/194178/231.0x326.0/1046732_LB_231x326_en_US_^_2016-12-07-20-49-40_87e9bd1a44f82df567949a6d346ea329a41559db.jpg", 
+        "packArtMedium": "/194178/142.0x200.0/1046732_MB_142x200_en_US_^_2016-12-07-20-50-16_f4b60869e2efb1a4837f7f72424abf8d8814e24b.jpg", 
+        "packArtSmall": "/194178/63.0x89.0/1046732_SB_63x89_en_US_^_2016-12-07-20-50-52_495359d58145c6ad79fc73536e8f9f1090d5ae66.jpg", 
+        "shortDescription": "Plants vs. Zombies Heroes - Event Rewind Mega Bundle 3"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Plants vs Zombies", 
+                    "franchiseId": 180915
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "PLANTS VS ZOMBIES HEROES", 
+                    "masterTitleId": 194178
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002220", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-04-28T08:35:48Z"
+}
