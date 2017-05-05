@@ -55,7 +55,7 @@
         "Sexual Themes", 
         "Violence"
     ], 
-    "gameRatingDescriptionLong": null, 
+    "gameRatingDescriptionLong": "Visit www.esrb.org for rating information.", 
     "gameRatingPendingMature": null, 
     "gameRatingReason": null, 
     "gameRatingType": "ESRB", 
