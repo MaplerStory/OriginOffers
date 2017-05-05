@@ -15,7 +15,7 @@
         "isPublished": false, 
         "isPurchasable": "N"
     }, 
-    "developerFacetKey": null, 
+    "developerFacetKey": "Double Damage Games", 
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
@@ -100,7 +100,7 @@
         }
     ], 
     "projectNumber": "315761", 
-    "publisherFacetKey": null, 
+    "publisherFacetKey": "Double Damage Games", 
     "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
