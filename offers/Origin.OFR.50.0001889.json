@@ -80,14 +80,14 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.5\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.5\"/>    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.5", 
                                 "downloadURL": "/shift/mass_effect/mass_effect_andromeda/patch__ww_ww/mass_effect_andromedapcpatch__ww_wwconcept_362__727902_pc_retail_patch_b7e0239a3399f4c0c993d69c657394261.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-04-06T15:00:00Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.6\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.6\"/>    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.6", 
                                 "downloadURL": "/shift/mass_effect/mass_effect_andromeda/patch__ww_ww/mass_effect_andromedapcpatch__ww_wwconcept_445__732013_pc_retail_patch_cee3f2cd4d886482abe60e38674545b98.zip", 
                                 "downloadURLType": "staged", 
