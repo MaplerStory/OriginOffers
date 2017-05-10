@@ -19,7 +19,7 @@
         "isPublished": false, 
         "isPurchasable": "Y"
     }, 
-    "developerFacetKey": null, 
+    "developerFacetKey": "Night School Studio", 
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
@@ -106,7 +106,7 @@
         }
     ], 
     "projectNumber": "315762", 
-    "publisherFacetKey": null, 
+    "publisherFacetKey": "Night School Studio", 
     "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
