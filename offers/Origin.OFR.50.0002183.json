@@ -409,7 +409,7 @@
             "contentId": "196654", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
