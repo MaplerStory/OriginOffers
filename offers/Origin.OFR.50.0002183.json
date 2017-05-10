@@ -378,9 +378,9 @@
     }, 
     "financeId": "1057124", 
     "itemId": "Origin.ITM.50.0001857", 
-    "itemName": "OXENFREE Standard Edition - PC - WW (Origin)", 
+    "itemName": "Oxenfree Standard Edition - PC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "OXENFREE", 
+        "displayName": "Oxenfree", 
         "longDescription": "Oxenfree is a supernatural thriller about a group of friends who unwittingly open a ghostly rift. Play as Alex, a bright, rebellious teenager who brings her new stepbrother Jonas to an overnight party on an old military island. The night takes a terrifying turn when you unwittingly open a ghostly gate spawned from the island\u2019s cryptic past. How you deal with these events, your peers, and the ominous creatures you\u2019ve unleashed is up to you.<br><br>\nDetermine every aspect of Alex's story while exploring Edwards Island, uncovering the base's dark secrets, and changing the course of your friends' lives.<br><br>\n\n<b>Features:<br></b>\n\u25cf An intelligent conversation system that changes the story and your relationships based on every decision<br>\n\u25cf A unique radio mechanic that allows Alex to communicate with mysterious spectres and manipulate her world<br>\n\u25cf Art from Disney alumni and an original soundtrack by scntfc (Sword &amp; Sworcery, Galak-Z)<br>\n\u25cf Multiple mysteries to unravel, spanning decades and lifetimes<br>\n\u25cf Inspired by little-known events of World War II<br>\n\u25cf Featuring voice talent from The Wolf Among Us, The Walking Dead, Borderlands and more<br><br>\n\n<b>Starring:<br></b>\n\u25cf Erin Yvette (The Wolf Among Us, Tales From the Borderlands)<br>\n\u25cf Gavin Hammon (The Walking Dead, The Wolf Among Us, Tomb Raider)<br>\n\u25cf Britanni Johnson (Borderlands, Borderlands 2)<br><br>\n\nMusic and Sound by scntfc<br>", 
         "packArtLarge": "/196654/231.0x326.0/1057124_LB_231x326_en_US_^_2017-04-18-10-35-51_4ae04c5f86c9f0c28431a5cf8a4725bd4c50529f.jpg", 
         "packArtMedium": "/196654/142.0x200.0/1057124_MB_142x200_en_US_^_2017-04-18-10-36-13_c276eca7e7f0694fc73451dbfc04828131b7f61a.jpg", 
@@ -459,11 +459,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableStartDate": "2017-05-17T00:00:00Z"
+                    "storeAvailableStartDate": "2017-05-10T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-05-08T10:24:08Z"
+    "updatedDate": "2017-05-10T12:30:32Z"
 }
