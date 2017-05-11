@@ -8,7 +8,7 @@
         "catalogPriceA": [], 
         "countryCurrency": null, 
         "countryCurrencyA": [], 
-        "giftable": "Y", 
+        "giftable": "N", 
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
@@ -67,7 +67,7 @@
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
-    "isThirdPartyTitle": null, 
+    "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0001906", 
     "itemName": "Torment Tides of Numenera Soundtrack - PC - WW", 
     "itemType": "Extra Content", 
@@ -103,7 +103,7 @@
     "softwareLocales": [
         "de_DE", 
         "en_US", 
-        "es_ES", 
+        "es_MX", 
         "fr_FR", 
         "pl_PL", 
         "ru_RU"
