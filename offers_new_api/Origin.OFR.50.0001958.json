@@ -23,9 +23,7 @@
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
-    "extraContent": [
-        "Origin.OFR.50.0002145"
-    ], 
+    "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
     "franchiseFacetKey": "beholder", 
@@ -91,7 +89,7 @@
     "offerPath": "/beholder/beholder/standard-edition", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
-    "platformFacetKey": "PC Download", 
+    "platformFacetKey": "Mac/PC Download", 
     "platforms": [
         {
             "achievementSetOverride": "50318_196479_50844", 
