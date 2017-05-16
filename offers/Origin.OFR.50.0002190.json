@@ -1,0 +1,149 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0002192", 
+            "Origin.OFR.50.0002193", 
+            "Origin.OFR.50.0002257", 
+            "Origin.OFR.50.0002191"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1056299"
+    }, 
+    "financeId": "1056299", 
+    "itemId": "Origin.ITM.50.0001864", 
+    "itemName": "The Surge - Standard Edition - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "The Surge", 
+        "longDescription": "Welcome to CREO, the megacorporation saving our world! A catastrophic event has knocked you out during the first day on the job\u2026 you wake up equipped with a heavy-grade exoskeleton, in a destroyed section of the complex. Robots gone haywire, insane augmented co-workers and rogue AI - everything wants you dead.<br><br>\n\nDefy deadly enemies and huge bosses in tight, visceral melee combat. Target and slice specific limbs off your foes, with a next-gen loot system where you loot what you dismember! Equip, upgrade and craft new weapons and armors sliced from enemies, and make yourself stronger through a fresh take on leveling-up.<br><br>", 
+        "packArtLarge": "/196593/231.0x326.0/1056299_LB_231x326_en_US_^_2017-04-19-12-54-04_0c4bac60996f2fa0c965f10d83f6bb4f53fa0981.jpg", 
+        "packArtMedium": "/196593/142.0x200.0/1056299_MB_142x200_en_US_^_2017-04-19-12-54-27_f7368a73463dfdff2c47f9a4810348fd6c4e7a57.jpg", 
+        "packArtSmall": "/196593/63.0x89.0/1056299_SB_63x89_en_US_^_2017-04-19-12-54-46_0f2f53066b36159e01dc5ff901539733f22b59a4.jpg", 
+        "shortDescription": "Defy deadly enemies and huge bosses."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "THE SURGE", 
+                    "masterTitleId": 196593
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002190", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196593", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-05-16T16:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-05-16T16:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.52856\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.52856", 
+                                "downloadURL": "/shift/focus_home_interactive/the_surge/fg__ww_x0/the_surgepcfg__ww_x0run_4__20170510_10052856e8085fc0df634468b8db4c83a8a10ceb.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-05-10T23:33:24Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Documents%/The Surge/save/*</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Deck13\\The Surge\\Install Dir]\\bin\\TheSurge.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Deck13\\The Surge\\Install Dir]\\bin\\TheSurge.exe", 
+                        "installationDirectory": "The Surge", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000712", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-05-16T16:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-05-16T06:16:10Z"
+}
