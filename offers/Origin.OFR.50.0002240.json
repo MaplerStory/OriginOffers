@@ -6,9 +6,21 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TW"
             }
         ]
     }, 
@@ -135,8 +147,15 @@
                     "value": "ru_RU"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-05-16T17:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-05-03T21:41:59Z"
+    "updatedDate": "2017-05-16T09:10:18Z"
 }

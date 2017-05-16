@@ -11,16 +11,20 @@
     ], 
     "contentId": "196495", 
     "countries": {
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
+        "catalogPrice": 64.99, 
+        "catalogPriceA": [
+            64.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
         "giftable": "N", 
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "inXile Entertainment", 
     "duration": null, 
