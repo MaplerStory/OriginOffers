@@ -371,11 +371,23 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"4.12.5.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "4.12.5.0", 
+                                "downloadURL": "/shift/grey_box/rime/fg__ww_x0/rimepcfg__ww_x0run_2__20170517_412504a2c4fb06b064d2ab8e977596cf73cf5.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-05-17T14:42:33Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_196591_50844", 
                         "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%LocalAppData%/SirenGame/Saved/SaveGames/</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
+                        "executeParams": "-NOSPLASH", 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Tequila Works\\RiME\\Install Dir]SirenGame\\Binaries\\Win64\\RiME.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Tequila Works\\RiME\\Install Dir]SirenGame\\Binaries\\Win64\\RiME.exe", 
                         "installationDirectory": "RiME", 
@@ -433,5 +445,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-05-11T07:53:18Z"
+    "updatedDate": "2017-05-17T13:37:18Z"
 }
