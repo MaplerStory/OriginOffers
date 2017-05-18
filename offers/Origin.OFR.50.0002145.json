@@ -12,18 +12,6 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "AQ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "AU"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "BF"
@@ -39,12 +27,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "BJ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "BR"
             }, 
             {
                 "attributes": {
@@ -78,12 +60,6 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "CK"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "CM"
@@ -93,12 +69,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "CV"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "CX"
             }, 
             {
                 "attributes": {
@@ -129,18 +99,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "ET"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "FJ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "FM"
             }, 
             {
                 "attributes": {
@@ -180,33 +138,15 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "HM"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "KE"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "KI"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "KM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "KR"
             }, 
             {
                 "attributes": {
@@ -225,12 +165,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "MG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "MH"
             }, 
             {
                 "attributes": {
@@ -282,63 +216,15 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "NF"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "NG"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "NR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "NU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "NZ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "PG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "PN"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "PW"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "RW"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "SB"
             }, 
             {
                 "attributes": {
@@ -384,27 +270,9 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "TK"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "TN"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "TO"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "TV"
             }, 
             {
                 "attributes": {
@@ -423,24 +291,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "UG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "VU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "WF"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "WS"
             }, 
             {
                 "attributes": {
@@ -463,25 +313,24 @@
         ]
     }, 
     "customAttributes": {
-        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1051535"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1055812"
     }, 
-    "financeId": "1051535", 
-    "itemId": "Origin.ITM.50.0001653", 
-    "itemName": "Beholder - PC - WW - (Origin)", 
+    "financeId": "1055812", 
+    "itemId": "Origin.ITM.50.0001830", 
+    "itemName": "Beholder - Blissful Sleep - PC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "Beholder", 
-        "longDescription": "Seize control of your destiny in a grim dystopian world! As the manager of a government-run apartment building, you must keep your residents comfortable and well-fed while fulfilling the directives of your superiors. Featuring beautifully bleak visuals and rich strategic gameplay, Beholder will hold you in its grip until you have mastered its many challenges!", 
-        "packArtLarge": "/196479/231.0x326.0/1051535_LB_231x326_en_US_^_2017-02-10-12-36-35_7fe977dc1ee70ccd893467f3303307c466571a3f.jpg", 
-        "packArtMedium": "/196479/142.0x200.0/1051535_MB_142x200_en_US_^_2017-02-10-12-37-20_27f63659c309d484d519778229a501d8261c60b1.jpg", 
-        "packArtSmall": "/196479/63.0x89.0/1051535_SB_63x89_en_US_^_2017-02-10-12-38-08_34539c56bfce03619602af801773d7cd730d0bf5.jpg", 
-        "shortDescription": "Every choice has a consequence"
+        "displayName": "Beholder: Blissful Sleep", 
+        "longDescription": "The Ministry of Introductions is honored to introduce Hector, the ex-landlord succeeded by Carl Shteyn. You may remember him being beaten and then dragged away, but things aren't always what they seem to be...<br><br>\nWelcome back to the grim dystopian future of Beholder , where ordinary people struggle to survive while subjected to the directives of an iron-fisted Government! The time has come to tell the stories of:<br><br>\n\u2022 The one who has fallen a victim to a horrifying mistake, and is now desperately seeking for salvation.<br>\n\u2022 The ones who broke the law to find happiness and are now facing the consequences.<br>\n\u2022 The one who risked his life for the State but has been left behind.<br>\n\u2022 The one who had everything but lost it all; and the one who mews!<br><br>\nYou'll meet many others, all of whom are living under the same roof \u2013 and under the thumb of a government that has absolute control over its citizens and never turns its peering eye away!<br><br>\nReturn to Krushvice 6 and serve the State and Wise Leader well!", 
+        "packArtLarge": "/196479/231.0x326.0/1055812_LB_231x326_en_US_^_2017-05-01-21-04-27_38458c1421999258b36fca0f523c122864a45aeb.jpg", 
+        "packArtMedium": "/196479/142.0x200.0/1055812_MB_142x200_en_US_^_2017-05-01-21-04-43_6d69d724eab509188425b7c48702947194251fd1.jpg", 
+        "packArtSmall": "/196479/63.0x89.0/1055812_SB_63x89_en_US_^_2017-05-01-21-05-01_eb95f2301f5151c959645aa49906417320328003.jpg", 
+        "shortDescription": "Welcome back to the grim dystopian future of Beholder."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -498,8 +347,8 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001958", 
-    "offerType": "Base Game", 
+    "offerId": "Origin.OFR.50.0002145", 
+    "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
             "contentId": "196479", 
@@ -512,14 +361,9 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2016-11-09T00:00:19Z", 
-                    "platform": "MAC", 
-                    "releaseDate": "2016-11-09T00:00:19Z"
-                }, 
-                {
-                    "downloadStartDate": "2016-11-09T00:00:19Z", 
+                    "downloadStartDate": "2017-05-18T17:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2016-11-09T00:00:19Z"
+                    "releaseDate": "2017-05-18T17:00:00Z"
                 }
             ]
         }, 
@@ -529,11 +373,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.4.0.9448\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.4.0.9448", 
-                                "downloadURL": "/shift/alawar_entertainment/beholder/fg__ww_x0/beholderpcfg__ww_x0run_5__20160516_140944843082e14df2d4dd4819162b3d17798b7.zip", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.4.0.9475\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.4.0.9475", 
+                                "downloadURL": "/shift/alawar_entertainment/beholder_blissful_sleep/fg__ww_x0/beholder_blissful_sleeppcfg__ww_x0run_3__20170517_14094753cce82de20174768a934428bcaa232f3.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2017-05-18T17:00:00Z"
+                                "effectiveDate": "2017-05-17T00:00:18Z"
                             }
                         ]
                     }, 
@@ -542,16 +386,12 @@
                         "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Documents%/Warm Lamp Games/Beholder/Saves/</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Warm Lamp Games\\Beholder\\Install Dir]Beholder.exe", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Warm Lamp Games\\Beholder\\Install Dir]Beholder.exe", 
-                        "installationDirectory": "Beholder", 
-                        "monitorInstall": true, 
-                        "monitorPlay": true, 
-                        "oigClientBehavior": "Blacklist", 
-                        "showKeyDialogOnInstall": false, 
-                        "showKeyDialogOnPlay": false
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Warm Lamp Games\\Beholder Blissful Sleep\\Install Dir]Beholder Blissful Sleep.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Warm Lamp Games\\Beholder Blissful Sleep\\Install Dir]Beholder Blissful Sleep.exe", 
+                        "installationDirectory": "Beholder Blissful Sleep", 
+                        "oigClientBehavior": "Blacklist"
                     }, 
-                    "softwareId": "Origin.SFT.50.0000684", 
+                    "softwareId": "Origin.SFT.50.0000734", 
                     "softwarePlatform": "PCWIN"
                 }
             ]
@@ -599,11 +439,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableStartDate": "2017-03-01T18:00:00Z"
+                    "storeAvailableStartDate": "2017-05-18T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-05-18T21:10:52Z"
+    "updatedDate": "2017-05-18T11:04:25Z"
 }
