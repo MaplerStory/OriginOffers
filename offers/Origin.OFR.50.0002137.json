@@ -150,7 +150,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "KR"
             }, 
@@ -445,5 +445,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-05-17T13:37:18Z"
+    "updatedDate": "2017-05-19T20:57:34Z"
 }
