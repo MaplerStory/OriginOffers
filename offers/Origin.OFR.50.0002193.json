@@ -1,0 +1,99 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1056312"
+    }, 
+    "financeId": "1056312", 
+    "itemId": "Origin.ITM.50.0001867", 
+    "itemName": "The Surge - The CREO PS01 Limited Rig - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "The CREO PS01 Limited Rig", 
+        "longDescription": "Unique exoskeleton: The CREO PS01 Limited Rig<br>", 
+        "packArtLarge": "/196593/231.0x326.0/1056299_LB_231x326_en_US_^_2017-04-19-12-54-04_0c4bac60996f2fa0c965f10d83f6bb4f53fa0981.jpg", 
+        "packArtMedium": "/196593/142.0x200.0/1056299_MB_142x200_en_US_^_2017-04-19-12-54-27_f7368a73463dfdff2c47f9a4810348fd6c4e7a57.jpg", 
+        "packArtSmall": "/196593/63.0x89.0/1056299_SB_63x89_en_US_^_2017-04-19-12-54-46_0f2f53066b36159e01dc5ff901539733f22b59a4.jpg", 
+        "shortDescription": "The CREO PS01 Limited Rig"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "THE SURGE", 
+                    "masterTitleId": 196593
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002193", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-05-16T16:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-05-16T16:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-05-23T15:28:05Z"
+}
