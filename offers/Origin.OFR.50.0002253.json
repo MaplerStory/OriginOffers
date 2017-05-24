@@ -1,0 +1,116 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1060497"
+    }, 
+    "financeId": "1060497", 
+    "itemId": "Origin.ITM.50.0001917", 
+    "itemName": "GHOST 1.0  - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "GHOST 1.0", 
+        "longDescription": "GHOST 1.0 Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/196766/231.0x326.0/1060497_LB_231x326_en_US_^_2017-05-04-14-14-22_dcc39b81f81fad557c115b98d33ddfa7328a4f3f.jpg", 
+        "packArtMedium": "/196766/142.0x200.0/1060497_MB_142x200_en_US_^_2017-05-04-14-14-37_841bf0df0d6157456bd94fa3a82fb500b069169c.jpg", 
+        "packArtSmall": "/196766/63.0x89.0/1060497_SB_63x89_en_US_^_2017-05-04-14-14-51_ad741dc03f308a4a9ba8734cc8dd92e7c8946f91.jpg", 
+        "shortDescription": "GHOST 1.0 Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "GHOST 1.0", 
+                    "masterTitleId": 196766
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002253", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196766", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-06-07T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-06-07T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_196766_50844", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\unepic_fran\\Ghost 1.0\\Install Dir]ghost.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\unepic_fran\\Ghost 1.0\\Install Dir]ghost.exe", 
+                        "installationDirectory": "Ghost 1.0", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000729", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-05-23T23:23:07Z"
+}
