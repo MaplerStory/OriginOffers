@@ -67,7 +67,7 @@
         "publisherFacetKey": null, 
         "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
         "shortDescription": "Discover yourself", 
-        "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS: </b>Windows 7 64-bits<br>\n<b>Processor: </b>Quad-core Intel i7 (Ivy Bridge but not T series) or Six-core AMD (FX series)<br>\n<b>Memory: </b>8 GB RAM<br>\n<b>Video Card: </b>NVidia 470 GTX<br>\n<b>Disc Space: </b>7400 MB available space<br>\n<b>DirectX:</b>&nbsp;Version 12 compatible<br><br>\n<b>RECOMMENDED:</b><br>\n<b>OS: </b>Windows 7 64-bits<br>\n<b>Processor: </b>Octa-core Intel i7 (X series) or Eight-core AMD (Fx series)<br>\n<b>Memory: </b>16 GB RAM<br>\n<b>Video Card: </b>NVidia 970 GTX / 980 GTX<br>\n<b>Disc Space: </b>7400 MB available space<br>\n<b>DirectX:</b> Version 12 compatible<br>"
+        "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS:</b> Windows 7 64-bit<br>\n<b>Processor:</b> Intel Core i5 2310 2.9 GHz / AMD FX-6300<br>\n<b>Memory:</b> 4 GB RAM<br>\n<b>Graphics: </b>GTX 550 Ti 1GB/ Radeon 6950 1GB or better<br>\n<b>Storage:</b> 7400 MB available space<br><br>\n<b>RECOMMENDED:</b><br>\n<b>OS:</b> Windows 10 64-bit<br>\n<b>Processor:</b> Intel i5 3570k / AMD FX-8350<br>\n<b>Memory:</b> 8 GB RAM<br>\n<b>Graphics:</b> GTX 770 2GB / Radeon R9 280X 3GB or better<br>\n<b>Storage:</b> 7400 MB available space<br><br>"
     }, 
     "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
