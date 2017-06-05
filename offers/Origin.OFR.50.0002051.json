@@ -6,14 +6,74 @@
         "country": [
             {
                 "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "UZ"
             }
         ]
     }, 
     "customAttributes": {
-        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "gameEditionTypeFacetKeyRankDesc": "9000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -85,15 +145,18 @@
             "Origin.OFR.50.0002092", 
             "Origin.OFR.50.0002090"
         ], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049794"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049819"
     }, 
-    "financeId": "1049794", 
-    "itemId": "Origin.ITM.50.0001663", 
-    "itemName": "FIFA 18 Standard Edition - PC - Russia (Origin/PG/3PDD)", 
+    "financeId": "1049819", 
+    "itemId": "Origin.ITM.50.0001736", 
+    "itemName": "FIFA 18 SUPER DELUXE PREORDER EDITION (RUSSIA)", 
     "localizableAttributes": {
-        "displayName": "FIFA 18 Trial Display Name Placeholder Text.", 
-        "longDescription": "FIFA 18 (RUSSIA CODESET) Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "FIFA 18 (RUSSIA CODESET) Short Description Placeholder Text."
+        "displayName": "FIFA 18 ICON Edition", 
+        "longDescription": "Are you ready for your biggest season yet? Powered by Frostbite\u2122, FIFA 18 blurs the line between the virtual and real worlds, bringing to life the heroes, teams and atmospheres of the world's game.<br><br>\n\nPre-order the FIFA 18 ICON Edition today and you'll hit the pitch 3 days early with a Cristiano Ronaldo 5-match FUT Loan, Ronaldo Naz\u00e1rio Icon 5-match FUT Loan, 40 Jumbo Premium Gold Packs (2 per week over 20 weeks), 20 Team of the Week Loan Player Packs (1 per week over 20 weeks) and 8 Special Edition FUT Kits!<br><br>", 
+        "packArtLarge": "/193608/231.0x326.0/1049818_LB_231x326_en_US_^_2017-05-31-17-44-44_f2adb62bcb815414c1927d50a6ca3c8fd449df68.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1049818_MB_142x200_en_US_^_2017-05-31-17-44-44_730e52f571dc3f1617098ee0d339165e55d5b88c.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1049818_SB_63x89_en_US_^_2017-05-31-17-44-44_06afb309813deccdf71462cbfe95b79b088d9219.jpg", 
+        "shortDescription": "Pre-order now and kick-start your FIFA Ultimate Season 3 days early"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -110,24 +173,23 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001978", 
+    "offerId": "Origin.OFR.50.0002051", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
-            "contentId": "193608_oa", 
-            "gameDistributionSubType": "Gameplay Timer Trial - Access", 
+            "contentId": "193608", 
+            "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": false, 
-            "originDisplayType": "Full Game", 
-            "trialLaunchDuration": 1
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2037-02-28T00:00:00Z", 
+                    "downloadStartDate": "2017-09-22T17:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "1937-02-28T00:00:00Z"
+                    "releaseDate": "2017-09-26T04:00:00Z"
                 }
             ]
         }, 
@@ -157,8 +219,15 @@
                     "value": "ru_RU"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-06-05T15:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-03-24T19:45:00Z"
+    "updatedDate": "2017-06-02T13:34:23Z"
 }

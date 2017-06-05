@@ -1,0 +1,320 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "HK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "ID"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "IN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "KR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "LA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "LK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "NP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "SG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "TW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VN"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "7000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0002084", 
+            "Origin.OFR.50.0002085", 
+            "Origin.OFR.50.0002082", 
+            "Origin.OFR.50.0002083", 
+            "Origin.OFR.50.0002088", 
+            "Origin.OFR.50.0002121", 
+            "Origin.OFR.50.0002089", 
+            "Origin.OFR.50.0002122", 
+            "Origin.OFR.50.0002086", 
+            "Origin.OFR.50.0002087", 
+            "Origin.OFR.50.0002120", 
+            "Origin.OFR.50.0002125", 
+            "Origin.OFR.50.0002123", 
+            "Origin.OFR.50.0002124", 
+            "Origin.OFR.50.0002127", 
+            "Origin.OFR.50.0002128", 
+            "Origin.OFR.50.0002080", 
+            "Origin.OFR.50.0002081", 
+            "Origin.OFR.50.0002073", 
+            "Origin.OFR.50.0002074", 
+            "Origin.OFR.50.0002071", 
+            "Origin.OFR.50.0002072", 
+            "Origin.OFR.50.0002077", 
+            "Origin.OFR.50.0002110", 
+            "Origin.OFR.50.0002078", 
+            "Origin.OFR.50.0002111", 
+            "Origin.OFR.50.0002075", 
+            "Origin.OFR.50.0002076", 
+            "Origin.OFR.50.0002274", 
+            "Origin.OFR.50.0002114", 
+            "Origin.OFR.50.0002115", 
+            "Origin.OFR.50.0002079", 
+            "Origin.OFR.50.0002112", 
+            "Origin.OFR.50.0002113", 
+            "Origin.OFR.50.0002118", 
+            "Origin.OFR.50.0002119", 
+            "Origin.OFR.50.0002116", 
+            "Origin.OFR.50.0002117", 
+            "Origin.OFR.50.0002109", 
+            "Origin.OFR.50.0002070", 
+            "Origin.OFR.50.0002066", 
+            "Origin.OFR.50.0002067", 
+            "Origin.OFR.50.0002100", 
+            "Origin.OFR.50.0002103", 
+            "Origin.OFR.50.0002104", 
+            "Origin.OFR.50.0002068", 
+            "Origin.OFR.50.0002101", 
+            "Origin.OFR.50.0002069", 
+            "Origin.OFR.50.0002102", 
+            "Origin.OFR.50.0002107", 
+            "Origin.OFR.50.0002108", 
+            "Origin.OFR.50.0002105", 
+            "Origin.OFR.50.0002106", 
+            "Origin.OFR.50.0002095", 
+            "Origin.OFR.50.0002096", 
+            "Origin.OFR.50.0002093", 
+            "Origin.OFR.50.0002094", 
+            "Origin.OFR.50.0002099", 
+            "Origin.OFR.50.0002097", 
+            "Origin.OFR.50.0002098", 
+            "Origin.OFR.50.0002131", 
+            "Origin.OFR.50.0002091", 
+            "Origin.OFR.50.0002092", 
+            "Origin.OFR.50.0002090"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049816"
+    }, 
+    "financeId": "1049816", 
+    "itemId": "Origin.ITM.50.0001731", 
+    "itemName": "FIFA 18 DELUXE PREORDER EDITION (ROA)", 
+    "localizableAttributes": {
+        "displayName": "FIFA 18 Ronaldo Edition", 
+        "longDescription": "Are you ready for your biggest season yet? Powered by Frostbite\u2122, FIFA 18 blurs the line between the virtual and real worlds, bringing to life the heroes, teams and atmospheres of the world's game.<br><br>\n\nPre-order the FIFA 18 Ronaldo Edition today and you'll hit the pitch 3 days early with a Cristiano Ronaldo 5-match FUT Loan, 20 Jumbo Premium Gold Packs (1 per week over 20 weeks) and 8 Special Edition FUT Kits!<br><br>", 
+        "packArtLarge": "/193608/231.0x326.0/1049813_LB_231x326_en_US_^_2017-05-31-17-40-19_8ee516eed0dbe08af3e3851b5e7753217b3a20b1.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1049813_MB_142x200_en_US_^_2017-05-31-17-40-19_80fa183593066bc169e9578fe6e689eb82f88d3d.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1049813_SB_63x89_en_US_^_2017-05-31-17-40-19_df1b91382be60603d035b9d554b6de6ad380a452.jpg", 
+        "shortDescription": "Pre-order now and kick-start your FIFA Ultimate Season 3 days early"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 18", 
+                    "masterTitleId": 193608
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002046", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "193608", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-22T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-26T04:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50072_193608_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<exclude order=\"0\">%Documents%/FIFA 18/fifasetup.ini</exclude>\n<exclude order=\"1\">%Documents%/FIFA 18/filesystemcache/</exclude>\n<exclude order=\"2\">%Documents%/FIFA 18/dumps/</exclude>\n<exclude order=\"3\">%Documents%/FIFA 18/Temp/</exclude>\n<include order=\"4\">%Documents%/FIFA 18/</include>\n</saveFileCriteria>", 
+                        "commerceProfile": "oig-fifa-18", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 18\\Install Dir]fifa18.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 18\\Install Dir]fifa18.exe", 
+                        "installationDirectory": "FIFA 18", 
+                        "multiPlayerId": "1034366", 
+                        "processorArchitecture": "64-bit"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000656", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-06-05T15:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-06-02T13:34:26Z"
+}

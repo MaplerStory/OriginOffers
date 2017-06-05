@@ -9,6 +9,12 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "JP"
             }
         ]
     }, 
@@ -85,15 +91,18 @@
             "Origin.OFR.50.0002092", 
             "Origin.OFR.50.0002090"
         ], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049794"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049812"
     }, 
-    "financeId": "1049794", 
-    "itemId": "Origin.ITM.50.0001663", 
-    "itemName": "FIFA 18 Standard Edition - PC - Russia (Origin/PG/3PDD)", 
+    "financeId": "1049812", 
+    "itemId": "Origin.ITM.50.0001698", 
+    "itemName": "FIFA 18 STANDARD PREORDER EDITION (WW + JAPAN)", 
     "localizableAttributes": {
-        "displayName": "FIFA 18 Trial Display Name Placeholder Text.", 
-        "longDescription": "FIFA 18 (RUSSIA CODESET) Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "FIFA 18 (RUSSIA CODESET) Short Description Placeholder Text."
+        "displayName": "FIFA 18", 
+        "longDescription": "Are you ready for your biggest season yet? Powered by Frostbite\u2122, FIFA 18 blurs the line between the virtual and real worlds, bringing to life the heroes, teams and atmospheres of the world's game.<br><br>\n\nPre-order the FIFA 18 Standard Edition today and you'll hit the pitch with a Cristiano Ronaldo five-match FUT Loan, five Jumbo Premium Gold Packs (one per week over five weeks) and eight Special Edition FUT Kits!<br><br>", 
+        "packArtLarge": "/193608/231.0x326.0/1049808_LB_231x326_en_US_^_2017-05-19-17-12-25_7757a10dd968584c932211ec525449c778db7912.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1049808_MB_142x200_en_US_^_2017-05-19-17-12-38_0bc68f055edc157083240edf1512cc48ec6462c1.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1049808_SB_63x89_en_US_^_2017-05-19-17-12-54_cccaa6d6a353bec9f20f76047d616e2330e86ba5.jpg", 
+        "shortDescription": "Pre-order now and kick-start your FIFA Ultimate Season"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -110,24 +119,23 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001978", 
+    "offerId": "Origin.OFR.50.0002013", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
-            "contentId": "193608_oa", 
-            "gameDistributionSubType": "Gameplay Timer Trial - Access", 
+            "contentId": "193608", 
+            "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": false, 
-            "originDisplayType": "Full Game", 
-            "trialLaunchDuration": 1
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2037-02-28T00:00:00Z", 
+                    "downloadStartDate": "2017-09-22T17:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "1937-02-28T00:00:00Z"
+                    "releaseDate": "2017-09-29T04:00:00Z"
                 }
             ]
         }, 
@@ -154,11 +162,75 @@
         "softwareLocales": {
             "locale": [
                 {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
                     "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-06-05T15:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-03-24T19:45:00Z"
+    "updatedDate": "2017-06-02T13:34:29Z"
 }
