@@ -106,8 +106,10 @@
         "en_US", 
         "es_ES", 
         "fr_FR", 
+        "hu_HU", 
         "it_IT", 
-        "ru_RU"
+        "ru_RU", 
+        "zh_CN"
     ], 
     "storeGroupId": "Origin", 
     "suppressedOfferIds": [], 

@@ -103,10 +103,16 @@
                     "value": "fr_FR"
                 }, 
                 {
+                    "value": "hu_HU"
+                }, 
+                {
                     "value": "it_IT"
                 }, 
                 {
                     "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
                 }
             ]
         }
