@@ -208,6 +208,13 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.48.15195\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.48.15195", 
+                                "downloadURL": "/shift/fifa/fifa_17_g4/patch__ww_x0_ww_patch10/fifa_17_g4pcpatch__ww_x0_ww_patch10concept_15__denuvo__retail__digital__ww_3160875e22dfb04e09c4e82b4499f9e45154a75.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-06-06T10:30:26Z"
+                            }, 
+                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.47.58349\"/>    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.47.58349", 
                                 "downloadURL": "/shift/fifa/fifa_17_g4/patch__ww_x0_ww_patch9/fifa_17_g4pcpatch__ww_x0_ww_patch9concept_3__denuvo__retail__digital__ww_313849401418405005546da8681c21b0ed99699.zip", 
