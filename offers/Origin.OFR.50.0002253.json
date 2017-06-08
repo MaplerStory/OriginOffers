@@ -84,6 +84,7 @@
                     }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_196766_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%InstallDir%/save/</include> <include order=\"1\">*.txt</include </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\unepic_fran\\Ghost 1.0\\Install Dir]ghost.exe", 
