@@ -89,7 +89,7 @@
     "offerPath": "/beholder/beholder/standard-edition", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
-    "platformFacetKey": "Mac/PC Download", 
+    "platformFacetKey": "PC Download", 
     "platforms": [
         {
             "achievementSetOverride": "50318_196479_50844", 
