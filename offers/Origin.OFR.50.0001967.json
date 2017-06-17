@@ -380,11 +380,11 @@
                                 "effectiveDate": "2017-05-09T00:00:26Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.2.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.2.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.2.0.0", 
-                                "downloadURL": "/shift/plug_in_digital/syberia_3/fg__ww_x0/syberia_3pcfg__ww_x0run_3__20170616_12001a4dc1e82d4245b89587a68131077ecb.zip", 
+                                "downloadURL": "/shift/plug_in_digital/syberia_3/fg__ww_x0/syberia_3pcfg__ww_x0run_4__20170616_12008821b6f7e3d847b48899c0c61091a6d8.zip", 
                                 "downloadURLType": "staged", 
-                                "effectiveDate": "2037-06-16T21:20:37Z"
+                                "effectiveDate": "2037-06-17T00:17:44Z"
                             }
                         ]
                     }, 
