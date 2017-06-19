@@ -99,6 +99,7 @@
                         "monitorInstall": true, 
                         "monitorPlay": true, 
                         "multiPlayerId": "1019025", 
+                        "processorArchitecture": "64-bit", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 
