@@ -453,6 +453,7 @@
                         "monitorInstall": true, 
                         "monitorPlay": true, 
                         "oigClientBehavior": "Blacklist", 
+                        "processorArchitecture": "64-bit", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

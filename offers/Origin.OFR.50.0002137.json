@@ -391,6 +391,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Tequila Works\\RiME\\Install Dir]SirenGame\\Binaries\\Win64\\RiME.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Tequila Works\\RiME\\Install Dir]SirenGame\\Binaries\\Win64\\RiME.exe", 
                         "installationDirectory": "RiME", 
+                        "processorArchitecture": "64-bit", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

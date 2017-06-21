@@ -92,7 +92,7 @@
                                 "effectiveDate": "2017-05-31T16:00:57Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.53525\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.53525\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.53525", 
                                 "downloadURL": "/shift/focus_home_interactive/the_surge/fg__ww_x0/the_surgepcfg__ww_x0run_7__20170620_10053525bbcab82171534cf8aae1dda1ace9dc62.zip", 
                                 "downloadURLType": "staged", 
@@ -107,6 +107,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Deck13\\The Surge\\Install Dir]\\bin\\TheSurge.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Deck13\\The Surge\\Install Dir]\\bin\\TheSurge.exe", 
                         "installationDirectory": "The Surge", 
+                        "processorArchitecture": "64-bit", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

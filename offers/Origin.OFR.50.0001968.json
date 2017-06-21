@@ -395,6 +395,7 @@
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microids\\Syberia 3\\Install Dir]syberia3.exe", 
                         "installationDirectory": "Syberia 3", 
                         "monitorPlay": false, 
+                        "processorArchitecture": "64-bit", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

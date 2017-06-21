@@ -111,6 +111,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\inXile Entertainment\\Torment Tides of Numenera\\Install Dir]TidesOfNumenera.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\inXile Entertainment\\Torment Tides of Numenera\\Install Dir]TidesOfNumenera.exe", 
                         "installationDirectory": "Torment Tides of Numenera", 
+                        "processorArchitecture": "64-bit", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 
