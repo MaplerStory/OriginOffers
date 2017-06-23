@@ -23,7 +23,7 @@
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
     "franchiseFacetKey": null, 
-    "gameDistributionSubType": null, 
+    "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": null, 
     "gameEditionTypeFacetKeyRankDesc": null, 
     "gameNameFacetKey": null, 
