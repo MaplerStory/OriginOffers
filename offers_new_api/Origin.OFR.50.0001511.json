@@ -6,15 +6,15 @@
     ], 
     "contentId": "1027460", 
     "countries": {
-        "catalogPrice": 99.99, 
+        "catalogPrice": 79.99, 
         "catalogPriceA": [
-            99.99
+            79.99
         ], 
         "countryCurrency": "USD", 
         "countryCurrencyA": [
             "USD"
         ], 
-        "giftable": "N", 
+        "giftable": "Y", 
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
