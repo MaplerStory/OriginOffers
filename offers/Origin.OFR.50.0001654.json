@@ -89,6 +89,13 @@
                                 "downloadURL": "/shift/mass_effect/mass_effect_andromeda/patch__ww_ww/mass_effect_andromedapcpatch__ww_wwconcept_538__736146_pc_retail_patch_d707510829fd542b28a87f65455e0e07d.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-06-08T16:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.9\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.9", 
+                                "downloadURL": "/shift/mass_effect/mass_effect_andromeda/patch__ww_ww/mass_effect_andromedapcpatch__ww_wwconcept_627__739369_pc_retail_patch_e125d9e3b76cb4e7590486c8fdc980550.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-06-30T17:56:51Z"
                             }
                         ]
                     }, 
