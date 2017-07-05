@@ -4,6 +4,7 @@
     "bundleOffers": [], 
     "contentId": "182633_demo", 
     "countries": {
+        "bannedCountries": [], 
         "catalogPrice": 0.0, 
         "catalogPriceA": [
             0.0

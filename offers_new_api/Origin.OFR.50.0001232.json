@@ -15,6 +15,7 @@
     ], 
     "contentId": null, 
     "countries": {
+        "bannedCountries": [], 
         "catalogPrice": null, 
         "catalogPriceA": [], 
         "countryCurrency": null, 

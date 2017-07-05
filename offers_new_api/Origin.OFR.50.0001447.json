@@ -9,6 +9,7 @@
     ], 
     "contentId": "1027460", 
     "countries": {
+        "bannedCountries": [], 
         "catalogPrice": 99.99, 
         "catalogPriceA": [
             99.99

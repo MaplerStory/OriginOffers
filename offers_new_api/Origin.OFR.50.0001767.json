@@ -4,6 +4,7 @@
     "bundleOffers": [], 
     "contentId": "NA", 
     "countries": {
+        "bannedCountries": [], 
         "catalogPrice": null, 
         "catalogPriceA": [], 
         "countryCurrency": null, 

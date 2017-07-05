@@ -4,6 +4,7 @@
     "bundleOffers": [], 
     "contentId": "190179", 
     "countries": {
+        "bannedCountries": [], 
         "catalogPrice": 19.99, 
         "catalogPriceA": [
             19.99
