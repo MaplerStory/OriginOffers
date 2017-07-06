@@ -313,6 +313,13 @@
                                 "downloadURL": "/shift/unepic_fran/ghost_10/fg__ww_x0/ghost_10pcfg__ww_x0run_1__20170608_1130dcb13e852ab4465aaf53a0750e89ca2c.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-06-08T16:20:51Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.1.5.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.1.5.0", 
+                                "downloadURL": "/shift/unepic_fran/ghost_10/fg__ww_x0/ghost_10pcfg__ww_x0run_2__20170704_1150fcb867ed48f143fd9279b1d534ed5f2f.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-07-05T23:45:13Z"
                             }
                         ]
                     }, 
