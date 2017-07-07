@@ -66,11 +66,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
         "shortDescription": "Discover yourself", 
         "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS:</b> Windows 7 64-bit<br>\n<b>Processor:</b> Intel Core i5 2310 2.9 GHz / AMD FX-6300<br>\n<b>Memory:</b> 4 GB RAM<br>\n<b>Graphics: </b>GTX 550 Ti 1GB/ Radeon 6950 1GB or better<br>\n<b>Storage:</b> 7400 MB available space<br><br>\n<b>RECOMMENDED:</b><br>\n<b>OS:</b> Windows 10 64-bit<br>\n<b>Processor:</b> Intel i5 3570k / AMD FX-8350<br>\n<b>Memory:</b> 8 GB RAM<br>\n<b>Graphics:</b> GTX 770 2GB / Radeon R9 280X 3GB or better<br>\n<b>Storage:</b> 7400 MB available space<br><br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -104,7 +104,7 @@
     ], 
     "projectNumber": "315724", 
     "publisherFacetKey": "Grey Box", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [
