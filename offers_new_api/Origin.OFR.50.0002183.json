@@ -117,5 +117,8 @@
     "storeGroupId": "Origin", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": null
+    "vault": {
+        "isUpgradeable": "N", 
+        "path": "/oxenfree/oxenfree/standard-edition"
+    }
 }
