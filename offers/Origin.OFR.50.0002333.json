@@ -1,0 +1,90 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1061911"
+    }, 
+    "financeId": "1061911", 
+    "itemId": "Origin.ITM.50.0001994", 
+    "itemName": "HELLO NEIGHBOR - ALPHA 2 - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "HELLO NEIGHBOR - ALPHA 2 Display Name Placeholder Text.", 
+        "longDescription": "HELLO NEIGHBOR - ALPHA 2 Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "shortDescription": "HELLO NEIGHBOR - ALPHA 2 Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "HELLO NEIGHBOR", 
+                    "masterTitleId": 196875
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002333", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-07-06T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-07-06T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\tinybuild\\Hello Neighbor Alpha\\Install Dir]__Installer\\DLC\\Hello Neighbor Alpha\\__Installer\\installerdata.xml", 
+                        "metadataInstallLocation": "/__Installer/DLC/Hello Neighbor Alpha"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000751", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-07-11T20:44:14Z"
+}
