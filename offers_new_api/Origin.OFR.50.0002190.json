@@ -73,11 +73,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "Defy deadly enemies and huge bosses.", 
         "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS:</b> Windows 7/8/10 (64-bit)<br>\n<b>Processor:</b> AMD FX-8320 (3,5 GHz) / Intel i5-4690K (3,5 GHz)<br>\n<b>Memory:</b> 8 GB RAM<br>\n<b>Graphics:</b> 1 GB, AMD Radeon R7 360 / NVIDIA GeForce GTX 560 Ti<br>\n<b>DirectX:</b> Version 11<br>\n<b>Network:</b> Broadband Internet connection<br>\n<b>Storage:</b> 15 GB available space<br>\n<b>Additional Notes:</b> INTERNET CONNECTION REQUIRED FOR GAME ACTIVATION<br><br>\n\n<b>RECOMMENDED:</b><br>\n<b>OS:</b> Windows 7/8/10 (64-bit)<br>\n<b>Processor:</b> AMD FX-8370 (4,0 GHz) / Intel Core i7-3820 (3,6 GHz)<br>\n<b>Memory:</b> 16 GB RAM<br>\n<b>Graphics:</b> 4 GB, AMD Radeon RX 480 / NVIDIA GeForce GTX 970<br>\n<b>DirectX:</b> Version 11<br>\n<b>Network:</b> Broadband Internet connection<br>\n<b>Storage:</b> 15 GB available space<br>\n<b>Additional Notes:</b> INTERNET CONNECTION REQUIRED FOR GAME ACTIVATION<br><br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -111,7 +111,7 @@
     ], 
     "projectNumber": "315725", 
     "publisherFacetKey": "Focus Home Interactive", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [
