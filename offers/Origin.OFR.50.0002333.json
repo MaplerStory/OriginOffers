@@ -67,10 +67,12 @@
             "software": [
                 {
                     "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\tinybuild\\Hello Neighbor Alpha\\Install Dir]__Installer\\DLC\\Hello Neighbor Alpha\\__Installer\\installerdata.xml", 
-                        "metadataInstallLocation": "/__Installer/DLC/Hello Neighbor Alpha"
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]Hello_Neighbor_Alpha_2\\HelloNeighborReborn.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Hello Neighbor Alpha"
                     }, 
                     "softwareId": "Origin.SFT.50.0000751", 
                     "softwarePlatform": "PCWIN"

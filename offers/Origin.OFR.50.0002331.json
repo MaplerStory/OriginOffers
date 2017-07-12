@@ -67,7 +67,11 @@
             "software": [
                 {
                     "fulfillmentAttributes": {
-                        "enableDLCuninstall": false
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]Hello_Neighbor_Pre_Alpha\\HelloNeighbour.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]__Installer\\installerdata.xml"
                     }, 
                     "softwareId": "Origin.SFT.50.0000748", 
                     "softwarePlatform": "PCWIN"
