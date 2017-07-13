@@ -64,7 +64,7 @@
         "shortDescription": "BATTLEFIELD VETERAN DOG TAG", 
         "systemRequirements": null
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
     "isShellBundle": "N", 

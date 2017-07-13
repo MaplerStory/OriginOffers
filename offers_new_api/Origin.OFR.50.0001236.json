@@ -71,11 +71,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "Battle Heaven. Vanquish Hell.", 
         "systemRequirements": "<b>MINIMUM SYSTEM REQUIREMENTS</b><br><br>\u2022 OS: Windows XP SP3, Vista SP1, Windows 7<br>\u2022 Processor: AMD Athlon 64 Processor 3800+ 2.4Ghz or better, Intel Pentium 4 530 3.0Ghz Processor or better<br>\u2022 Memory: 1GB XP, 2GB Vista / Windows 7<br>\u2022 Graphics: NVIDIA (GeForce 8800/GeForce GT220) 256MB graphics card or better, ATI Radeon X1900 256MB graphics card or better ( must support pixel shader 3 )<br>\u2022 DirectX: DirectX 9.0c <br>\u2022 Hard Drive: 12GB<br>\u2022 Sound: 100% DirectX 9.0C compliant sound card or equivalent onboard sound<br>\u2022 DVD ROM (Physical Copy)<br><br><b>RECOMMENDED SYSTEM SPECIFICATIONS</b><br><br>\u2022 OS: Windows XP SP3, Vista SP1, Windows 7<br>\u2022 Processor: AMD Athlon 64 X2 5200+ Dual Core 2.60Ghz, Intel Core 2 Duo E6420 Dual Core 2.13Ghz<br>\u2022 Memory: 2GB XP, 3GB Vista / Windows 7<br>\u2022 Graphics: NVIDIA (GeForce GTS 240) 256MB graphics card or better, ATI Radeon HD3870 256MB graphics card or better ( must support pixel shader 3 )<br>\u2022 DirectX: DirectX 9.0c <br>\u2022 Hard Drive: 12GB<br>\u2022 Sound: 100% DirectX 9.0C compliant sound card or equivalent onboard sound<br>\u2022 DVD ROM (Physical Copy)<br>\u2022 Hard Drive: 12GB<br>\u2022 Sound: 100% DirectX 9.0C compliant sound card or equivalent onboard sound<br>\u2022 DVD ROM (Physical Copy)<br><br>Game uses OOA DRM technology."
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -109,7 +109,7 @@
     ], 
     "projectNumber": "314240", 
     "publisherFacetKey": "Nordic Games", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "3131", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

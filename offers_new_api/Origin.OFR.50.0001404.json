@@ -68,11 +68,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
         "shortDescription": "A calamity has torn the world into pieces. Embark on an epic quest to put it back together with Bastion.", 
         "systemRequirements": "<b> Operating system: </b> Windows XP, Vista, Windows 7 <br><b> Processor: </b> 1.7GHz Dual Core or Greater <br><b> Memory: </b> 2GB <br><b> Hard disk space: </b> 1.6Gb <br><b> Video: </b> 512 MB DirectX 9.0c compatible graphics card (shader model 2) <br><b> Sound: </b> DirectX 9.0c compatible <br><b> DirectX\u00ae: </b> 9.0c <br> <br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -106,7 +106,7 @@
     ], 
     "projectNumber": "305260", 
     "publisherFacetKey": "Warner Brothers", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
     "rbuCode": "3131", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

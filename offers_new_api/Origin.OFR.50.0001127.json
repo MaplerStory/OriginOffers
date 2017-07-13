@@ -68,10 +68,10 @@
         "shortDescription": "Receive up to 15 FIFA Ultimate Team Gold Packs, delivered one per week for 15 weeks, and two Brand New EA SPORTS Football Club Celebrations; \"KO\" and \"Bailando Robot\"", 
         "systemRequirements": null
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
-    "isShellBundle": "N", 
+    "isShellBundle": "Y", 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001044", 
     "itemName": "FIFA 16 Bundle #1 (KO+Bailando+15 FUT) - Extra Content - WW (3PDD)", 

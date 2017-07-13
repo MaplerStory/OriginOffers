@@ -73,8 +73,9 @@
                         "addonDeploymentStrategy": "Hot Deployable", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]Hello_Neighbor_Pre_Alpha\\HelloNeighbour.exe", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]__Installer\\installerdata.xml"
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]Hello_Neighbor_Pre_Alpha\\HelloNeighbour\\Binaries\\Win64\\HelloNeighbour-Win64-Shipping.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]Hello_Neighbor_Pre_Alpha\\HelloNeighbour\\Binaries\\Win64\\HelloNeighbour-Win64-Shipping.exe", 
+                        "installationDirectory": "Hello Neighbor Alpha"
                     }, 
                     "softwareId": "Origin.SFT.50.0000748", 
                     "softwarePlatform": "PCWIN"

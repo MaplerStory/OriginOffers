@@ -67,11 +67,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
         "shortDescription": "Sequel to the award winning Trine and Trine 2.", 
         "systemRequirements": "<b>MINIMUM:</b><br>\n\n<ul><li><b>OS Version:</b> (64 bit / 32 bit *) Windows 10 / 8 / 7 / Vista</li>\n<li><b>Processor:</b> Intel Core i3/i5/i7 1.8 GHz CPU dual-core. AMD 2.0 GHz dual-core</li>\n<li><b>Memory:</b> 4 GB</li>\n<li><b>Graphics:</b> NVIDIA GeForce 260 / Radeon HD 4000 Series / Intel HD Graphics 4000</li>\n<li><b>Network:</b> Broadband internet connection</li>\n<li><b>DirectX Version:</b> 10</li>\n<li><b>Disk Space:</b> 6 GB</li></ul>\nAdditional Notes:<br>\n<li>*Highest graphics detail levels are only available in 64 bit OS</li><br>\n\n<b>RECOMMENDED:</b><br>\n<ul><li><b>OS Version:</b> (64 bit / 32 bit *) Windows 10 / 8 / 7 / Vista</li>\n<li><b>Processor:</b> Intel quad-core 2.0 GHz or dual-core 2.6 GHz</li>\n<li><b>Memory:</b> 8 GB</li>\n<li><b>Graphics:</b> NVIDIA GeForce GTX 560 2GB / Radeon HD 6850 2GB</li>\n<li><b>Network:</b> Broadband internet connection</li>\n<li><b>DirectX Version:</b> 10</li>\n<li><b>Disk Space:</b> 6 GB</li></ul>\nAdditional Notes:<br>\n<li>*Highest graphics detail levels are only available in 64 bit OS</li>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -105,7 +105,7 @@
     ], 
     "projectNumber": "314495", 
     "publisherFacetKey": "Frozenbyte", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
     "rbuCode": "3131", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

@@ -152,11 +152,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
         "shortDescription": "Play Your Best Season Yet in FIFA 16.", 
         "systemRequirements": "<b>Minimum Specifications</b><br>\n<b>OS:</b> Windows V/7/8/8.1 - 64-Bit<br>\n<b>CPU:</b> Intel Q6600 Core2 Quad @ 2.4Ghz (or AMD Phenom 7950 Quad-Core, AMD Athlon II X4 620 equivalent) <br>\n<b>RAM:</b> 4GB<br>\n<b>Hard Drive Space Required:</b> 15.0 GB<br>\n<b> Minimum Supported Video Cards:</b> ATI Radeon HD 5770, NVIDIA GTX 650<br>\n<b>DirectX:</b> 11.0<br>\n<b>Single System Multiplayer:</b> 2-4 players + 1 keyboard on a PC<br>\n<b>Input:</b> Keyboard, Mouse, Dual Analogue gamepad, VOIP Headset<br><br>\n\n<b>Recommended Specifications</b><br>\n<b>OS:</b> Windows V/7/8/8.1 - 64-Bit<br>\n<b>CPU:</b> Intel i5-2550K @ 3.40GHz (or AMD FX-6350 Six-Core equivalent)<br>\n<b>RAM:</b> 8GB<br>\n<b>Hard Drive Space Required:</b> 15.0 GB<br>\n<b>Minimum Supported Video Cards:</b> ATI Radeon HD 6870, NVIDIA GTX 460<br>\n<b>DirectX:</b> 11.0<br>\n<b>Single System Multiplayer:</b> 2-4 players + 1 keyboard on a PC<br>\n<b>Input:</b> Keyboard, Mouse, Dual Analogue gamepad, VOIP Headset<br><br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -190,7 +190,7 @@
     ], 
     "projectNumber": "311705", 
     "publisherFacetKey": "Electronic Arts", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
     "rbuCode": "4212", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

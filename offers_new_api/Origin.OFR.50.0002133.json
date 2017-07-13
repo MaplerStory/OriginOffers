@@ -76,7 +76,7 @@
         "shortDescription": "Explore the volatile nature of personal privacy", 
         "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS: </b>Windows XP<br>\n<b>Processor: </b>2.0 GHz<br>\n<b>Memory: </b>512 MB RAM<br>\n<b>Graphics: </b>OpenGL 3.0+ (2.1 with ARB extensions acceptable)<br>\n<b>Storage: </b>500 MB available space<br><br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 

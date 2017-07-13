@@ -68,7 +68,7 @@
         "shortDescription": "How long the city keeps moving is up to you.", 
         "systemRequirements": "<b>Windows</b><br>\n<b>OS:</b> Windows XP, Vista, 7, 8 or later <br>\n<b>Processor:</b> 2 GHz or faster processor <br>\n<b>Memory:</b> 1024 MB RAM <br>\n<b>Graphics Card:</b> Shader Model 2.0 <br>\n<b>DirectX:</b> Version 9.0c <br>\n<b>Storage:</b> 300 MB available space <br><br>\n<b>MAC OSX</b><br>\n<b>OS:</b> OS X 10.7 Lion or later <br>\n<b>Processor:</b> 2 GHz or faster processor <br>\n<b>Memory:</b> 1024 MB RAM <br>\n<b>Graphics Card:</b> Shader Model 2.0 <br>\n<b>Storage:</b> 300 MB available space"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 

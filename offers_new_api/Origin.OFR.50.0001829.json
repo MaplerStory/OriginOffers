@@ -67,11 +67,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
         "shortDescription": "Are you ready for the quest?", 
         "systemRequirements": "<b>MINIMUM:</b><br> \n<b>OS:</b> Windows XP / Vista / 7 / 8 / 10 32 or 64 bit <br> \n<b>Processor:</b> 2.0 GHz CPU<br>  \n<b>Memory:</b> 1 GB RAM <br> \n<b>Graphics:</b> 128 MB NVIDIA GeForce 6800 series or ATI Radeon X800 series or equivalent<br> \n<b>DirectX:</b> Version 9.0c<br> \n<b>Storage:</b> 5 GB available space <br> \n<b>Sound Card:</b> DirectX compatible<br><br> \n<b>RECOMMENDED:</b><br>\n<b>OS:</b> Windows XP / Vista / 7 / 8 /10 32 or 64 bit<br> \n<b>Processor:</b> 3.0 GHz CPU Dual or Quad Core<br> \n<b>Memory:</b> 2 GB RAM<br> \n<b>Graphics:</b> 256MB NVIDIA or AMD card<br> \n<b>DirectX:</b> Version 9.0c<br> \n<b>Storage:</b> 5 GB available space<br> \n<b>Sound Card:</b> DirectX compatible card<br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -105,7 +105,7 @@
     ], 
     "projectNumber": "315254", 
     "publisherFacetKey": "THQ Nordic", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

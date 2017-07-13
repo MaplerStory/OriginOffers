@@ -64,11 +64,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
         "shortDescription": "Build up your club", 
         "systemRequirements": "<b>Recommended Specs: </b><br><br>\u2022 CPU with Dual core processor (Core duo 2 or better). <br>\u2022 Intel Core2Duo @ 2.4Ghz on Windows XP / Windows Vista / Windows 7. <br>\u2022 2 Gigabyte of RAM. <br>\u2022 DirectX\u00ae 9.0c Compatible 3D accelerated <br>\u2022 256 MB video card or equivalent (must support Shader Model 3.0 or above). <br>\u2022 ATI RADEON HD 2900.<br>\u2022 NVIDIA GEFORCE 8800 GT."
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
     "isShellBundle": "N", 
@@ -102,7 +102,7 @@
     ], 
     "projectNumber": "304966", 
     "publisherFacetKey": "EA Sports", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
     "rbuCode": "4212", 
     "revenueModel": "Digital - Extra Content", 
     "softwareLocales": [

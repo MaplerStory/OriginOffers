@@ -68,11 +68,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "What starts with War, ends in Death.", 
         "systemRequirements": "<b>OS:</b> Windows XP, Windows Vista SP1, Windows 7, Windows 8 or Windows 10 (64bit)<br> <b>Processor:</b> 2.0Ghz Intel\u00ae Core\u2122 Duo Processor or AMD equivalent (any Quad-core AMD or Intel Processor recommended)<br> <b>Memory:</b> 4 GB (8 GB recommended)<br> <b>Graphics:</b> NVIDIA 9800 GT 512 MB Video Card or AMD equivalent (NVIDIA GeForce GTX 260 512MB Video Card or AMD equivalent recommended)<br> <b>DirectX:</b> 9.0c<br> <b>Hard Drive:</b> 20 GB space free (10 GB free after install)<br><br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -106,7 +106,7 @@
     ], 
     "projectNumber": "314241", 
     "publisherFacetKey": "Nordic Games", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "3131", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

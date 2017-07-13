@@ -67,11 +67,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
         "shortDescription": "At the heart of a long and forgotten universe!", 
         "systemRequirements": "<b>OS:</b> Windows XP/Vista/7<br> \n<b>Processor:</b> 1.5GHz CPU <br> \n<b>Memory:</b> 512MB<br> \n<b>Hard Disk Space:</b> 1.5GB<br> \n<b>Video Card:</b> DirectX compatible graphics card with 128 MB memory<br> \n<b>DirectX\u00ae:</b> 9.0c<br> \n<b>Sound:</b> Sound card with DirectX 9.0c support"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -105,7 +105,7 @@
     ], 
     "projectNumber": "315620", 
     "publisherFacetKey": "Plug In Digital", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

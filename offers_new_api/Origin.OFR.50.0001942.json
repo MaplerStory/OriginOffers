@@ -70,11 +70,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "Get Playdead's two critically acclaimed titles LIMBO and INSIDE.", 
         "systemRequirements": "<b>MINIMUM:</b><br><br>\n<b>OS:</b> Windows 7/8/10 (64-bit OS required)<br>\n<b>Processor:</b> Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD FX 8120 @ 3.1 GHz<br>\n<b>Memory:</b> 4 GB RAM<br>\n<b>Graphics:</b> NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent<br>\n<b>DirectX:</b> Version 9.0c<br>\n<b>Storage:</b> 3 GB available space<br>\n<b>Sound Card:</b> 100% DirectX 9.0c compatible sound card<br><br>\n<b>RECOMMENDED:</b><br><br>\n<b>OS:</b> Windows 8/10 (64-bit OS required)<br>\n<b>Processor:</b> Intel i7 920 @ 2.7 GHz, AMD Phenom II 945 @ 3.0 GHz<br>\n<b>Memory:</b> 8 GB RAM <br>\n<b>Graphics:</b> NVIDIA GTX 660, Radeon R9-270<br>\n<b>DirectX:</b> Version 11 <br>\n<b>Storage:</b> 3 GB available space<br>\n<b>Sound Card:</b> 100% DirectX 9.0c compatible sound card"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
     "isShellBundle": "N", 
@@ -108,7 +108,7 @@
     ], 
     "projectNumber": "315581", 
     "publisherFacetKey": "Playdead", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

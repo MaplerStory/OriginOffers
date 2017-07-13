@@ -69,11 +69,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
         "shortDescription": null, 
         "systemRequirements": "<b>Windows</b>\n<br><br>\n<b>MINIMUM:</b> \n<br>\n<b>OS:</b> Windows XP SP3 \n<br>\n<b>Memory:</b> 2 GB RAM \n<br>\n<b>Storage:</b> 4 GB available space\n<br><br>\n<b>RECOMMENDED:</b> \n<br>\n<b>OS:</b> Windows 7 SP1 \n<br>\n<b>Memory:</b> 4 GB RAM \n<br>\n<b>Storage:</b> 6 GB available space\n<br><br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -107,7 +107,7 @@
     ], 
     "projectNumber": "314283", 
     "publisherFacetKey": "Versus Evil", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "3131", 
     "revenueModel": "Digital - Extra Content", 
     "softwareLocales": [

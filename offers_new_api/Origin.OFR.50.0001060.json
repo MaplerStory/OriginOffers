@@ -67,10 +67,10 @@
         "shortDescription": "A Double Dose of Battlefield", 
         "systemRequirements": "<b>Battlefield 4\u2122</b><br><br><b>Minimum System Requirements</b><br>\u2022 OS: Windows Vista SP2 32-bit<br>\u2022 Processor (AMD): Athlon X2 2.8 GHz<br>\u2022 Processor (Intel): Core 2 Duo 2.4 GHz<br>\u2022 Memory: 4 GB<br>\u2022 Hard Drive: 30 GB<br>\u2022 Graphics card (AMD): AMD Radeon HD 3870<br>\u2022 Graphics card (NVIDIA): NVIDIA GeForce 8800 GT<br>\u2022 Graphics memory: 512 MB<br><br><b>Recommended System Requirements</b><br>\u2022 OS: Windows 8 64-bit<br>\u2022 Processor (AMD): Six-core CPU<br>\u2022 Processor (Intel): Quad-core CPU<br>\u2022 Memory: 8 GB<br>\u2022 Hard Drive: 30 GB<br>\u2022 Graphics card (AMD): AMD Radeon HD 7870<br>\u2022 Graphics card (NVIDIA): NVIDIA GeForce GTX 660<br>\u2022 Graphics memory: 3 GB<br><br><b>Battlefield\u2122 Hardline</b><br><br><b>Minimum System Requirements</b><br>\n\u2022 OS: Windows Vista SP2 64-bit (with KB971512 update)<br>\n\u2022 Processor: Athlon II/Phenom II 2.8 GHz, Intel Core I3/I5 2.4GHz<br>\n\u2022 Memory: 4 GB<br>\u2022 Graphics Card: ATI 5770 with 1GB VRAM or better/NVIDIA GTX260 with 896MB VRAM or better<br>\n\u2022 Hard Drive: 60 GB<br>\n\u2022 DirectX: 11.0<br><br>\n\n<b>Recommended System Requirements</b><br>\n\u2022 OS: Windows 8 64-bit (with KB971512 update)<br>\n\u2022 Processor: Intel Quad-Core CPU, AMD Six-Core CPU<br>\n\u2022 Memory: 8 GB RAM<br>\n\u2022 Graphics Card: AMD 290, NVIDIA GTX760<br>\n\u2022 Graphics Memory: 3 GB <br>\n\u2022 Hard Drive: 60 GB<br>\n\u2022 DirectX: 11.0<br><br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
-    "isShellBundle": "N", 
+    "isShellBundle": "Y", 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001017", 
     "itemName": "Battlefield Shell Bundle - PCDD - RU/PL (Origin.com)", 

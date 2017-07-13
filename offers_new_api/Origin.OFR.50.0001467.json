@@ -68,11 +68,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "Pick your assassinations carefully.", 
         "systemRequirements": "<b>Minimum System Requirements</b><br><b>OS:</b> (64 bit / 32 bit *) Windows 10 / 8 / 7 / Vista<br><b>Processor:</b>  Intel Core i3/i5/i7 1.8 GHz CPU dual-core. AMD 2.0 GHz dual-core.<br><b>Memory:</b>  4 GB RAM<br><b>Graphics:</b>  NVIDIA GeForce 260 / Radeon HD 4000 Series / Intel HD Graphics 4000<br> <b>DirectX:</b>  Version 10 <br><b>Storage:</b>  4 GB available space<br> <b>Additional Notes:</b>  * Highest graphics detail levels are only available in 64 bit OS<br><br><b>Recommended System Requirements</b> <br><b>OS: </b> (64 bit / 32 bit *) Windows 10 / 8 / 7 / Vista<br><b>Processor:</b>  Intel quad-core 2.0 GHz or dual-core 2.6 GHz<br> <b>Memory:</b>  8 GB RAM<br> <b>Graphics:</b>  NVIDIA GeForce GTX 560 2GB / Radeon HD 6850 2GB<br> <b>DirectX:</b>  Version 10<br> <b>Storage:</b>  4 GB available space<br> <b>Additional Notes:</b>  * Highest graphics detail levels are only available in 64 bit OS<br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -106,7 +106,7 @@
     ], 
     "projectNumber": "314807", 
     "publisherFacetKey": null, 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

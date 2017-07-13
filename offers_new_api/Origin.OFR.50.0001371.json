@@ -76,7 +76,7 @@
         "shortDescription": "Watch out for the giant squid", 
         "systemRequirements": "<b>System Requirements:</b>\n<br><br>\n<b>OS:</b> Windows XP, Vista, 7\n<br>\n<b>Processor:</b> Core 2 Duo/Athlon 64 or above recommended\n<br>\n<b>Memory:</b> 1 GB of RAM minimum; 2 GB recommended\n<br>\n<b>Hard Disk Space:</b> 400+ megabytes\n<br>\n<b>Video Card:</b> Any DirectX-compatible video device with a minimum resolution of 1024 x 600 or 1024 x 768\n<br>\n<b>DirectX\u00ae:</b> 9\n<br>\n<b>Sound:</b> Any DirectX-compatible audio device\n<br><br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 

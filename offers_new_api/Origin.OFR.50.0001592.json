@@ -64,11 +64,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
         "shortDescription": "Build up your club", 
         "systemRequirements": "<b>Minimum System Requirements</b><br> OS: Windows Vista SP1 / Windows 7<br> CPU: 1.8 GHz Core 2 Duo<br> RAM: 2GB RAM for Windows Vista &amp; Windows 7<br> Disc Drive: DVD-ROM at 8x Speed<br> Hard Drive: 8.0 GB, with additional space required for saved games and DirectX 9.0c installation<br> Video: 3D accelerated 256 MB video card with support for Pixel Shader 3.0<br> Minimum Supported Video Cards: ATI Radeon HD 3600, NVIDIA GeForce 6800GT<br> Sound Card: DirectX 9.0c Compatible<br> DirectX: 9.0c<br> Input: Keyboard, Mouse, Dual Analogue gamepad, VOIP Headset<br> Online Multiplayer: 2-22 players, 512 kbits/sec or faster<br> Single System Multiplayer: 2-5 players on 1 PC<br><br> <b>Recommended System Requirements</b><br> OS: Windows Vista SP1 / Windows 7<br> CPU: Intel Core 2 Quad Q6600 2.4g / AMD Athlon II X4 600e 2.2g<br> RAM: 2GB RAM for Windows Vista &amp; Windows 7<br> Disc Drive: DVD-ROM at 8x Speed<br> Hard Drive: 8.0 GB, with additional space required for saved games and DirectX 9.0c installation<br> Video: Nvidia 8800 GT / ATI Radeon HD 4650<br> Sound Card: DirectX 9.0c Compatible<br> DirectX: 9.0c<br> Input: Keyboard, Mouse, Dual Analogue gamepad, VOIP Headset<br> Online Multiplayer: 2-22 players, 512 kbits/sec or faster<br> Single System Multiplayer: 2-5 players on 1 PC<br>"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
     "isShellBundle": "N", 
@@ -102,7 +102,7 @@
     ], 
     "projectNumber": "303617", 
     "publisherFacetKey": "EA Sports", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
     "rbuCode": "4212", 
     "revenueModel": "Digital - Extra Content", 
     "softwareLocales": [

@@ -71,11 +71,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
         "shortDescription": "Strap on your utility belt and take to the rooftops of Gotham in a whole new chapter to the Dark Knight saga: Arkham City", 
         "systemRequirements": "<b>OS:</b> Windows XP, Vista, 7 <br><b>Processor:</b> Intel Core 2 Duo 2.4 GHz or AMD Athlon X2 4800+ <br><b>Memory:</b> 2GB RAM <br><b>Hard Disk Space:</b> 17 GB free hard drive space <br><b>Video Card:</b> ATI 3850HD 512 MB or NVIDIA GeForce 8800 GT 512MB <br><b>DirectX\u00ae:</b> 9.0c"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -109,7 +109,7 @@
     ], 
     "projectNumber": "315219", 
     "publisherFacetKey": "Warner Brothers", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

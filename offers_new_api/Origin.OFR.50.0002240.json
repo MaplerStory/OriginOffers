@@ -87,11 +87,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "A World Unlike Any Other.", 
         "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS: </b> Windows 7/8/8.1/10 (64 bit) <br>\n<b>Processor: </b> Intel Core i3 or equivalent<br>\n<b>Memory: </b> 4 GB RAM<br>\n<b>Graphics: </b> NVIDIA GeForce GTX 460 or equivalent<br>\n<b>DirectX: </b> Version 9.0c<br>\n<b>Storage: </b> 20 GB available space<br>\n<b>Sound Card: </b> DirectX compatible sound card<br><br>\n<b>RECOMMENDED:</b><br>\n<b>OS:</b> Windows 7/8/8.1/10 (64 bit) <br>\n<b>Processor:</b> Intel i5 series or AMD equivalent<br>\n<b>Memory:</b> 8 GB RAM<br>\n<b>Graphics:</b> NVIDIA GeForce GTX 560 or equivalent<br>\n<b>DirectX:</b> Version 10<br>\n<b>Storage:</b> 20 GB available space<br>\n<b>Sound Card:</b> DirectX compatible sound card"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -125,7 +125,7 @@
     ], 
     "projectNumber": "315658", 
     "publisherFacetKey": "inXile Entertainment", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

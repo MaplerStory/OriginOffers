@@ -60,11 +60,11 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
         "shortDescription": "PLANTS VS ZOMBIES GARDEN WARFARE 2 (TECH BETA)  Short Description Placeholder Text.", 
         "systemRequirements": "Coming Soon"
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "True", 
     "isShellBundle": "N", 
@@ -98,7 +98,7 @@
     ], 
     "projectNumber": "310695", 
     "publisherFacetKey": "Electronic Arts", 
-    "ratingSystemIcon": "https://eaassets-a.akamaihd.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
     "rbuCode": "4205", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

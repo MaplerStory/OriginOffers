@@ -73,8 +73,8 @@
                         "addonDeploymentStrategy": "Hot Deployable", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]Hello_Neighbor_Alpha_1\\HelloNeighborReborn.exe", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]__Installer\\installerdata.xml", 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]Hello_Neighbor_Alpha_1\\HelloNeighborReborn\\Binaries\\Win64\\HelloNeighborReborn-Win64-Shipping.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Alpha\\Install Dir]Hello_Neighbor_Alpha_1\\HelloNeighborReborn\\Binaries\\Win64\\HelloNeighborReborn-Win64-Shipping.exe", 
                         "installationDirectory": "Hello Neighbor Alpha"
                     }, 
                     "softwareId": "Origin.SFT.50.0000750", 
@@ -91,5 +91,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-07-11T20:43:21Z"
+    "updatedDate": "2017-07-13T20:15:45Z"
 }
