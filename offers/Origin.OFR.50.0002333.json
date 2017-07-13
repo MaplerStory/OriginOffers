@@ -23,11 +23,14 @@
     }, 
     "financeId": "1061911", 
     "itemId": "Origin.ITM.50.0001994", 
-    "itemName": "HELLO NEIGHBOR - ALPHA 2 - PC - WW (Origin)", 
+    "itemName": "Hello Neighbor - Alpha 2 - PC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "HELLO NEIGHBOR - ALPHA 2 Display Name Placeholder Text.", 
-        "longDescription": "HELLO NEIGHBOR - ALPHA 2 Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "HELLO NEIGHBOR - ALPHA 2 Short Description Placeholder Text."
+        "displayName": "Hello Neighbor - Alpha 2", 
+        "longDescription": "Pre-purchase Hello Neighbor and get instant access to pre-alpha and alpha builds.", 
+        "packArtLarge": "/196875/231.0x326.0/1061687_LB_231x326_en_US_^_2017-07-12-23-57-35_1c0df97e30591720268602253c87e82012f18bb4.jpg", 
+        "packArtMedium": "/196875/142.0x200.0/1061687_MB_142x200_en_US_^_2017-07-12-23-57-57_3040b722742b359d4d1372e958723a6ec2e5a60e.jpg", 
+        "packArtSmall": "/196875/63.0x89.0/1061687_SB_63x89_en_US_^_2017-07-12-23-58-11_868b7009ee1d83567b2bf1a5f0e5eecdfb1e347e.jpg", 
+        "shortDescription": "Hello Neighbor - Alpha 2"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [

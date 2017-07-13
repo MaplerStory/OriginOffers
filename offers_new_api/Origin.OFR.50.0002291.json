@@ -26,10 +26,10 @@
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
-        "Origin.OFR.50.0002333", 
-        "Origin.OFR.50.0002334", 
         "Origin.OFR.50.0002331", 
-        "Origin.OFR.50.0002332"
+        "Origin.OFR.50.0002332", 
+        "Origin.OFR.50.0002333", 
+        "Origin.OFR.50.0002334"
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
@@ -63,7 +63,7 @@
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": null, 
-        "onlineDisclaimer": null, 
+        "onlineDisclaimer": "COPYRIGHT TINYBUILD LLC. ALL RIGHTS RESERVED. <br><br>\n\nEA DOES NOT GUARANTEE THAT ORIGIN FEATURES WILL BE AVAILABLE ON ALL GAMES DEVELOPED BY THIRD PARTIES. <br><br>\n\nREQUIRES INTERNET CONNECTION AND ACCEPTANCE OF THE ORIGIN END USER LICENSE AGREEMENT. <br><br>", 
         "packArtLarge": "/196875/231.0x326.0/1061687_LB_231x326_en_US_^_2017-07-12-23-57-35_1c0df97e30591720268602253c87e82012f18bb4.jpg", 
         "packArtMedium": "/196875/142.0x200.0/1061687_MB_142x200_en_US_^_2017-07-12-23-57-57_3040b722742b359d4d1372e958723a6ec2e5a60e.jpg", 
         "packArtSmall": "/196875/63.0x89.0/1061687_SB_63x89_en_US_^_2017-07-12-23-58-11_868b7009ee1d83567b2bf1a5f0e5eecdfb1e347e.jpg", 
@@ -72,7 +72,7 @@
         "publisherFacetKey": null, 
         "ratingSystemIcon": null, 
         "shortDescription": "Hello Neighbor Alpha", 
-        "systemRequirements": null
+        "systemRequirements": "<b>OS: </b>Windows 7 and up<br>\n<b>Processor:</b> i5 and up<br>\n<b>Memory:</b> 6 GB RAM<br>\n<b>Graphics:</b> GTX 770 and up<br>\n<b>Storage:</b> 2 GB available space<br>\n<b>Sound Card:</b> Stereo. Play with good stereo.<br><br>"
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
