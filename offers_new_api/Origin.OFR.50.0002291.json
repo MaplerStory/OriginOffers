@@ -26,8 +26,8 @@
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
-        "Origin.OFR.50.0002331", 
         "Origin.OFR.50.0002332", 
+        "Origin.OFR.50.0002331", 
         "Origin.OFR.50.0002333", 
         "Origin.OFR.50.0002334"
     ], 
