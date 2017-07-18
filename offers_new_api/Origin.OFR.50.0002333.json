@@ -18,7 +18,7 @@
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": null
     }, 
     "developerFacetKey": null, 
     "duration": null, 

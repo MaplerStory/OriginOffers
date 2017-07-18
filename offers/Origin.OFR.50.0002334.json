@@ -3,14 +3,7 @@
         "platform": "PCWIN"
     }, 
     "countries": {
-        "country": [
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "DEFAULT"
-            }
-        ]
+        "country": []
     }, 
     "customAttributes": {
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
@@ -91,5 +84,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-07-14T11:48:50Z"
+    "updatedDate": "2017-07-18T14:01:54Z"
 }

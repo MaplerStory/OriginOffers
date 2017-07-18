@@ -10,16 +10,20 @@
     "contentId": "196875", 
     "countries": {
         "bannedCountries": [], 
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
+        "catalogPrice": 0.0, 
+        "catalogPriceA": [
+            0.0
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
         "giftable": "N", 
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": null
     }, 
     "developerFacetKey": null, 
     "duration": null, 

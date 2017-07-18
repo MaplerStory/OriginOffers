@@ -3,14 +3,7 @@
         "platform": "PCWIN"
     }, 
     "countries": {
-        "country": [
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "DEFAULT"
-            }
-        ]
+        "country": []
     }, 
     "customAttributes": {
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
@@ -75,6 +68,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/tiny_build/hello_neighbor/fg__ww_x0_hello_neighbor_alpha/hello_neighborpcfg__ww_x0_hello_neighbor_alpharun_1__20170718_1000001b7792e6bb430aaeb1bb8fd993b5c0.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-07-18T16:22:38Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
@@ -96,5 +100,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-07-11T21:39:24Z"
+    "updatedDate": "2017-07-18T13:49:53Z"
 }
