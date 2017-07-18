@@ -107,7 +107,7 @@
     "franchiseFacetKey": "fifa", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "ICON Edition", 
-    "gameEditionTypeFacetKeyRankDesc": "9000", 
+    "gameEditionTypeFacetKeyRankDesc": null, 
     "gameNameFacetKey": "fifa-18", 
     "gameRatingDesc": [], 
     "gameRatingDescriptionLong": "Visit www.esrb.org for rating information.", 
