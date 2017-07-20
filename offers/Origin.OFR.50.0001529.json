@@ -383,7 +383,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Rocksteady Studios\\Batman Arkham Asylum GOTY\\Install Dir]Binaries\\BmLauncher.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Rocksteady Studios\\Batman Arkham Asylum GOTY\\Install Dir]Binaries\\BmLauncher.exe", 
                         "installationDirectory": "Batman Arkham Asylum Game of the Year Edition", 
-                        "monitorPlay": false, 
+                        "monitorPlay": true, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

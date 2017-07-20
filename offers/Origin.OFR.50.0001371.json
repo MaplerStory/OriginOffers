@@ -171,7 +171,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Gaslamp Games\\Dungeons of Dredmor\\Install Dir]Dungeons of Dredmor.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Gaslamp Games\\Dungeons of Dredmor\\Install Dir]Dungeons of Dredmor.exe", 
                         "installationDirectory": "Dungeons of Dredmor", 
-                        "monitorPlay": false, 
+                        "monitorPlay": true, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

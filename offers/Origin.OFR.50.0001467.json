@@ -535,7 +535,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Frozenbyte\\Shadwen\\Install Dir]Shadwen_launcher.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Frozenbyte\\Shadwen\\Install Dir]Shadwen_launcher.exe", 
                         "installationDirectory": "Shadwen", 
-                        "monitorPlay": false, 
+                        "monitorPlay": true, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

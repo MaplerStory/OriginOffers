@@ -390,7 +390,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Supergiant Games\\Bastion\\Install Dir]EALaunchHelper.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Supergiant Games\\Bastion\\Install Dir]EALaunchHelper.exe", 
                         "installationDirectory": "Bastion", 
-                        "monitorPlay": false, 
+                        "monitorPlay": true, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

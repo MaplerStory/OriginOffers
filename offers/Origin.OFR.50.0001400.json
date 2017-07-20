@@ -584,7 +584,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Stoic\\The Banner Saga 2\\Install Dir]win32\\The Banner Saga 2.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Stoic\\The Banner Saga 2\\Install Dir]win32\\The Banner Saga 2.exe", 
                         "installationDirectory": "The Banner Saga 2", 
-                        "monitorPlay": false, 
+                        "monitorPlay": true, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 

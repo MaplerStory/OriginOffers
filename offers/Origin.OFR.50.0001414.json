@@ -929,7 +929,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Rocksteady Studios\\Batman Arkham City GOTY\\Install Dir]Binaries\\Win32\\BmLauncher.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Rocksteady Studios\\Batman Arkham City GOTY\\Install Dir]Binaries\\Win32\\BmLauncher.exe", 
                         "installationDirectory": "Batman Arkham City Game of the Year Edition", 
-                        "monitorPlay": false, 
+                        "monitorPlay": true, 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 
