@@ -1,0 +1,106 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1061905"
+    }, 
+    "financeId": "1061905", 
+    "itemId": "Origin.ITM.50.0002017", 
+    "itemName": "STEAMWORLD DIG - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "SteamWorld Dig", 
+        "shortDescription": "SteamWorld Dig"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "STEAMWORLD DIG", 
+                    "masterTitleId": 196933
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002355", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196933", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2013-12-05T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2013-12-05T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Documents%/My Games/SteamWorld Dig/controls.cfg</exclude> <exclude order=\"1\">%Documents%/My Games/SteamWorld Dig/gamepads.cfg</exclude> <exclude order=\"2\">%Documents%/My Games/SteamWorld Dig/settings.xml</exclude> <include order=\"3\">*.xml</include> <include order=\"4\">%Documents%/My Games/SteamWorld Dig/profile_0.xml</include> <include order=\"5\">%Documents%/My Games/SteamWorld Dig/profile_0.xml.backup</include> <include order=\"6\">%Documents%/My Games/SteamWorld Dig/profile_1.xml</include> <include order=\"7\">%Documents%/My Games/SteamWorld Dig/profile_1.xml.backup</include> <include order=\"8\">%Documents%/My Games/SteamWorld Dig/profile_2.xml</include> <include order=\"9\">%Documents%/My Games/SteamWorld Dig/profile_2.xml.backup</include> <include order=\"10\">%Documents%/My Games/SteamWorld Dig/*.dat</include> <include order=\"11\">%Documents%/My Games/SteamWorld Dig/session.xml</include> <include order=\"12\">%Documents%/My Games/SteamWorld Dig/session.xml.backup</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Image & Form\\SteamWorld Dig\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Image & Form\\SteamWorld Dig\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "SteamWorld Dig"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000762", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "hu_HU"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-07-25T17:45:29Z"
+}
