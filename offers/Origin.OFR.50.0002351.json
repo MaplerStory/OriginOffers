@@ -63,8 +63,8 @@
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\4A Games\\Deep Silver\\Install Dir]__Installer\\installerdata.xml", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\4A Games\\Deep Silver\\Install Dir]__Installer\\installerdata.xml", 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\4A Games\\Metro Last Light Redux\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\4A Games\\Metro Last Light Redux\\Install Dir]__Installer\\installerdata.xml", 
                         "installationDirectory": "Metro Last Light Redux"
                     }, 
                     "softwareId": "Origin.SFT.50.0000759", 
