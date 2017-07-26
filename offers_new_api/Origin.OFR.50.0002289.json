@@ -47,7 +47,7 @@
     "gameRatingTypeValue": "Rating Pending", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
-    "genreFacetKey": null, 
+    "genreFacetKey": "First person", 
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 
@@ -73,7 +73,7 @@
         "publisherFacetKey": null, 
         "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
         "shortDescription": "What horrible secrets are hiding in the basement?", 
-        "systemRequirements": "<b>OS: </b>Windows 7 and up<br>\n<b>Processor:</b> i5 and up<br>\n<b>Memory:</b> 6 GB RAM<br>\n<b>Graphics:</b> GTX 770 and up<br>\n<b>Storage:</b> 2 GB available space<br>\n<b>Sound Card:</b> Stereo. Play with good stereo.<br><br>"
+        "systemRequirements": "<b>OS: </b>Windows 7 64 Bit and up<br>\n<b>Processor:</b> i5 and up<br>\n<b>Memory:</b> 6 GB RAM<br>\n<b>Graphics:</b> GTX 770 and up<br>\n<b>Storage:</b> 2 GB available space<br>\n<b>Sound Card:</b> Stereo. Play with good stereo.<br><br>"
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
