@@ -120,7 +120,7 @@
     }, 
     "financeId": "1061194", 
     "itemId": "Origin.ITM.50.0001942", 
-    "itemName": "EA Family Bundle - PC - WW (Origin)", 
+    "itemName": "EA Family Bundle - PC - ROW (Origin)", 
     "localizableAttributes": {
         "displayName": "EA Family Bundle", 
         "longDescription": "Whether you want to enjoy the biggest, craziest battle in the universe with Plants vs. Zombies\u2122 Garden Warfare 2, push your limits with Need for Speed\u2122, or embark on a seemingly larger than life journey with Unravel<span style=\"font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;\">\u2122</span>, there is a game for everyone in the EA Family bundle!<br><br>\n\nBundle includes:<br>\n<b>Need for Speed\u2122</b>*<br>\nBecome the ultimate icon of today\u2019s urban car culture in Need for Speed\u2122, featuring Five Ways to Play and a huge open world to race and explore from dusk \u2018till dawn.<br><br>\n\n<b>Plants vs. Zombies\u2122 Garden Warfare 2</b><br>\nThe battle for suburbia grows to crazy new heights in Plants vs. Zombies\u2122 Garden Warfare 2! In this action-packed shooter, Dr. Zomboss has strengthened his horde and rebuilt suburbia as a zombie utopia.<br><br>\n\n<b>Unravel</b><b style=\"font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;\">\u2122</b><br>\nUnravel introduces Yarny, a new, lovable and endearing character made from a single thread of yarn. Embark with Yarny on a seemingly larger than life adventure to reconnect the long-lost memories of a family.", 
@@ -188,5 +188,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-07-25T09:46:20Z"
+    "updatedDate": "2017-07-28T18:48:59Z"
 }
