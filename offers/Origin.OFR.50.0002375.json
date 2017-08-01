@@ -1,0 +1,79 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1021672"
+    }, 
+    "financeId": "1021672", 
+    "itemId": "Origin.ITM.50.0000376", 
+    "itemName": "Origin Insider Account Bundle", 
+    "localizableAttributes": {
+        "displayName": "(Internal Only) FY16-FY18 EA Frontline Executive Review Bundle", 
+        "longDescription": "(Internal Only) FY16-FY18 EA Frontline Executive Review Bundle<br>", 
+        "shortDescription": "(Internal Only) FY16-FY18 EA Frontline Executive Review Bundle"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Other", 
+                    "franchiseId": 50823
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ORIGIN TOOLS - NON REV", 
+                    "masterTitleId": 180977
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002375", 
+    "offerType": "Bundle", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "MAC", 
+                    "releaseDate": "2017-07-01T00:00:00Z"
+                }, 
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-07-01T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-08-01T22:29:24Z"
+}

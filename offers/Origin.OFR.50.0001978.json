@@ -126,7 +126,7 @@
             "isDownloadable": true, 
             "isPublished": false, 
             "originDisplayType": "Full Game", 
-            "trialLaunchDuration": 1
+            "trialLaunchDuration": 10
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -166,5 +166,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-03-24T19:45:00Z"
+    "updatedDate": "2017-08-01T18:58:58Z"
 }

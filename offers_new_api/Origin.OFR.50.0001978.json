@@ -177,6 +177,6 @@
     ], 
     "storeGroupId": "Origin", 
     "suppressedOfferIds": [], 
-    "trialLaunchDuration": "1", 
+    "trialLaunchDuration": "10", 
     "vault": null
 }
