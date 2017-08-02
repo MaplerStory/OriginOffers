@@ -26,9 +26,9 @@
     "itemId": "Origin.ITM.50.0000376", 
     "itemName": "Origin Insider Account Bundle", 
     "localizableAttributes": {
-        "displayName": "(Internal Only) FY16-FY18 EA Frontline Executive Review Bundle", 
-        "longDescription": "(Internal Only) FY16-FY18 EA Frontline Executive Review Bundle<br>", 
-        "shortDescription": "(Internal Only) FY16-FY18 EA Frontline Executive Review Bundle"
+        "displayName": "(Internal Only) FY18 EA 3PDD Executive Review Bundle", 
+        "longDescription": "(Internal Only) FY18 EA 3PDD Executive Review Bundle<br>", 
+        "shortDescription": "(Internal Only) FY18 EA 3PDD Executive Review Bundle"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -45,7 +45,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002375", 
+    "offerId": "Origin.OFR.50.0002376", 
     "offerType": "Bundle", 
     "publishing": {
         "publishingAttributes": {
@@ -71,5 +71,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-01T22:40:44Z"
+    "updatedDate": "2017-08-01T23:04:59Z"
 }
