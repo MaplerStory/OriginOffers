@@ -97,7 +97,7 @@
     "itemId": "Origin.ITM.50.0001663", 
     "itemName": "FIFA 18 Standard Edition - PC - Russia (Origin/PG/3PDD)", 
     "localizableAttributes": {
-        "displayName": "FIFA 18 Trial Display Name Placeholder Text.", 
+        "displayName": "FIFA 18 (Trial)", 
         "longDescription": "FIFA 18 (RUSSIA CODESET) Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
         "shortDescription": "FIFA 18 (RUSSIA CODESET) Short Description Placeholder Text."
     }, 
@@ -166,5 +166,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-01T18:58:58Z"
+    "updatedDate": "2017-08-03T14:19:52Z"
 }
