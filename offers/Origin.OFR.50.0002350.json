@@ -73,6 +73,7 @@
                         ]
                     }, 
                     "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Documents%/4A Games/Metro 2033/*</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\4A Games\\Metro 2033 Redux\\Install Dir]__Installer\\installerdata.xml", 

@@ -72,6 +72,7 @@
                         ]
                     }, 
                     "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Documents%/4A Games/Metro Last Light/*</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\4A Games\\Metro Last Light Redux\\Install Dir]__Installer\\installerdata.xml", 
