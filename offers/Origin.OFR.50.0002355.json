@@ -56,6 +56,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.10.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.10.0.0", 
+                                "downloadURL": "/shift/image__form_/steamworld_dig/fg__ww_x0/steamworld_digpcfg__ww_x0run_1__20170725_11000abc76a4f65184b44b0316cbf3607d6c7.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-08-04T16:35:09Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Documents%/My Games/SteamWorld Dig/controls.cfg</exclude> <exclude order=\"1\">%Documents%/My Games/SteamWorld Dig/gamepads.cfg</exclude> <exclude order=\"2\">%Documents%/My Games/SteamWorld Dig/settings.xml</exclude> <include order=\"3\">*.xml</include> <include order=\"4\">%Documents%/My Games/SteamWorld Dig/profile_0.xml</include> <include order=\"5\">%Documents%/My Games/SteamWorld Dig/profile_0.xml.backup</include> <include order=\"6\">%Documents%/My Games/SteamWorld Dig/profile_1.xml</include> <include order=\"7\">%Documents%/My Games/SteamWorld Dig/profile_1.xml.backup</include> <include order=\"8\">%Documents%/My Games/SteamWorld Dig/profile_2.xml</include> <include order=\"9\">%Documents%/My Games/SteamWorld Dig/profile_2.xml.backup</include> <include order=\"10\">%Documents%/My Games/SteamWorld Dig/*.dat</include> <include order=\"11\">%Documents%/My Games/SteamWorld Dig/session.xml</include> <include order=\"12\">%Documents%/My Games/SteamWorld Dig/session.xml.backup</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 

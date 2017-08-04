@@ -5,16 +5,20 @@
     "contentId": "196759", 
     "countries": {
         "bannedCountries": [], 
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
-        "giftable": null, 
-        "hasSubscriberDiscount": "N", 
+        "catalogPrice": 19.99, 
+        "catalogPriceA": [
+            19.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
+        "giftable": "N", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
-        "isPurchasable": null
+        "isPublished": true, 
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "4A Games", 
     "duration": null, 
