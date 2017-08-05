@@ -381,7 +381,8 @@
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\4A Games\\Metro Last Light Redux\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\4A Games\\Metro Last Light Redux\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "Metro Last Light Redux"
+                        "installationDirectory": "Metro Last Light Redux", 
+                        "processorArchitecture": "64-bit"
                     }, 
                     "softwareId": "Origin.SFT.50.0000759", 
                     "softwarePlatform": "PCWIN"
