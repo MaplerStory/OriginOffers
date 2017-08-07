@@ -16,6 +16,9 @@
     "itemName": "STEAMWORLD HEIST - PC - WW (Origin)", 
     "localizableAttributes": {
         "displayName": "SteamWorld Heist", 
+        "packArtLarge": "/196937/231.0x326.0/1061907_LB_231x326_en_US_^_2017-08-07-13-45-37_c19b391dbde08445bb6eae51d5e19090993343a2.jpg", 
+        "packArtMedium": "/196937/142.0x200.0/1061907_MB_142x200_en_US_^_2017-08-07-13-45-51_23688153e0da43c26833cb6f48ff80cecc6accc2.jpg", 
+        "packArtSmall": "/196937/63.0x89.0/1061907_SB_63x89_en_US_^_2017-08-07-13-46-05_b93e7052ef597b9dee4a866f0392e87a365f12df.jpg", 
         "shortDescription": "SteamWorld Heist"
     }, 
     "mdmHierarchies": {
