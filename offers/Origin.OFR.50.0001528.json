@@ -92,8 +92,15 @@
                     "value": "pt_BR"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-01-01T00:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-04-11T01:10:14Z"
+    "updatedDate": "2017-08-08T21:55:07Z"
 }
