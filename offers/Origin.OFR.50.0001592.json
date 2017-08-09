@@ -8,12 +8,6 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "BR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "DEFAULT"
             }
         ]
@@ -81,11 +75,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableEndDate": "2017-04-03T17:00:00Z"
+                    "storeAvailableEndDate": "2017-04-03T17:00:01Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-03-31T21:24:25Z"
+    "updatedDate": "2017-08-09T20:52:42Z"
 }
