@@ -10,6 +10,7 @@
     "contentId": "1027460", 
     "countries": {
         "bannedCountries": [], 
+        "billingDate": null, 
         "catalogPrice": null, 
         "catalogPriceA": [], 
         "countryCurrency": null, 

@@ -5,6 +5,7 @@
     "contentId": null, 
     "countries": {
         "bannedCountries": [], 
+        "billingDate": null, 
         "catalogPrice": 100.0, 
         "catalogPriceA": [
             100.0

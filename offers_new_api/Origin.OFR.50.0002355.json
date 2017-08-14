@@ -5,6 +5,7 @@
     "contentId": "196933", 
     "countries": {
         "bannedCountries": [], 
+        "billingDate": null, 
         "catalogPrice": null, 
         "catalogPriceA": [], 
         "countryCurrency": null, 

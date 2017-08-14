@@ -5,6 +5,7 @@
     "contentId": "182633_demo", 
     "countries": {
         "bannedCountries": [], 
+        "billingDate": null, 
         "catalogPrice": 0.0, 
         "catalogPriceA": [
             0.0

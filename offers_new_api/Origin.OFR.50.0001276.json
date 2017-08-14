@@ -5,6 +5,7 @@
     "contentId": "client_automation_dip_drm", 
     "countries": {
         "bannedCountries": [], 
+        "billingDate": null, 
         "catalogPrice": 0.0, 
         "catalogPriceA": [
             0.0

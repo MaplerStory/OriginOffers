@@ -9,6 +9,7 @@
     "contentId": "195260", 
     "countries": {
         "bannedCountries": [], 
+        "billingDate": null, 
         "catalogPrice": 6.99, 
         "catalogPriceA": [
             6.99
@@ -24,7 +25,7 @@
         "isPublished": true, 
         "isPurchasable": "Y"
     }, 
-    "developerFacetKey": null, 
+    "developerFacetKey": "Gaslamp Games, Inc.", 
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
@@ -109,7 +110,7 @@
         }
     ], 
     "projectNumber": "314250", 
-    "publisherFacetKey": null, 
+    "publisherFacetKey": "Gaslamp Games, Inc.", 
     "ratingSystemIcon": null, 
     "rbuCode": "3131", 
     "revenueModel": "Digital - Full Game", 

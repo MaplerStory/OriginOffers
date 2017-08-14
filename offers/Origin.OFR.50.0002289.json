@@ -555,7 +555,7 @@
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
-            "contentId": "196875", 
+            "contentId": "1061674", 
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
@@ -565,9 +565,9 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2017-08-29T17:00:00Z", 
+                    "downloadStartDate": "2017-12-08T18:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2017-08-29T17:00:00Z"
+                    "releaseDate": "2017-12-08T18:00:00Z"
                 }
             ]
         }, 
@@ -602,5 +602,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-07-20T14:51:52Z"
+    "updatedDate": "2017-08-14T19:32:41Z"
 }
