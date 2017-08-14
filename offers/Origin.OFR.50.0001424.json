@@ -61,8 +61,15 @@
                     "releaseDate": "2016-04-28T12:00:00Z"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-01-01T00:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-04-06T21:30:42Z"
+    "updatedDate": "2017-08-14T13:13:47Z"
 }
