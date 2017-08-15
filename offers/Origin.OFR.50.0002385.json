@@ -1,0 +1,102 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0002331", 
+            "Origin.OFR.50.0002334", 
+            "Origin.OFR.50.0002332", 
+            "Origin.OFR.50.0002333"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1062682"
+    }, 
+    "financeId": "1062682", 
+    "itemId": "Origin.ITM.50.0002040", 
+    "itemName": "HELLO NEIGHBOR - BETA - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Hello Neighbor Beta", 
+        "longDescription": "Pre-purchase Hello Neighbor and get instant access to pre-alpha and alpha builds.", 
+        "packArtLarge": "/196875/231.0x326.0/1062682_LB_231x326_en_US_^_2017-08-14-12-50-10_31988f49056dd1bf362b8045a6ee3f8ec414e394.jpg", 
+        "packArtMedium": "/196875/142.0x200.0/1062682_MB_142x200_en_US_^_2017-08-14-12-50-43_f0114fae236933d0ac514ed16c7e560a56f92eb5.jpg", 
+        "packArtSmall": "/196875/63.0x89.0/1062682_SB_63x89_en_US_^_2017-08-14-12-51-18_99b272df8af5c3c8352c7b377ff1f86c27b02cb9.jpg", 
+        "shortDescription": "Hello Neighbor Beta"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "HELLO NEIGHBOR", 
+                    "masterTitleId": 196875
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002385", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1062682", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-08-14T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-08-14T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/tiny_build/hello_neighbor/fg__ww_x0__hello_neighbor_beta/hello_neighborpcfg__ww_x0__hello_neighbor_betarun_1__20170815_1000be1dd6518254423891b33cc8f27c50f7.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-08-15T15:47:09Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Beta\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Dynamic Pixels\\Hello Neighbor Beta\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Hello Neighbor Beta", 
+                        "processorArchitecture": "64-bit"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000785", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-08-15T14:45:07Z"
+}
