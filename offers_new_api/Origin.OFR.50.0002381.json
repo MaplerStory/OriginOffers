@@ -86,7 +86,7 @@
         {
             "achievementSetOverride": null, 
             "commerceProfile": null, 
-            "downloadPackageType": null, 
+            "downloadPackageType": "DownloadInPlace", 
             "downloadStartDate": "2008-09-29T00:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 

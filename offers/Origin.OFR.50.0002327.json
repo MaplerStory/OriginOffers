@@ -26,15 +26,15 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1062281"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1061866"
     }, 
-    "financeId": "1062281", 
-    "itemId": "Origin.ITM.50.0002016", 
-    "itemName": "TEST ONLY - Origin Access Membership - Non-Recurring 1 day", 
+    "financeId": "1061866", 
+    "itemId": "Origin.ITM.50.0001988", 
+    "itemName": "Origin Access Membership - Non-Recurring 3 months", 
     "localizableAttributes": {
-        "displayName": "TEST USE ONLY - Origin Access 1-day membership", 
-        "longDescription": "TEST USE ONLY - Origin Access 1-day membership", 
-        "shortDescription": "TEST USE ONLY - Origin Access 1-day membership"
+        "displayName": "Origin Access 3-month membership (non-recurring)", 
+        "longDescription": "Origin Access 3-month membership (non-recurring)", 
+        "shortDescription": "Origin Access 3-month membership (non-recurring)"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -51,7 +51,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002354", 
+    "offerId": "Origin.OFR.50.0002327", 
     "offerType": "Subscription", 
     "publishing": {
         "publishingAttributes": {
@@ -62,18 +62,18 @@
             "softwareControlDate": [
                 {
                     "platform": "PCWIN", 
-                    "releaseDate": "2017-07-01T00:00:00Z"
+                    "releaseDate": "2017-08-01T00:00:00Z"
                 }
             ]
         }, 
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableStartDate": "2017-07-24T00:00:00Z"
+                    "storeAvailableStartDate": "2017-07-13T00:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-07-25T18:58:37Z"
+    "updatedDate": "2017-08-08T20:08:51Z"
 }

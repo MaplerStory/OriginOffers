@@ -70,6 +70,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.61.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.61.0.0", 
+                                "downloadURL": "/shift/another_indie/lost_castle/fg__ww_x0/lost_castlepcfg__ww_x0run_1__20170815_161000adbe944270445f7bd3c2859923d2b12.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-08-15T19:42:37Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_196753_50844", 
                         "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%InstallDir%/x86/Lost_Castle_Data/lc_game_data</include> <include order=\"1\">%InstallDir%/x86/Lost_Castle_Data/lc_game_profile</include> <include order=\"2\">%InstallDir%/x86/Lost_Castle_Data/lc_game_manual</include> <include order=\"3\">%InstallDir%/x64/Lost_Castle_Data/lc_game_data</include> <include order=\"4\">%InstallDir%/x64/Lost_Castle_Data/lc_game_profile</include> <include order=\"5\">%InstallDir%/x64/Lost_Castle_Data/lc_game_manual</include> <include order=\"6\">%InstallDir%/x86/Lost_Castle_Data/lc_game_achievements</include> <include order=\"7\">%InstallDir%/x64/Lost_Castle_Data/lc_game_achievements</include> </saveFileCriteria>", 

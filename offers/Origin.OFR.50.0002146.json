@@ -6,6 +6,12 @@
         "country": [
             {
                 "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
@@ -49,7 +55,7 @@
     "offerType": "Subscription", 
     "publishing": {
         "publishingAttributes": {
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "None"
         }, 
         "softwareControlDates": {
@@ -59,8 +65,15 @@
                     "releaseDate": "2017-04-01T00:00:00Z"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-07-24T00:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-07-25T19:02:43Z"
+    "updatedDate": "2017-07-25T18:59:47Z"
 }
