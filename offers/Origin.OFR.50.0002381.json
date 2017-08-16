@@ -61,11 +61,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.0", 
-                                "downloadURL": "/shift/warner_brothers_interactive/lego_batman/fg__ww_x0/lego_batmanpcfg__ww_x0run_1__20170815_1000359de5e43ebd4448917d6e9e3f10a5c4.zip", 
+                                "downloadURL": "/shift/warner_brothers_interactive/lego_batman/fg__ww_x0/lego_batmanpcfg__ww_x0run_2__20170816_10008538a317490b43ef90870d0d6d22f2a0.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2017-08-15T22:27:33Z"
+                                "effectiveDate": "2017-08-16T00:00:51Z"
                             }
                         ]
                     }, 
