@@ -7,7 +7,7 @@
     "contentId": "196400", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
+        "billingDate": "2017-02-06T18:00:00Z", 
         "catalogPrice": 19.99, 
         "catalogPriceA": [
             19.99

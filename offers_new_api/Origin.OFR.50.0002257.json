@@ -5,7 +5,7 @@
     "contentId": null, 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
+        "billingDate": "2017-04-23T17:00:00Z", 
         "catalogPrice": 2.99, 
         "catalogPriceA": [
             2.99

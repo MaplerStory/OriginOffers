@@ -65,7 +65,7 @@
         "shortDescription": "TEST USE ONLY - Origin Access 5-day membership", 
         "systemRequirements": null
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": null, 
     "isShellBundle": "N", 

@@ -9,7 +9,7 @@
     "contentId": null, 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
+        "billingDate": "2017-09-01T00:00:00Z", 
         "catalogPrice": null, 
         "catalogPriceA": [], 
         "countryCurrency": null, 
@@ -69,7 +69,7 @@
         "shortDescription": "FIFA 18 BUNDLED STANDARD EDITION PRE-ORDER (SINGLE CODE FOR RETAIL) (WW)", 
         "systemRequirements": null
     }, 
-    "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod", 
+    "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": null, 
     "isShellBundle": "Y", 
