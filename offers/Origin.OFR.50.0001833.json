@@ -53,7 +53,7 @@
     "publishing": {
         "publishingAttributes": {
             "greyMarketControls": false, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Game Only"
         }, 
         "softwareControlDates": {
@@ -99,8 +99,15 @@
                     "value": "zh_TW"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-01-01T00:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-04-28T08:35:46Z"
+    "updatedDate": "2017-08-18T17:29:36Z"
 }

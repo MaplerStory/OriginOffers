@@ -653,6 +653,7 @@
                         "installationDirectory": "Dead in Bermuda", 
                         "monitorInstall": true, 
                         "monitorPlay": true, 
+                        "oigClientBehavior": "Blacklist", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
                     }, 
