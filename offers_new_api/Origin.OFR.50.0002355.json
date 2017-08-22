@@ -76,7 +76,7 @@
     "masterTitle": "STEAMWORLD DIG", 
     "masterTitleId": "196933", 
     "mdmItemType": "Full Game", 
-    "numberOfPlayersFacetKey": null, 
+    "numberOfPlayersFacetKey": "SinglePlayer", 
     "offerId": "Origin.OFR.50.0002355", 
     "offerPath": "/steamworld/steamworld-dig/standard-edition", 
     "offerType": "Base Game", 
@@ -98,7 +98,7 @@
         }
     ], 
     "projectNumber": "316122", 
-    "publisherFacetKey": null, 
+    "publisherFacetKey": "Image & Form", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
