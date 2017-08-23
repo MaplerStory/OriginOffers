@@ -160,11 +160,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableStartDate": "2017-01-01T17:00:07Z"
+                    "storeAvailableStartDate": "2017-01-01T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-03T07:35:37Z"
+    "updatedDate": "2017-08-23T09:24:13Z"
 }
