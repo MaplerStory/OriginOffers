@@ -493,7 +493,7 @@
         ]
     }, 
     "offerId": "Origin.OFR.50.0002353", 
-    "offerType": "Base Game", 
+    "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
             "gameDistributionSubType": "Normal Game", 
@@ -586,5 +586,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-07-28T11:08:38Z"
+    "updatedDate": "2017-08-23T16:03:06Z"
 }
