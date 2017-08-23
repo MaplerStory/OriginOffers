@@ -1,0 +1,107 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1062548"
+    }, 
+    "financeId": "1062548", 
+    "itemId": "Origin.ITM.50.0002038", 
+    "itemName": "Distrust - Original Soundtrack  - PC - WW - (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Distrust Original Soundtrack", 
+        "longDescription": "Distrust Original Soundtrack", 
+        "packArtLarge": "/196981/231.0x326.0/1062547_LB_231x326_en_US_^_2017-08-08-16-08-21_ff1c14924877196be6c2bbb233b2eae573d9fe22.jpg", 
+        "packArtMedium": "/196981/142.0x200.0/1062547_MB_142x200_en_US_^_2017-08-08-16-08-41_a12fc4aacccdc5834c9026b9cd9441a8a32b77f4.jpg", 
+        "packArtSmall": "/196981/63.0x89.0/1062547_SB_63x89_en_US_^_2017-08-08-16-08-57_09b22d586776978669eb1f57abfb364038f8d66f.jpg", 
+        "shortDescription": "Distrust Original Soundtrack"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DISTRUST", 
+                    "masterTitleId": 196981
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002383", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-08-23T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-08-23T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" useGameVersionFromManifest=\"0\"/>    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/alawar_entertainment/distrust/dlc__ww_x0_distrust___original_soundtrack/distrustpcdlc__ww_x0_distrust___original_soundtrackrun_2__20170821_100070d945cdd5b34a34ba6b30fe5de82e67.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-08-21T09:59:58Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Cheerdealers\\Distrust\\Install Dir]\\Distrust Original Soundtrack", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Cheerdealers\\Distrust\\Install Dir]\\__Installer\\DLC\\DISTRUST_ORIGINAL_SOUNDTRACK\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer\\DLC\\DISTRUST_ORIGINAL_SOUNDTRACK", 
+                        "monitorPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000777", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-08-10T21:45:47Z"
+}
