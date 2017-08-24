@@ -574,18 +574,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.0", 
-                                "downloadURL": "/shift/alawar_entertainment/distrust/fg__ww_x0/distrustpcfg__ww_x0run_1__20170821_100025cbc09ae8394d6aacb222e8fd16aca9.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-08-21T09:29:31Z"
-                            }, 
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.1\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.1\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.1", 
                                 "downloadURL": "/shift/alawar_entertainment/distrust/fg__ww_x0/distrustpcfg__ww_x0run_2__20170823_10019cff0c644b714e8180af711d9d44b184.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2037-08-23T19:56:59Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-08-24T16:00:59Z"
                             }
                         ]
                     }, 
@@ -595,7 +588,8 @@
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Cheerdealers\\Distrust\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Cheerdealers\\Distrust\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "Distrust"
+                        "installationDirectory": "Distrust", 
+                        "oigClientBehavior": "Blacklist"
                     }, 
                     "softwareId": "Origin.SFT.50.0000770", 
                     "softwarePlatform": "PCWIN"
