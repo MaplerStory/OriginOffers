@@ -566,8 +566,15 @@
                     "value": "ru_RU"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-01-01T00:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2015-11-16T19:16:59Z"
+    "updatedDate": "2017-08-25T09:36:39Z"
 }
