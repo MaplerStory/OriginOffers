@@ -94,6 +94,7 @@
             "Origin.OFR.50.0002125", 
             "Origin.OFR.50.0002123", 
             "Origin.OFR.50.0002124", 
+            "Origin.OFR.50.0002129", 
             "Origin.OFR.50.0002127", 
             "Origin.OFR.50.0002128", 
             "Origin.OFR.50.0002080", 
@@ -185,6 +186,7 @@
         "publishingAttributes": {
             "contentId": "193608", 
             "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
             "isDownloadable": true, 
             "isPublished": true, 
             "originDisplayType": "Full Game"
