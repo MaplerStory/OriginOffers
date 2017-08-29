@@ -584,8 +584,15 @@
                     "value": "zh_CN"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-01-01T00:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-03-31T21:21:03Z"
+    "updatedDate": "2017-08-29T09:45:56Z"
 }
