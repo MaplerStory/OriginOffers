@@ -69,6 +69,13 @@
                                 "downloadURL": "/shift/image__form_/steamworld_heist/fg__ww_x0/steamworld_heistpcfg__ww_x0run_1__20170725_2320a8ff902fbe57497eafa59517ca943202.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-08-04T16:35:09Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"2.3.2.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "2.3.2.0", 
+                                "downloadURL": "/shift/image__form_/steamworld_heist/fg__ww_x0/steamworld_heistpcfg__ww_x0run_2__20170829_2320b7aca8eec9ea4b6f9ef3c75aab9f9f81.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-08-29T18:56:29Z"
                             }
                         ]
                     }, 

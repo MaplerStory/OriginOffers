@@ -385,6 +385,13 @@
                                 "downloadURL": "/shift/image__form_/steamworld_dig/fg__ww_x0/steamworld_digpcfg__ww_x0run_1__20170725_11000abc76a4f65184b44b0316cbf3607d6c7.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-08-04T16:35:09Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.10.0.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.10.0.0", 
+                                "downloadURL": "/shift/image__form_/steamworld_dig/fg__ww_x0/steamworld_digpcfg__ww_x0run_3__20170829_110002e02b154d2e1445c8567e13e2023a8c1.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-08-29T19:05:35Z"
                             }
                         ]
                     }, 
