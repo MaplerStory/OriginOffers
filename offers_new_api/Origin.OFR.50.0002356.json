@@ -41,7 +41,7 @@
     "gameRatingTypeValue": "Everyone 10+", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
-    "genreFacetKey": "Strategy", 
+    "genreFacetKey": "Action,Strategy", 
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 
