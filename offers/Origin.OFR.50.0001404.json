@@ -420,12 +420,10 @@
         }, 
         "storeControlDates": {
             "storeControlDate": [
-                {
-                    "storeAvailableStartDate": "2016-06-30T00:00:00Z"
-                }
+                {}
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2016-06-29T21:29:17Z"
+    "updatedDate": "2017-08-29T23:58:57Z"
 }

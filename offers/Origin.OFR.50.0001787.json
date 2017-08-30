@@ -162,12 +162,10 @@
         }, 
         "storeControlDates": {
             "storeControlDate": [
-                {
-                    "storeAvailableStartDate": "2016-10-25T17:00:00Z"
-                }
+                {}
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-11T22:31:48Z"
+    "updatedDate": "2017-08-29T23:58:49Z"
 }
