@@ -1,0 +1,698 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "EH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ET"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "FR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "HM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "IE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "IT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ML"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SB"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "WF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "WS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "YT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZW"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "5000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1062242"
+    }, 
+    "financeId": "1062242", 
+    "itemId": "Origin.ITM.50.0002054", 
+    "itemName": "Please Knock On My Door - Soundtrack - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Please Knock on My Door - Official soundtrack", 
+        "longDescription": "Official soundtrack for Please Knock on My Door made by Ola B\u00e4ckstr\u00f6m. \nSince many tracks are closely tied to the game\u2019s story, it is recommended that you play through Please Knock on My Door before listening to the soundtrack.\nTracklist:\n1 Please Knock on My Door Theme\n2 Memories\n3 Morning\n4 Routine\n5 Night Falls\n6 Failure\n7 Numb\n8 Diary\n9 Limbo\n10 Anxiety\n11 Choices\n12 Go Home\n13 Our High School Club\n14 Open\n15 Clear Skies\n16 Echoes\n17 Slow\n18 Unending\n19 Darkness\n20 Rip\n21 Tear\n22 Crash\n23 Finality\n24 Courage\n25 Shackled\n26 Crumbling Walls\n27 Hope\n28 Goodbye, friend", 
+        "packArtLarge": "/196873/231.0x326.0/1061686_LB_231x326_en_US_^_2017-07-24-21-22-03_ef6862e51e7bfdd86f5d3cf17bcf06e3163671ea.jpg", 
+        "packArtMedium": "/196873/142.0x200.0/1061686_MB_142x200_en_US_^_2017-07-24-21-22-14_65e04ef4874b074aa79d50a7c9a278f7a1299c52.jpg", 
+        "packArtSmall": "/196873/63.0x89.0/1061686_SB_63x89_en_US_^_2017-07-24-21-22-24_ee7fc49fdb50c75b2d3ede6441ac35349697a555.jpg", 
+        "shortDescription": "Official soundtrack for Please Knock on My Door"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "PLEASE KNOCK ON MY DOOR", 
+                    "masterTitleId": 196873
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002398", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-07T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-07T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" useGameVersionFromManifest=\"0\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/levall_ab/please_knock_on_my_door/dlc__ww_pkomd_soundtrack/please_knock_on_my_doorpcdlc__ww_pkomd_soundtrackrun_1__20170831_1000c0a1bdfeebc448949b994b075cb7fd98.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-08-31T23:40:44Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Levall Games AB\\Please Knock on My Door\\Install Dir]\\PKoMD OST", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Levall Games AB\\Please Knock on My Door\\Install Dir]\\__Installer\\DLC\\PKOMD_OST\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer\\DLC\\PKOMD_OST", 
+                        "monitorPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000797", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2016-09-07T17:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-08-31T17:14:51Z"
+}

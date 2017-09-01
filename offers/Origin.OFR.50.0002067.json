@@ -1,0 +1,130 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "1000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1056998"
+    }, 
+    "financeId": "1056998", 
+    "itemId": "Origin.ITM.50.0001752", 
+    "itemName": "FIFA 18 Ultimate Team Pack: Jumbo Premium Bronze Pack - PC - WW (In-game)", 
+    "localizableAttributes": {
+        "displayName": "Jumbo Premium Bronze Pack", 
+        "longDescription": "Double the size of a Premium Bronze Pack with an extra Rare! A mix of 24 items, including players, club items and consumables, at least 20 Bronze with 7 Rares.", 
+        "packArtLarge": "/193608/231.0x326.0/1049808_LB_231x326_en_US_^_2017-05-19-17-12-25_7757a10dd968584c932211ec525449c778db7912.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1049808_MB_142x200_en_US_^_2017-05-19-17-12-38_0bc68f055edc157083240edf1512cc48ec6462c1.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1049808_SB_63x89_en_US_^_2017-05-19-17-12-54_cccaa6d6a353bec9f20f76047d616e2330e86ba5.jpg", 
+        "shortDescription": "Double the size of a Premium Bronze Pack with an extra Rare! A mix of 24 items, including players, club items and consumables, at least 20 Bronze with 7 Rares."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 18", 
+                    "masterTitleId": 193608
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002067", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-11T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-11T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-08-31T23:33:00Z"
+}
