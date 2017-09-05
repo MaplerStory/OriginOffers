@@ -359,7 +359,7 @@
     "publishing": {
         "publishingAttributes": {
             "contentId": "196933", 
-            "gameDistributionSubType": "Normal Game", 
+            "gameDistributionSubType": "On the House", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
             "isPublished": true, 
@@ -441,5 +441,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-29T10:30:52Z"
+    "updatedDate": "2017-09-05T11:11:56Z"
 }

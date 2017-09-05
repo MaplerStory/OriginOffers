@@ -15,7 +15,7 @@
             "USD"
         ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "Y", 
+        "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": true, 
@@ -29,7 +29,7 @@
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
     "franchiseFacetKey": "steamworld", 
-    "gameDistributionSubType": "Normal Game", 
+    "gameDistributionSubType": "On the House", 
     "gameEditionTypeFacetKey": "Standard Edition", 
     "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "steamworld-dig", 
