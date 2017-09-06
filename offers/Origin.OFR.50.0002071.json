@@ -20,18 +20,18 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1057026"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1057000"
     }, 
-    "financeId": "1057026", 
-    "itemId": "Origin.ITM.50.0001758", 
-    "itemName": "FIFA 18 Ultimate Team Pack: Rare Consumables Pack - PC - WW (In-game)", 
+    "financeId": "1057000", 
+    "itemId": "Origin.ITM.50.0001756", 
+    "itemName": "FIFA 18 Ultimate Team Pack: Premium Silver Pack - PC - WW (In-game)", 
     "localizableAttributes": {
-        "displayName": "Rare Consumables Pack", 
-        "longDescription": "The most unique consumables, all in a single pack! Includes 12 consumables, all Gold, all Rare.", 
+        "displayName": "Premium Silver Pack", 
+        "longDescription": "Triple the Rares of a standard Silver Pack! A mix of 12 items, including players and consumables, at least 11 Silver with 3 Rares.", 
         "packArtLarge": "/193608/231.0x326.0/1049808_LB_231x326_en_US_^_2017-05-19-17-12-25_7757a10dd968584c932211ec525449c778db7912.jpg", 
         "packArtMedium": "/193608/142.0x200.0/1049808_MB_142x200_en_US_^_2017-05-19-17-12-38_0bc68f055edc157083240edf1512cc48ec6462c1.jpg", 
         "packArtSmall": "/193608/63.0x89.0/1049808_SB_63x89_en_US_^_2017-05-19-17-12-54_cccaa6d6a353bec9f20f76047d616e2330e86ba5.jpg", 
-        "shortDescription": "The most unique consumables, all in a single pack! Includes 12 consumables, all Gold, all Rare."
+        "shortDescription": "Triple the Rares of a standard Silver Pack! A mix of 12 items, including players and consumables, at least 11 Silver with 3 Rares."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -48,7 +48,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002073", 
+    "offerId": "Origin.OFR.50.0002071", 
     "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
@@ -60,9 +60,8 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2017-09-11T17:00:00Z", 
-                    "platform": "PCWIN", 
-                    "releaseDate": "2017-09-11T17:00:00Z"
+                    "downloadStartDate": "2025-08-07T11:51:19Z", 
+                    "platform": "PCWIN"
                 }
             ]
         }, 
