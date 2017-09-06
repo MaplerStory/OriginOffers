@@ -14,7 +14,7 @@
         "countryCurrencyA": [
             "_FF"
         ], 
-        "giftable": "N", 
+        "giftable": "Y", 
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
@@ -91,12 +91,12 @@
             "achievementSetOverride": null, 
             "commerceProfile": null, 
             "downloadPackageType": null, 
-            "downloadStartDate": null, 
+            "downloadStartDate": "2017-09-05T17:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
-            "releaseDate": null, 
+            "releaseDate": "2017-09-05T17:00:00Z", 
             "showSubsSaveGameWarning": null, 
             "useEndDate": null
         }

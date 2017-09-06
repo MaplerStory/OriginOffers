@@ -6,32 +6,28 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
             }
         ]
     }, 
     "customAttributes": {
-        "gameEditionTypeFacetKeyRankDesc": "1000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1057044"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1061740"
     }, 
-    "financeId": "1057044", 
-    "itemId": "Origin.ITM.50.0001795", 
-    "itemName": "FIFA 18 Ultimate Team Pack: Calcio A Squad Pack - PC - WW (In-game)", 
+    "financeId": "1061740", 
+    "itemId": "Origin.ITM.50.0001961", 
+    "itemName": "FIFA 18 ULTIMATE TEAM FANTA KIT PCWIN Worldwide Digital - Extra Content:1061740", 
     "localizableAttributes": {
-        "displayName": "Calcio A Squad Pack", 
-        "longDescription": "Get your Calcio A squad started! Includes 18 Calcio A players, at least 16 Gold with 1 Rare.", 
-        "packArtLarge": "/193608/231.0x326.0/1049808_LB_231x326_en_US_^_2017-05-19-17-12-25_7757a10dd968584c932211ec525449c778db7912.jpg", 
-        "packArtMedium": "/193608/142.0x200.0/1049808_MB_142x200_en_US_^_2017-05-19-17-12-38_0bc68f055edc157083240edf1512cc48ec6462c1.jpg", 
-        "packArtSmall": "/193608/63.0x89.0/1049808_SB_63x89_en_US_^_2017-05-19-17-12-54_cccaa6d6a353bec9f20f76047d616e2330e86ba5.jpg", 
-        "shortDescription": "Get your Calcio A squad started! Includes 18 Calcio A players, at least 16 Gold with 1 Rare."
+        "displayName": "FIFA 18 ULTIMATE TEAM FANTA KIT Display Name Placeholder Text.", 
+        "longDescription": "FIFA 18 ULTIMATE TEAM FANTA KIT Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "shortDescription": "FIFA 18 ULTIMATE TEAM FANTA KIT Short Description Placeholder Text."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -48,13 +44,13 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002110", 
+    "offerId": "Origin.OFR.50.0002299", 
     "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
             "greyMarketControls": false, 
             "isDownloadable": false, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Game Only"
         }, 
         "softwareControlDates": {
@@ -123,15 +119,8 @@
                     "value": "zh_TW"
                 }
             ]
-        }, 
-        "storeControlDates": {
-            "storeControlDate": [
-                {
-                    "storeAvailableStartDate": "2017-08-11T00:00:00Z"
-                }
-            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-09-06T20:53:19Z"
+    "updatedDate": "2017-09-06T18:10:20Z"
 }

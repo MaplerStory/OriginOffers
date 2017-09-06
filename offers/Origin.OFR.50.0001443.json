@@ -56,7 +56,7 @@
             "contentId": "182633_demo", 
             "gameDistributionSubType": "Demo", 
             "isDownloadable": true, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Full Game", 
             "useLegacyFriendsLimit": true
         }, 
