@@ -67,7 +67,7 @@
         "publisherFacetKey": null, 
         "ratingSystemIcon": null, 
         "shortDescription": "Official soundtrack for Please Knock on My Door", 
-        "systemRequirements": null
+        "systemRequirements": "<b>Minimum:</b><br>\n<b>OS:</b> Windows 7+<br>\n<b>Processor:</b> Intel Core i7-2700K @ 3.5GHz or equivalent<br>\n<b>Memory:</b> 8 GB RAM<br>\n<b>Graphics:</b> GeForce GTX 670<br>\n<b>Storage:</b> 6 GB available space<br><br>\n\n<b>Recommended:</b><br>\n<b>OS:</b> Windows 7+<br>\n<b>Processor:</b> Intel Core i7-2700K @ 3.5GHz or equivalent<br>\n<b>Memory:</b> 14 GB RAM<br>\n<b>Graphics:</b> GeForce GTX 670<br>\n<b>Storage:</b> 6 GB available space<br>"
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
