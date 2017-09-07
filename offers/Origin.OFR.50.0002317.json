@@ -595,25 +595,27 @@
         ]
     }, 
     "customAttributes": {
-        "gameEditionTypeFacetKeyRankDesc": "5000", 
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
-        "addonsAvailable": false, 
-        "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1062242"
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0002398"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1061686"
     }, 
-    "financeId": "1062242", 
-    "itemId": "Origin.ITM.50.0002054", 
-    "itemName": "Please Knock On My Door - Soundtrack - PC - WW (Origin)", 
+    "financeId": "1061686", 
+    "itemId": "Origin.ITM.50.0001979", 
+    "itemName": "Please Knock On My Door - PC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "Please Knock on My Door - Official soundtrack", 
-        "longDescription": "Official soundtrack for Please Knock on My Door made by Ola B\u00e4ckstr\u00f6m. <br><br>\nSince many tracks are closely tied to the game\u2019s story, it is recommended that you play through Please Knock on My Door before listening to the soundtrack.<br><br>\nTracklist:<br>\n1 Please Knock on My Door Theme<br>\n2 Memories<br>\n3 Morning<br>\n4 Routine<br>\n5 Night Falls<br>\n6 Failure<br>\n7 Numb<br>\n8 Diary<br>\n9 Limbo<br>\n10 Anxiety<br>\n11 Choices<br>\n12 Go Home<br>\n13 Our High School Club<br>\n14 Open<br>\n15 Clear Skies<br>\n16 Echoes<br>\n17 Slow<br>\n18 Unending<br>\n19 Darkness<br>\n20 Rip<br>\n21 Tear<br>\n22 Crash<br>\n23 Finality<br>\n24 Courage<br>\n25 Shackled<br>\n26 Crumbling Walls<br>\n27 Hope<br>\n28 Goodbye, friend<br><br>\n\nBONUS: Voice Lines<br>\n1 VO - Monday, misery<br>\n2 VO - Friday, finally<br>\n3 VO - Oh, right! One more thing<br>\n4 VO - Knock knock<br>\n5 VO - What, you dont remember me<br>\n6 VO - Expecting directions, are we<br>\n7 VO - Oh, did you notice that<br>\n8 VO - Ha Ha", 
+        "displayName": "Please Knock On My Door", 
+        "longDescription": "Please Knock on My Door is a story-driven game which gives you control over a person suffering from depression and social anxiety. Help them get through work and reach out to friends while desperately trying to survive. Experience the frailty these themes bring and gain a better understanding of what it's like to live with some of the most common mental health issues today.<br><br> <b>Features:</b><br><li>A compelling and emotional story offering a voice to those who have none.</li><br><li>A fully voiced narrator who always has your best in mind. Probably.</li><br><li>A gameplay system which adds to the weight of every story-choice you make.</li><br><li>No \"Game Over\" screen, only alternate endings that tie into your choices.</li><br><li>A soundtrack that has been tailor-made for this experience.</li><br><li>Relationships that can be developed or broken.</li><br><li>Game length varies depending on your choices, ranging from 1-3 hours with enough content that you can come back and explore different parts of the narrative in consequent playthroughs.</li><br><li>As in real life, all of your choices are immediately saved. There is only one save.</li><br><br> <b>A note from the developer:</b><br> Please Knock on My Door has been in development since autumn 2014 and was initially supposed to be a 6 month exploration of my own experiences with depression. A word of caution; this is a game that might be difficult to play for those who have dealt with psychological issues such as depression and anxiety. That said, I truly believe that through entertainment we are able to understand topics that would otherwise be too foreign for us. I hope this game can help you better understand what it can be like to live with these issues, like it has already helped me.<br><br>", 
         "packArtLarge": "/196873/231.0x326.0/1061686_LB_231x326_en_US_^_2017-07-24-21-22-03_ef6862e51e7bfdd86f5d3cf17bcf06e3163671ea.jpg", 
         "packArtMedium": "/196873/142.0x200.0/1061686_MB_142x200_en_US_^_2017-07-24-21-22-14_65e04ef4874b074aa79d50a7c9a278f7a1299c52.jpg", 
         "packArtSmall": "/196873/63.0x89.0/1061686_SB_63x89_en_US_^_2017-07-24-21-22-24_ee7fc49fdb50c75b2d3ede6441ac35349697a555.jpg", 
-        "shortDescription": "Official soundtrack for Please Knock on My Door"
+        "shortDescription": "A summary of every emotion you'd rather lock away and forget."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -630,15 +632,16 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002398", 
-    "offerType": "Extra Content", 
+    "offerId": "Origin.OFR.50.0002317", 
+    "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
+            "contentId": "196873", 
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
             "isPublished": true, 
-            "originDisplayType": "Addon"
+            "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -655,25 +658,24 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.0\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" useGameVersionFromManifest=\"0\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.0", 
-                                "downloadURL": "/shift/levall_ab/please_knock_on_my_door/dlc__ww_pkomd_soundtrack/please_knock_on_my_doorpcdlc__ww_pkomd_soundtrackrun_1__20170831_1000c0a1bdfeebc448949b994b075cb7fd98.zip", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.2\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.2", 
+                                "downloadURL": "/shift/levall_ab/please_knock_on_my_door/fg__ww_x0/please_knock_on_my_doorpcfg__ww_x0run_2__20170905_10028cdb6f72e5ce4bd68c3307cd24e6b4f5.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2017-08-31T23:40:44Z"
+                                "effectiveDate": "2017-09-05T10:00:04Z"
                             }
                         ]
                     }, 
                     "fulfillmentAttributes": {
-                        "addonDeploymentStrategy": "Hot Deployable", 
+                        "achievementSetOverride": "50318_196873_50844", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Levall Games AB\\Please Knock on My Door\\Install Dir]\\PKoMD OST", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Levall Games AB\\Please Knock on My Door\\Install Dir]\\__Installer\\DLC\\PKOMD_OST\\__Installer\\installerdata.xml", 
-                        "installationDirectory": "\\", 
-                        "metadataInstallLocation": "__Installer\\DLC\\PKOMD_OST", 
-                        "monitorPlay": false
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Levall Games AB\\Please Knock on My Door\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Levall Games AB\\Please Knock on My Door\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Please Knock on My Door", 
+                        "oigClientBehavior": "Blacklist"
                     }, 
-                    "softwareId": "Origin.SFT.50.0000797", 
+                    "softwareId": "Origin.SFT.50.0000742", 
                     "softwarePlatform": "PCWIN"
                 }
             ]
@@ -694,5 +696,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-09-07T13:47:54Z"
+    "updatedDate": "2017-09-07T13:56:52Z"
 }
