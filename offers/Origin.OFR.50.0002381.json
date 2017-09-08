@@ -3,6 +3,7 @@
         "platform": "PCWIN"
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -13,13 +14,14 @@
     }, 
     "financeId": "1040463", 
     "itemId": "Origin.ITM.50.0002036", 
-    "itemName": "LEGO BATMAN - PC - WW (Origin)", 
+    "itemName": "Lego Batman - PC - WW (Origin)", 
     "localizableAttributes": {
         "displayName": "LEGO BATMAN (PC)", 
+        "longDescription": "When all the villains in Arkham Asylum team up and break loose, only the dynamic duo is bold enough to take them on to save Gotham City. The fun of LEGO, the drama of Batman and the uniqueness of the combination makes for a comical and exciting adventure in LEGO Batman: The Videogame. Play as Batman and his sidekick Robin as you build, drive, swing and fight your way through Gotham City capturing escaped villains including The Joker, Penguin, Scarecrow and more. Then, jump into the story from the other side and play as Batmans foes! Enjoy the power you wield and battle Batman while spreading chaos throughout the city. There is no rest for the good (or evil!).", 
         "packArtLarge": "/190828/231.0x326.0/1005914_231x326_en_US_%5E_2013-05-30-15-04-21_ffdaad4bf7ed7354b689a100dcf050a7cd2eee0402cb046c99cf3966d0702835.jpg", 
         "packArtMedium": "/190828/142.0x200.0/1005914_142x200_en_US_%5E_2013-05-30-15-04-51_1b81b7c3d607b50fdf5ffc640a28dbf294231f9dfd8451bbaeff4ab29f9c4960.jpg", 
         "packArtSmall": "/190828/63.0x89.0/1005914_63x89_en_US_%5E_2013-05-30-15-05-06_b0dd5d95a153ad5c1559f23c7ebbf3b8d4c0159f7d6e7ec3a89cbc088f217680.jpg", 
-        "shortDescription": "LEGO BATMAN (PC)"
+        "shortDescription": "Gotham City is falling to pieces!"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
