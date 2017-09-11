@@ -72,7 +72,7 @@
                         ]
                     }, 
                     "fulfillmentAttributes": {
-                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%AppData%/Warner Bros. Interactive Entertainment/LEGO Batman/SavedGames/</include> </saveFileCriteria>", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%LocalAppData%/Warner Bros. Interactive Entertainment/LEGO Batman/Saved Games/</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Traveller's Tales\\LEGO Batman The Videogame\\Install Dir]__Installer\\installerdata.xml", 
