@@ -1,0 +1,114 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1063005"
+    }, 
+    "financeId": "1063005", 
+    "itemId": "Origin.ITM.50.0002055", 
+    "itemName": "Scribblenauts Unlimited - PC - WW (Origin) (OOA/RTP) - PC - WW", 
+    "localizableAttributes": {
+        "displayName": "Scribblenauts Unlimited", 
+        "longDescription": "The best-selling, award-winning franchise is back - now on PC and bigger than ever! <br><br>Now you can play Scribblenauts on your PC in gorgeous HD. Venture into a wide-open world where the most powerful tool is your imagination. Help Maxwell solve robust puzzles in seamless, free-roaming levels by summoning any object you can think of. Create your own original objects, assign unique properties, and share them with friends online - to be used in game or further modified as they like! And for the first time, learn the backstory about Maxwell's parents, 41 siblings (including his twin sister Lily), and how he got his magical notepad.<br><br> <b>Features:</b><br><br>&bull; <b>All-New Unbound World:</b> Explore an open universe with unlimited hours of fun using every level as your playground. <br><br>&bull; <b>Object Creator:</b> Create original objects, assign unique properties, and share them with other players in the Steam Workshop. Use them in game or modify them as you like!<br><br>&bull; <b>Object Library:</b> Store previously summoned objects and your own creations in Maxwell's \"magic backpack\" for easy access and future use. <br><br>&bull; <b>Merit Board:</b> Each world comes with a comprehensive list of hints, including the new \"Starite Vision\" helper highlighting all nearby starites and starite shards.<br><br>", 
+        "packArtLarge": "/190965/231.0x326.0/1006582_231x326_en_US_%5E_2013-05-30-15-15-44_e8b006ad9f2d44293bfcdfdc123f5d608ff4740b8fe2225ceff9ed5c096fd318.jpg", 
+        "packArtMedium": "/190965/142.0x200.0/1006582_142x200_en_US_%5E_2013-05-30-15-15-56_dc058f593f63e80ad9380d35dbb1f9c36ce2d72b264f1f5a14fcb580e0fb65d5.jpg", 
+        "packArtSmall": "/190965/63.0x89.0/1006582_63x89_en_US_%5E_2013-05-30-15-16-10_4c460ede270a43e201d2e7e74bebeac7d2a758a39b665b36bf46bd4d67b55862.jpg", 
+        "shortDescription": "The best-selling, award-winning franchise is back!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SCRIBBLENAUTS", 
+                    "masterTitleId": 190965
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002399", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "190965", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2012-11-19T08:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2012-11-19T08:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\5th Cell Media\\Scribblenauts Unlimited\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\5th Cell Media\\Scribblenauts Unlimited\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Scribblenauts Unlimited"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000798", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-09-12T19:42:04Z"
+}

@@ -1,0 +1,176 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049875"
+    }, 
+    "financeId": "1049875", 
+    "itemId": "Origin.ITM.50.0001699", 
+    "itemName": "FIFA 18 Demo - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "FIFA 18 Demo", 
+        "longDescription": "Powered by Frostbite\u2122, EA SPORTS\u2122 FIFA 18 blurs the line between the virtual and real worlds, bringing to life the players, teams, and atmospheres of The World\u2019s Game. Move with Real Player Motion Technology to unlock Dramatic Moments in the world\u2019s most Immersive Atmospheres. And go on a global journey with a star-studded cast of characters in The Journey: Hunter Returns. In FIFA Ultimate Team\u2122, FUT ICONS, featuring Ronaldo Naz\u00e1rio, Ronaldinho, Diego Maradona and other football legends, are coming to FIFA 18.", 
+        "oigBrowserDefaultURL": "https://www.origin.com/store/fifa/fifa-18/icon-edition", 
+        "packArtLarge": "/193608/231.0x326.0/1049875_LB_231x326_en_GB_^_2017-08-04-00-13-20_3369302dfbd69ea21853a5aaf39fb9ad620a72be.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1049875_MB_142x200_en_GB_^_2017-08-04-00-13-22_b2ec390a2ddec47342be8c83dcccdf999a305f5d.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1049875_SB_63x89_en_GB_^_2017-08-04-00-13-24_fba20d72ce6da269461dc42a5d0f5fd8c4d17486.jpg", 
+        "shortDescription": "The FIFA 18 demo is now available - download it today!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 18", 
+                    "masterTitleId": 193608
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002014", 
+    "offerType": "DEMO", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "193608_demo", 
+            "gameDistributionSubType": "Demo", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-12T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-12T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.49.32463\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.49.32463", 
+                                "downloadURL": "/shift/fifa/fifa_18_g4/demo__ww_x0_ww/fifa_18_g4pcdemo__ww_x0_wwconcept_239__retail__digital__demo_ww_32436787a9c06e0121040cc86e0dfcd961ae91f.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-08-21T18:08:57Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 18 Demo\\Install Dir]FIFASetup\\fifaconfig.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 18 Demo\\Install Dir]fifa18_demo.exe", 
+                        "installationDirectory": "FIFA 18 DEMO", 
+                        "multiPlayerId": "193608_demo", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000697", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableEndDate": "2018-09-14T17:00:00Z", 
+                    "storeAvailableStartDate": "2017-09-12T17:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-09-12T13:54:46Z"
+}
