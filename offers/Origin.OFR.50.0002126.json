@@ -28,6 +28,9 @@
     "localizableAttributes": {
         "displayName": "FIFA 18 ULTIMATE TEAM GOLD GIFT PACK Display Name Placeholder Text.", 
         "longDescription": "FIFA 18 ULTIMATE TEAM GOLD GIFT PACK Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/193608/231.0x326.0/1056997_LB_231x326_en_GB_^_2017-09-15-10-59-41_7b8de45782429bf502255c1c774a13637055af09.JPG", 
+        "packArtMedium": "/193608/142.0x200.0/1056997_MB_142x200_en_GB_^_2017-09-15-10-59-41_05bf3234dd06a75219f6a15e81b8da66733b8f58.JPG", 
+        "packArtSmall": "/193608/63.0x89.0/1056997_SB_63x89_en_GB_^_2017-09-15-10-59-41_978b30a2280d34715795b0a6b940c2724950a1a3.JPG", 
         "shortDescription": "FIFA 18 ULTIMATE TEAM GOLD GIFT PACK Short Description Placeholder Text."
     }, 
     "mdmHierarchies": {
