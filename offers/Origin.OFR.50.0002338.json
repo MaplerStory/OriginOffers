@@ -1,0 +1,107 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1063135"
+    }, 
+    "financeId": "1063135", 
+    "itemId": "Origin.ITM.50.0001999", 
+    "itemName": "Need for Speed Payback - 250 Speed Point(Origin) Tech Test Only", 
+    "localizableAttributes": {
+        "displayName": "Need for Speed Payback - 250 Speed Point(Origin) TECH TEST PH", 
+        "longDescription": "Need for Speed Payback - 250 Speed Point(Origin) TECH TEST PH<br>", 
+        "shortDescription": "Need for Speed Payback - 250 Speed Point(Origin) TECH TEST PH"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Need for Speed", 
+                    "franchiseId": 50317
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "NFS PAYBACK", 
+                    "masterTitleId": 193632
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002338", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-18T08:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-18T08:00:00Z", 
+                    "useEndDate": "2017-09-22T15:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-09-18T10:03:09Z"
+}
