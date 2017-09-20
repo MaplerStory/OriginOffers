@@ -24,14 +24,14 @@
     }, 
     "financeId": "1056996", 
     "itemId": "Origin.ITM.50.0001811", 
-    "itemName": "FIFA 18 ULTIMATE TEAM GOLD GIFT PACK PCWIN Worldwide Digital - Extra Content:1056996", 
+    "itemName": "FIFA 18 - Post Launch FUT Gold Reward Pack - PC - WW (In-game)", 
     "localizableAttributes": {
-        "displayName": "FIFA 18 ULTIMATE TEAM GOLD GIFT PACK Display Name Placeholder Text.", 
-        "longDescription": "FIFA 18 ULTIMATE TEAM GOLD GIFT PACK Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "packArtLarge": "/193608/231.0x326.0/1056997_LB_231x326_en_GB_^_2017-09-15-10-59-41_7b8de45782429bf502255c1c774a13637055af09.JPG", 
-        "packArtMedium": "/193608/142.0x200.0/1056997_MB_142x200_en_GB_^_2017-09-15-10-59-41_05bf3234dd06a75219f6a15e81b8da66733b8f58.JPG", 
-        "packArtSmall": "/193608/63.0x89.0/1056997_SB_63x89_en_GB_^_2017-09-15-10-59-41_978b30a2280d34715795b0a6b940c2724950a1a3.JPG", 
-        "shortDescription": "FIFA 18 ULTIMATE TEAM GOLD GIFT PACK Short Description Placeholder Text."
+        "displayName": "FIFA Ultimate Team Gold Reward Pack", 
+        "longDescription": "The FIFA Ultimate Team Gold Reward includes a mix of 4 Gold items with 1 player.", 
+        "packArtLarge": "/193608/231.0x326.0/1056996_LB_231x326_en_GB_^_2017-09-20-06-20-28_11a19d807f29bd79bc44f6be09e69dcee947bffb.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1056996_MB_142x200_en_GB_^_2017-09-20-06-20-28_788abd41fdeb92fe81242ee7f91fe7c5f71afd45.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1056996_SB_63x89_en_GB_^_2017-09-20-06-20-28_8e7605673fe7bbb3cbf0698332f77da9e17cac1f.jpg", 
+        "shortDescription": "The FIFA Ultimate Team Gold Reward includes a mix of 4 Gold items with 1 player."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -126,5 +126,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-09-06T18:15:30Z"
+    "updatedDate": "2017-09-20T14:49:04Z"
 }
