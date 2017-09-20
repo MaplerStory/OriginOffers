@@ -1,0 +1,130 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1055478"
+    }, 
+    "financeId": "1055478", 
+    "itemId": "Origin.ITM.50.0001814", 
+    "itemName": "FIFA 18 CHANNEL-WIDE PRE-ORDER OFFER 1 (WW) PCWIN Worldwide Digital - Extra Content:1055478", 
+    "localizableAttributes": {
+        "displayName": "8 Special Edition FUT Kits", 
+        "longDescription": "Receive 8 Special Edition Kits designed by FIFA Soundtrack Artists for FIFA Ultimate Team.", 
+        "packArtLarge": "/193608/231.0x326.0/1055478_LB_231x326_en_US_^_2017-05-17-23-37-53_71e0daedfc4505e54f02385eecc59a1f8e57c56b.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1055478_MB_142x200_en_US_^_2017-05-17-23-38-20_028949a2321558af63b186d522f19d328342afde.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1055478_SB_63x89_en_US_^_2017-05-17-23-38-41_34e8b82075d63d992545a4b178698c04127e01bb.jpg", 
+        "shortDescription": "Receive 8 Special Edition Kits designed by FIFA Soundtrack Artists for FIFA Ultimate Team."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 18", 
+                    "masterTitleId": 193608
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002128", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-20T21:30:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-20T21:30:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-09-19T20:10:14Z"
+}

@@ -5,7 +5,7 @@
     "contentId": "193608_oa", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
+        "billingDate": "2017-09-20T21:30:00Z", 
         "catalogPrice": 0.0, 
         "catalogPriceA": [
             0.0
@@ -18,8 +18,8 @@
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
-        "isPurchasable": "N"
+        "isPublished": true, 
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "EA Canada", 
     "duration": null, 
@@ -148,14 +148,14 @@
     "isDownloadable": "True", 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "itemId": "Origin.ITM.50.0001663", 
-    "itemName": "FIFA 18 Standard Edition - PC - Russia (Origin/PG/3PDD)", 
+    "itemId": "Origin.ITM.50.0001662", 
+    "itemName": "FIFA 18 Standard Edition - PC - NA + LATAM (Origin/PG/3PDD)", 
     "itemType": "Base Game", 
     "masterTitle": "FIFA 18", 
     "masterTitleId": "193608", 
     "mdmItemType": "Full Game", 
     "numberOfPlayersFacetKey": "MultiPlayer", 
-    "offerId": "Origin.OFR.50.0001978", 
+    "offerId": "Origin.OFR.50.0001975", 
     "offerPath": "/fifa/fifa-18/trial", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
@@ -181,7 +181,10 @@
     "rbuCode": "4212", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [
-        "ru_RU"
+        "en_US", 
+        "es_MX", 
+        "fr_FR", 
+        "pt_BR"
     ], 
     "storeGroupId": "Origin", 
     "suppressedOfferIds": [], 

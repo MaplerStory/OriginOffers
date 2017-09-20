@@ -1,0 +1,130 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1055477"
+    }, 
+    "financeId": "1055477", 
+    "itemId": "Origin.ITM.50.0001806", 
+    "itemName": "FIFA 18 STANDARD PRE-ORDER INCENTIVE (WW) PCWIN Worldwide Digital - Extra Content:1055477", 
+    "localizableAttributes": {
+        "displayName": "5 Jumbo Premium Gold Packs", 
+        "longDescription": "Receive up to 5 Jumbo Premium Gold Packs, 1 per week over 5 weeks for FIFA Ultimate Team.", 
+        "packArtLarge": "/193608/231.0x326.0/1055477_LB_231x326_en_US_^_2017-05-17-22-13-50_16ada9ce213f7ade7f107054577a147678998535.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1055477_MB_142x200_en_US_^_2017-05-17-22-14-10_25d3feca3c3af080f38b6f5fc3650b7d426fd174.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1055477_SB_63x89_en_US_^_2017-05-17-22-14-33_92e256dbfe563dc97e88e61c78f5463aa9b0ce06.jpg", 
+        "shortDescription": "Receive up to 5 Jumbo Premium Gold Packs, 1 per week over 5 weeks for FIFA Ultimate Team."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 18", 
+                    "masterTitleId": 193608
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002121", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-20T21:30:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-20T21:30:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-09-19T20:01:11Z"
+}

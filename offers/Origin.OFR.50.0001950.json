@@ -6,19 +6,49 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
                 }, 
                 "countryCode": "AM"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
                 }, 
                 "countryCode": "AZ"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
                 }, 
                 "countryCode": "BY"
             }, 
@@ -26,49 +56,217 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "DEFAULT"
+                "countryCode": "CA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CC"
             }, 
             {
                 "attributes": {
                     "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "HK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ID"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "IN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "JP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
                 }, 
                 "countryCode": "KG"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
                 }, 
                 "countryCode": "KZ"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PK"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
                 }, 
                 "countryCode": "RU"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
                 }, 
                 "countryCode": "TJ"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
                 }, 
                 "countryCode": "TM"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
                 }, 
                 "countryCode": "UA"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
                 }, 
                 "countryCode": "UZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "VN"
             }
         ]
     }, 
@@ -154,11 +352,11 @@
             "Origin.OFR.50.0002092", 
             "Origin.OFR.50.0002090"
         ], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049794"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1034366"
     }, 
-    "financeId": "1049794", 
-    "itemId": "Origin.ITM.50.0001663", 
-    "itemName": "FIFA 18 Standard Edition - PC - Russia (Origin/PG/3PDD)", 
+    "financeId": "1034366", 
+    "itemId": "Origin.ITM.50.0001590", 
+    "itemName": "FIFA 18 Standard Edition - PC - WESTERN EU, ANZ  (Origin/PG/3PDD)", 
     "localizableAttributes": {
         "displayName": "FIFA 18 (Trial)", 
         "longDescription": "Powered by Frostbite, FIFA 18 blurs the line between the virtual and real worlds, bringing to life the players,\u00a0teams\u00a0and atmospheres of The World\u2019s Game. Move with Real Player Motion Technology - an all-new animation system that creates\u00a0a new level of responsiveness and player personality - to unlock dramatic moments in the world\u2019s most immersive atmospheres. Then go on a global journey as Alex Hunter along with a star-studded cast of characters, including Cristiano Ronaldo and other European football stars. <br><br>\n\n<b>Key Features:</b><br><br>\n\n<b>Real Player Motion Technology.</b> The all-new, game-changing animation system utilizes pose trajectory matching on every frame to deliver the franchise\u2019s most responsive and fluid gameplay ever. New motion capture techniques and frame by frame animation transitions ensure gameplay accurately represents the reality of football.<br><br>\n\n<b>Player personality.</b>\u00a0For the first time ever, real-world movements, size and attributes inform how a player moves, allowing you to feel the life-like tendencies of the world\u2019s best. Ronaldo\u2019s signature sprint, Sterling\u2019s unique turns, and Robben\u2019s distinct arm movement are all immediately recognizable in FIFA 18.<br><br>\n\n<b>Dribbling overhaul.</b>\u00a0In FIFA 18, you'll run at defenders with confidence knowing that the best players can change direction on a dime. New dribbling mechanics enable players to inject more creativity into 1v1 situations. Take more defined touches, make tighter turns, and explode into attack more dynamically than ever before.<br><br>\n\n<b>The Journey: Hunter Returns.</b>\u00a0After a breathtaking first season in the Premier League, Hunter is gaining recognition from top clubs the world over. Make the decisions that will dictate his career and relationships with characters both on and off the pitch. And now you can personalize your Alex Hunter by selecting his hair, tattoos, clothing and even his dominant foot to suit your playing style.\u00a0<br><br>\n\n<b>FIFA Ultimate Team\u2122.</b>\u00a0Build your very own Ultimate Team Squad from thousands of players in the most popular mode in FIFA.\u00a0The best of the best are coming to FIFA 18 with FUT ICONS. Play with the most iconic legends of football including Ronaldo Naz\u00e1rio,\u00a0Maradona\u00a0and Pel\u00e9. Discover new daily Objectives, compete for weekly rewards in Squad Battles, and watch the world\u2019s best on the Champions Channel!<br><br>", 
@@ -182,7 +380,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0001978", 
+    "offerId": "Origin.OFR.50.0001950", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
@@ -190,7 +388,7 @@
             "gameDistributionSubType": "Gameplay Timer Trial - Access", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game", 
             "trialLaunchDuration": 10
         }, 
@@ -237,11 +435,46 @@
         "softwareLocales": {
             "locale": [
                 {
-                    "value": "ru_RU"
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
                 }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {}
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-09-20T18:30:30Z"
+    "updatedDate": "2017-09-20T17:39:53Z"
 }

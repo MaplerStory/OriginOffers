@@ -1,0 +1,130 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1055479"
+    }, 
+    "financeId": "1055479", 
+    "itemId": "Origin.ITM.50.0001809", 
+    "itemName": "FIFA 18 CHANNEL-WIDE PRE-ORDER OFFER 2 (WW) PCWIN Worldwide Digital - Extra Content:1055479", 
+    "localizableAttributes": {
+        "displayName": "Cristiano Ronaldo Loan", 
+        "longDescription": "Receive a 5-match loan of Cristiano Ronaldo in FIFA Ultimate Team.", 
+        "packArtLarge": "/193608/231.0x326.0/1055479_LB_231x326_en_US_^_2017-05-17-23-48-44_c2abd0a90a8c5c98c67ae587f626c773cecc874b.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1055479_MB_142x200_en_US_^_2017-05-17-23-49-06_c3ffc07206109894eb625e56eb15b175a0d3cc6d.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1055479_SB_63x89_en_US_^_2017-05-17-23-49-21_f6a66dc09c3143e523f5590fb6e82ed93c11ee76.jpg", 
+        "shortDescription": "Receive a 5-match loan of Cristiano Ronaldo in FIFA Ultimate Team."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 18", 
+                    "masterTitleId": 193608
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002124", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-20T21:30:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-20T21:30:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-09-19T20:06:19Z"
+}
