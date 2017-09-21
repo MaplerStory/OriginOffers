@@ -380,9 +380,9 @@
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Airship Syndicate \\Battle Chasers Nightwar\\Install Dir]__Installer\\installerdata.xml", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Airship Syndicate \\Battle Chasers Nightwar\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "Battle Chasers: Nightwar"
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Airship Syndicate\\Battle Chasers Nightwar\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Airship Syndicate\\Battle Chasers Nightwar\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Battle Chasers Nightwar"
                     }, 
                     "softwareId": "Origin.SFT.50.0000745", 
                     "softwarePlatform": "PCWIN"
@@ -405,6 +405,24 @@
                 }, 
                 {
                     "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
                 }
             ]
         }, 

@@ -117,7 +117,13 @@
         "en_US", 
         "es_ES", 
         "fr_FR", 
-        "it_IT"
+        "it_IT", 
+        "ja_JP", 
+        "ko_KR", 
+        "pl_PL", 
+        "pt_BR", 
+        "ru_RU", 
+        "zh_CN"
     ], 
     "storeGroupId": "Origin", 
     "suppressedOfferIds": [], 
