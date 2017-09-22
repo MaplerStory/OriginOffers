@@ -382,7 +382,8 @@
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Piranha Bytes\\ELEX\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Piranha Bytes\\ELEX\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "ELEX"
+                        "installationDirectory": "ELEX", 
+                        "processorArchitecture": "64-bit"
                     }, 
                     "softwareId": "Origin.SFT.50.0000743", 
                     "softwarePlatform": "PCWIN"

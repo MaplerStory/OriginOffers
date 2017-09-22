@@ -1,0 +1,114 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1061906"
+    }, 
+    "financeId": "1061906", 
+    "itemId": "Origin.ITM.50.0002019", 
+    "itemName": "SteamWorld Dig 2 - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "SteamWorld Dig 2 Trial", 
+        "longDescription": "SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it\u2019s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath.<br><br>\n\n<li>Dig your way underground and explore vivid worlds riddled with treasure, secrets and traps.</li>\n<li>Combat dangerous enemies at every turn of the underworld\u2019s twisted paths, including shadowy creatures and the haunted remains of an ancient electrical threat.</li>\n<li>Upgrade your gear to forge deeper into the earth and take on bigger challenges.</li>\n<li>Swing across large chasms with your Hookshot and fly through caves with the Jet Engine!</li>\n<li>And finally, learn the truth about your long lost friend\u2026</li>", 
+        "packArtLarge": "/196935/231.0x326.0/1061906_LB_231x326_en_US_^_2017-09-07-17-15-26_2e6b4e5261c83ea26e20d28fbe90f6df6a84e74f.jpg", 
+        "packArtMedium": "/196935/142.0x200.0/1061906_MB_142x200_en_US_^_2017-09-07-17-15-50_6fe4154f7fe165b1b5451d7899bd7ee057288401.jpg", 
+        "packArtSmall": "/196935/63.0x89.0/1061906_SB_63x89_en_US_^_2017-09-07-17-16-10_aa40360706822ae802a715f9b0c41fbf8aa48b41.jpg", 
+        "shortDescription": "Adventure waits below the surface..."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "STEAMWORLD DIG 2", 
+                    "masterTitleId": 196935
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002359", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196935_oa", 
+            "gameDistributionSubType": "Gameplay Timer Trial - Game Time", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "trialLaunchDuration": 5
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-22T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-22T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"15.1.1.1\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "15.1.1.1", 
+                                "downloadURL": "/shift/image__form_/steamworld_dig_2/fg__ww_x0/steamworld_dig_2pcfg__ww_x0run_1__20170918_15111b8a58ad2399c4cdb86e1ce3e67dd2514.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-09-19T16:36:35Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Documents%/My Games/SteamWorld Dig 2/controls.cfg</exclude> <exclude order=\"1\">%Documents%/My Games/SteamWorld Dig 2/gamepads.cfg</exclude> <exclude order=\"2\">%Documents%/My Games/SteamWorld Dig 2/settings.xml</exclude> <include order=\"3\">%Documents%/My Games/SteamWorld Dig 2/</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Image & Form\\SteamWorld Dig 2\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Image & Form\\SteamWorld Dig 2\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "SteamWorld Dig 2"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000764", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-09-07T14:54:23Z"
+}
