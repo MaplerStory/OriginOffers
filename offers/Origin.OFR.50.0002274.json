@@ -67,6 +67,17 @@
                 }
             ]
         }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "commerceProfile": "oig-real", 
+                        "enableDLCuninstall": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000802"
+                }
+            ]
+        }, 
         "softwareLocales": {
             "locale": [
                 {
