@@ -9,7 +9,7 @@
     "contentId": "193608", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": "2017-09-15T16:00:00Z", 
+        "billingDate": null, 
         "catalogPrice": 79.99, 
         "catalogPriceA": [
             79.99
@@ -22,7 +22,7 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": true, 
+        "isPublished": false, 
         "isPurchasable": "N"
     }, 
     "developerFacetKey": "EA Canada", 
