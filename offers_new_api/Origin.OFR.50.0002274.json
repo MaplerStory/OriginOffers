@@ -89,7 +89,7 @@
     "platforms": [
         {
             "achievementSetOverride": null, 
-            "commerceProfile": null, 
+            "commerceProfile": "oig-real", 
             "downloadPackageType": null, 
             "downloadStartDate": "2017-09-29T16:00:00Z", 
             "executePathOverride": null, 
@@ -97,7 +97,7 @@
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
             "releaseDate": "2017-09-29T16:00:00Z", 
-            "showSubsSaveGameWarning": null, 
+            "showSubsSaveGameWarning": "false", 
             "useEndDate": null
         }
     ], 
