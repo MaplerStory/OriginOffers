@@ -378,6 +378,7 @@
             "software": [
                 {
                     "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%LocalAppData%/ELEX/config/Application.xml</exclude> <exclude order=\"1\">%LocalAppData%/ELEX/config/ConfigUser.xml</exclude> <exclude order=\"2\">%LocalAppData%/ELEX/config/ConfigUser.xml</exclude> <include order=\"3\">*.bin</include> <include order=\"4\">%LocalAppData%/ELEX/config/*.bin</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Piranha Bytes\\ELEX\\Install Dir]__Installer\\installerdata.xml", 
