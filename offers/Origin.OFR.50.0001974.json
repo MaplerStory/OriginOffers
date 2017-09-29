@@ -1,0 +1,202 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0002084", 
+            "Origin.OFR.50.0002085", 
+            "Origin.OFR.50.0002082", 
+            "Origin.OFR.50.0002083", 
+            "Origin.OFR.50.0002088", 
+            "Origin.OFR.50.0002121", 
+            "Origin.OFR.50.0002089", 
+            "Origin.OFR.50.0002122", 
+            "Origin.OFR.50.0002086", 
+            "Origin.OFR.50.0002087", 
+            "Origin.OFR.50.0002120", 
+            "Origin.OFR.50.0002125", 
+            "Origin.OFR.50.0002400", 
+            "Origin.OFR.50.0002126", 
+            "Origin.OFR.50.0002123", 
+            "Origin.OFR.50.0002124", 
+            "Origin.OFR.50.0002129", 
+            "Origin.OFR.50.0002127", 
+            "Origin.OFR.50.0002128", 
+            "Origin.OFR.50.0002080", 
+            "Origin.OFR.50.0002081", 
+            "Origin.OFR.50.0002073", 
+            "Origin.OFR.50.0002074", 
+            "Origin.OFR.50.0002071", 
+            "Origin.OFR.50.0002072", 
+            "Origin.OFR.50.0002077", 
+            "Origin.OFR.50.0002110", 
+            "Origin.OFR.50.0002078", 
+            "Origin.OFR.50.0002111", 
+            "Origin.OFR.50.0002075", 
+            "Origin.OFR.50.0002076", 
+            "Origin.OFR.50.0002274", 
+            "Origin.OFR.50.0002114", 
+            "Origin.OFR.50.0002312", 
+            "Origin.OFR.50.0002115", 
+            "Origin.OFR.50.0002079", 
+            "Origin.OFR.50.0002112", 
+            "Origin.OFR.50.0002310", 
+            "Origin.OFR.50.0002113", 
+            "Origin.OFR.50.0002311", 
+            "Origin.OFR.50.0002118", 
+            "Origin.OFR.50.0002119", 
+            "Origin.OFR.50.0002116", 
+            "Origin.OFR.50.0002117", 
+            "Origin.OFR.50.0002309", 
+            "Origin.OFR.50.0002109", 
+            "Origin.OFR.50.0002070", 
+            "Origin.OFR.50.0002066", 
+            "Origin.OFR.50.0002067", 
+            "Origin.OFR.50.0002100", 
+            "Origin.OFR.50.0002103", 
+            "Origin.OFR.50.0002104", 
+            "Origin.OFR.50.0002068", 
+            "Origin.OFR.50.0002101", 
+            "Origin.OFR.50.0002069", 
+            "Origin.OFR.50.0002102", 
+            "Origin.OFR.50.0002107", 
+            "Origin.OFR.50.0002108", 
+            "Origin.OFR.50.0002105", 
+            "Origin.OFR.50.0002106", 
+            "Origin.OFR.50.0002095", 
+            "Origin.OFR.50.0002096", 
+            "Origin.OFR.50.0002093", 
+            "Origin.OFR.50.0002094", 
+            "Origin.OFR.50.0002099", 
+            "Origin.OFR.50.0002298", 
+            "Origin.OFR.50.0002097", 
+            "Origin.OFR.50.0002098", 
+            "Origin.OFR.50.0002131", 
+            "Origin.OFR.50.0002299", 
+            "Origin.OFR.50.0002091", 
+            "Origin.OFR.50.0002092", 
+            "Origin.OFR.50.0002090"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1049796"
+    }, 
+    "financeId": "1049796", 
+    "itemId": "Origin.ITM.50.0001665", 
+    "itemName": "FIFA 18 Standard Edition - PC - ROA (Origin/PG/3PDD)", 
+    "localizableAttributes": {
+        "displayName": "FIFA 18", 
+        "longDescription": "Powered by Frostbite, FIFA 18 blurs the line between the virtual and real worlds, bringing to life the players,\u00a0teams\u00a0and atmospheres of The World\u2019s Game. Move with Real Player Motion Technology - an all-new animation system that creates\u00a0a new level of responsiveness and player personality - to unlock dramatic moments in the world\u2019s most immersive atmospheres. Then go on a global journey as Alex Hunter along with a star-studded cast of characters, including Cristiano Ronaldo and other European football stars. <br><br>\n\n<b>Key Features:</b><br><br>\n\n<b>Real Player Motion Technology.</b> The all-new, game-changing animation system utilizes pose trajectory matching on every frame to deliver the franchise\u2019s most responsive and fluid gameplay ever. New motion capture techniques and frame by frame animation transitions ensure gameplay accurately represents the reality of football.<br><br>\n\n<b>Player personality.</b>\u00a0For the first time ever, real-world movements, size and attributes inform how a player moves, allowing you to feel the life-like tendencies of the world\u2019s best. Ronaldo\u2019s signature sprint, Sterling\u2019s unique turns, and Robben\u2019s distinct arm movement are all immediately recognizable in FIFA 18.<br><br>\n\n<b>Dribbling overhaul.</b>\u00a0In FIFA 18, you'll run at defenders with confidence knowing that the best players can change direction on a dime. New dribbling mechanics enable players to inject more creativity into 1v1 situations. Take more defined touches, make tighter turns, and explode into attack more dynamically than ever before.<br><br>\n\n<b>The Journey: Hunter Returns.</b>\u00a0After a breathtaking first season in the Premier League, Hunter is gaining recognition from top clubs the world over. Make the decisions that will dictate his career and relationships with characters both on and off the pitch. And now you can personalize your Alex Hunter by selecting his hair, tattoos, clothing and even his dominant foot to suit your playing style.\u00a0<br><br>\n\n<b>FIFA Ultimate Team\u2122.</b>\u00a0Build your very own Ultimate Team Squad from thousands of players in the most popular mode in FIFA.\u00a0The best of the best are coming to FIFA 18 with FUT ICONS. Play with the most iconic legends of football including Ronaldo Naz\u00e1rio,\u00a0Maradona\u00a0and Pel\u00e9. Discover new daily Objectives, compete for weekly rewards in Squad Battles, and watch the world\u2019s best on the Champions Channel!<br><br>", 
+        "packArtLarge": "/193608/231.0x326.0/1049808_LB_231x326_en_US_^_2017-09-21-10-43-29_02b26460ea75fcd66eff2aa1b2f55f1087282667.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1049808_MB_142x200_en_US_^_2017-09-21-10-43-01_f16e7c24ed3922e385ff454e226821d13f9939e4.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1049808_SB_63x89_en_US_^_2017-09-20-22-44-01_720c881e9b79aa326483ec0fc0a9a6b40936adfb.jpg", 
+        "shortDescription": "The World's Game"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 18", 
+                    "masterTitleId": 193608
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0001974", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "193608", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-29T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-29T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.49.42716\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.49.42716", 
+                                "downloadURL": "/shift/fifa/fifa_18_g4/patch__ww_x0_ww_patch1/fifa_18_g4pcpatch__ww_x0_ww_patch1concept_58__denuvo__retail__digital__ww_3253931693e7afcd9a346969d9482efa3a30781.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-09-19T18:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50072_193608_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<exclude order=\"0\">%Documents%/FIFA 18/fifasetup.ini</exclude>\n<exclude order=\"1\">%Documents%/FIFA 18/filesystemcache/</exclude>\n<exclude order=\"2\">%Documents%/FIFA 18/dumps/</exclude>\n<exclude order=\"3\">%Documents%/FIFA 18/Temp/</exclude>\n<include order=\"4\">%Documents%/FIFA 18/</include>\n</saveFileCriteria>", 
+                        "commerceProfile": "oig-fifa-18", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 18\\Install Dir]fifa18.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Sports\\FIFA 18\\Install Dir]fifa18.exe", 
+                        "installationDirectory": "FIFA 18", 
+                        "multiPlayerId": "1034366", 
+                        "processorArchitecture": "64-bit"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000656", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-10-10T04:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-09-29T12:57:10Z"
+}

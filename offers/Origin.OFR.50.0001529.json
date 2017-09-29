@@ -410,8 +410,15 @@
                     "value": "it_IT"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-01-01T00:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-29T14:50:25Z"
+    "updatedDate": "2017-09-29T11:48:30Z"
 }

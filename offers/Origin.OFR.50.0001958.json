@@ -598,10 +598,12 @@
         }, 
         "storeControlDates": {
             "storeControlDate": [
-                {}
+                {
+                    "storeAvailableStartDate": "2017-03-01T18:00:00Z"
+                }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-29T23:58:45Z"
+    "updatedDate": "2017-09-29T11:44:25Z"
 }
