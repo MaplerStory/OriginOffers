@@ -377,6 +377,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.22997\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.22997", 
+                                "downloadURL": "/shift/nordic_games/battle_chasers_nightwar/fg__ww_x0/battle_chasers_nightwarpcfg__ww_x0run_1__20170930_10022997c726145194bb48629e9c77226920b60b.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-09-30T15:31:24Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%LocalLowAppData%/Airship Syndicate/BattleChasersNightwar/user/saves/</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
