@@ -378,6 +378,7 @@
             "software": [
                 {
                     "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%LocalLowAppData%/Airship Syndicate/BattleChasersNightwar/user/saves/</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Airship Syndicate\\Battle Chasers Nightwar\\Install Dir]__Installer\\installerdata.xml", 
