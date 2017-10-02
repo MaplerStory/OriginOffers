@@ -128,11 +128,15 @@
         "ru_RU", 
         "tr_TR"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "Y", 
-        "path": "/this-war-of-mine/this-war-of-mine/standard-edition"
+        "path": "/this-war-of-mine/this-war-of-mine/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

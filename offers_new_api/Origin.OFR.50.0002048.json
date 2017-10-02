@@ -120,11 +120,15 @@
         "ru_RU", 
         "zh_CN"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "N", 
-        "path": "/hacknet/hacknet/standard-edition"
+        "path": "/hacknet/hacknet/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

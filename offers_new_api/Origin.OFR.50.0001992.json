@@ -119,11 +119,15 @@
         "ru_RU", 
         "tr_TR"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "N", 
-        "path": "/pony-island/pony-island/standard-edition"
+        "path": "/pony-island/pony-island/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

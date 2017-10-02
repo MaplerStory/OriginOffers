@@ -119,7 +119,9 @@
         "fr_FR", 
         "it_IT"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null

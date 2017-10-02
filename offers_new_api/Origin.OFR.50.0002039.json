@@ -113,11 +113,15 @@
     "softwareLocales": [
         "en_US"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "N", 
-        "path": "/orwell/orwell/standard-edition"
+        "path": "/orwell/orwell/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

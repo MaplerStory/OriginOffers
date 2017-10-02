@@ -125,11 +125,15 @@
         "pt_BR", 
         "ru_RU"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "N", 
-        "path": "/banner-saga/the-banner-saga/standard-edition"
+        "path": "/banner-saga/the-banner-saga/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

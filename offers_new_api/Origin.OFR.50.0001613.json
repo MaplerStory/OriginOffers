@@ -140,11 +140,15 @@
         "zh_CN", 
         "zh_TW"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "N", 
-        "path": "/mini-metro/mini-metro/standard-edition"
+        "path": "/mini-metro/mini-metro/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

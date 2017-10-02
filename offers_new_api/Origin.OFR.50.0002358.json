@@ -110,7 +110,9 @@
         "it_IT", 
         "ru_RU"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": "5", 
     "vault": null

@@ -115,11 +115,15 @@
     "softwareLocales": [
         "en_US"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "N", 
-        "path": "/oxenfree/oxenfree/standard-edition"
+        "path": "/oxenfree/oxenfree/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

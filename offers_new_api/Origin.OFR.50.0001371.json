@@ -117,11 +117,15 @@
     "softwareLocales": [
         "en_US"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "N", 
-        "path": "/dungeonsofdredmor/dungeons-of-dredmor/standard-edition"
+        "path": "/dungeonsofdredmor/dungeons-of-dredmor/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

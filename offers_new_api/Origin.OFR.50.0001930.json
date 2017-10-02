@@ -125,11 +125,15 @@
         "ja_JP", 
         "pl_PL"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "N", 
-        "path": "/aragami/aragami/standard-edition"
+        "path": "/aragami/aragami/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

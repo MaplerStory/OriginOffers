@@ -116,11 +116,15 @@
     "softwareLocales": [
         "en_US"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "Y", 
-        "path": "/need-for-speed/need-for-speed/deluxe-edition"
+        "path": "/need-for-speed/need-for-speed/deluxe-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

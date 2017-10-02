@@ -183,7 +183,9 @@
     "softwareLocales": [
         "ru_RU"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": "2017-10-10T04:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null

@@ -193,11 +193,15 @@
         "pl_PL", 
         "ru_RU"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "N", 
-        "path": "/fifa/fifa-16/standard-edition"
+        "path": "/fifa/fifa-16/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }

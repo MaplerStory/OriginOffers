@@ -190,7 +190,9 @@
         "fr_FR", 
         "pt_BR"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": "2017-06-05T15:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null

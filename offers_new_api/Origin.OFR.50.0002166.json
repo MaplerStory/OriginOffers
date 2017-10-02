@@ -119,11 +119,15 @@
         "ru_RU", 
         "zh_CN"
     ], 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
         "isUpgradeable": "N", 
-        "path": "/rebel-galaxy/rebel-galaxy/standard-edition"
+        "path": "/rebel-galaxy/rebel-galaxy/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
     }
 }
