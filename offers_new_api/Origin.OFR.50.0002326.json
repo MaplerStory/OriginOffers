@@ -127,7 +127,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2017-07-21T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
