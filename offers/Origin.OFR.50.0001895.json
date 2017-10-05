@@ -447,6 +447,9 @@
         "softwareLocales": {
             "locale": [
                 {
+                    "value": "cs_CZ"
+                }, 
+                {
                     "value": "da_DK"
                 }, 
                 {
