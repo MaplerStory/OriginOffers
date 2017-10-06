@@ -10,9 +10,9 @@
     "countries": {
         "bannedCountries": [], 
         "billingDate": "2017-04-20T23:20:00Z", 
-        "catalogPrice": 49.99, 
+        "catalogPrice": 39.99, 
         "catalogPriceA": [
-            49.99
+            39.99
         ], 
         "countryCurrency": "USD", 
         "countryCurrencyA": [
@@ -134,7 +134,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2017-04-20T23:20:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
