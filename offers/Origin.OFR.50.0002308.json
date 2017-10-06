@@ -1,0 +1,115 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1036451"
+    }, 
+    "financeId": "1036451", 
+    "itemId": "Origin.ITM.50.0001970", 
+    "itemName": "Need for Speed Payback - Deluxe Edition Upgrade Bundle - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Need for Speed Payback - Deluxe Edition Upgrade Bundle PH Display Name", 
+        "longDescription": "Need for Speed Payback - Deluxe Edition Upgrade Bundle PH LD<br>", 
+        "packArtLarge": "/193632/231.0x326.0/1042195_LB_231x326_en_US_^_2017-05-23-18-38-43_0013d0e637cb8cd32350c8d0839ff423db6f476d.jpg", 
+        "packArtMedium": "/193632/142.0x200.0/1042195_MB_142x200_en_US_^_2017-05-23-18-39-09_aa70368f79f802ad3a20e4cb05aac15415c5b336.jpg", 
+        "packArtSmall": "/193632/63.0x89.0/1042195_SB_63x89_en_US_^_2017-05-23-18-39-24_949316db71a819f5ae1fc08ae730afc4434c8dfe.jpg", 
+        "shortDescription": "Need for Speed Payback - Deluxe Edition Upgrade Bundle PH SD"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Need for Speed", 
+                    "franchiseId": 50317
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "NFS PAYBACK", 
+                    "masterTitleId": 193632
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002308", 
+    "offerType": "Bundle", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "isPublished": true, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-06-16T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-06-16T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2015-07-10T00:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-10-05T16:22:35Z"
+}
