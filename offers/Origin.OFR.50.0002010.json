@@ -250,11 +250,12 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
+                    "storeAvailableEndDate": "2017-10-09T21:00:00Z", 
                     "storeAvailableStartDate": "2017-06-05T15:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-30T14:36:57Z"
+    "updatedDate": "2017-10-06T15:11:00Z"
 }
