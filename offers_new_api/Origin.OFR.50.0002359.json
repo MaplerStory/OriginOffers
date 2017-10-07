@@ -5,17 +5,21 @@
     "contentId": "196935_oa", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
-        "giftable": null, 
+        "billingDate": "2017-09-13T17:00:00Z", 
+        "catalogPrice": 0.0, 
+        "catalogPriceA": [
+            0.0
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
+        "giftable": "N", 
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": null
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Image & Form", 
     "duration": null, 
@@ -36,12 +40,12 @@
     "gameRatingType": null, 
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
-    "gameTypeFacetKey": "BASEGAME", 
+    "gameTypeFacetKey": "TRIAL", 
     "genreFacetKey": "Adventure,Platformer", 
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 
-        "displayName": "SteamWorld Dig 2 Trial", 
+        "displayName": "SteamWorld Dig 2 (Trial)", 
         "eulaURL": null, 
         "extraContentDisplayGroupDisplayName": null, 
         "franchiseFacetKey": null, 
@@ -78,7 +82,7 @@
     "mdmItemType": "Full Game", 
     "numberOfPlayersFacetKey": "SinglePlayer", 
     "offerId": "Origin.OFR.50.0002359", 
-    "offerPath": "/steamworld/steamworld-dig-2/standard-edition", 
+    "offerPath": "/steamworld/steamworld-dig-2/trial", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
     "platformFacetKey": "PC Download", 
@@ -112,7 +116,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2017-10-11T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": "5", 
     "vault": null
