@@ -128,9 +128,9 @@
         "zh_CN", 
         "zh_TW"
     ], 
-    "storeEndDate": null, 
+    "storeEndDate": "2017-10-10T04:00:00Z", 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2017-09-29T16:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
