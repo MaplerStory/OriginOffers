@@ -199,11 +199,12 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
+                    "storeAvailableEndDate": "2017-10-09T22:00:00Z", 
                     "storeAvailableStartDate": "2017-06-05T15:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-30T13:44:13Z"
+    "updatedDate": "2017-10-09T08:37:00Z"
 }

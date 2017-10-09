@@ -337,11 +337,12 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
+                    "storeAvailableEndDate": "2017-10-09T15:00:00Z", 
                     "storeAvailableStartDate": "2017-06-05T15:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-09-11T09:45:38Z"
+    "updatedDate": "2017-10-09T08:31:53Z"
 }
