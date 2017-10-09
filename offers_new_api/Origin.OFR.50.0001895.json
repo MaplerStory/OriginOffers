@@ -18,7 +18,7 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "N"
     }, 
     "developerFacetKey": "EA Canada", 
@@ -181,6 +181,7 @@
     "rbuCode": "4212", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [
+        "ar_SA", 
         "cs_CZ", 
         "da_DK", 
         "de_DE", 
