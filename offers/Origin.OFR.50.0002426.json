@@ -1,0 +1,66 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064120"
+    }, 
+    "financeId": "1064120", 
+    "itemId": "Origin.ITM.50.0002078", 
+    "itemName": "TEST ONLY - Origin Access Membership - Non-Recurring 7 days", 
+    "localizableAttributes": {
+        "displayName": "TEST USE ONLY - Origin Access 7-day membership", 
+        "longDescription": "TEST USE ONLY - Origin Access 7-day membership", 
+        "shortDescription": "TEST USE ONLY - Origin Access 7-day membership"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ORIGIN SUBSCRIPTION", 
+                    "masterTitleId": 191271
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002426", 
+    "offerType": "Subscription", 
+    "publishing": {
+        "publishingAttributes": {
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-10-01T00:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-10-11T20:38:06Z"
+}
