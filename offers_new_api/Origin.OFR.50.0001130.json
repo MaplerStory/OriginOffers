@@ -14,7 +14,7 @@
         "countryCurrencyA": [
             "_FF"
         ], 
-        "giftable": "Y", 
+        "giftable": "N", 
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
@@ -31,7 +31,7 @@
     "franchiseFacetKey": "fifa", 
     "gameDistributionSubType": null, 
     "gameEditionTypeFacetKey": "Digital Standard Edition", 
-    "gameEditionTypeFacetKeyRankDesc": null, 
+    "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "fifa-16", 
     "gameRatingDesc": [], 
     "gameRatingDescriptionLong": null, 
