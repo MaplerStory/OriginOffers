@@ -31,7 +31,7 @@
     "franchiseFacetKey": "Beholder", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "Digital Standard Edition", 
-    "gameEditionTypeFacetKeyRankDesc": null, 
+    "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "Beholder", 
     "gameRatingDesc": [
         "Violence", 
@@ -128,7 +128,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2017-05-18T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
