@@ -1,0 +1,130 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1055488"
+    }, 
+    "financeId": "1055488", 
+    "itemId": "Origin.ITM.50.0001815", 
+    "itemName": "FIFA 18 - Post Launch FUT Icon Loan Player Pack - PC - WW (In-game)", 
+    "localizableAttributes": {
+        "displayName": "FIFA Ultimate Team ICON Loan Player", 
+        "longDescription": "Receive a 3-match FUT ICON Loan Player in FIFA Ultimate Team.", 
+        "packArtLarge": "/193608/231.0x326.0/1055488_LB_231x326_en_GB_^_2017-09-20-06-20-28_79461cff484d9d48f93185c3d35dc2a25579169b.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1055488_MB_142x200_en_GB_^_2017-09-20-06-20-28_2118c98db2026835a331a61f6280bf2c51c87407.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1055488_SB_63x89_en_GB_^_2017-09-20-06-20-28_f383a6114834d47b9b3bd08c8f8fa74c11e91d5f.jpg", 
+        "shortDescription": "Receive a 3-match FUT ICON Loan Player in FIFA Ultimate Team."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 18", 
+                    "masterTitleId": 193608
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002129", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-10-16T14:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-10-16T14:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-09-29T03:01:55Z"
+}
