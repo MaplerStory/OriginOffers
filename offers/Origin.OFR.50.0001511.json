@@ -24,7 +24,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": true
+                    "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
             }, 
@@ -189,7 +189,7 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Full Game", 
             "useLegacyFriendsLimit": true
         }, 
@@ -294,11 +294,12 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
+                    "storeAvailableEndDate": "2017-10-16T00:00:00Z", 
                     "storeAvailableStartDate": "2016-10-11T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-29T12:06:44Z"
+    "updatedDate": "2017-10-17T00:37:03Z"
 }
