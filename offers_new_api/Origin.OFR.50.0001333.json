@@ -14,11 +14,11 @@
         "countryCurrencyA": [
             "_FF"
         ], 
-        "giftable": "Y", 
+        "giftable": "N", 
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": true, 
+        "isPublished": false, 
         "isPurchasable": "Y"
     }, 
     "developerFacetKey": "EA Canada", 

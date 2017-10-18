@@ -24,7 +24,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "BR"
             }, 
@@ -362,5 +362,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-10-13T23:40:51Z"
+    "updatedDate": "2017-10-17T18:32:33Z"
 }
