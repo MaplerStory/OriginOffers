@@ -136,7 +136,7 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
@@ -195,15 +195,8 @@
                     "value": "pl_PL"
                 }
             ]
-        }, 
-        "storeControlDates": {
-            "storeControlDate": [
-                {
-                    "storeAvailableStartDate": "2017-10-10T04:00:00Z"
-                }
-            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-10-09T09:27:07Z"
+    "updatedDate": "2017-10-19T12:23:57Z"
 }
