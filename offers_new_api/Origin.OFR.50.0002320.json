@@ -72,7 +72,7 @@
         "publisherFacetKey": null, 
         "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "Join the war over a powerful resource", 
-        "systemRequirements": "<b>MINIMUM:</b><br><br>\n<b>OS: </b>Windows 7, 8, Windows 10 (64 bit)<br>\n<b>Processor:</b> Intel Core i5 at 2.5 GHz or better or AMD Phenom II x4 940 at 3.0 GHz<br>\n<b>Memory:</b> 6 GB RAM<br>\n<b>Graphics:</b> NVIDIA GeForce GTX 570 or AMD Radeon HD 5870, 1 GB VRAM<br>\n<b>DirectX:</b> Version 11<br>\n<b>Storage: </b>20 GB available space<br>\n<b>Sound Card: </b>DirectX compatible Sound card<br>\n<b>Additional Notes: </b>These are preliminary system specs and can change!<br><br>\n\n<b>RECOMMENDED:</b><br>\n<b>Additional Notes: </b>These are preliminary system specs and can change!<br>"
+        "systemRequirements": "<b>Minimum:</b><br><br>\n<b>OS: </b>64-bit Windows 7, Windows 8.1, Windows 10<br>\n<b>Processor: </b>Intel Core i5 3570, AMD FX-6350<br>\n<b>Memory: </b>8 GB RAM<br>\n<b>Graphics: </b>NVIDIA GTX 660 2GB, AMD Radeon 7850 2GB<br>\n<b>DirectX: </b>Version 11<br>\n<b>Storage: </b>35 GB available space<br>\n<b>Sound Card: </b>DirectX compatible Sound card<br><br><br>\n<b>Recommended:</b><br><br>\n<b>OS: </b>64-bit Windows 7, Windows 8.1, Windows 10<br>\n<b>Processor: </b>Intel Core i7-4790, AMD FX-8350<br>\n<b>Memory: </b>16 GB RAM<br>\n<b>Graphics: </b>NVIDIA GTX 1060 3GB, AMD RX 480 4GB<br>\n<b>DirectX: </b>Version 11<br>\n<b>Storage: </b>35 GB available space<br>\n<b>Sound Card: </b>DirectX compatible Sound card"
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
