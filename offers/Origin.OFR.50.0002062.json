@@ -1,0 +1,143 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1055496"
+    }, 
+    "financeId": "1055496", 
+    "itemId": "Origin.ITM.50.0001747", 
+    "itemName": "FIFA 18 - FIFA Points 4600 - WW (Origin/C2C)", 
+    "localizableAttributes": {
+        "displayName": "4,600 FIFA 18 Points Pack", 
+        "longDescription": "Use your 4,600 FIFA Points Pack to open packs and build your Ultimate Team\u2122 even faster.<br><br>\n \n<b>BUILD -</b> Build your squad from thousands of players. Choose your favorites or pick players that fit your style of football.<br><br>\n<b>MANAGE -</b> You can open packs or use the Transfer Market to acquire new players that can enhance team chemistry.<br><br>\n<b>COMPETE -</b> With millions of games played daily, there is always an opponent ready in FIFA 18 Ultimate Team\u2122.<br>", 
+        "packArtLarge": "/193608/231.0x326.0/1055496_LB_231x326_en_GB_^_2017-08-16-01-41-14_d2d801e207dd497f06d3e8e51eb4eb2e26c4e790.jpg", 
+        "packArtMedium": "/193608/142.0x200.0/1055496_MB_142x200_en_GB_^_2017-08-16-01-41-18_377fdca1f28403abdd97607621ebb5fe7f5a6bf1.jpg", 
+        "packArtSmall": "/193608/63.0x89.0/1055496_SB_63x89_en_GB_^_2017-08-16-01-41-24_b307663a10ec34d730c68fc7043d865f44107e97.jpg", 
+        "shortDescription": "Ultimate Scream is on now - you may score a boosted player!"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "FIFA", 
+                    "franchiseId": 50072
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FIFA 18", 
+                    "masterTitleId": 193608
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002062", 
+    "offerType": "Fictional Currency", 
+    "publishing": {
+        "publishingAttributes": {
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-09-04T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-09-04T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "ar_SA"
+                }, 
+                {
+                    "value": "cs_CZ"
+                }, 
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "tr_TR"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-01-01T00:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-10-03T14:07:13Z"
+}
