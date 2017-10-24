@@ -18,7 +18,7 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Ghost Games", 
@@ -66,7 +66,7 @@
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
         "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
-        "shortDescription": null, 
+        "shortDescription": "Experience the new action-driving blockbuster", 
         "systemRequirements": "<b>Minimum Requirements for 720p30 at low settings</b><br>\n<b>OS: </b> 64-bit Windows 7 or later<br>\n<b>CPU: </b> Intel i3 6300 @ 3.8GHz or AMD FX 8150 @ 3.6GHz with 4 hardware threads<br>\n<b>RAM: </b> 6GB<br>\n<b>DISC DRIVE: </b> DVD ROM drive required for installation only<br>\n<b>HARD DRIVE: </b> 30GB<br>\n<b>VIDEO: </b> NVIDIA GeForce\u00ae GTX 750 Ti or AMD Radeon\u2122 HD 7850 or equivalent DX11 compatible GPU with 2GB of memory<br>\n<b>DirectX: </b> 11 Compatible video card or equivalent<br>\n<b>INPUT: </b> Dual analog controller<br>\n<b>ONLINE CONNECTION REQUIREMENTS: </b> 192 KBPS or faster Internet connection<br><br>\n<b>Recommended Requirements for 1080p60 at high settings</b><br>\n<b>OS: </b> 64-bit Windows 10 or later<br>\n<b>CPU: </b> Intel i5 4690K @ 3.5GHz or AMD FX 8350 @ 4.0GHz with 4 hardware threads<br>\n<b>RAM: </b> 8GB<br>\n<b>DISC DRIVE: </b> DVD ROM drive required for installation only<br>\n<b>HARD DRIVE: </b> 30GB<br>\n<b>VIDEO: </b> AMD Radeon\u2122 RX 480 4GB, NVIDIA GeForce\u00ae GTX 1060 6GB or equivalent DX11 compatible GPU with 4GB of memory<br>\n<b>DirectX: </b> 11 Compatible video card or equivalent<br>\n<b>INPUT: </b> Dual analog controller<br>\n<b>ONLINE CONNECTION REQUIREMENTS:</b> 512 KBPS or faster Internet connection"
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
