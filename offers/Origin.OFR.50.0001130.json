@@ -59,7 +59,7 @@
     "publishing": {
         "publishingAttributes": {
             "isDownloadable": false, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Game Only"
         }, 
         "softwareControlDates": {
