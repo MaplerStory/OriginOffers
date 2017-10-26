@@ -8,19 +8,7 @@
                 "attributes": {
                     "isPurchasable": true
                 }, 
-                "countryCode": "AR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
                 "countryCode": "AS"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "BO"
             }, 
             {
                 "attributes": {
@@ -32,31 +20,7 @@
                 "attributes": {
                     "isPurchasable": true
                 }, 
-                "countryCode": "BZ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
                 "countryCode": "CA"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "CL"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "CO"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "CR"
             }, 
             {
                 "attributes": {
@@ -68,31 +32,7 @@
                 "attributes": {
                     "isPurchasable": true
                 }, 
-                "countryCode": "DO"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "EC"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "GT"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
                 "countryCode": "GU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "HN"
             }, 
             {
                 "attributes": {
@@ -104,61 +44,13 @@
                 "attributes": {
                     "isPurchasable": true
                 }, 
-                "countryCode": "NI"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "PA"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "PE"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
                 "countryCode": "PR"
             }, 
             {
                 "attributes": {
                     "isPurchasable": true
                 }, 
-                "countryCode": "PY"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "SV"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "TT"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
                 "countryCode": "US"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "UY"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "VE"
             }, 
             {
                 "attributes": {
@@ -362,5 +254,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-10-17T18:32:33Z"
+    "updatedDate": "2017-10-20T21:46:39Z"
 }
