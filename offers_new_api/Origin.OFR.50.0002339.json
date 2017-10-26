@@ -18,7 +18,7 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Ghost Games", 
@@ -57,7 +57,7 @@
         "longDescription": "Speed Points are the premium currency for Need for Speed Payback. You can use Speed Points to acquire Shipments in-game containing Bank, Vanity Items and Part Tokens to give your car that extra bit of love and attention!", 
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
-        "officialSiteURL": "www.needforspeed.com", 
+        "officialSiteURL": "https://www.ea.com/games/need-for-speed/need-for-speed-payback", 
         "onlineDisclaimer": "Conditions and restrictions apply. See www.ea.com/games/need-for-speed/need-for-speed-payback/disclaimers for details.", 
         "packArtLarge": "/193632/231.0x326.0/1061879_LB_231x326_en_US_^_2017-10-06-23-11-38_b9a2827dae643861e69793456e2f41520d671244.jpg", 
         "packArtMedium": "/193632/142.0x200.0/1061879_MB_142x200_en_US_^_2017-10-06-23-12-21_e500270ca36c466e1d44e29a507ec915345ff837.jpg", 

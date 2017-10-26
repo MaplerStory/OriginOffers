@@ -55,7 +55,7 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
             "isDownloadable": false, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Game Only"
         }, 
         "softwareControlDates": {
