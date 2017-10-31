@@ -388,7 +388,7 @@
             "gameDistributionSubType": "Gameplay Timer Trial - Access", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Full Game", 
             "trialLaunchDuration": 10
         }, 
