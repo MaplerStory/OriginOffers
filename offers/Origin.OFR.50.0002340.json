@@ -68,17 +68,17 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1061879"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1061883"
     }, 
-    "financeId": "1061879", 
-    "itemId": "Origin.ITM.50.0002000", 
-    "itemName": "Need for Speed Payback - 250 Speed Points - PC - WW (Origin)", 
+    "financeId": "1061883", 
+    "itemId": "Origin.ITM.50.0002001", 
+    "itemName": "Need for Speed Payback - 500 Speed Points - PC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "NFS Payback 250 Speed Points", 
+        "displayName": "NFS Payback 500 Speed Points", 
         "longDescription": "Speed Points are the premium currency for Need for Speed Payback. You can use Speed Points to acquire Shipments in-game containing Bank, Vanity Items and Part Tokens to give your car that extra bit of love and attention!", 
-        "packArtLarge": "/193632/231.0x326.0/1061879_LB_231x326_en_US_^_2017-10-06-23-11-38_b9a2827dae643861e69793456e2f41520d671244.jpg", 
-        "packArtMedium": "/193632/142.0x200.0/1061879_MB_142x200_en_US_^_2017-10-06-23-12-21_e500270ca36c466e1d44e29a507ec915345ff837.jpg", 
-        "packArtSmall": "/193632/63.0x89.0/1061879_SB_63x89_en_US_^_2017-10-06-23-12-46_279426360762779da8d1bc5ec41f7dc5dac128d4.jpg", 
+        "packArtLarge": "/193632/231.0x326.0/1061883_LB_231x326_en_US_^_2017-10-06-23-14-39_4a891af5b24da0d825d41c06fb5742eac5c45a1a.jpg", 
+        "packArtMedium": "/193632/142.0x200.0/1061883_MB_142x200_en_US_^_2017-10-06-23-15-05_5d7a5240a88f4c434f59a450ad044580e5ae4461.jpg", 
+        "packArtSmall": "/193632/63.0x89.0/1061883_SB_63x89_en_US_^_2017-10-06-23-15-23_03ec41b2cfde43bc6353222b4c7af3214cb30727.jpg", 
         "shortDescription": "Experience the new action-driving blockbuster"
     }, 
     "mdmHierarchies": {
@@ -96,7 +96,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002339", 
+    "offerId": "Origin.OFR.50.0002340", 
     "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
@@ -161,5 +161,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-10-31T21:27:37Z"
+    "updatedDate": "2017-10-31T21:29:25Z"
 }

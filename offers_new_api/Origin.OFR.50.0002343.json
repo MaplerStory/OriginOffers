@@ -6,9 +6,9 @@
     "countries": {
         "bannedCountries": [], 
         "billingDate": "2017-10-01T00:00:00Z", 
-        "catalogPrice": 2.49, 
+        "catalogPrice": 19.99, 
         "catalogPriceA": [
-            2.49
+            19.99
         ], 
         "countryCurrency": "USD", 
         "countryCurrencyA": [
@@ -45,7 +45,7 @@
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 
-        "displayName": "NFS Payback 250 Speed Points", 
+        "displayName": "NFS Payback 2200 Speed Points", 
         "eulaURL": "http://www.ea.com/legal", 
         "extraContentDisplayGroupDisplayName": null, 
         "franchiseFacetKey": null, 
@@ -59,9 +59,9 @@
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": "https://www.ea.com/games/need-for-speed/need-for-speed-payback", 
         "onlineDisclaimer": "Conditions and restrictions apply. See www.ea.com/games/need-for-speed/need-for-speed-payback/disclaimers for details.", 
-        "packArtLarge": "/193632/231.0x326.0/1061879_LB_231x326_en_US_^_2017-10-06-23-11-38_b9a2827dae643861e69793456e2f41520d671244.jpg", 
-        "packArtMedium": "/193632/142.0x200.0/1061879_MB_142x200_en_US_^_2017-10-06-23-12-21_e500270ca36c466e1d44e29a507ec915345ff837.jpg", 
-        "packArtSmall": "/193632/63.0x89.0/1061879_SB_63x89_en_US_^_2017-10-06-23-12-46_279426360762779da8d1bc5ec41f7dc5dac128d4.jpg", 
+        "packArtLarge": "/193632/231.0x326.0/1061895_LB_231x326_en_US_^_2017-10-06-23-18-07_ada3b90d75c0585c5d0237759739b6b84ac3a7a1.jpg", 
+        "packArtMedium": "/193632/142.0x200.0/1061895_MB_142x200_en_US_^_2017-10-06-23-18-27_77e35f2c84b33727ed8f502003b3cf03f14968ff.jpg", 
+        "packArtSmall": "/193632/63.0x89.0/1061895_SB_63x89_en_US_^_2017-10-06-23-18-44_f4a9b3d151540e6f0eb2c02d9e36373f31c342a7.jpg", 
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
@@ -74,15 +74,15 @@
     "isDownloadable": "False", 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "itemId": "Origin.ITM.50.0002000", 
-    "itemName": "Need for Speed Payback - 250 Speed Points - PC - WW (Origin)", 
+    "itemId": "Origin.ITM.50.0002004", 
+    "itemName": "Need for Speed Payback - 2200 Speed Points - PC - WW (Origin)", 
     "itemType": "Extra Content", 
     "masterTitle": "NFS PAYBACK", 
     "masterTitleId": "193632", 
     "mdmItemType": "Fictional Currency", 
     "numberOfPlayersFacetKey": "MultiPlayer", 
-    "offerId": "Origin.OFR.50.0002339", 
-    "offerPath": "/need-for-speed/need-for-speed-payback/currency/nfs-payback-250-speed-points", 
+    "offerId": "Origin.OFR.50.0002343", 
+    "offerPath": "/need-for-speed/need-for-speed-payback/currency/nfs-payback-2200-speed-points", 
     "offerType": "Extra Content", 
     "originDisplayType": "Game Only", 
     "platformFacetKey": "PC Download", 
