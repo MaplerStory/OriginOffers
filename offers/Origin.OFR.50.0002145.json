@@ -390,7 +390,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Warm Lamp Games\\Beholder Blissful Sleep\\Install Dir]Beholder Blissful Sleep.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Warm Lamp Games\\Beholder Blissful Sleep\\Install Dir]Beholder Blissful Sleep.exe", 
                         "installationDirectory": "Beholder Blissful Sleep", 
-                        "oigClientBehavior": "Blacklist"
+                        "oigClientBehavior": "Default"
                     }, 
                     "softwareId": "Origin.SFT.50.0000734", 
                     "softwarePlatform": "PCWIN"

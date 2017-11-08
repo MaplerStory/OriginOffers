@@ -673,7 +673,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Levall Games AB\\Please Knock on My Door\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Levall Games AB\\Please Knock on My Door\\Install Dir]__Installer\\installerdata.xml", 
                         "installationDirectory": "Please Knock on My Door", 
-                        "oigClientBehavior": "Blacklist"
+                        "oigClientBehavior": "Default"
                     }, 
                     "softwareId": "Origin.SFT.50.0000742", 
                     "softwarePlatform": "PCWIN"

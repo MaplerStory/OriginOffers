@@ -589,7 +589,7 @@
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Cheerdealers\\Distrust\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Cheerdealers\\Distrust\\Install Dir]__Installer\\installerdata.xml", 
                         "installationDirectory": "Distrust", 
-                        "oigClientBehavior": "Blacklist"
+                        "oigClientBehavior": "Default"
                     }, 
                     "softwareId": "Origin.SFT.50.0000770", 
                     "softwarePlatform": "PCWIN"
