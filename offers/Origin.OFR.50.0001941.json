@@ -452,7 +452,7 @@
                         "installationDirectory": "INSIDE", 
                         "monitorInstall": true, 
                         "monitorPlay": true, 
-                        "oigClientBehavior": "Blacklist", 
+                        "oigClientBehavior": "Default", 
                         "processorArchitecture": "64-bit", 
                         "showKeyDialogOnInstall": false, 
                         "showKeyDialogOnPlay": false
