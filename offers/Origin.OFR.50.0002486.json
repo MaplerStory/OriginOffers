@@ -1,0 +1,155 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064797"
+    }, 
+    "financeId": "1064797", 
+    "itemId": "Origin.ITM.50.0002138", 
+    "itemName": "Pillars of Eternity Deadfire Pack WW (Origin) (OOA/RTP) - PC/Mac - WW", 
+    "localizableAttributes": {
+        "displayName": "Deadfire Pack", 
+        "longDescription": "Pillars of Eternity: Deadfire Pack", 
+        "packArtLarge": "/194379/231.0x326.0/1031308_LB_231x326_en_US_^_2015-02-11-10-31-36_31b1ee78f252ec8457d5fc01ae6608b23a2100a5.jpg", 
+        "packArtMedium": "/194379/142.0x200.0/1031308_MB_142x200_en_US_^_2015-02-11-10-32-12_36214009d4f3bb68b62a15adebbd01d2238412d2.jpg", 
+        "packArtSmall": "/194379/63.0x89.0/1031308_SB_63x89_en_US_^_2015-02-11-10-32-28_688016947a32b46d57c7eabe296d70c357085ae6.jpg", 
+        "shortDescription": "Deadfire Pack"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "PILLARS OF ETERNITY", 
+                    "masterTitleId": 194379
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002486", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1064797", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-11-15T17:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2017-11-15T17:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2017-11-15T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-11-15T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData> <gameVersion version=\"3.0.7.1280\"/> <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/> <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/> </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.7.1280", 
+                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_deadfire_pack/pillars_of_eternitymacdlc__ww_x0_deadfire_packrun_1__20171113_307128077ce1499bca04c32bb1575b8b16b0440.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-11-13T21:05:10Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[unity.Obsidian Entertainment.Pillars of Eternity]/Contents/__Installer/DLC/POE_DEADFIRE_PACK/__Installer/installerdata.xml", 
+                        "installationDirectory": "/Contents/", 
+                        "macBundleID": "unity.Obsidian Entertainment.Pillars of Eternity", 
+                        "metadataInstallLocation": "/__Installer/DLC/POE_DEADFIRE_PACK"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000809", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.7.1280\"/>    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.7.1280", 
+                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_deadfire_pack/pillars_of_eternitypcdlc__ww_x0_deadfire_packrun_2__20171113_3071280550b6a59c806416dbd2d3db58b614056.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-11-13T20:40:21Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "addonDeploymentStrategy": "Restart Game", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Obsidian Entertainment\\Pillars of Eternity\\Install Dir]__Installer\\DLC\\POE_DEADFIRE_PACK\\__Installer\\installerdata.xml", 
+                        "installationDirectory": "\\", 
+                        "metadataInstallLocation": "__Installer/DLC/POE_DEADFIRE_PACK"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000808", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-11-14T23:39:47Z"
+}
