@@ -65,6 +65,7 @@
             "software": [
                 {
                     "fulfillmentAttributes": {
+                        "commerceProfile": "oig-real", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Canada\\FIFA 18\\Install Dir]__Installer\\DLC\\Xpack1\\__Installer\\installerdata.xml", 
