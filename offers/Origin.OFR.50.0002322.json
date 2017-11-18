@@ -40,12 +40,12 @@
         "mdmHierarchy": [
             {
                 "mdmFranchise": {
-                    "franchise": "New IP - Internal Tracking", 
-                    "franchiseId": 50318
+                    "franchise": "EA ACCESS", 
+                    "franchiseId": 193972
                 }, 
                 "mdmMasterTitle": {
-                    "masterTitle": "ORIGIN SUBSCRIPTION", 
-                    "masterTitleId": 191271
+                    "masterTitle": "ORIGIN ACCESS", 
+                    "masterTitleId": 195092
                 }, 
                 "type": "Primary"
             }
