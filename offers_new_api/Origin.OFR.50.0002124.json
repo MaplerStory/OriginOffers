@@ -68,6 +68,7 @@
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
+    "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001809", 

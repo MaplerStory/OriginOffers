@@ -48,6 +48,7 @@
     "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
             "isPublished": false, 

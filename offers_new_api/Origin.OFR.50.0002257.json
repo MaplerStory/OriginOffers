@@ -80,6 +80,7 @@
         "Origin.OFR.50.0002193"
     ], 
     "isDownloadable": "True", 
+    "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0001920", 
