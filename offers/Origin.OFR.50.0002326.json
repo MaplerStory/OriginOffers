@@ -385,6 +385,13 @@
                                 "downloadURL": "/shift/nordic_games/battle_chasers_nightwar/fg__ww_x0/battle_chasers_nightwarpcfg__ww_x0run_3__20171012_100230983889adfa15994123a367d6bf776dd451.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-10-16T18:37:01Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.23288\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.23288", 
+                                "downloadURL": "/shift/nordic_games/battle_chasers_nightwar/fg__ww_x0/battle_chasers_nightwarpcfg__ww_x0run_5__20171121_10023288279d7738ef56488d9e09a3440bb5fd81.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-11-21T22:52:27Z"
                             }
                         ]
                     }, 
