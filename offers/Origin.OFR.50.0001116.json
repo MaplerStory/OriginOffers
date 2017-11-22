@@ -455,18 +455,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.7.1280\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "3.0.7.1280", 
-                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_white_march_part_1_/pillars_of_eternitymacdlc__ww_white_march_part_1_run_19__20171113_3071280ceb3697eba6a4834885bc17ee9532c19.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-11-15T17:00:00Z"
-                            }, 
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.7.1284\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.7.1284\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "3.0.7.1284", 
                                 "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_white_march_part_1_/pillars_of_eternitymacdlc__ww_white_march_part_1_run_20__20171121_3071284f3dfae7bc6b04fc698e63b75286a26eb.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2037-11-22T01:28:04Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-11-22T00:00:04Z"
                             }
                         ]
                     }, 
