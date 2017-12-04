@@ -429,7 +429,8 @@
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Grimlore Games\\SpellForce 3\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Grimlore Games\\SpellForce 3\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "SpellForce 3"
+                        "installationDirectory": "SpellForce 3", 
+                        "processorArchitecture": "64-bit"
                     }, 
                     "softwareId": "Origin.SFT.50.0000744", 
                     "softwarePlatform": "PCWIN"
@@ -443,6 +444,24 @@
                 }, 
                 {
                     "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
                 }
             ]
         }, 

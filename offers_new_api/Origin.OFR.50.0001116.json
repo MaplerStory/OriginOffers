@@ -1,10 +1,7 @@
 {
     "alternateMasterTitleIds": [], 
     "brand": null, 
-    "bundleOffers": [
-        "Origin.OFR.50.0000896", 
-        "Origin.OFR.50.0000899"
-    ], 
+    "bundleOffers": [], 
     "contentId": "1036043", 
     "countries": {
         "bannedCountries": [], 
