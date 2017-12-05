@@ -67,7 +67,7 @@
         "publisherFacetKey": null, 
         "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
         "shortDescription": "The perfect blend between RTS and RPG!", 
-        "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS: </b>Windows 7, 8, Windows 10 (64 bit)<br>\n<b>Processor: </b>Intel Core 2 Duo @ 2Ghz / AMD Athlon 64 X2 equivalent<br>\n<b>Memory:</b> 2 GB RAM<br>\n<b>Graphics:</b> 1024 MB Direct3D 11 capable video card (GeForce GTX 470 or Radeon HD 5850)<br>\n<b>DirectX: </b>Version 11<br>\n<b>Storage: </b>10 GB available space<br>\n<b>Sound Card: </b>DirectX compatible Sound card<br>\n<b>Additional Notes: </b>These are preliminary system specs that can and will change!<br>"
+        "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS: </b>Windows 7, 8, Windows 10 (64 bit)<br>\n<b>Processor: </b>Intel Core i5 3570, AMD FX-6350<br>\n<b>Memory: </b>6 GB RAM<br>\n<b>Graphics: </b>NVIDIA GTX 660 2GB, AMD Radeon 7850 2GB<br>\n<b>DirectX: </b>Version 11<br>\n<b>Storage: </b>15 GB available space<br>\n<b>Sound Card: </b>DirectX compatible Sound card<br><br>\n\n<b>RECOMMENDED:</b><br>\n<b>OS: </b>Windows 7, 8, Windows 10 (64 bit)<br>\n<b>Processor: </b>Intel Core i7-4790, AMD FX-8350<br>\n<b>Memory: </b>8 GB RAM<br>\n<b>Graphics: </b>NVIDIA GTX 970 4GB, AMD Radeon R9 290 4GB<br>\n<b>DirectX: </b>Version 11<br>\n<b>Storage: </b>15 GB available space<br>\n<b>Sound Card: </b>DirectX compatible Sound card<br><br>"
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
