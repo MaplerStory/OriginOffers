@@ -442,6 +442,7 @@
                         ]
                     }, 
                     "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%InstallDir%/save/*.sf3sps</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Grimlore Games\\SpellForce 3\\Install Dir]__Installer\\installerdata.xml", 
