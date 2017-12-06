@@ -32,6 +32,12 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
                 "countryCode": "BW"
             }, 
             {
@@ -102,7 +108,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "FR"
             }, 
@@ -114,7 +120,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "GF"
             }, 
@@ -180,7 +186,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "MC"
             }, 
@@ -234,7 +240,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "NC"
             }, 
@@ -252,13 +258,13 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "PF"
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "RE"
             }, 
@@ -306,7 +312,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "TF"
             }, 
@@ -342,7 +348,7 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "YT"
             }, 
@@ -485,5 +491,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-11-22T09:43:25Z"
+    "updatedDate": "2017-12-06T10:50:09Z"
 }
