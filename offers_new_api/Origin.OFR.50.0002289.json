@@ -41,12 +41,14 @@
     "gameEditionTypeFacetKey": "Standard Edition", 
     "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "hello-neighbor", 
-    "gameRatingDesc": [], 
-    "gameRatingDescriptionLong": null, 
+    "gameRatingDesc": [
+        "Mild Violence"
+    ], 
+    "gameRatingDescriptionLong": "May contain content inappropriate for children. Visit www.esrb.org for rating information.", 
     "gameRatingPendingMature": "false", 
-    "gameRatingReason": null, 
+    "gameRatingReason": "Mild Violence", 
     "gameRatingType": "ESRB", 
-    "gameRatingTypeValue": "Rating Pending", 
+    "gameRatingTypeValue": "Everyone 10+", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
     "genreFacetKey": "First person", 
@@ -73,9 +75,9 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
         "shortDescription": "What horrible secrets are hiding in the basement?", 
-        "systemRequirements": "<b>OS: </b>Windows 7 64 Bit and up<br>\n<b>Processor:</b> i5 and up<br>\n<b>Memory:</b> 6 GB RAM<br>\n<b>Graphics:</b> GTX 770 and up<br>\n<b>Storage:</b> 2 GB available space<br>\n<b>Sound Card:</b> Stereo. Play with good stereo.<br><br>"
+        "systemRequirements": "<b>Minimum:</b><br>\n<b>OS:</b> Windows 7 and up, 64 Bit Only<br>\n<b>Direct X:</b> Version 11<br>\n<b>Processor:</b> i5 and up<br>\n<b>Memory:</b> 6 GB RAM<br>\n<b>Graphics:</b> GTX 770 and up<br>\n<b>Storage:</b> 2 GB available space<br>\nIntegrated Keyboard<br>\nIntegrated Mouse<br><br>\n\n\n<b>Recommended:</b><br>\n<b>OS:</b> Windows 7 and up, 64 Bit Only<br>\n<b>Direct X:</b> Version 11<br>\n<b>Processor:</b> i7<br>\n<b>Memory:</b> 6 GB RAM<br>\n<b>Graphics:</b> GTX 1060 and up<br>\n<b>Storage:</b> 2 GB available space<br>\nIntegrated Keyboard<br>\nIntegrated Mouse<br><br>"
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
@@ -112,7 +114,7 @@
     ], 
     "projectNumber": "316048", 
     "publisherFacetKey": "tinyBuild", 
-    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [
