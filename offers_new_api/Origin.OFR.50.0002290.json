@@ -1,14 +1,11 @@
 {
     "alternateMasterTitleIds": [], 
     "brand": null, 
-    "bundleOffers": [
-        "Origin.OFR.50.0002291", 
-        "Origin.OFR.50.0002385"
-    ], 
+    "bundleOffers": [], 
     "contentId": "1061674", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": "2017-07-20T17:00:00Z", 
+        "billingDate": "2017-11-08T00:00:00Z", 
         "catalogPrice": 29.99, 
         "catalogPriceA": [
             29.99
@@ -21,7 +18,7 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Dynamic Pixels", 
@@ -64,7 +61,7 @@
         "gameManualURL": null, 
         "gameTypeFacetKey": null, 
         "genreFacetKey": null, 
-        "longDescription": "Pre-purchase Hello Neighbor and get instant access to pre-alpha and alpha builds. Each build features a behind-the-scenes look at the development of Hello Neighbor, with different versions of the AI, houses, items and challenges to solve. The builds are yours to keep and replay \u2013 forever.<br><br>Hello Neighbor is a stealth horror game about sneaking into your neighbor's house to figure out what horrible secrets he's hiding in the basement. You play against an advanced AI that learns from your every move. Really enjoying climbing through that backyard window? Expect a bear trap there. Sneaking through the front door? There'll be cameras there soon. Trying to escape? The Neighbor will find a shortcut and catch you.<br><br>\n\u2022 Suspenseful horror gameplay (not jump scares) that focuses on sneaking around your neighbor's house.<br><br>\n\u2022 Constantly evolving experience where the Neighbor's AI counters your moves, and learns from what you do.<br><br>\n\u2022 Sandbox-style gameplay with plenty of environmental interaction and physics.<br><br>", 
+        "longDescription": "Hello Neighbor is a stealth horror game about sneaking into your neighbor's house to figure out what horrible secrets he's hiding in the basement. You play against an advanced AI that learns from your every move. <br><br>Really enjoying climbing through that backyard window? Expect a bear trap there. <br><br>Sneaking through the front door? There'll be cameras there soon. <br><br>Trying to escape? The Neighbor will find a shortcut and catch you.<br><br>\n\u2022 Suspenseful horror gameplay (not jump scares) that focuses on sneaking around your neighbor's house.<br><br>\n\u2022 Constantly evolving experience where the Neighbor's AI counters your moves, and learns from what you do.<br><br>\n\u2022 Sandbox-style gameplay with plenty of environmental interaction and physics.<br><br>", 
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": "http://www.helloneighborgame.com/", 
@@ -92,7 +89,7 @@
     "masterTitleId": "196875", 
     "mdmItemType": "Full Game", 
     "numberOfPlayersFacetKey": "SinglePlayer", 
-    "offerId": "Origin.OFR.50.0002289", 
+    "offerId": "Origin.OFR.50.0002290", 
     "offerPath": "/hello-neighbor/hello-neighbor/standard-edition", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
@@ -142,9 +139,9 @@
         "zh_CN", 
         "zh_TW"
     ], 
-    "storeEndDate": "2017-12-08T17:59:00Z", 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": "2017-07-20T17:00:00Z", 
+    "storeStartDate": "2017-12-08T18:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
