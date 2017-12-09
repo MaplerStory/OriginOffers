@@ -433,11 +433,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.45407\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.45407", 
-                                "downloadURL": "/shift/nordic_games/spellforce_3/fg__ww_x0/spellforce_3pcfg__ww_x0run_2__20171207_100454074398c4c9f98e4e7988b1d72f5da201fb.zip", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.45494\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.45494", 
+                                "downloadURL": "/shift/nordic_games/spellforce_3/fg__ww_x0/spellforce_3pcfg__ww_x0run_3__20171208_100454944ce708574fba4b11953283743e922c20.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2017-12-07T22:00:00Z"
+                                "effectiveDate": "2017-12-08T23:21:40Z"
                             }
                         ]
                     }, 
