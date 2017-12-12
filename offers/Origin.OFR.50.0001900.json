@@ -613,7 +613,6 @@
         "packArtLarge": "/196487/231.0x326.0/1028663_LB_231x326_en_US_^_2017-12-01-16-06-46_459c02af0334c3ca8d758bc50e8f40b36f008c38.jpg", 
         "packArtMedium": "/196487/142.0x200.0/1028663_MB_142x200_en_US_^_2017-12-01-16-07-01_aa44fd3286dfb0e9caff81b63b21de84cff3e07a.jpg", 
         "packArtSmall": "/196487/63.0x89.0/1028663_SB_63x89_en_US_^_2017-12-01-16-07-14_de512128810d6481d60458bc6351c3b157a75440.jpg", 
-        "preAnnouncementDisplayDate": "Coming Soon", 
         "shortDescription": "An exclusively co-op adventure best played with friends."
     }, 
     "mdmHierarchies": {
@@ -645,8 +644,9 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2040-11-01T00:00:00Z", 
-                    "platform": "PCWIN"
+                    "downloadStartDate": "2018-03-16T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2018-03-23T04:00:00Z"
                 }
             ]
         }, 
@@ -711,5 +711,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-12-08T00:25:54Z"
+    "updatedDate": "2017-12-12T21:44:43Z"
 }

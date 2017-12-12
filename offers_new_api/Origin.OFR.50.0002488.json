@@ -63,7 +63,7 @@
         "packArtMedium": "/196487/142.0x200.0/1028663_MB_142x200_en_US_^_2017-12-01-16-07-01_aa44fd3286dfb0e9caff81b63b21de84cff3e07a.jpg", 
         "packArtSmall": "/196487/63.0x89.0/1028663_SB_63x89_en_US_^_2017-12-01-16-07-14_de512128810d6481d60458bc6351c3b157a75440.jpg", 
         "platformFacetKey": null, 
-        "preAnnouncementDisplayDate": "Coming Soon", 
+        "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
         "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
         "shortDescription": "An exclusively co-op adventure best played with friends.", 
@@ -92,12 +92,12 @@
             "achievementSetOverride": "50318_194125_50844", 
             "commerceProfile": null, 
             "downloadPackageType": "DownloadInPlace", 
-            "downloadStartDate": null, 
+            "downloadStartDate": "2018-03-16T17:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": "1028663", 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
-            "releaseDate": null, 
+            "releaseDate": "2018-03-23T04:00:00Z", 
             "showSubsSaveGameWarning": "false", 
             "useEndDate": null
         }
