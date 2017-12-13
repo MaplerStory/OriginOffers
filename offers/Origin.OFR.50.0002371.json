@@ -103,12 +103,12 @@
         "mdmHierarchy": [
             {
                 "mdmFranchise": {
-                    "franchise": "Need for Speed", 
-                    "franchiseId": 50317
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
                 }, 
                 "mdmMasterTitle": {
-                    "masterTitle": "NFS 2016", 
-                    "masterTitleId": 185353
+                    "masterTitle": "EA FAMILY BUNDLE", 
+                    "masterTitleId": 197463
                 }, 
                 "type": "Primary"
             }
@@ -119,7 +119,7 @@
     "publishing": {
         "publishingAttributes": {
             "gameDistributionSubType": "Normal Game", 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "None"
         }, 
         "softwareControlDates": {

@@ -22,7 +22,7 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "N"
     }, 
     "developerFacetKey": null, 
@@ -85,8 +85,8 @@
     "itemId": "Origin.ITM.50.0002032", 
     "itemName": "EA Family Bundle - PC - GB/ZH (Origin)", 
     "itemType": "Bundle", 
-    "masterTitle": "NFS 2016", 
-    "masterTitleId": "185353", 
+    "masterTitle": "EA FAMILY BUNDLE", 
+    "masterTitleId": "197463", 
     "mdmItemType": "Compilation", 
     "numberOfPlayersFacetKey": null, 
     "offerId": "Origin.OFR.50.0002372", 
@@ -122,10 +122,5 @@
     "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": {
-        "isUpgradeable": "Y", 
-        "path": "/need-for-speed/need-for-speed/deluxe-edition", 
-        "vaultEndDate": null, 
-        "vaultStartDate": null
-    }
+    "vault": null
 }
