@@ -1,0 +1,109 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1063761"
+    }, 
+    "financeId": "1063761", 
+    "itemId": "Origin.ITM.50.0002083", 
+    "itemName": "Need for Speed Payback Mini Countryman - PDLC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "MINI John Cooper Works Countryman", 
+        "longDescription": "The second generation of the MINI Countryman is the biggest and most versatile model in the entire range of the tradition-steeped British brand. And another superlative now applies to the power unit of the MINI John Cooper Works Countryman. With an output of 170 kW/231 hp, it is the most powerful engine ever to be fitted in a MINI: in combination with the standard all-wheel drive system ALL4 and a robust vehicle concept, it ensures that the latest addition to the family of top John Cooper Works athletes takes the MINI experience to a whole new level - in terms of both race track feeling on the road and extreme driving fun over unsurfaced terrain.", 
+        "packArtLarge": "/193632/231.0x326.0/1063761_LB_231x326_en_US_^_2017-12-13-11-02-26_e70fe4f4599d38ed54f77d1ea5950333be49d8e1.jpg", 
+        "packArtMedium": "/193632/142.0x200.0/1063761_MB_142x200_en_US_^_2017-12-13-11-02-41_68868f05dd87c97727ce6a76badb98349160358a.jpg", 
+        "packArtSmall": "/193632/63.0x89.0/1063761_SB_63x89_en_US_^_2017-12-13-11-02-53_92258d2e9f5cb806796ef8609ca4499780a3065b.jpg", 
+        "shortDescription": "Drive the MINI John Cooper Works Countryman in NFS Payback"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Need for Speed", 
+                    "franchiseId": 50317
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "NFS PAYBACK", 
+                    "masterTitleId": 193632
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002431", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Game Only"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-12-19T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-12-19T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-12-13T12:49:22Z"
+}
