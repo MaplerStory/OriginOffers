@@ -6,12 +6,6 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "AM"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": true
                 }, 
                 "countryCode": "AN"
@@ -24,27 +18,9 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "AQ"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": true
                 }, 
                 "countryCode": "AT"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "AU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "AZ"
             }, 
             {
                 "attributes": {
@@ -68,19 +44,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "BR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "BW"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "BY"
             }, 
             {
                 "attributes": {
@@ -116,12 +80,6 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "CK"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "CM"
             }, 
             {
@@ -129,18 +87,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "CV"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "CX"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "DE"
             }, 
             {
                 "attributes": {
@@ -171,18 +117,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "ET"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "FJ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "FM"
             }, 
             {
                 "attributes": {
@@ -234,12 +168,6 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "HM"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": true
                 }, 
                 "countryCode": "IE"
@@ -260,31 +188,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "KG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "KI"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "KM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "KR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "KZ"
             }, 
             {
                 "attributes": {
@@ -315,12 +219,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "MG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "MH"
             }, 
             {
                 "attributes": {
@@ -380,12 +278,6 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "NF"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "NG"
             }, 
             {
@@ -396,45 +288,9 @@
             }, 
             {
                 "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "NR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "NU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "NZ"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": true
                 }, 
                 "countryCode": "PF"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "PG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "PN"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "PW"
             }, 
             {
                 "attributes": {
@@ -446,19 +302,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "RU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "RW"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "SB"
             }, 
             {
                 "attributes": {
@@ -512,43 +356,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "TJ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "TK"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "TM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "TN"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "TO"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "TV"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "TW"
             }, 
             {
                 "attributes": {
@@ -560,37 +368,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "UA"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "UG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "UZ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "VU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "WF"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "WS"
             }, 
             {
                 "attributes": {
@@ -750,5 +528,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-29T11:13:17Z"
+    "updatedDate": "2017-12-20T08:37:40Z"
 }
