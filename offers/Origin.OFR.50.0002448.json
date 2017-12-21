@@ -1,0 +1,96 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064850"
+    }, 
+    "financeId": "1064850", 
+    "itemId": "Origin.ITM.50.0002100", 
+    "itemName": "Mass Effect 3 Origin DLC Bundle - PC - WW", 
+    "localizableAttributes": {
+        "displayName": "Mass Effect 3 DLC Bundle", 
+        "longDescription": "The end is near \u2013 make sure you\u2019re prepared with all four single-player expansions, extra weapons and more. The Mass Effect 3 DLC Bundle includes:<br><br>\n\n<b>Single-player expansions</b><br>\n\u2022 From Ashes<br>\n\u2022 Leviathan<br>\n\u2022 Omega<br>\n\u2022 Citadel<br>\n\u2022 Mass Effect 3 Extended Cut ending<br>\n<br>\n\n<b>Multiplayer expansions</b><br>\n\u2022 Resurgence Pack<br>\n\u2022 Rebellion<br>\n\u2022 Earth<br>\n\u2022 Retaliation<br>\n\u2022 Reckoning<br>\n<br>\n\n\n\u2022 N7 Collector\u2019s Edition Pack \u2013 contains four new weapons, alternate outfits and a KEI-9 dog mech.<br>\n\n\u2022 N7 Warfare Gear \u2013 contains N7 Valkyrie and M-55 Argus assault rifles, and N7 Defender Armor.<br>\n\n\u2022 Firefight Pack \u2013 contains seven unique weapons for use in the single-player campaign.<br>\n\n\u2022 Groundside Resistance Pack \u2013 contains seven unique weapons for use in the single-player campaign.<br>\n\n\u2022 Alternate Appearance Pack \u2013 contains new outfits for Garrus, Liara, EDI and Shepard.<br>\n\n\u2022 Mass Effect 3 soundtrack<br>\n\n\u2022 Mass Effect 3 digital art book<br>\n\n\u2022 Mass Effect Genesis 2 digital comic<br>\n\n\u2022 Mass Effect Trilogy exclusive art<br>", 
+        "packArtLarge": "/69317/231.0x326.0/1064850_LB_231x326_en_US_^_2017-11-08-15-34-00_9cb396de7f3cea16288baa812087d51f2131ac8c.jpg", 
+        "packArtMedium": "/69317/142.0x200.0/1064850_MB_142x200_en_US_^_2017-11-08-15-34-18_1e24e4927787f236e46a33970e4efa0a39e1ad71.jpg", 
+        "packArtSmall": "/69317/63.0x89.0/1064850_SB_63x89_en_US_^_2017-11-08-15-34-34_e6b133cbc8450888226c3c36bc3703d0d7122865.jpg", 
+        "shortDescription": "Gear up for the final battle"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mass Effect", 
+                    "franchiseId": 68481
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MASS EFFECT 3", 
+                    "masterTitleId": 69317
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002448", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "isPublished": true, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-12-21T14:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-12-21T14:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "commerceProfile": "oig-real", 
+                        "enableDLCuninstall": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000817", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-12-21T14:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-12-20T21:27:09Z"
+}

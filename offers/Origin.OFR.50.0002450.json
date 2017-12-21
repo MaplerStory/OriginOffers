@@ -1,0 +1,97 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064847"
+    }, 
+    "financeId": "1064847", 
+    "itemId": "Origin.ITM.50.0002102", 
+    "itemName": "Dragon Age 2 Origin DLC Bundle", 
+    "localizableAttributes": {
+        "displayName": "Dragon Age II DLC Bundle", 
+        "longDescription": "Claim three expansions, exclusive armor sets, unique weapons and more in your fight for the fate of Kirkwall. The Dragon Age II DLC Bundle includes: <br><br>\n\n<b>Expansions</b><br>\n- The Exiled Prince<br>\n- Legacy<br>\n- Mark of the Assassin<br><br>  \n\n<li>The Black Emporium item shop</li>\n<li>Exclusive Blood Dragon Armor set</li>\n<li>Exclusive Ser Isaac\u2019s Armor set</li>\n<li>Dragon Age II Bioware Signature Edition content \u2013 contains premium weapons and armor including the Adder of Antiva, Seeker\u2019s Bulwark and more.</li>\n<li>Dragon Age II armory bundle \u2013 includes over twenty unique weapons, armor and items.</li>\n<li>All-Class Item Pack \u2013 contains Mage Item Pack, Rogue Item Pack and Warrior Item Pack.</li>\n<li>All-Class Item Pack II \u2013 contains Mage Item Pack II, Rogue Item Pack II and Warrior Item Pack II.</li>\n<li>High Resolution Texture Pack \u2013 enables higher detail replacements for most textures in the game.</li>\n<li>Dragon Age II soundtrack</li><br>", 
+        "packArtLarge": "/76231/231.0x326.0/70784_LB_231_^_2012-12-08-15-47-21_ee21cb8b4d0ad60f051afcad3226fea3f57ad5010b42a4153d4fe536dd176b68.jpg", 
+        "packArtMedium": "/76231/142.0x200.0/70784_MB_142_^_2012-12-08-15-49-12_304ac635e3a6989c60c11d0b527284f926a4d4339ce785fcaa2e7f3d4d7ed486.jpg", 
+        "packArtSmall": "/76231/63.0x89.0/70784_SB_63_^_2012-12-08-15-50-17_867f18ea13f32eaae67b35e0612f6f79c6bdb396b771810b6894ddb4d90838ad.jpg", 
+        "shortDescription": "A trove worthy of a champion"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Dragon Age", 
+                    "franchiseId": 68222
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "DRAGON AGE 2", 
+                    "masterTitleId": 76231
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002450", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "isPublished": true, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-12-21T14:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-12-21T14:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "commerceProfile": "oig-real", 
+                        "enableDLCuninstall": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000819", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-12-21T14:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-12-21T09:52:14Z"
+}

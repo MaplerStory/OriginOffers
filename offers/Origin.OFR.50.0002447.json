@@ -1,0 +1,97 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064849"
+    }, 
+    "financeId": "1064849", 
+    "itemId": "Origin.ITM.50.0002099", 
+    "itemName": "Mass Effect 2 Origin DLC Bundle - PDLC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Mass Effect 2 DLC Bundle", 
+        "longDescription": "Fight for the fate of the galaxy in huge new expansions, score extra firepower and more. The Mass Effect 2 DLC Bundle includes:<br><br>\n\n<b>Expansions</b><br>\n- Kasumi \u2013 Stolen Memory<br>\n- Overlord<br>\n- Lair of the Shadow Broker<br>\n- Arrival<br><br>    \n\n<b>Cerberus Network content</b><br> \n- Normandy Crash Site expansion<br>\n- Zaeed \u2013 The Price of Revenge expansion<br>\n- Firewalker Pack<br>\n- Cerberus Weapon and Armor pack \u2013 contains Cerberus Assault Armor and M-22 Eviscerator shotgun.<br>\n- Arc Projector heavy weapon<br><br>     \n\n<b>Aegis Pack</b> \u2013 contains the M-29 Incisor sniper rifle and the Kestrel armor.<br>\n<b>Equalizer Pack</b> \u2013 contains the Capacitor Helmet, Archon Visor and Inferno Armor.<br>\n<b>Firepower Pack</b> \u2013 contains the M-5 Phalanx heavy pistol, M-96 Mattock heavy rifle and Geth Plasma Shotgun.<br>\n<b>Alternate Appearance Pack 1</b> \u2013 contains new outfits for Garrus, Thane and Jack.<br>\n<b>Alternate Appearance Pack 2</b> - contains new outfits for Tali, Grunt and Miranda.<br>\n<b>Collectors\u2019 Weapon and Armor pack</b> \u2013 contains Collector Armor and the Collector Assault Rifle.<br>\n<b>Terminus Weapon and Armor pack</b> \u2013 contains Terminus Assault Armor and the M-490 Blackstorm heavy weapon.<br>\n<b>Mass Effect 2 promo bundle</b> \u2013 contains Umbra Visor, Sentry Interface and Recon Hood.<br>\n<b>Blood Dragon Armor</b><br>\n<b>Mass Effect 2 soundtrack</b><br>\n<b>Mass Effect 2 Making of Documentary</b><br>\n<b>Mass Effect 2: Genesis digital comic</b><br>\n<b>Mass Effect 2 digital art book</b><br>", 
+        "packArtLarge": "/69774/231.0x326.0/1064849_LB_231x326_en_US_^_2017-11-08-15-35-36_a3129ce631386674fc5ba6cc4d72ca534e6e478a.jpg", 
+        "packArtMedium": "/69774/142.0x200.0/1064849_MB_142x200_en_US_^_2017-11-08-15-35-52_b7a50bebcfb8cc4cfa42997b7088d8e548b4ef6c.jpg", 
+        "packArtSmall": "/69774/63.0x89.0/1064849_SB_63x89_en_US_^_2017-11-08-15-38-59_56b3c047297b3796b523a22aa0f167bb3a81d1d7.jpg", 
+        "shortDescription": "<b>Prepare for war with an arsenal of extras</b>"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Mass Effect", 
+                    "franchiseId": 68481
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MASS EFFECT 2", 
+                    "masterTitleId": 69774
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002447", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "isPublished": true, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-12-21T14:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-12-21T14:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "commerceProfile": "oig-real", 
+                        "enableDLCuninstall": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000816", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-12-21T14:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-12-15T19:14:27Z"
+}
