@@ -1,0 +1,102 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1034365"
+    }, 
+    "financeId": "1034365", 
+    "itemId": "Origin.ITM.50.0001316", 
+    "itemName": "Anthem Standard Edition PCDD - WW (Origin.com)", 
+    "localizableAttributes": {
+        "displayName": "Anthem Holiday Playtest", 
+        "longDescription": "Welcome to the Anthem Holiday Playtest!", 
+        "packArtLarge": "/180831/231.0x326.0/1034365_LB_231x326_en_US_^_2017-12-21-12-32-28_93efb2e5d7b0f4c5ad541308136696021e743933.png", 
+        "packArtMedium": "/180831/142.0x200.0/1034365_MB_142x200_en_US_^_2017-12-21-12-32-31_7d18c0b769e93eee56503466684782606476bd24.png", 
+        "packArtSmall": "/180831/63.0x89.0/1034365_SB_63x89_en_US_^_2017-12-21-12-32-25_aaae850d663506f0b143722633770fdc2d2a403c.png", 
+        "shortDescription": "Anthem Standard Edition PCDD - WW Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ANTHEM", 
+                    "masterTitleId": 180831
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002536", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1034365", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-12-01T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-12-01T00:00:00Z", 
+                    "useEndDate": "2018-01-31T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Anthem\\Install Dir]\\Anthem.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\EA Games\\Anthem\\Install Dir]\\Anthem.exe", 
+                        "installationDirectory": "Anthem", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1034365", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000559", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-12-15T18:55:54Z"
+}

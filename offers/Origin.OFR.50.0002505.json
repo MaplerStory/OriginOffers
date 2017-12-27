@@ -1,0 +1,531 @@
+{
+    "baseAttributes": {
+        "platform": "MAC/PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "BW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CI"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "CV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DJ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "EH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ET"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GQ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "GW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ML"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MV"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NE"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "NZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "PN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "RW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SC"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SL"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TD"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TN"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TO"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TW"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "TZ"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "UG"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "WF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "WS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZM"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "ZW"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "8000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0000890", 
+            "Origin.OFR.50.0000892", 
+            "Origin.OFR.50.0000891", 
+            "Origin.OFR.50.0000894", 
+            "Origin.OFR.50.0002486", 
+            "Origin.OFR.50.0000893", 
+            "Origin.OFR.50.0000896", 
+            "Origin.OFR.50.0001117", 
+            "Origin.OFR.50.0000895", 
+            "Origin.OFR.50.0000898", 
+            "Origin.OFR.50.0001115", 
+            "Origin.OFR.50.0000897", 
+            "Origin.OFR.50.0001116", 
+            "Origin.OFR.50.0000889", 
+            "Origin.OFR.50.0000888", 
+            "Origin.OFR.50.0000899"
+        ], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064960"
+    }, 
+    "financeId": "1064960", 
+    "itemId": "Origin.ITM.50.0002153", 
+    "itemName": "Pillars of Eternity: Definitive Edition (OOA/RTP) - PC/Mac - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Pillars of Eternity: Definitive Edition", 
+        "longDescription": "Pillars of Eternity: Definitive Edition Includes<br>\nPillars of Eternity: Royal Edition<br>\nThe White March: Parts I &amp; II<br>\nPillars of Eternity: Deadfire Pack<br><br>\n\nExperience the game that revitalized the classic RPG genre in a complete and definitive package that includes every expansion, bonus, and update, presenting Pillars of Eternity at its best. Obsidian Entertainment, the developer of Fallout: New Vegas\u2122 and South Park: The Stick of Truth\u2122, together with Paradox Interactive bring you to the original and incredible world of Eora, and send you on an unforgettable adventure where the choices you make and the paths you choose shape your destiny.<br><br>\n\nRecapture the deep sense of exploration, the joy of a pulsating adventure, and the thrill of leading your own band of companions across a new fantasy realm and into the depths of monster-infested dungeons in search of lost treasures and ancient mysteries. The Definitive Edition includes the award-winning Pillars of Eternity alongside its expansions, The White March: Parts I &amp; II, as well as all bonus content from the Royal Edition, and a new bundle of content called the \u201cDeadfire Pack\u201d, inspired by Obsidian\u2019s upcoming Pillars of Eternity II: Deadfire.<br><br>\n\nPillars of Eternity: Definitive Edition features:<br>\n\u2022 Deep character customization: Build a character as one of eleven classes such as Barbarian, Chanter, Cipher, Druid, Fighter, Monk, Paladin, Priest, Ranger, Rogue and Wizard.<br><br>\n\n\u2022 Sculpt your own story: Side with various factions using a reputation system, where your actions and choices have far reaching consequences.<br><br>\n\n\u2022 Explore a rich and diverse world: Beautiful pre-rendered environments laced with an engaging story and characters bring the world to life.<br><br>\n\n\u2022 Journey to new regions and meet new companions in The White March: Parts I &amp; II, the game's expansion chapters, and find new stories to experience.<br><br>\n\n\u2022 All premium content originally sold with Pillars of Eternity: Royal Edition, including the original soundtrack, a digital collector's book, an original novella set in the Pillars universe, and much, much more.<br><br>\n\n\u2022 The all-new Deadfire Pack DLC, which includes new in-game items to earn and discover, and new portraits from the forthcoming sequel, Pillars of Eternity II: Deadfire, releasing in 2018.<br><br>", 
+        "packArtLarge": "/194379/231.0x326.0/1064960_LB_231x326_en_US_^_2017-11-22-15-07-57_61004a9f03066fc4bafee8d9537d2b769cf4bd6d.jpg", 
+        "packArtMedium": "/194379/142.0x200.0/1064960_MB_142x200_en_US_^_2017-11-22-15-08-19_91620fcce4990650bb0c1f09e2dd3d2f04260596.jpg", 
+        "packArtSmall": "/194379/63.0x89.0/1064960_SB_63x89_en_US_^_2017-11-22-15-08-32_db06f7abe5913d2a5f0ef2ca51927002dfcc0cad.jpg", 
+        "shortDescription": "Embark on an Epic Adventure."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "PILLARS OF ETERNITY", 
+                    "masterTitleId": 194379
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002505", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1031308", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-11-15T18:00:00Z", 
+                    "platform": "MAC", 
+                    "releaseDate": "2017-11-15T18:00:00Z"
+                }, 
+                {
+                    "downloadStartDate": "2017-11-15T18:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-11-15T18:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.7.1280\"/>    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>    <requirements osMinVersion=\"10.6.3\" osReqs64Bit=\"false\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.7.1280", 
+                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/fg__ww_x0_pillars_of_eternity/pillars_of_eternitymacfg__ww_x0_pillars_of_eternityrun_18__20171113_3071280cbfb402c843c42aabdfebef15a1bfea0.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-11-15T17:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.7.1318\"/>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>\n    <requirements osMinVersion=\"10.6.3\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.7.1318", 
+                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/fg__ww_x0_pillars_of_eternity/pillars_of_eternitymacfg__ww_x0_pillars_of_eternityrun_19__20171221_3071318cdd919740f48445c8956bf1e591f5b54.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-12-21T22:34:28Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Library%/Application Support/Pillars of Eternity/Saved Games/*.savegame</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[unity.Obsidian Entertainment.Pillars of Eternity]//Contents/MacOS/PillarsOfEternity", 
+                        "installCheckOverride": "[unity.Obsidian Entertainment.Pillars of Eternity]//Contents/MacOS/PillarsOfEternity", 
+                        "installationDirectory": "Pillars of Eternity", 
+                        "macBundleID": "unity.Obsidian Entertainment.Pillars of Eternity", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000382", 
+                    "softwarePlatform": "MAC"
+                }, 
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.7.1280\"/>    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.7.1280", 
+                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/fg__ww_usfrdeitplrues_pillars_of_eternity/pillars_of_eternitypcfg__ww_usfrdeitplrues_pillars_of_eternityrun_18__20171113_307128098fcf618e1894dedb6e290f783a4a9ec.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-11-15T17:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.7.1318\"/>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "3.0.7.1318", 
+                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/fg__ww_usfrdeitplrues_pillars_of_eternity/pillars_of_eternitypcfg__ww_usfrdeitplrues_pillars_of_eternityrun_19__20171221_3071318f30229312bc4480a9f80ffa98ea93d82.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-12-21T21:16:12Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%SavedGames%/Pillars of Eternity/*.savegame</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\\\Obsidian Entertainment\\Pillars of Eternity\\Install Dir]PillarsOfEternity.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\\\Obsidian Entertainment\\Pillars of Eternity\\Install Dir]PillarsOfEternity.exe", 
+                        "installationDirectory": "Pillars of Eternity", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000381", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2017-12-05T18:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-12-05T12:26:46Z"
+}

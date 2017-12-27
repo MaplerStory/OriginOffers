@@ -1,0 +1,109 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064958"
+    }, 
+    "financeId": "1064958", 
+    "itemId": "Origin.ITM.50.0002160", 
+    "itemName": "Syberia 3 An Automatan With A Plan (Origin) (OOA/RTP) - PC - WW", 
+    "localizableAttributes": {
+        "displayName": "Syberia 3 An Automaton with a Plan", 
+        "longDescription": "Discover \"An Automaton with a Plan\", a new adventure that takes place in the enchanted world of Syberia 3! Play as Oscar, the famous automat, and unravel the mystery of Kate Walker's disappearance!&nbsp;", 
+        "packArtLarge": "/196474/231.0x326.0/1050423_LB_231x326_en_US_^_2017-02-10-15-40-34_15774fe082bfa07c4bf6314a0099eaae08222623.jpg", 
+        "packArtMedium": "/196474/142.0x200.0/1050423_MB_142x200_en_US_^_2017-02-10-15-40-50_e66f26b15389892b0bedcb6b03891925ab5eeb3a.jpg", 
+        "packArtSmall": "/196474/63.0x89.0/1050423_SB_63x89_en_US_^_2017-02-10-15-41-07_1b28be997eca92822fa1e8ea7144413f5952ada0.jpg", 
+        "shortDescription": "New mission \"An Automaton with a Plan\""
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "SYBERIA 3", 
+                    "masterTitleId": 196474
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002511", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": false, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-11-09T07:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-11-09T07:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "nl_NL"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2017-11-23T10:55:08Z"
+}
