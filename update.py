@@ -26,13 +26,13 @@ special_ids = [
     "OFB-EAST:109546867"  # BF4
 ]
 
-how_many = 1500
+how_many = 1800
 offer_pat = "Origin.OFR.50.%s"
 # offer_pat = "OFB-EAST:%s"
 # offer_pat = "DR:%s"
 url = "https://ecommerce2.dm.origin.com/ecommerce2/%s/%s/en_US?country=US&machine_hash=17400363085085971258"
 url_new = "https://api2.origin.com/ecommerce2/%s/supercat/%s/en_US?country=US&lmd=1461618623000"
-i = 1000
+i = 1500
 
 for i in range(i, i + how_many):
     try:
