@@ -433,11 +433,11 @@
                                 "effectiveDate": "2017-11-15T17:00:00Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.7.1318\"/>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>\n    <requirements osMinVersion=\"10.6.3\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.7.1318\"/>    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>    <requirements osMinVersion=\"10.6.3\" osReqs64Bit=\"false\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "3.0.7.1318", 
                                 "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/fg__ww_x0_pillars_of_eternity/pillars_of_eternitymacfg__ww_x0_pillars_of_eternityrun_19__20171221_3071318cdd919740f48445c8956bf1e591f5b54.zip", 
                                 "downloadURLType": "staged", 
-                                "effectiveDate": "2037-12-21T22:34:28Z"
+                                "effectiveDate": "2018-01-03T18:00:00Z"
                             }
                         ]
                     }, 
@@ -468,11 +468,11 @@
                                 "effectiveDate": "2017-11-15T17:00:00Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"3.0.7.1318\"/>\n    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>\n    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.7.1318\"/>    <featureFlags autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifestEnabled=\"1\"/>    <requirements osMinVersion=\"5.1\" osReqs64Bit=\"false\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "3.0.7.1318", 
                                 "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/fg__ww_usfrdeitplrues_pillars_of_eternity/pillars_of_eternitypcfg__ww_usfrdeitplrues_pillars_of_eternityrun_19__20171221_3071318f30229312bc4480a9f80ffa98ea93d82.zip", 
                                 "downloadURLType": "staged", 
-                                "effectiveDate": "2037-12-21T21:16:12Z"
+                                "effectiveDate": "2018-01-03T18:00:00Z"
                             }
                         ]
                     }, 

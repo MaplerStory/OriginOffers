@@ -577,18 +577,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.1\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.1", 
-                                "downloadURL": "/shift/tiny_build/hello_neighbor/fg__ww_x0/hello_neighborpcfg__ww_x0run_2__20171222_100110b360072130458cba82a38394bcbea7.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-12-22T20:52:00Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.6\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.6", 
                                 "downloadURL": "/shift/tiny_build/hello_neighbor/fg__ww_x0/hello_neighborpcfg__ww_x0run_5__20180102_1006a19fb2dae7754355a4eda91c987daf50.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2038-01-02T18:57:05Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-01-03T17:00:00Z"
                             }
                         ]
                     }, 
