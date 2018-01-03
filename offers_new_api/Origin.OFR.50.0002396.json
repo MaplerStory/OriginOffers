@@ -17,7 +17,7 @@
         "isPublished": true, 
         "isPurchasable": "N"
     }, 
-    "developerFacetKey": null, 
+    "developerFacetKey": "Square Enix", 
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
@@ -99,7 +99,7 @@
         }
     ], 
     "projectNumber": "316180", 
-    "publisherFacetKey": null, 
+    "publisherFacetKey": "SQUARE ENIX", 
     "ratingSystemIcon": null, 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
