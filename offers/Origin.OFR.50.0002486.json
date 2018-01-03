@@ -79,17 +79,10 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData> <gameVersion version=\"3.0.7.1280\"/> <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/> <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/> </buildMetaData>", 
-                                "buildReleaseVersion": "3.0.7.1280", 
-                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_deadfire_pack/pillars_of_eternitymacdlc__ww_x0_deadfire_packrun_1__20171113_307128077ce1499bca04c32bb1575b8b16b0440.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-11-13T21:05:10Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.7.1318\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "3.0.7.1318", 
                                 "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_deadfire_pack/pillars_of_eternitymacdlc__ww_x0_deadfire_packrun_2__20171221_30713182d8ecda119b848e5be0c9bcc7ffa7f26.zip", 
-                                "downloadURLType": "staged", 
+                                "downloadURLType": "live", 
                                 "effectiveDate": "2018-01-03T18:00:00Z"
                             }
                         ]
@@ -110,17 +103,10 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.7.1280\"/>    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "3.0.7.1280", 
-                                "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_deadfire_pack/pillars_of_eternitypcdlc__ww_x0_deadfire_packrun_2__20171113_3071280550b6a59c806416dbd2d3db58b614056.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-11-13T20:40:21Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"3.0.7.1318\"/>    <featureFlags dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "3.0.7.1318", 
                                 "downloadURL": "/shift/paradox_interactive/pillars_of_eternity/dlc__ww_x0_deadfire_pack/pillars_of_eternitypcdlc__ww_x0_deadfire_packrun_3__20171221_30713186c1c16f2aef7422fb901f4af6c8cfc46.zip", 
-                                "downloadURLType": "staged", 
+                                "downloadURLType": "live", 
                                 "effectiveDate": "2018-01-03T18:00:00Z"
                             }
                         ]
