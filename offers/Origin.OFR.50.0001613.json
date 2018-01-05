@@ -85,6 +85,13 @@
                                 "downloadURL": "/shift/plug_in_digital/mini_metro/fg__ww_x0/mini_metromacfg__ww_x0run_10__20171103_5201710191457dbbeb4c0199f4c3e8e4f2ddd664f5f70.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-11-03T18:14:55Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"0\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"5.2017.1214.945\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.7\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "5.2017.1214.945", 
+                                "downloadURL": "/shift/plug_in_digital/mini_metro/fg__ww_x0/mini_metromacfg__ww_x0run_11__20180105_52017121494597daf7c877d446aeaaaf0a7ea084f343.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2038-01-05T17:15:03Z"
                             }
                         ]
                     }, 
@@ -113,6 +120,13 @@
                                 "downloadURL": "/shift/plug_in_digital/mini_metro/fg__ww_x0/mini_metropcfg__ww_x0run_12__20171103_5201710201257ac79432a931f4329933e799a8f480f29.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-11-03T18:05:37Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"1\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"5.2017.1213.1649\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "5.2017.1213.1649", 
+                                "downloadURL": "/shift/plug_in_digital/mini_metro/fg__ww_x0/mini_metropcfg__ww_x0run_13__20180105_52017121316495639d93ea6dc47d2b24df9642cba85eb.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2038-01-05T17:15:32Z"
                             }
                         ]
                     }, 
