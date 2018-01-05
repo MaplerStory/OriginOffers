@@ -54,6 +54,7 @@
         "publishingAttributes": {
             "contentId": "196983", 
             "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": true, 
             "isDownloadable": true, 
             "isPublished": true, 
             "originDisplayType": "Full Game", 
