@@ -33,12 +33,18 @@
     "gameEditionTypeFacetKey": "Standard Edition", 
     "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "a-way-out", 
-    "gameRatingDesc": [], 
+    "gameRatingDesc": [
+        "Blood", 
+        "Intense Violence", 
+        "Nudity", 
+        "Sexual Content", 
+        "Strong Language"
+    ], 
     "gameRatingDescriptionLong": null, 
     "gameRatingPendingMature": null, 
     "gameRatingReason": null, 
     "gameRatingType": "ESRB", 
-    "gameRatingTypeValue": "Rating Pending", 
+    "gameRatingTypeValue": "Mature", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
     "genreFacetKey": "Action,Adventure", 
@@ -65,7 +71,7 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
         "shortDescription": "An exclusively co-op adventure best played with friends.", 
         "systemRequirements": "Coming Soon"
     }, 
@@ -104,7 +110,7 @@
     ], 
     "projectNumber": "312479", 
     "publisherFacetKey": "Electronic Arts", 
-    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_RP.png", 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4318", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [
