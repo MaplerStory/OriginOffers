@@ -1,0 +1,125 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "JP"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064659"
+    }, 
+    "financeId": "1064659", 
+    "itemId": "Origin.ITM.50.0002146", 
+    "itemName": "FE - PC - JP (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Fe", 
+        "longDescription": "Fe is a new type of platforming adventure. The story is up to you to uncover, told wordlessly through the discoveries you make during gameplay.<br><br>\n\n<b>Key Features: </b><br><br>\n\n<b>Discover a world worth exploring.</b> Climb, glide and dig your way through a dark Nordic forest and explore its living, breathing ecosystem filled with secrets and mystical creatures. <br><br>\n\n<b>Speak the language of the forest.</b> At the heart of the experience is a tactile, analogue song mechanic that allows you to communicate with every living thing in the forest - even plants. Have birds guide you, bears fight for you and have plants grow berries that help you overcome the Silent Ones.<br><br>\n\n<b>Defeat the Silent Ones.</b> While the forest is an astounding place, the Silent Ones are threatening this magical world's harmony. To make it a home again, you must stop them.", 
+        "packArtLarge": "/195955/231.0x326.0/1041863_LB_231x326_en_US_^_2017-12-02-02-45-03_3e1d02cdbaa060e573ed2674de2755f4d9a5d591.jpg", 
+        "packArtMedium": "/195955/142.0x200.0/1041863_MB_142x200_en_US_^_2017-12-02-02-46-01_e1ce03396e7bf11a485f7a376ef295423cfd3485.jpg", 
+        "packArtSmall": "/195955/63.0x89.0/1041863_SB_63x89_en_US_^_2017-12-02-02-46-49_43cc8b4ddae22fa84b5962ee6115d2dbbb5b77a0.jpg", 
+        "shortDescription": "Discover a world that you will never want to leave."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FE", 
+                    "masterTitleId": 195955
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002499", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1041863", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2018-02-09T18:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2018-02-16T05:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_195955_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n   <exclude order=\"0\">%LocalLowAppData%/Zoink Games/Fe/SystemSettings.sav</exclude>\n   <include order=\"1\">%LocalLowAppData%/Zoink Games/Fe/Save1.sav</include>\n   <include order=\"2\">%LocalLowAppData%/Zoink Games/Fe/Save2.sav</include>\n   <include order=\"3\">%LocalLowAppData%/Zoink Games/Fe/Save3.sav</include>\n</saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Zoink\\Fe\\Install Dir]\\Fe.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Zoink\\Fe\\Install Dir]\\Fe.exe", 
+                        "installationDirectory": "Fe", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1041863", 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000675", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-01-08T09:35:53Z"
+}
