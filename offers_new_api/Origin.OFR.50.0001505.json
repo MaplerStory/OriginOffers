@@ -18,7 +18,7 @@
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "Y"
     }, 
     "developerFacetKey": null, 
@@ -72,7 +72,7 @@
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
     "isDownloadable": "False", 
-    "isRepurchaseable": null, 
+    "isRepurchaseable": "true", 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001301", 

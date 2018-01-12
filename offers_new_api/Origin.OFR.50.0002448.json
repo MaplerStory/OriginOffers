@@ -134,7 +134,11 @@
     "rbuCode": "4326", 
     "revenueModel": "Digital - Extra Content", 
     "softwareLocales": [
-        "en_US"
+        "de_DE", 
+        "en_US", 
+        "es_ES", 
+        "fr_FR", 
+        "it_IT"
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
