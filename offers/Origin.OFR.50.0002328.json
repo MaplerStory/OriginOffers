@@ -55,7 +55,7 @@
     "offerType": "Subscription", 
     "publishing": {
         "publishingAttributes": {
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "None"
         }, 
         "softwareControlDates": {
