@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -105,5 +106,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-12-13T12:50:00Z"
+    "updatedDate": "2018-01-18T12:54:27Z"
 }
