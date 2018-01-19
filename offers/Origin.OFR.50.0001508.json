@@ -189,7 +189,7 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game", 
             "useLegacyFriendsLimit": true
         }, 
