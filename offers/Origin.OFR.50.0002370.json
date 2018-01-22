@@ -59,7 +59,7 @@
     "publishing": {
         "publishingAttributes": {
             "gameDistributionSubType": "Normal Game", 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "None"
         }, 
         "softwareControlDates": {
