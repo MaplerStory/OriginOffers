@@ -3,7 +3,20 @@
         "platform": "PCWIN"
     }, 
     "countries": {
-        "country": []
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "JP"
+            }
+        ]
     }, 
     "customAttributes": {
         "gameEditionTypeFacetKeyRankDesc": "3000", 
@@ -108,5 +121,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-01-25T05:18:22Z"
+    "updatedDate": "2018-01-25T05:31:34Z"
 }
