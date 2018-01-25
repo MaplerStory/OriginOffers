@@ -3,20 +3,7 @@
         "platform": "PCWIN"
     }, 
     "countries": {
-        "country": [
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "DEFAULT"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "JP"
-            }
-        ]
+        "country": []
     }, 
     "customAttributes": {
         "gameEditionTypeFacetKeyRankDesc": "3000", 
@@ -68,7 +55,7 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2018-02-09T18:00:00Z", 
+                    "downloadStartDate": "2018-02-16T05:00:00Z", 
                     "platform": "PCWIN", 
                     "releaseDate": "2018-02-16T05:00:00Z"
                 }
@@ -121,5 +108,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-01-12T00:56:08Z"
+    "updatedDate": "2018-01-25T05:18:22Z"
 }

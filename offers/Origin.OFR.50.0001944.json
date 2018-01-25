@@ -608,13 +608,13 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2018-02-09T18:00:00Z", 
+                    "downloadStartDate": "2018-02-16T05:00:00Z", 
                     "platform": "PCWIN", 
                     "releaseDate": "2018-02-16T05:00:00Z"
                 }
@@ -669,5 +669,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-01-12T00:53:54Z"
+    "updatedDate": "2018-01-25T04:52:56Z"
 }

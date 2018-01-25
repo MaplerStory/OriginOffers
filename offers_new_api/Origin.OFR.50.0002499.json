@@ -6,20 +6,16 @@
     "countries": {
         "bannedCountries": [], 
         "billingDate": null, 
-        "catalogPrice": 19.99, 
-        "catalogPriceA": [
-            19.99
-        ], 
-        "countryCurrency": "USD", 
-        "countryCurrencyA": [
-            "USD"
-        ], 
+        "catalogPrice": null, 
+        "catalogPriceA": [], 
+        "countryCurrency": null, 
+        "countryCurrencyA": [], 
         "giftable": "N", 
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": null
     }, 
     "developerFacetKey": "Zoink", 
     "duration": null, 
@@ -92,7 +88,7 @@
             "achievementSetOverride": "50318_195955_50844", 
             "commerceProfile": null, 
             "downloadPackageType": "DownloadInPlace", 
-            "downloadStartDate": "2018-02-09T18:00:00Z", 
+            "downloadStartDate": "2018-02-16T05:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": "1041863", 
             "originSubscriptionUseEndDate": null, 
