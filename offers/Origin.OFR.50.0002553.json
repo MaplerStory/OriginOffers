@@ -1,0 +1,72 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1066157"
+    }, 
+    "financeId": "1066157", 
+    "itemId": "Origin.ITM.50.0002196", 
+    "itemName": "Origin Access Premium Membership - Non-recurring 12 Month", 
+    "localizableAttributes": {
+        "displayName": "Origin Access Premium Membership - Non-recurring 12 Month", 
+        "longDescription": "Origin Access Premium Membership - Non-recurring 12 Month", 
+        "shortDescription": "Origin Access Premium Membership - Non-recurring 12 Month"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "EA ACCESS", 
+                    "franchiseId": 193972
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ORIGIN ACCESS", 
+                    "masterTitleId": 195092
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002553", 
+    "offerType": "Subscription", 
+    "publishing": {
+        "publishingAttributes": {
+            "isPublished": true, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2018-01-01T00:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-01-25T18:41:26Z"
+}
