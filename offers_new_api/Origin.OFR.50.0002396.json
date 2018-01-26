@@ -29,13 +29,18 @@
     "gameEditionTypeFacetKey": "Standard Edition", 
     "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "final-fantasy-xv", 
-    "gameRatingDesc": [], 
-    "gameRatingDescriptionLong": null, 
-    "gameRatingPendingMature": null, 
-    "gameRatingReason": null, 
-    "gameRatingType": null, 
-    "gameRatingTypeValue": null, 
-    "gameRatingUrl": null, 
+    "gameRatingDesc": [
+        "Language", 
+        "Mild Blood", 
+        "Partial Nudity", 
+        "Violence"
+    ], 
+    "gameRatingDescriptionLong": "Online Interactions Not Rated by the ESRB", 
+    "gameRatingPendingMature": "false", 
+    "gameRatingReason": "Language,Mild Blood,Partial Nudity,Violence", 
+    "gameRatingType": "ESRB", 
+    "gameRatingTypeValue": "Teen", 
+    "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
     "genreFacetKey": "Action,Adventure,Role Playing", 
     "i18n": {
@@ -61,7 +66,7 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": null, 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
         "shortDescription": "Available Early 2018", 
         "systemRequirements": null
     }, 
@@ -100,7 +105,7 @@
     ], 
     "projectNumber": "316180", 
     "publisherFacetKey": "SQUARE ENIX", 
-    "ratingSystemIcon": null, 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [

@@ -62,18 +62,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.0\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" useGameVersionFromManifest=\"0\"/>    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.0", 
-                                "downloadURL": "/shift/alawar_entertainment/distrust/dlc__ww_x0_distrust___original_soundtrack/distrustpcdlc__ww_x0_distrust___original_soundtrackrun_2__20170821_100070d945cdd5b34a34ba6b30fe5de82e67.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2017-08-21T09:59:58Z"
-                            }, 
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.1\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" useGameVersionFromManifest=\"0\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <gameVersion version=\"1.0.0.1\"/>    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" useGameVersionFromManifest=\"0\"/>    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.1", 
                                 "downloadURL": "/shift/alawar_entertainment/distrust/dlc__ww_x0_distrust___original_soundtrack/distrustpcdlc__ww_x0_distrust___original_soundtrackrun_3__20180125_1001679ff288cb024cb29fb5d2059a2ea93d.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2037-01-26T00:34:53Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-01-26T00:34:53Z"
                             }
                         ]
                     }, 
