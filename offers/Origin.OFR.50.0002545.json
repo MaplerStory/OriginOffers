@@ -134,7 +134,7 @@
                 {
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_196983_50844", 
-                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Documents%/My Games/FINAL FANTASY XV/Origin/savestorage/GraphicsConfig.ini</exclude> <include order=\"1\">%Documents%/My Games/FINAL FANTASY XV/Origin/savestorage/</include> </saveFileCriteria>", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Documents%/My Games/FINAL FANTASY XV/Origin/savestorage/GraphicsConfig.ini</exclude> <exclude order=\"1\">%Documents%/My Games/FINAL FANTASY XV/Origin/savestorage/snapshot/</exclude> <include order=\"2\">%Documents%/My Games/FINAL FANTASY XV/Origin/savestorage/</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Square Enix\\FINAL FANTASY XV WINDOWS EDITION\\Install Dir]__Installer\\installerdata.xml", 

@@ -67,6 +67,13 @@
                                 "downloadURL": "/shift/alawar_entertainment/distrust/dlc__ww_x0_distrust__wallpapers/distrustpcdlc__ww_x0_distrust__wallpapersrun_1__20170821_100011c9ae3edcf94d6e92ff720131c4b2d9.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-08-21T09:30:04Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.0.1\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" useGameVersionFromManifest=\"0\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.0\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.1", 
+                                "downloadURL": "/shift/alawar_entertainment/distrust/dlc__ww_x0_distrust__wallpapers/distrustpcdlc__ww_x0_distrust__wallpapersrun_3__20180125_10016ca2d6d136b4442ca457a823c3d35862.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-01-26T00:40:11Z"
                             }
                         ]
                     }, 
