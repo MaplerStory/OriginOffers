@@ -78,8 +78,12 @@
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
-        "addonsAvailable": false, 
-        "availableExtraContent": [], 
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0002561", 
+            "Origin.OFR.50.0002562", 
+            "Origin.OFR.50.0002563"
+        ], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1066045"
     }, 
     "financeId": "1066045", 
