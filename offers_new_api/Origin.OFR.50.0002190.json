@@ -6,9 +6,9 @@
     "countries": {
         "bannedCountries": [], 
         "billingDate": "2017-04-18T17:00:00Z", 
-        "catalogPrice": 49.99, 
+        "catalogPrice": 39.99, 
         "catalogPriceA": [
-            49.99
+            39.99
         ], 
         "countryCurrency": "USD", 
         "countryCurrencyA": [
