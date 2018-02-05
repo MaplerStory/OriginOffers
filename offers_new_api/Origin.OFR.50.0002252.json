@@ -5,17 +5,21 @@
     "contentId": "196753", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
+        "billingDate": "2017-11-20T17:00:41Z", 
+        "catalogPrice": 9.99, 
+        "catalogPriceA": [
+            9.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Hunter Studio", 
     "duration": null, 
@@ -120,7 +124,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2018-02-05T18:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
