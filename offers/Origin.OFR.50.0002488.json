@@ -131,7 +131,7 @@
                     }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_194125_50844", 
-                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n   <exclude order=\"0\">%Documents%/My Games/A Way Out/GameSettings</exclude>\n   <include order=\"1\">%Documents%/My Games/A Way Out/AWO-Progression</include>\n   <include order=\"1\">%Documents%/My Games/A Way Out/Saves/</include>\n  </saveFileCriteria>", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n   <exclude order=\"0\">%Documents%/My Games/A Way Out/LocalSettings</exclude>\n   <exclude order=\"0\">%Documents%/My Games/A Way Out/GameSettings</include>\n   <include order=\"1\">%Documents%/My Games/A Way Out/AWO-Progression</include>\n   <include order=\"1\">%Documents%/My Games/A Way Out/Saves/</include>\n  </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Hazelight\\AWayOut\\Install Dir]\\Haze1\\Binaries\\Win64\\AWayOut.exe", 

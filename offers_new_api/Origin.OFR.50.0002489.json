@@ -110,6 +110,7 @@
     "rbuCode": "4318", 
     "revenueModel": "Digital - Full Game", 
     "softwareLocales": [
+        "en_US", 
         "pl_PL"
     ], 
     "storeEndDate": null, 
