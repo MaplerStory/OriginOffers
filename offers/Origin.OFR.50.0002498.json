@@ -525,7 +525,7 @@
     "itemName": "FE - PC - RU/PL & ROA (Origin)", 
     "localizableAttributes": {
         "displayName": "Fe", 
-        "longDescription": "Fe is a new type of platforming adventure. The story is up to you to uncover, told wordlessly through the discoveries you make during gameplay.<br><br>\n\n<b>Key Features: </b><br><br>\n\n<b>Discover a world worth exploring.</b> Climb, glide and dig your way through a dark Nordic forest and explore its living, breathing ecosystem filled with secrets and mystical creatures. <br><br>\n\n<b>Speak the language of the forest.</b> At the heart of the experience is a tactile, analogue song mechanic that allows you to communicate with every living thing in the forest - even plants. Have birds guide you, bears fight for you and have plants grow berries that help you overcome the Silent Ones.<br><br>\n\n<b>Defeat the Silent Ones.</b> While the forest is an astounding place, the Silent Ones are threatening this magical world's harmony. To make it a home again, you must stop them.", 
+        "longDescription": "Fe is a new type of platforming adventure. The story is up to you to uncover, told wordlessly through the discoveries you make during gameplay.<br><br>\n\n<b>Key Features: </b><br><br>\n\n<b>Discover a world worth exploring.</b> Run, climb and glide your way your way through a dark Nordic forest and explore its living, breathing ecosystem filled with secrets and mystical creatures.<br><br>\n\n<b>Speak the language of the forest.</b> At the heart of the experience is a tactile, analogue song mechanic that allows you to communicate with every living thing in the forest - even plants. Have birds guide you, bears fight for you and have plants grow berries that help you overcome the Silent Ones.<br><br>\n\n<b>Defeat the Silent Ones.</b> While the forest is an astounding place, the Silent Ones are threatening this magical world's harmony. To make it a home again, you must stop them.", 
         "packArtLarge": "/195955/231.0x326.0/1041863_LB_231x326_en_US_^_2018-01-29-13-13-01_b6cdbb83acef1abd8067be677c5a9cebe32d812e.jpg", 
         "packArtMedium": "/195955/143.0x200.0/1041863_MB_143x200_en_US_^_2018-01-29-13-14-14_8e6a86335b4f2b442c6860a80ceaae1636122803.jpg", 
         "packArtSmall": "/195955/64.0x89.0/1041863_SB_64x89_en_US_^_2018-01-29-13-15-25_ce78e2381f61a9953b51f5a36ecd888c7a1742d6.jpg", 
@@ -569,6 +569,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/zoink_games/fe/fg__ww_usfrdeitjpes/fepcfg__ww_usfrdeitjpesproduction_155__23512_releasebuild_newinstallerf2d3e2e963764083acb599acc6cf8634.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2018-02-20T15:00:00Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_195955_50844", 
                         "cloudSaveConfigurationOverride": "<saveFileCriteria>\n   <exclude order=\"0\">%LocalLowAppData%/Zoink Games/Fe/SystemSettings.sav</exclude>\n   <include order=\"1\">%LocalLowAppData%/Zoink Games/Fe/Save1.sav</include>\n   <include order=\"2\">%LocalLowAppData%/Zoink Games/Fe/Save2.sav</include>\n   <include order=\"3\">%LocalLowAppData%/Zoink Games/Fe/Save3.sav</include>\n</saveFileCriteria>", 

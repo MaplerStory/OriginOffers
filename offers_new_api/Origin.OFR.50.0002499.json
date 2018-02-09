@@ -54,7 +54,7 @@
         "gameManualURL": null, 
         "gameTypeFacetKey": null, 
         "genreFacetKey": null, 
-        "longDescription": "Fe is a new type of platforming adventure. The story is up to you to uncover, told wordlessly through the discoveries you make during gameplay.<br><br>\n\n<b>Key Features: </b><br><br>\n\n<b>Discover a world worth exploring.</b> Climb, glide and dig your way through a dark Nordic forest and explore its living, breathing ecosystem filled with secrets and mystical creatures. <br><br>\n\n<b>Speak the language of the forest.</b> At the heart of the experience is a tactile, analogue song mechanic that allows you to communicate with every living thing in the forest - even plants. Have birds guide you, bears fight for you and have plants grow berries that help you overcome the Silent Ones.<br><br>\n\n<b>Defeat the Silent Ones.</b> While the forest is an astounding place, the Silent Ones are threatening this magical world's harmony. To make it a home again, you must stop them.", 
+        "longDescription": "Fe is a new type of platforming adventure. The story is up to you to uncover, told wordlessly through the discoveries you make during gameplay.<br><br>\n\n<b>Key Features: </b><br><br>\n\n<b>Discover a world worth exploring.</b> Run, climb and glide your way your way through a dark Nordic forest and explore its living, breathing ecosystem filled with secrets and mystical creatures.<br><br>\n\n<b>Speak the language of the forest.</b> At the heart of the experience is a tactile, analogue song mechanic that allows you to communicate with every living thing in the forest - even plants. Have birds guide you, bears fight for you and have plants grow berries that help you overcome the Silent Ones.<br><br>\n\n<b>Defeat the Silent Ones.</b> While the forest is an astounding place, the Silent Ones are threatening this magical world's harmony. To make it a home again, you must stop them.", 
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": null, 
@@ -67,7 +67,7 @@
         "publisherFacetKey": null, 
         "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
         "shortDescription": "Discover a world that you will never want to leave.", 
-        "systemRequirements": "Coming Soon"
+        "systemRequirements": "<b>OS:</b> Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit<br>\n<b>Processor:</b> Intel core i3-2100T @ 2.5GHz / AMD Phenom II X3 B73<br>\n<b>Memory:</b> 4096MB RAM<br>\n<b>HDD:</b> 3Gb<br>\n<b>Video Card:</b> Nvidia GeForce GTX 460, or AMD Radeon 5870 or better; 1Gb RAM<br>\n<b>Direct X:</b> DirectX 11<br>\n<b>Input:</b> Mouse and Keyboard, controllers recommended<br>"
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
