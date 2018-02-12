@@ -5,7 +5,7 @@
     "contentId": null, 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
+        "billingDate": "2018-01-09T17:00:00Z", 
         "catalogPrice": 2.49, 
         "catalogPriceA": [
             2.49
@@ -19,7 +19,7 @@
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Ghost Games", 
     "duration": null, 
@@ -122,7 +122,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2018-02-13T08:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
