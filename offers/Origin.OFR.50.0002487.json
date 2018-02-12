@@ -77,19 +77,9 @@
         "softwareList": {
             "software": [
                 {
-                    "downloadURLs": {
-                        "downloadURL": [
-                            {
-                                "buildReleaseVersion": ".0001", 
-                                "downloadURL": "/p/dummyawo.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2027-12-01T00:00:00Z"
-                            }
-                        ]
-                    }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_194125_50844", 
-                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n   <exclude order=\"0\">%Documents%/My Games/A Way Out/LocalSettings</exclude>\n   <exclude order=\"0\">%Documents%/My Games/A Way Out/GameSettings</include>\n   <include order=\"1\">%Documents%/My Games/A Way Out/AWO-Progression</include>\n   <include order=\"1\">%Documents%/My Games/A Way Out/Saves/</include>\n  </saveFileCriteria>", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<exclude order=\"0\">%Documents%/My Games/A Way Out/LocalSettings</exclude>\n<include order=\"1\">%Documents%/My Games/A Way Out/GameSettings</include>\n<include order=\"2\">%Documents%/My Games/A Way Out/AWO-Progression</include>\n<include order=\"3\">%Documents%/My Games/A Way Out/Saves/</include>\n</saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Hazelight\\AWayOut\\Install Dir]\\Haze1\\Binaries\\Win64\\AWayOut.exe", 
