@@ -125,8 +125,8 @@
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.0\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.0", 
                                 "downloadURL": "/shift/zoink_games/fe/fg__ww_usfrdeitjpes/fepcfg__ww_usfrdeitjpesproduction_155__23512_releasebuild_newinstallerf2d3e2e963764083acb599acc6cf8634.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2018-02-20T15:00:00Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-02-13T09:52:00Z"
                             }
                         ]
                     }, 

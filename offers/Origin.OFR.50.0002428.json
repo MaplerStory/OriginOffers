@@ -68,18 +68,18 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1063761"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1063745"
     }, 
-    "financeId": "1063761", 
-    "itemId": "Origin.ITM.50.0002083", 
-    "itemName": "Need for Speed Payback Mini Countryman - PDLC - WW (Origin)", 
+    "financeId": "1063745", 
+    "itemId": "Origin.ITM.50.0002080", 
+    "itemName": "Need for Speed Payback Map Shortcuts - PDLC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "MINI John Cooper Works Countryman", 
-        "longDescription": "The second generation of the MINI Countryman is the biggest and most versatile model in the entire range of the tradition-steeped British brand. And another superlative now applies to the power unit of the MINI John Cooper Works Countryman. With an output of 170 kW/231 hp, it is the most powerful engine ever to be fitted in a MINI: in combination with the standard all-wheel drive system ALL4 and a robust vehicle concept, it ensures that the latest addition to the family of top John Cooper Works athletes takes the MINI experience to a whole new level - in terms of both race track feeling on the road and extreme driving fun over unsurfaced terrain.", 
-        "packArtLarge": "/193632/231.0x326.0/1063761_LB_231x326_en_US_^_2017-12-13-11-02-26_e70fe4f4599d38ed54f77d1ea5950333be49d8e1.jpg", 
-        "packArtMedium": "/193632/142.0x200.0/1063761_MB_142x200_en_US_^_2017-12-13-11-02-41_68868f05dd87c97727ce6a76badb98349160358a.jpg", 
-        "packArtSmall": "/193632/63.0x89.0/1063761_SB_63x89_en_US_^_2017-12-13-11-02-53_92258d2e9f5cb806796ef8609ca4499780a3065b.jpg", 
-        "shortDescription": "Drive the MINI John Cooper Works Countryman in NFS Payback"
+        "displayName": "Fortune Valley Map Shortcuts", 
+        "longDescription": "Instantly reveal points of interest on your map of Fortune Valley. Find out where collectibles, activities and gas stations are located. Your very own map to success!", 
+        "packArtLarge": "/193632/231.0x326.0/1063745_LB_231x326_en_US_^_2018-01-19-11-08-07_3e213950c189a026645d1a2eb143020c1246bd11.jpg", 
+        "packArtMedium": "/193632/142.0x200.0/1063745_MB_142x200_en_US_^_2018-01-19-11-19-43_f07aa641663d0ecc773b72121f68205becb104be.jpg", 
+        "packArtSmall": "/193632/63.0x89.0/1063745_SB_63x89_en_US_^_2018-01-19-11-08-18_5628ead6af6f53feb389127b8fa5f4807e1978b1.jpg", 
+        "shortDescription": "Instantly reveal points of interest in Fortune Valley."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -96,7 +96,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002431", 
+    "offerId": "Origin.OFR.50.0002428", 
     "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
@@ -109,9 +109,9 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2017-12-19T17:00:00Z", 
+                    "downloadStartDate": "2018-02-13T08:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2017-12-19T17:00:00Z"
+                    "releaseDate": "2018-02-13T08:00:00Z"
                 }
             ]
         }, 
@@ -161,5 +161,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-02-12T11:32:42Z"
+    "updatedDate": "2018-02-12T13:18:15Z"
 }
