@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "battle-chasers", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "Standard Edition", 

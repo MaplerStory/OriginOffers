@@ -33,6 +33,7 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "darksiders", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "Standard Edition", 

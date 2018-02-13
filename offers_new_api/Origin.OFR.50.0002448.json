@@ -48,6 +48,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "mass-effect", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "DLC Bundle", 

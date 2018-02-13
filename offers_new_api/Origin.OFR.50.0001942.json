@@ -31,6 +31,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "INSIDE", 
     "gameDistributionSubType": null, 
     "gameEditionTypeFacetKey": "INSIDE + LIMBO", 

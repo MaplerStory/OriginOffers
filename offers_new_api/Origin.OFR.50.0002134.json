@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "hacknet", 
     "gameDistributionSubType": null, 
     "gameEditionTypeFacetKey": "Standard Edition", 

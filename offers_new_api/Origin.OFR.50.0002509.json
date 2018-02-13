@@ -36,6 +36,7 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "syberia", 
     "gameDistributionSubType": null, 
     "gameEditionTypeFacetKey": "Standard Edition", 

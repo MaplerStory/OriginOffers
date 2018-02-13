@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "oxenfree", 
     "gameDistributionSubType": null, 
     "gameEditionTypeFacetKey": "Standard Edition", 

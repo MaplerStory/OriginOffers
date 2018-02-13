@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "batman", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "Game of the Year Edition", 

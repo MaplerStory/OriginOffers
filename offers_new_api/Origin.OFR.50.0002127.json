@@ -24,6 +24,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "fifa", 
     "gameDistributionSubType": null, 
     "gameEditionTypeFacetKey": "Standard Edition", 

@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "steamworld", 
     "gameDistributionSubType": "Gameplay Timer Trial - Game Time", 
     "gameEditionTypeFacetKey": "Standard Edition", 

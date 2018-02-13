@@ -95,6 +95,7 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "fifa", 
     "gameDistributionSubType": "Gameplay Timer Trial - Access", 
     "gameEditionTypeFacetKey": "Standard Edition", 

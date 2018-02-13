@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "spellforce", 
     "gameDistributionSubType": null, 
     "gameEditionTypeFacetKey": "Standard Edition", 

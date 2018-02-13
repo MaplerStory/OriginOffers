@@ -46,6 +46,7 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "torment", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "Legacy Edition", 

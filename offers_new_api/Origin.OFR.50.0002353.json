@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "sundered", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "Soundtrack Edition", 

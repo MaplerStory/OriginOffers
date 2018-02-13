@@ -38,6 +38,7 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": null, 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": null, 

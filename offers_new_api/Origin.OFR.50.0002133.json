@@ -36,6 +36,7 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "hacknet", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "Ultimate Edition", 

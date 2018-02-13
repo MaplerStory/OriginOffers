@@ -97,6 +97,7 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "fifa", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "Super Deluxe Edition", 

@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "titan-quest", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "Anniversary Edition", 
