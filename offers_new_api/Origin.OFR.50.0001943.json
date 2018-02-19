@@ -29,11 +29,11 @@
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
     "forcePartnerEntitlementPending": null, 
-    "franchiseFacetKey": "LIMBO", 
+    "franchiseFacetKey": "limbo", 
     "gameDistributionSubType": "Normal Game", 
     "gameEditionTypeFacetKey": "Standard Edition", 
     "gameEditionTypeFacetKeyRankDesc": "3000", 
-    "gameNameFacetKey": "LIMBO", 
+    "gameNameFacetKey": "limbo", 
     "gameRatingDesc": [
         "Blood", 
         "Violence"
