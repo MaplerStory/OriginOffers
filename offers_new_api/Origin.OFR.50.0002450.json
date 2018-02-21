@@ -123,6 +123,19 @@
             "releaseDate": "2017-12-21T14:00:00Z", 
             "showSubsSaveGameWarning": "false", 
             "useEndDate": null
+        }, 
+        {
+            "achievementSetOverride": null, 
+            "commerceProfile": null, 
+            "downloadPackageType": null, 
+            "downloadStartDate": null, 
+            "executePathOverride": null, 
+            "multiPlayerId": null, 
+            "originSubscriptionUseEndDate": null, 
+            "platform": "MAC", 
+            "releaseDate": null, 
+            "showSubsSaveGameWarning": null, 
+            "useEndDate": null
         }
     ], 
     "projectNumber": "301453", 
