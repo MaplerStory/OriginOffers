@@ -1,0 +1,113 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1063777"
+    }, 
+    "financeId": "1063777", 
+    "itemId": "Origin.ITM.50.0002090", 
+    "itemName": "NFS PAYBACK PONTIAC FIREBIRD ASTON MARTIN DB5 BUNDLE", 
+    "localizableAttributes": {
+        "displayName": "NFS PAYBACK PONTIAC FIREBIRD ASTON MARTIN DB5 DERELICT BUNDLE Display Name PH", 
+        "longDescription": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"573\" style=\"width: 430pt;\"><tbody><tr height=\"20\" style=\"height: 15pt;\">\n  <td height=\"20\" class=\"xl63\" width=\"573\" style=\"height:15.0pt;width:430pt\">NFS\n  PAYBACK PONTIAC FIREBIRD ASTON MARTIN DB5 DERELICT BUNDLE Long Desc PH</td></tr></tbody></table>", 
+        "shortDescription": "NFS PAYBACK PONTIAC FIREBIRD ASTON MARTIN DB5 DERELICT BUNDLE Short Desc PH"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Need for Speed", 
+                    "franchiseId": 50317
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "NFS PAYBACK", 
+                    "masterTitleId": 193632
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002438", 
+    "offerType": "Bundle", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-10-21T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-10-21T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableEndDate": "2018-02-20T00:00:00Z", 
+                    "storeAvailableStartDate": "2018-02-21T16:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-02-21T17:02:22Z"
+}

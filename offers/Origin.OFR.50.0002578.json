@@ -83,6 +83,7 @@
                         ]
                     }, 
                     "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_197530_50844", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Introversion Software\\PRISON ARCHITECT\\Install Dir]__Installer\\installerdata.xml", 
