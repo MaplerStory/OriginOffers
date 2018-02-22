@@ -38,8 +38,12 @@
     "gameEditionTypeFacetKey": "Standard Edition", 
     "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "final-fantasy-xv", 
-    "gameRatingDesc": [], 
-    "gameRatingDescriptionLong": null, 
+    "gameRatingDesc": [
+        "Language", 
+        "Mild Blood", 
+        "Partial Nudity"
+    ], 
+    "gameRatingDescriptionLong": "Online Interactions Not Rated by the ESRB", 
     "gameRatingPendingMature": null, 
     "gameRatingReason": null, 
     "gameRatingType": "ESRB", 

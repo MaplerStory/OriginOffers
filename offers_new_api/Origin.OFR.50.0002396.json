@@ -46,7 +46,7 @@
     ], 
     "gameRatingDescriptionLong": "Online Interactions Not Rated by the ESRB", 
     "gameRatingPendingMature": "false", 
-    "gameRatingReason": "Language,Mild Blood,Partial Nudity,Violence", 
+    "gameRatingReason": null, 
     "gameRatingType": "ESRB", 
     "gameRatingTypeValue": "Teen", 
     "gameRatingUrl": "http://www.esrb.org/", 
