@@ -1,0 +1,148 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1066626"
+    }, 
+    "financeId": "1066626", 
+    "itemId": "Origin.ITM.50.0002198", 
+    "itemName": "Final Fantasy XV Demo - PC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "FINAL FANTASY XV WINDOWS EDITION Demo", 
+        "longDescription": "Get a sneak peek into how it all starts with the demo version of FINAL FANTASY XV WINDOWS EDITION.<br>\n*Spec may differ from the product version.<br><br>\n\nTake the journey, now in ultimate quality. Boasting a wealth of bonus content and supporting Native4K(3840\u00d72160px) ultra high-resolution graphical options and HDR 10, you can now enjoy the beautiful and carefully-crafted experience of FINAL FANTASY XV like never before.<br>\n*The main difference to the product version is that sub-quests have been disabled.<br>", 
+        "packArtLarge": "/196983/231.0x326.0/1066626_LB_231x326_en_US_^_2018-02-12-15-10-20_414e389ba9d804fafd52f2d78b3249eafcdbd21b.jpg", 
+        "packArtMedium": "/196983/142.0x200.0/1066626_MB_142x200_en_US_^_2018-02-12-15-10-28_3bd4642500d9cc4c45dbacd1db38d9a5955f27f0.jpg", 
+        "packArtSmall": "/196983/231.0x326.0/1066626_LB_231x326_en_US_^_2018-02-12-15-10-20_414e389ba9d804fafd52f2d78b3249eafcdbd21b.jpg", 
+        "shortDescription": "Get a sneak peek into how it all starts with the demo version of FINAL FANTASY XV WINDOWS EDITION."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "FINAL FANTASY XV", 
+                    "masterTitleId": 196983
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002559", 
+    "offerType": "DEMO", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196983_demo", 
+            "gameDistributionSubType": "Demo", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": true, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2018-02-26T17:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2018-02-26T17:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.113.472\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.113.472", 
+                                "downloadURL": "/shift/square_enix/final_fantasy_xv_windows_edition/demo__ww_x0_final_fantasy_xv_windows_edition_demo/final_fantasy_xv_windows_editionpcdemo__ww_x0_final_fantasy_xv_windows_edition_demorun_4__20180223_1011347243f4b58417cd484c845266fe926e5b76.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-02-23T20:32:32Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Square Enix\\FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Square Enix\\FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO", 
+                        "processorArchitecture": "64-bit"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000823", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2018-02-26T17:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-02-26T10:19:46Z"
+}
