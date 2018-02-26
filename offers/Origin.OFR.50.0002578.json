@@ -79,6 +79,13 @@
                                 "downloadURL": "/shift/introversion_software/prison_architect/fg__ww_x0/prison_architectpcfg__ww_x0run_2__20180222_10003465ad82fa204463a4f0e01d0f6c9529.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2018-02-20T14:45:18Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.1\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.1", 
+                                "downloadURL": "/shift/introversion_software/prison_architect/fg__ww_x0/prison_architectpcfg__ww_x0run_3__20180226_1001d64d695b1e5040e7a3baf82edfde9f0b.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-02-26T17:35:13Z"
                             }
                         ]
                     }, 
