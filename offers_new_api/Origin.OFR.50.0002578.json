@@ -5,17 +5,21 @@
     "contentId": "197530", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
+        "billingDate": "2015-10-15T07:00:00Z", 
+        "catalogPrice": 29.99, 
+        "catalogPriceA": [
+            29.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Introversion Software Ltd", 
     "duration": null, 
@@ -66,7 +70,7 @@
         "onlineDisclaimer": "Copyright \u00a9 2018 Introversion Software Ltd.<br><br>\n\nREQUIRES INTERNET CONNECTION AND ACCEPTANCE OF THE ORIGIN END USER LICENSE AGREEMENT AND PRODUCT END USER LICENSE AGREEMENT.<br><br>\n\nEA DOES NOT GUARANTEE THAT ORIGIN FEATURES WILL BE AVAILABLE ON ALL GAMES DEVELOPED BY THIRD PARTIES. <br>", 
         "packArtLarge": "/197530/231.0x326.0/1066856_LB_231x326_en_US_^_2018-02-12-17-18-50_42d7841c62bd30b8db66405c19b5a170b6ef299a.jpg", 
         "packArtMedium": "/197530/142.0x200.0/1066856_MB_142x200_en_US_^_2018-02-12-17-19-05_1b6e502d5a1babcb09a6c8ed55c4a0638b950fdb.jpg", 
-        "packArtSmall": "/197530/231.0x326.0/1066856_LB_231x326_en_US_^_2018-02-12-17-18-50_42d7841c62bd30b8db66405c19b5a170b6ef299a.jpg", 
+        "packArtSmall": "/197530/63.0x89.0/1066856_SB_63x89_en_US_^_2018-02-13-01-19-33_d7c7fea782728031d70f02f1ffd27b4b09020d4a.jpg", 
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
@@ -81,7 +85,7 @@
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
     "itemId": "Origin.ITM.50.0002211", 
-    "itemName": "PRISON ARCHITECT (Origin) - PC - WW", 
+    "itemName": "Prison Architect - PC - WW (Origin)", 
     "itemType": "Base Game", 
     "masterTitle": "PRISON ARCHITECT", 
     "masterTitleId": "197530", 
@@ -108,7 +112,7 @@
         }
     ], 
     "projectNumber": "317077", 
-    "publisherFacetKey": null, 
+    "publisherFacetKey": "Introversion Software Ltd", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
@@ -139,7 +143,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2018-02-27T18:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
