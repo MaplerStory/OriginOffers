@@ -18,7 +18,7 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Introversion Software Ltd", 
