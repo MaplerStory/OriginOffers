@@ -127,7 +127,7 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2018-03-06T17:00:00Z", 
+                    "downloadStartDate": "2018-03-01T17:00:00Z", 
                     "platform": "PCWIN", 
                     "releaseDate": "2018-03-06T17:00:00Z"
                 }
@@ -146,7 +146,7 @@
                                 "effectiveDate": "2018-02-24T00:00:49Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.113.3492\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.113.3492\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.113.3492", 
                                 "downloadURL": "/shift/square_enix/final_fantasy_xv_windows_edition/fg__ww_x0_final_fantasy_xv_windows_edition/final_fantasy_xv_windows_editionpcfg__ww_x0_final_fantasy_xv_windows_editionrun_6__20180227_101133492ec560a3456a040418a6c3da5986b5c1f.zip", 
                                 "downloadURLType": "staged", 
@@ -179,5 +179,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-02-27T16:02:02Z"
+    "updatedDate": "2018-02-28T16:31:24Z"
 }
