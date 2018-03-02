@@ -370,7 +370,7 @@
                 {
                     "downloadStartDate": "2016-10-20T17:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2016-10-20T17:00:00Z"
+                    "releaseDate": "2016-08-31T17:00:00Z"
                 }
             ]
         }, 
@@ -445,11 +445,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableStartDate": "2016-10-20T17:00:00Z"
+                    "storeAvailableStartDate": "2016-08-31T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-08-24T23:23:07Z"
+    "updatedDate": "2018-03-02T19:07:59Z"
 }

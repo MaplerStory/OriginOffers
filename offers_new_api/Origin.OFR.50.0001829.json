@@ -101,7 +101,7 @@
             "multiPlayerId": null, 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
-            "releaseDate": "2016-10-20T17:00:00Z", 
+            "releaseDate": "2016-08-31T17:00:00Z", 
             "showSubsSaveGameWarning": "false", 
             "useEndDate": null
         }
@@ -126,7 +126,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": "2016-10-20T17:00:00Z", 
+    "storeStartDate": "2016-08-31T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
