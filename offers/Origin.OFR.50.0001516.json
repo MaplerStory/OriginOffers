@@ -6,75 +6,9 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "AM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "AZ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "BY"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "KG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "KZ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "PL"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "RU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "TJ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "TM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "UA"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "UZ"
             }
         ]
     }, 
@@ -246,5 +180,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2017-09-26T03:31:12Z"
+    "updatedDate": "2018-03-05T09:54:16Z"
 }
