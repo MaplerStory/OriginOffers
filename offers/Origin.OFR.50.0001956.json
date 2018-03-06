@@ -534,6 +534,13 @@
                                 "downloadURL": "/shift/plug_in_digital/dead_in_bermuda/fg__ww_x0/dead_in_bermudapcfg__ww_x0run_3__20170404_1100486852d823ac45ff9e98ad38a62a86e4.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2017-04-04T00:00:34Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"4.7.0.2969\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "4.7.0.2969", 
+                                "downloadURL": "/shift/plug_in_digital/dead_in_bermuda/fg__ww_x0/dead_in_bermudapcfg__ww_x0run_5__20180306_4702969f2745ffb12b040ab9e57fa84e67b8151.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-03-06T15:44:53Z"
                             }
                         ]
                     }, 

@@ -131,6 +131,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.62.0\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.62.0", 
+                                "downloadURL": "/shift/hazelight/a_way_out/fg__ww/a_way_outpcfg__wwalpha_3__10621025830d2023a6753a4b18bc0ef5aa1e872573.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-03-06T12:59:28Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_194125_50844", 
                         "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<exclude order=\"0\">%Documents%/My Games/A Way Out/LocalSettings</exclude>\n<include order=\"1\">%Documents%/My Games/A Way Out/GameSettings</include>\n<include order=\"2\">%Documents%/My Games/A Way Out/AWO-Progression</include>\n<include order=\"3\">%Documents%/My Games/A Way Out/Saves/</include>\n</saveFileCriteria>", 

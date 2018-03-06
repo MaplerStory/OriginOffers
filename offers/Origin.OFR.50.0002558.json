@@ -112,7 +112,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002545", 
+    "offerId": "Origin.OFR.50.0002558", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
@@ -172,5 +172,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-03-02T11:55:45Z"
+    "updatedDate": "2018-03-06T10:21:42Z"
 }

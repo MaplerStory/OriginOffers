@@ -3,7 +3,6 @@
     "brand": null, 
     "bundleOffers": [
         "Origin.OFR.50.0002561", 
-        "Origin.OFR.50.0002562", 
         "Origin.OFR.50.0002563"
     ], 
     "contentId": "196983", 
@@ -95,7 +94,7 @@
     "masterTitleId": "196983", 
     "mdmItemType": "Full Game", 
     "numberOfPlayersFacetKey": "SinglePlayer", 
-    "offerId": "Origin.OFR.50.0002545", 
+    "offerId": "Origin.OFR.50.0002558", 
     "offerPath": "/final-fantasy/final-fantasy-xv/standard-edition", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
