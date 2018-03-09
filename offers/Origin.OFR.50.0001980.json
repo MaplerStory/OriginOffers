@@ -294,11 +294,11 @@
                                 "effectiveDate": "2018-02-20T10:00:00Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.51.29326\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.51.29326", 
-                                "downloadURL": "/shift/fifa/fifa_18_g4/patch__ww_x0_ww_patch12/fifa_18_g4pcpatch__ww_x0_ww_patch12concept_38__denuvo__retail__digital__ww_3371611689db3e2eb484804b8acea7daf8cf61b.zip", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.51.36275\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.51.36275", 
+                                "downloadURL": "/shift/fifa/fifa_18_g4/patch__ww_x0_ww_patch12/fifa_18_g4pcpatch__ww_x0_ww_patch12concept_46__denuvo__retail__digital__ww_3378560bd40645817a04cffb5cd4558547ae07e.zip", 
                                 "downloadURLType": "staged", 
-                                "effectiveDate": "2037-03-02T16:36:31Z"
+                                "effectiveDate": "2018-03-13T10:00:00Z"
                             }
                         ]
                     }, 
