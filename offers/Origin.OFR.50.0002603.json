@@ -6,57 +6,9 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "AS"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "BR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "CA"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "GU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "MX"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "PR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "US"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": true
-                }, 
-                "countryCode": "VI"
             }
         ]
     }, 
@@ -68,14 +20,14 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064664"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064668"
     }, 
-    "financeId": "1064664", 
-    "itemId": "Origin.ITM.50.0002140", 
-    "itemName": "A Way Out - PC - NA LATAM (Origin)", 
+    "financeId": "1064668", 
+    "itemId": "Origin.ITM.50.0002139", 
+    "itemName": "A Way Out - PC - JP (Origin)", 
     "localizableAttributes": {
-        "displayName": "A Way Out", 
-        "longDescription": "From the creators of Brothers \u2013 A Tale of Two Sons comes A Way Out, an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.<br><br>\n\nWhat begins as a thrilling breakout quickly turns into an unpredictable, emotional adventure unlike anything seen or played before. <br><br>\n\nA Way Out is an experience that must be played with two players. Each player controls one of the main characters, Leo and Vincent, in a reluctant alliance to break out of prison and gain their freedom.<br><br>\n\nTogether, you\u2019ll explore notions of trust and consequence as your choices begin to catch up with you.<br><br>\n\nPlay the entire experience with your friends for free using the one-click free trial feature.", 
+        "displayName": "A Way Out - Press Review Early Access", 
+        "longDescription": "From the creators of Brothers \u2013 A Tale of Two Sons comes A Way Out, an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.<br><br>\n\nWhat begins as a thrilling breakout quickly turns into an unpredictable, emotional adventure unlike anything seen or played before. <br><br>\n\nA Way Out is an experience that must be played with two players. Each player controls one of the main characters, Leo and Vincent, in a reluctant alliance to break out of prison and gain their freedom.<br><br>\n\nTogether, you\u2019ll explore notions of trust and consequence as your choices begin to catch up with you.<br><br>\n\nPlay the entire experience with your friends for free using the one-click free trial feature.<br><br>\n\nThis game contains scenes featuring strong language, intense violence, and sexual content.", 
         "packArtLarge": "/196487/231.0x326.0/1028663_LB_231x326_en_US_^_2017-12-01-16-06-46_459c02af0334c3ca8d758bc50e8f40b36f008c38.jpg", 
         "packArtMedium": "/196487/142.0x200.0/1028663_MB_142x200_en_US_^_2017-12-01-16-07-01_aa44fd3286dfb0e9caff81b63b21de84cff3e07a.jpg", 
         "packArtSmall": "/196487/63.0x89.0/1028663_SB_63x89_en_US_^_2017-12-01-16-07-14_de512128810d6481d60458bc6351c3b157a75440.jpg", 
@@ -96,23 +48,24 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002488", 
+    "offerId": "Origin.OFR.50.0002603", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
             "contentId": "1028663", 
             "gameDistributionSubType": "Normal Game", 
-            "greyMarketControls": true, 
+            "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": true, 
+            "isPublished": false, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2018-03-16T17:00:00Z", 
+                    "downloadStartDate": "2018-03-09T18:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2018-03-23T04:00:00Z"
+                    "releaseDate": "2018-03-09T18:00:00Z", 
+                    "useEndDate": "2018-03-30T18:00:00Z"
                 }
             ]
         }, 
@@ -153,6 +106,9 @@
         "softwareLocales": {
             "locale": [
                 {
+                    "value": "de_DE"
+                }, 
+                {
                     "value": "en_US"
                 }, 
                 {
@@ -162,18 +118,20 @@
                     "value": "fr_FR"
                 }, 
                 {
-                    "value": "pt_BR"
-                }
-            ]
-        }, 
-        "storeControlDates": {
-            "storeControlDate": [
+                    "value": "it_IT"
+                }, 
                 {
-                    "storeAvailableStartDate": "2017-12-08T03:10:00Z"
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-03-09T11:10:48Z"
+    "updatedDate": "2018-03-06T23:20:26Z"
 }
