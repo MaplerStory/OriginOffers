@@ -55,7 +55,7 @@
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": "http://www.the-witness.net", 
-        "onlineDisclaimer": "REQUIRES INTERNET CONNECTION AND ACCEPTANCE OF THE ORIGIN END USER LICENSE AGREEMENT.<br><br>\n\nEA DOES NOT GUARANTEE THAT ORIGIN FEATURES WILL BE AVAILABLE ON ALL GAMES DEVELOPED BY THIRD PARTIES.<br><br>\n\n<a href=\"https://www.origin.com/en-us/privacypolicy\" class=\"otka\">ORIGIN END USER LICENSE AGREEMENT</a>", 
+        "onlineDisclaimer": "Copyright (c) 2018, Thekla, Inc.<br><br>\n\nREQUIRES INTERNET CONNECTION AND ACCEPTANCE OF THE ORIGIN END USER LICENSE AGREEMENT.<br><br>\n\nEA DOES NOT GUARANTEE THAT ORIGIN FEATURES WILL BE AVAILABLE ON ALL GAMES DEVELOPED BY THIRD PARTIES.<br><br>\n\nOrigin End Users License Agreement: <a href=\"https://www.ea.com/legal\">https://www.ea.com/legal</a>", 
         "packArtLarge": "/197588/231.0x326.0/1067479_LB_231x326_en_US_^_2018-02-22-13-27-16_8b179a2df37afbc9fa198717d11d34a013bf1257.jpg", 
         "packArtMedium": "/197588/142.0x200.0/1067479_MB_142x200_en_US_^_2018-02-22-13-27-41_1db1913c423cb8ebc22b99153c107c2df7c3defa.jpg", 
         "packArtSmall": "/197588/63.0x89.0/1067479_SB_63x89_en_US_^_2018-02-22-13-28-02_b90a6a23561a83c75c76a4953e82e11be79291dc.jpg", 
@@ -63,7 +63,7 @@
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
         "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
-        "shortDescription": "Explore an abandoned island", 
+        "shortDescription": "Explore an abandoned island.", 
         "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS:</b> Windows 7<br>\n<b>Processor:</b> 1.8GHz<br>\n<b>Memory:</b> 4 GB RAM<br>\n<b>Graphics:</b> Intel HD 4000 series<br>\n<b>DirectX: </b>Version 10<br>\n<b>Storage:</b> 5 GB available space<br><br>\n\n<b>RECOMMENDED:</b><br>\n<b>OS: </b>Windows 7<br>\n<b>Processor: </b>2.4GHz<br>\n<b>Memory:</b> 8 GB RAM<br>\n<b>Graphics:</b> GeForce 780<br>\n<b>DirectX:</b> Version 10<br>\n<b>Storage:</b> 5 GB available space<br>"
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
