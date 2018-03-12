@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "need-for-speed", 
     "gameDistributionSubType": "Normal Game", 
@@ -42,6 +43,7 @@
     "gameRatingTypeValue": "Teen", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "DLC", 
+    "gdpPath": "/need-for-speed/need-for-speed-payback/addon/infiniti-q60-s", 
     "genreFacetKey": "Action,Adventure,Flight,Racing,Sports", 
     "i18n": {
         "brand": null, 
@@ -108,6 +110,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "4330", 
     "revenueModel": "Digital - Extra Content", 
+    "softDependency": null, 
     "softwareLocales": [
         "de_DE", 
         "en_US", 

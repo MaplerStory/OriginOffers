@@ -93,6 +93,21 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [
+        "Origin.OFR.50.0001324", 
+        "Origin.OFR.50.0001325", 
+        "Origin.OFR.50.0001513", 
+        "Origin.OFR.50.0001326", 
+        "Origin.OFR.50.0001327", 
+        "Origin.OFR.50.0001328", 
+        "Origin.OFR.50.0001329", 
+        "Origin.OFR.50.0001330", 
+        "Origin.OFR.50.0001331", 
+        "Origin.OFR.50.0001514", 
+        "Origin.OFR.50.0001615", 
+        "Origin.OFR.50.0001322", 
+        "Origin.OFR.50.0001840"
+    ], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "fifa", 
     "gameDistributionSubType": "Normal Game", 
@@ -107,6 +122,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/fifa/fifa-17", 
     "genreFacetKey": "Action,Sports", 
     "i18n": {
         "brand": null, 
@@ -173,6 +189,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "4212", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "pl_PL", 
         "ru_RU"

@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "prison-architect", 
     "gameDistributionSubType": "Normal Game", 
@@ -50,6 +51,7 @@
     "gameRatingTypeValue": "Mature", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/prison-architect/prison-architect", 
     "genreFacetKey": "Simulation,Strategy", 
     "i18n": {
         "brand": null, 
@@ -116,6 +118,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "cs_CZ", 
         "da_DK", 

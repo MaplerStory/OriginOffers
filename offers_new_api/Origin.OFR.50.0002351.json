@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "metro", 
     "gameDistributionSubType": "Normal Game", 
@@ -49,6 +50,7 @@
     "gameRatingTypeValue": "Mature", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/metro/metro-last-light-redux", 
     "genreFacetKey": "Action", 
     "i18n": {
         "brand": null, 
@@ -115,6 +117,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "cs_CZ", 
         "de_DE", 

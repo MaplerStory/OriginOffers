@@ -24,6 +24,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "pillars-of-eternity", 
     "gameDistributionSubType": "Normal Game", 
@@ -38,6 +39,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "DLC", 
+    "gdpPath": "/pillars-of-eternity/pillars-of-eternity/addon/deadfire-pack", 
     "genreFacetKey": null, 
     "i18n": {
         "brand": null, 
@@ -117,6 +119,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "3131", 
     "revenueModel": "Digital - Extra Content", 
+    "softDependency": null, 
     "softwareLocales": [
         "de_DE", 
         "en_US", 

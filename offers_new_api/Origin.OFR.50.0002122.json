@@ -24,6 +24,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "fifa", 
     "gameDistributionSubType": null, 
@@ -38,6 +39,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "DLC", 
+    "gdpPath": "/fifa/fifa-18/addon/20-jumbo-premium-gold-packs-", 
     "genreFacetKey": null, 
     "i18n": {
         "brand": null, 
@@ -104,6 +106,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "4212", 
     "revenueModel": "Digital - Extra Content", 
+    "softDependency": null, 
     "softwareLocales": [
         "ar_SA", 
         "cs_CZ", 

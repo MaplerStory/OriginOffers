@@ -29,6 +29,7 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": null, 
     "gameDistributionSubType": "Normal Game", 
@@ -43,6 +44,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": null, 
     "genreFacetKey": null, 
     "i18n": {
         "brand": null, 
@@ -109,6 +111,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "en_US"
     ], 

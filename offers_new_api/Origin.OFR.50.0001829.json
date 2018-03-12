@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "titan-quest", 
     "gameDistributionSubType": "Normal Game", 
@@ -45,6 +46,7 @@
     "gameRatingTypeValue": "Teen", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/titan-quest/titan-quest", 
     "genreFacetKey": "Action,Role Playing", 
     "i18n": {
         "brand": null, 
@@ -111,6 +113,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "cs_CZ", 
         "de_DE", 

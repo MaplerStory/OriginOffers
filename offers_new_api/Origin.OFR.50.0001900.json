@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "a-way-out", 
     "gameDistributionSubType": "Normal Game", 
@@ -48,6 +49,7 @@
     "gameRatingTypeValue": "Mature", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/a-way-out/a-way-out", 
     "genreFacetKey": "Action,Adventure", 
     "i18n": {
         "brand": null, 
@@ -114,6 +116,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4318", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "de_DE", 
         "en_US", 

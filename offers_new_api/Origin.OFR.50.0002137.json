@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "rime", 
     "gameDistributionSubType": "Normal Game", 
@@ -44,6 +45,7 @@
     "gameRatingTypeValue": "Everyone 10+", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/rime/rime", 
     "genreFacetKey": "Adventure", 
     "i18n": {
         "brand": null, 
@@ -110,6 +112,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "ar_SA", 
         "de_DE", 

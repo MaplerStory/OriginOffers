@@ -45,6 +45,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "origin", 
     "gameDistributionSubType": "Normal Game", 
@@ -59,6 +60,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "BUNDLES", 
+    "gdpPath": "/origin/originqa-01", 
     "genreFacetKey": null, 
     "i18n": {
         "brand": null, 
@@ -125,6 +127,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "3131", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "en_US"
     ], 

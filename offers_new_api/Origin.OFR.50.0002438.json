@@ -31,6 +31,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "need-for-speed", 
     "gameDistributionSubType": "Normal Game", 
@@ -45,6 +46,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "DLC", 
+    "gdpPath": "/need-for-speed/need-for-speed-payback/addon/nfs-payback-pontiac-firebird-aston-martin-db5-derelict-bundle-display-name-ph", 
     "genreFacetKey": "Action,Adventure,Flight,Racing,Sports", 
     "i18n": {
         "brand": null, 
@@ -111,6 +113,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "4330", 
     "revenueModel": "Digital - Extra Content", 
+    "softDependency": null, 
     "softwareLocales": [
         "de_DE", 
         "en_US", 

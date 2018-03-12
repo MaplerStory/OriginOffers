@@ -24,6 +24,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "scribblenauts", 
     "gameDistributionSubType": "Normal Game", 
@@ -41,6 +42,7 @@
     "gameRatingTypeValue": "Everyone 10+", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/scribblenauts/scribblenauts-unlimited", 
     "genreFacetKey": "Strategy", 
     "i18n": {
         "brand": null, 
@@ -107,6 +109,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
     "rbuCode": "3131", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "de_DE", 
         "en_US", 

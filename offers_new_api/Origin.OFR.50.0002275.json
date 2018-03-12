@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "mad-games-tycoon", 
     "gameDistributionSubType": "Normal Game", 
@@ -42,6 +43,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/mad-games-tycoon/mad-games-tycoon", 
     "genreFacetKey": "Simulation", 
     "i18n": {
         "brand": null, 
@@ -108,6 +110,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "cs_CZ", 
         "de_DE", 

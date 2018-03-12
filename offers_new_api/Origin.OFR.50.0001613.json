@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "mini-metro", 
     "gameDistributionSubType": "Normal Game", 
@@ -42,6 +43,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/mini-metro/mini-metro", 
     "genreFacetKey": "Simulation,Strategy", 
     "i18n": {
         "brand": null, 
@@ -121,6 +123,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "cs_CZ", 
         "da_DK", 

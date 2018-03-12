@@ -35,6 +35,7 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "final-fantasy", 
     "gameDistributionSubType": "Normal Game", 
@@ -53,6 +54,7 @@
     "gameRatingTypeValue": "Teen", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/final-fantasy/final-fantasy-xv", 
     "genreFacetKey": "Action,Adventure,Role Playing", 
     "i18n": {
         "brand": null, 
@@ -119,6 +121,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "ru_RU"
     ], 

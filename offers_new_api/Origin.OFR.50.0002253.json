@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "ghost-1-0", 
     "gameDistributionSubType": "Normal Game", 
@@ -42,6 +43,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/ghost-1-0/ghost-1-0", 
     "genreFacetKey": "Action,Adventure", 
     "i18n": {
         "brand": null, 
@@ -108,6 +110,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "cs_CZ", 
         "de_DE", 

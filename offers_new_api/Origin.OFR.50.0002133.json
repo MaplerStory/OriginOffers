@@ -36,6 +36,7 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "hacknet", 
     "gameDistributionSubType": "Normal Game", 
@@ -50,6 +51,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/hacknet/hacknet", 
     "genreFacetKey": "Simulation", 
     "i18n": {
         "brand": null, 
@@ -116,6 +118,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "de_DE", 
         "en_US", 

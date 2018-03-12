@@ -24,6 +24,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "origin", 
     "gameDistributionSubType": null, 
@@ -38,6 +39,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "ONLINESUBSCRIPTION", 
+    "gdpPath": "/origin/origin-access/game-time/test-use-only--origin-access-5-day-membership", 
     "genreFacetKey": null, 
     "i18n": {
         "brand": null, 
@@ -104,6 +106,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "4332", 
     "revenueModel": "Digital - Subscription", 
+    "softDependency": null, 
     "softwareLocales": [], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 

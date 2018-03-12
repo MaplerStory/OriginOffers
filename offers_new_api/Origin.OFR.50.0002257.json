@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "the-surge", 
     "gameDistributionSubType": "Normal Game", 
@@ -46,6 +47,7 @@
     "gameRatingTypeValue": "Mature", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "DLC", 
+    "gdpPath": "/the-surge/the-surge/addon/the-surge--creo-special-employee-kit", 
     "genreFacetKey": "Action", 
     "i18n": {
         "brand": null, 
@@ -116,6 +118,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Extra Content", 
+    "softDependency": null, 
     "softwareLocales": [
         "de_DE", 
         "en_US", 

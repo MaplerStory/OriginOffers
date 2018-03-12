@@ -24,6 +24,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "battlefield", 
     "gameDistributionSubType": "Normal Game", 
@@ -38,6 +39,7 @@
     "gameRatingTypeValue": null, 
     "gameRatingUrl": null, 
     "gameTypeFacetKey": "DLC", 
+    "gdpPath": "/battlefield/battlefield-1/addon/battlefield-1-churn-battlepack-1-display-name-placeholder-text-", 
     "genreFacetKey": null, 
     "i18n": {
         "brand": null, 
@@ -104,6 +106,7 @@
     "ratingSystemIcon": null, 
     "rbuCode": "4311", 
     "revenueModel": "Digital - Extra Content", 
+    "softDependency": null, 
     "softwareLocales": [
         "ar_SA", 
         "de_DE", 

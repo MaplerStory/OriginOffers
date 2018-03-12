@@ -28,6 +28,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "sundered", 
     "gameDistributionSubType": "Normal Game", 
@@ -45,6 +46,7 @@
     "gameRatingTypeValue": "Teen", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "DLC", 
+    "gdpPath": "/sundered/sundered/addon/sundered-original-soundtrack", 
     "genreFacetKey": "Action,Adventure", 
     "i18n": {
         "brand": null, 
@@ -111,6 +113,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Extra Content", 
+    "softDependency": null, 
     "softwareLocales": [
         "de_DE", 
         "en_US", 

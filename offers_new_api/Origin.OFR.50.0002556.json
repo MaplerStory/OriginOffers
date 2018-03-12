@@ -24,6 +24,7 @@
     "extraContent": [], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "fe", 
     "gameDistributionSubType": "Normal Game", 
@@ -38,6 +39,7 @@
     "gameRatingTypeValue": "Everyone", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
+    "gdpPath": "/fe/fe", 
     "genreFacetKey": "Action,Adventure", 
     "i18n": {
         "brand": null, 
@@ -104,6 +106,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
     "rbuCode": "4318", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "de_DE", 
         "en_US", 

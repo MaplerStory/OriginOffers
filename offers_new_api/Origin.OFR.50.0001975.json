@@ -102,6 +102,20 @@
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
+    "fictionalCurrency": [
+        "Origin.OFR.50.0002064", 
+        "Origin.OFR.50.0002055", 
+        "Origin.OFR.50.0002347", 
+        "Origin.OFR.50.0002056", 
+        "Origin.OFR.50.0002057", 
+        "Origin.OFR.50.0002058", 
+        "Origin.OFR.50.0002059", 
+        "Origin.OFR.50.0002060", 
+        "Origin.OFR.50.0002061", 
+        "Origin.OFR.50.0002062", 
+        "Origin.OFR.50.0002063", 
+        "Origin.OFR.50.0002139"
+    ], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "fifa", 
     "gameDistributionSubType": "Gameplay Timer Trial - Access", 
@@ -116,6 +130,7 @@
     "gameRatingTypeValue": "Everyone", 
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "TRIAL", 
+    "gdpPath": "/fifa/fifa-18", 
     "genreFacetKey": "Action,Sports", 
     "i18n": {
         "brand": null, 
@@ -182,6 +197,7 @@
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
     "rbuCode": "4212", 
     "revenueModel": "Digital - Full Game", 
+    "softDependency": null, 
     "softwareLocales": [
         "en_US", 
         "es_MX", 
