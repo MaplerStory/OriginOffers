@@ -89,7 +89,8 @@
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Thekla, Inc.\\The Witness\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Thekla, Inc.\\The Witness\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "THE WITNESS"
+                        "installationDirectory": "THE WITNESS", 
+                        "oigClientBehavior": "Blacklist"
                     }, 
                     "softwareId": "Origin.SFT.50.0000830", 
                     "softwarePlatform": "PCWIN"
@@ -112,9 +113,6 @@
                 }, 
                 {
                     "value": "fr_FR"
-                }, 
-                {
-                    "value": "hu_HU"
                 }, 
                 {
                     "value": "it_IT"
