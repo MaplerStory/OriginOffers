@@ -618,6 +618,7 @@
             "software": [
                 {
                     "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_197528_50844", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Out of the Park Developments\\Out of the Park Baseball 19\\Install Dir]__Installer\\installerdata.xml", 

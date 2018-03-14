@@ -79,6 +79,13 @@
                                 "downloadURL": "/shift/thekla_inc/the_witness/fg__ww_x0_the_witness/the_witnesspcfg__ww_x0_the_witnessrun_1__20180305_10005aa4522fa6ad4325b2fc01ea3262ebe6.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2018-03-06T00:00:51Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.1\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.1", 
+                                "downloadURL": "/shift/thekla_inc/the_witness/fg__ww_x0_the_witness/the_witnesspcfg__ww_x0_the_witnessrun_2__20180314_10012ce9c101ac7f4eaaaf0e842a89f2e1cc.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-03-14T18:03:17Z"
                             }
                         ]
                     }, 
