@@ -1,0 +1,134 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1068645"
+    }, 
+    "financeId": "1068645", 
+    "itemId": "Origin.ITM.50.0002244", 
+    "itemName": "MAD MAX (Origin) (Low Violence) - PC - WW", 
+    "localizableAttributes": {
+        "displayName": "MAD MAX", 
+        "longDescription": "MAD MAX Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/196959/231.0x326.0/1062241_LB_231x326_en_US_^_2018-02-08-17-22-06_cf60953287c7a7f10d6b091dad6d5291840f5865.jpg", 
+        "packArtMedium": "/196959/142.0x200.0/1062241_MB_142x200_en_US_^_2018-02-08-17-22-39_49c48b34c9e2c9ac685c31b0d5141b6f84155fb8.jpg", 
+        "packArtSmall": "/196959/231.0x326.0/1062241_LB_231x326_en_US_^_2018-02-08-17-22-06_cf60953287c7a7f10d6b091dad6d5291840f5865.jpg", 
+        "shortDescription": "MAD MAX"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "MAD MAX", 
+                    "masterTitleId": 196959
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002625", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "196959", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-09-01T00:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-09-01T00:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.5.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.5.0", 
+                                "downloadURL": "/shift/warner_brothers_interactive/mad_max/fg__ww_low_violence/mad_maxpcfg__ww_low_violencerun_1__20180313_10509cee1e29adca4100b1d47ff894a5865c.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-03-15T00:00:38Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Documents%/WB Games/Mad Max/Saves/Settings.sav</exclude> <exclude order=\"1\">%Documents%/WB Games/Mad Max/Saves/Backup/Settings.sav</exclude> <include order=\"2\">%Documents%/WB Games/Mad Max/Saves/*</include> <include order=\"3\">%Documents%/WB Games/Mad Max/Saves/Backup/*</include> </saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Avalanche Studios\\Mad Max\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Avalanche Studios\\Mad Max\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Mad Max"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000832", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "es_MX"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-03-15T13:50:47Z"
+}

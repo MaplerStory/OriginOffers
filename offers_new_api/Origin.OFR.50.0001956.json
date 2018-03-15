@@ -15,7 +15,7 @@
             "USD"
         ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "Y", 
+        "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": true, 
@@ -31,7 +31,7 @@
     "fictionalCurrency": [], 
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "dead-in-bermuda", 
-    "gameDistributionSubType": null, 
+    "gameDistributionSubType": "On the House", 
     "gameEditionTypeFacetKey": "Standard Edition", 
     "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "dead-in-bermuda", 
