@@ -479,6 +479,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/out_of_the_park_developments/out_of_the_park_baseball_19/fg__ww_x0/out_of_the_park_baseball_19pcfg__ww_x0run_1__20180316_1000266ad630910c4d0bae5cb4c5f99d991e.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-03-16T00:00:13Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_197528_50844", 
                         "downloadPackageType": "DownloadInPlace", 
