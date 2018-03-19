@@ -23,10 +23,13 @@
     }, 
     "financeId": "1068647", 
     "itemId": "Origin.ITM.50.0002245", 
-    "itemName": "VIRGINIA (Origin) - PC - WW", 
+    "itemName": "VIRGINIA - PC - WW (Origin)", 
     "localizableAttributes": {
         "displayName": "Virginia", 
         "longDescription": "VIRGINIA Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/197613/231.0x326.0/1068647_LB_231x326_en_US_^_2018-03-19-15-30-21_1164bb81102d69bdcd99d82ec631ff2eb3c3d736.jpg", 
+        "packArtMedium": "/197613/142.0x200.0/1068647_MB_142x200_en_US_^_2018-03-19-15-30-43_819996d23832f77491f680f909a1333c5cb3c352.jpg", 
+        "packArtSmall": "/197613/63.0x89.0/1068647_SB_63x89_en_US_^_2018-03-19-15-31-08_911416e7060116d4321e02c45ab3783549ac24dd.jpg", 
         "shortDescription": "VIRGINIA Short Description Placeholder Text."
     }, 
     "mdmHierarchies": {
@@ -58,9 +61,9 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2016-09-22T00:00:00Z", 
+                    "downloadStartDate": "2016-09-22T07:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2016-09-22T00:00:00Z"
+                    "releaseDate": "2016-09-22T07:00:00Z"
                 }
             ]
         }, 
@@ -124,5 +127,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-03-16T23:29:37Z"
+    "updatedDate": "2018-03-19T21:14:14Z"
 }
