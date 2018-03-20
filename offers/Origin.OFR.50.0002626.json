@@ -71,6 +71,7 @@
             "software": [
                 {
                     "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Profile%/AppData/LocalAppDataLow/Variable State/Virginia/*.sav</include></saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Variable State\\Virginia\\Install Dir]__Installer\\installerdata.xml", 
