@@ -1,0 +1,117 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1063769"
+    }, 
+    "financeId": "1063769", 
+    "itemId": "Origin.ITM.50.0002084", 
+    "itemName": "Need for Speed Payback Pontiac Firebird Transam - PDLC - WW (Origin)", 
+    "localizableAttributes": {
+        "displayName": "Pontiac Firebird Trans Am Superbuild", 
+        "longDescription": "Be a bandit in the Pontiac Firebird Trans Am.", 
+        "packArtLarge": "/193632/231.0x326.0/1063769_LB_231x326_en_US_^_2018-03-07-17-04-14_893083e698d41eaace853c65a7fdf33f47ffd60f.jpg", 
+        "packArtMedium": "/193632/142.0x200.0/1063769_MB_142x200_en_US_^_2018-03-07-17-04-14_612d01ff46fc678c9d563db63613781548f0c7a5.jpg", 
+        "packArtSmall": "/193632/63.0x89.0/1063769_SB_63x89_en_US_^_2018-03-07-17-04-14_9639c4ffafb321c9cfd2b1133fb59ac527e74bf9.jpg", 
+        "shortDescription": "Experience the new action-driving blockbuster"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "Need for Speed", 
+                    "franchiseId": 50317
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "NFS PAYBACK", 
+                    "masterTitleId": 193632
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002432", 
+    "offerType": "Extra Content", 
+    "publishing": {
+        "publishingAttributes": {
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Addon"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2018-03-20T08:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2018-03-20T08:00:00Z"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }, 
+                {
+                    "value": "zh_TW"
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2018-03-20T08:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-03-19T21:41:52Z"
+}
