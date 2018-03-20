@@ -91,12 +91,12 @@
             "achievementSetOverride": null, 
             "commerceProfile": null, 
             "downloadPackageType": "DownloadInPlace", 
-            "downloadStartDate": "2015-09-01T00:00:00Z", 
+            "downloadStartDate": "2015-09-01T07:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
-            "releaseDate": "2015-09-01T00:00:00Z", 
+            "releaseDate": "2015-09-01T07:00:00Z", 
             "showSubsSaveGameWarning": "false", 
             "useEndDate": null
         }
