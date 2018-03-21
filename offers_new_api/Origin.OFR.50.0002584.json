@@ -135,5 +135,10 @@
     "storeStartDate": "2018-03-16T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": null
+    "vault": {
+        "isUpgradeable": "N", 
+        "path": "/the-witness/the-witness/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
+    }
 }

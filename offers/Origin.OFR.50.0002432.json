@@ -6,9 +6,57 @@
         "country": [
             {
                 "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AF"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "AO"
+            }, 
+            {
+                "attributes": {
                     "isPurchasable": true
                 }, 
                 "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "HT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "KH"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LA"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "LY"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "MP"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "SL"
             }
         ]
     }, 
@@ -113,5 +161,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-03-19T21:41:52Z"
+    "updatedDate": "2018-03-21T12:58:10Z"
 }

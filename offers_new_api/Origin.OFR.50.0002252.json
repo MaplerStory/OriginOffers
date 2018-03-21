@@ -131,5 +131,10 @@
     "storeStartDate": "2018-02-05T18:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": null
+    "vault": {
+        "isUpgradeable": "N", 
+        "path": "/lost-castle/lost-castle/standard-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
+    }
 }

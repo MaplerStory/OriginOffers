@@ -70,8 +70,19 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/505_games/virginia/fg__ww_x0/virginiapcfg__ww_x0run_1__20180220_1000f3a18fc3d50548d9a2bcff24bdd76e83.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-03-21T00:00:10Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
-                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%LocalAppDataLow%/Variable State/Virginia/*.sav</include></saveFileCriteria>", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%LocalLowAppData%/Variable State/Virginia/</include></saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Variable State\\Virginia\\Install Dir]__Installer\\installerdata.xml", 
