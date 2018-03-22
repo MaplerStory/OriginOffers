@@ -647,7 +647,7 @@
                 {
                     "downloadStartDate": "2018-03-22T13:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2018-03-23T04:00:00Z"
+                    "releaseDate": "2018-03-22T13:00:00Z"
                 }
             ]
         }, 
@@ -714,5 +714,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-03-21T07:33:56Z"
+    "updatedDate": "2018-03-22T18:53:53Z"
 }

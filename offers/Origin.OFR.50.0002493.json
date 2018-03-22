@@ -6,6 +6,24 @@
         "country": [
             {
                 "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "AS"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "BR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "CA"
+            }, 
+            {
+                "attributes": {
                     "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
@@ -14,7 +32,31 @@
                 "attributes": {
                     "isPurchasable": true
                 }, 
-                "countryCode": "JP"
+                "countryCode": "GU"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "MX"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "PR"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "US"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "VI"
             }
         ]
     }, 
@@ -26,18 +68,18 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064668"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064664"
     }, 
-    "financeId": "1064668", 
-    "itemId": "Origin.ITM.50.0002139", 
-    "itemName": "A Way Out - PC - JP (Origin)", 
+    "financeId": "1064664", 
+    "itemId": "Origin.ITM.50.0002140", 
+    "itemName": "A Way Out - PC - NA/LATAM (Origin)", 
     "localizableAttributes": {
-        "displayName": "A Way Out - JP (Friend Pass)", 
-        "longDescription": "From the creators of Brothers \u2013 A Tale of Two Sons comes A Way Out, an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.<br><br>\n\nWhat begins as a thrilling breakout quickly turns into an unpredictable, emotional adventure unlike anything seen or played before. <br><br>\n\nA Way Out is an experience that must be played with two players. Each player controls one of the main characters, Leo and Vincent, in a reluctant alliance to break out of prison and gain their freedom.<br><br>\n\nTogether, you\u2019ll explore notions of trust and consequence as your choices begin to catch up with you.<br><br>\n\nPlay the entire experience with your friends for free using the one-click free trial feature.<br><br>\n\nThis game contains scenes featuring strong language, intense violence, and sexual content.", 
+        "displayName": "A Way Out - NALATAM (Friend Pass)", 
+        "longDescription": "From the creators of Brothers \u2013 A Tale of Two Sons comes A Way Out, an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.<br><br>\n\nWhat begins as a thrilling breakout quickly turns into an unpredictable, emotional adventure unlike anything seen or played before. <br><br>\n\nA Way Out is an experience that must be played with two players. Each player controls one of the main characters, Leo and Vincent, in a reluctant alliance to break out of prison and gain their freedom.<br><br>\n\nTogether, you\u2019ll explore notions of trust and consequence as your choices begin to catch up with you.<br><br>\n\nPlay the entire experience with your friends for free using the one-click free trial feature.", 
         "packArtLarge": "/196487/231.0x326.0/1064664_LB_231x326_en_US_^_2018-03-19-15-55-47_acbdd79abe3bad20e143480d3267d7b30fbb3d91.jpg", 
         "packArtMedium": "/196487/142.0x200.0/1064664_MB_142x200_en_US_^_2018-03-19-15-55-47_7be2e7649df7da3a6178e02139d5fd904c9a8523.jpg", 
         "packArtSmall": "/196487/63.0x89.0/1064664_SB_63x89_en_US_^_2018-03-19-15-55-47_da58fe79f6782a9e7f2df218a876ac43c1dbdd12.jpg", 
-        "shortDescription": "A Way Out - JP (Friend Pass)"
+        "shortDescription": "A Way Out - NALATAM (Friend Pass)"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -54,15 +96,15 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002492", 
+    "offerId": "Origin.OFR.50.0002493", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
             "contentId": "1028663_oa", 
             "gameDistributionSubType": "Gameplay Timer Trial - Game Time", 
-            "greyMarketControls": false, 
+            "greyMarketControls": true, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game", 
             "trialLaunchDuration": 10000
         }, 
@@ -112,9 +154,6 @@
         "softwareLocales": {
             "locale": [
                 {
-                    "value": "de_DE"
-                }, 
-                {
                     "value": "en_US"
                 }, 
                 {
@@ -124,20 +163,18 @@
                     "value": "fr_FR"
                 }, 
                 {
-                    "value": "it_IT"
-                }, 
-                {
-                    "value": "pl_PL"
-                }, 
-                {
                     "value": "pt_BR"
-                }, 
+                }
+            ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
                 {
-                    "value": "ru_RU"
+                    "storeAvailableStartDate": "2018-03-22T15:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-03-22T18:47:03Z"
+    "updatedDate": "2018-03-22T22:52:27Z"
 }

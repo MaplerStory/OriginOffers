@@ -10,7 +10,7 @@
         "catalogPriceA": [], 
         "countryCurrency": null, 
         "countryCurrencyA": [], 
-        "giftable": "N", 
+        "giftable": "Y", 
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
@@ -102,7 +102,7 @@
             "multiPlayerId": "1028663", 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
-            "releaseDate": "2018-03-23T04:00:00Z", 
+            "releaseDate": "2018-03-22T13:00:00Z", 
             "showSubsSaveGameWarning": "false", 
             "useEndDate": null
         }
