@@ -139,17 +139,10 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.113.4853\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.113.4853", 
-                                "downloadURL": "/shift/square_enix/final_fantasy_xv_windows_edition/fg__ww_x0_final_fantasy_xv_windows_edition/final_fantasy_xv_windows_editionpcfg__ww_x0_final_fantasy_xv_windows_editionrun_7__20180302_1011348533e9aa7da98bc4cfe9ce56e352a2760a6.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2018-03-05T19:50:00Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.113.9623\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.113.9623", 
                                 "downloadURL": "/shift/square_enix/final_fantasy_xv_windows_edition/fg__ww_x0_final_fantasy_xv_windows_edition/final_fantasy_xv_windows_editionpcfg__ww_x0_final_fantasy_xv_windows_editionrun_8__20160316_101139623e62d00712a624ffa8dd5a9b74d4af85e.zip", 
-                                "downloadURLType": "staged", 
+                                "downloadURLType": "live", 
                                 "effectiveDate": "2018-03-22T17:00:00Z"
                             }
                         ]

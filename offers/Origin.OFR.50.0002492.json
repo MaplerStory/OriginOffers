@@ -1,0 +1,143 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "JP"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1064668"
+    }, 
+    "financeId": "1064668", 
+    "itemId": "Origin.ITM.50.0002139", 
+    "itemName": "A Way Out - PC - JP (Origin)", 
+    "localizableAttributes": {
+        "displayName": "A Way Out - JP (Friend Pass)", 
+        "longDescription": "From the creators of Brothers \u2013 A Tale of Two Sons comes A Way Out, an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.<br><br>\n\nWhat begins as a thrilling breakout quickly turns into an unpredictable, emotional adventure unlike anything seen or played before. <br><br>\n\nA Way Out is an experience that must be played with two players. Each player controls one of the main characters, Leo and Vincent, in a reluctant alliance to break out of prison and gain their freedom.<br><br>\n\nTogether, you\u2019ll explore notions of trust and consequence as your choices begin to catch up with you.<br><br>\n\nPlay the entire experience with your friends for free using the one-click free trial feature.<br><br>\n\nThis game contains scenes featuring strong language, intense violence, and sexual content.", 
+        "packArtLarge": "/196487/231.0x326.0/1064664_LB_231x326_en_US_^_2018-03-19-15-55-47_acbdd79abe3bad20e143480d3267d7b30fbb3d91.jpg", 
+        "packArtMedium": "/196487/142.0x200.0/1064664_MB_142x200_en_US_^_2018-03-19-15-55-47_7be2e7649df7da3a6178e02139d5fd904c9a8523.jpg", 
+        "packArtSmall": "/196487/63.0x89.0/1064664_SB_63x89_en_US_^_2018-03-19-15-55-47_da58fe79f6782a9e7f2df218a876ac43c1dbdd12.jpg", 
+        "shortDescription": "A Way Out - JP (Friend Pass)"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "A WAY OUT", 
+                    "masterTitleId": 196487
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002492", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "1028663_oa", 
+            "gameDistributionSubType": "Gameplay Timer Trial - Game Time", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game", 
+            "trialLaunchDuration": 10000
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2018-03-22T13:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2018-03-23T04:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.62.0\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.62.0", 
+                                "downloadURL": "/shift/hazelight/a_way_out/fg__ww/a_way_outpcfg__wwalpha_3__10621025830d2023a6753a4b18bc0ef5aa1e872573.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-03-09T18:00:00Z"
+                            }
+                        ]
+                    }, 
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_194125_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria>\n<exclude order=\"0\">%Documents%/My Games/A Way Out/LocalSettings</exclude>\n<include order=\"1\">%Documents%/My Games/A Way Out/GameSettings</include>\n<include order=\"2\">%Documents%/My Games/A Way Out/AWO-Progression</include>\n<include order=\"3\">%Documents%/My Games/A Way Out/Saves/</include>\n</saveFileCriteria>", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Hazelight\\AWayOut\\Install Dir]\\Haze1\\Binaries\\Win64\\AWayOut.exe", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Hazelight\\AWayOut\\Install Dir]\\Haze1\\Binaries\\Win64\\AWayOut.exe", 
+                        "installationDirectory": "AWayOut", 
+                        "monitorInstall": true, 
+                        "monitorPlay": true, 
+                        "multiPlayerId": "1028663", 
+                        "processorArchitecture": "64-bit", 
+                        "showKeyDialogOnInstall": false, 
+                        "showKeyDialogOnPlay": false
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000658", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-03-20T00:02:21Z"
+}

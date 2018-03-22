@@ -5,21 +5,17 @@
     "contentId": "197528", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": "2018-03-19T17:00:00Z", 
-        "catalogPrice": 39.99, 
-        "catalogPriceA": [
-            39.99
-        ], 
-        "countryCurrency": "USD", 
-        "countryCurrencyA": [
-            "USD"
-        ], 
+        "billingDate": null, 
+        "catalogPrice": null, 
+        "catalogPriceA": [], 
+        "countryCurrency": null, 
+        "countryCurrencyA": [], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "Y", 
+        "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": true, 
-        "isPurchasable": "Y"
+        "isPublished": false, 
+        "isPurchasable": "N"
     }, 
     "developerFacetKey": "Out of the Park Developments GmbH", 
     "duration": null, 
@@ -85,7 +81,7 @@
     "masterTitleId": "197528", 
     "mdmItemType": "Full Game", 
     "numberOfPlayersFacetKey": "SinglePlayer", 
-    "offerId": "Origin.OFR.50.0002583", 
+    "offerId": "Origin.OFR.50.0002582", 
     "offerPath": "/out-of-the-park-baseball/out-of-the-park-baseball-19/standard-edition", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
@@ -95,12 +91,12 @@
             "achievementSetOverride": "50318_197528_50844", 
             "commerceProfile": null, 
             "downloadPackageType": "DownloadInPlace", 
-            "downloadStartDate": "2018-03-22T13:00:00Z", 
+            "downloadStartDate": "2018-03-22T17:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
-            "releaseDate": "2018-03-22T13:00:00Z", 
+            "releaseDate": "2018-03-22T17:00:00Z", 
             "showSubsSaveGameWarning": "false", 
             "useEndDate": null
         }
@@ -116,13 +112,8 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": "2018-02-27T18:00:00Z", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": {
-        "isUpgradeable": "N", 
-        "path": "/out-of-the-park-baseball/out-of-the-park-baseball-19/standard-edition", 
-        "vaultEndDate": null, 
-        "vaultStartDate": null
-    }
+    "vault": null
 }
