@@ -70,6 +70,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"4.6.7.26594\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "4.6.7.26594", 
+                                "downloadURL": "/shift/505_games/the_guest/fg__ww_x0/the_guestpcfg__ww_x0run_1__20180327_4672659407863fa7212e451193a931bb2fa12f0b.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-03-27T23:00:28Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%InstallDir%/TheGuest_Data/SavedDir/</include> <include order=\"1\">*.xml</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
