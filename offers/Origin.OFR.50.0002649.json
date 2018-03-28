@@ -71,6 +71,8 @@
             "software": [
                 {
                     "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_197743_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Profile%/AppData/LocalLow/EldenPixels/Alwa's Awakening/settings.dat</exclude> <include order=\"1\">%Profile%/AppData/LocalLow/EldenPixels/Alwa's Awakening/</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Elden Pixels\\Alwa's Awakening\\Install Dir]__Installer\\installerdata.xml", 
