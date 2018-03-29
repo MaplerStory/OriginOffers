@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -23,14 +24,14 @@
     }, 
     "financeId": "1068646", 
     "itemId": "Origin.ITM.50.0002246", 
-    "itemName": "EMBER (Origin) - PC - WW", 
+    "itemName": "Ember  - PC - WW (Origin)", 
     "localizableAttributes": {
         "displayName": "Ember", 
-        "longDescription": "Ember Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "longDescription": "Back in the earliest days, there was no sun and the world was dark. The heavens opened and stars fell like beacons into the pitch-black world, and they were known as \"Embers\". Powerful and wise druids of a primordial race, \"the Lightbringers\", roamed the land searching for this luminous matter. They performed a ritual of awakening to call the \"Embers\" out of their deep sleep. Suddenly the world became bright, and the veil of darkness was lifted. The Embers were the embodiment of magical flame, light, and life, but as word spread about the sheer power of the Embers, they came to be hunted and captured\u2026and so the War for Ember began.<br><br>\n\nA passion project 10 years in the making, Ember is a homage to classic role-playing games (RPG). Enter the world of Ember as a resurrected \"Lightbringer\" summoned to protect the dying Embers as the world is on the brink of collapse. Beginning in the Deep Barrows, traverse vast environments divided between above ground and underground realms \u2013 ranging from lush forests to dry deserts and dark abysses \u2013 to reach the City of Light. See how the story unfolds through encounters with strangers by making pivotal decisions about your own destiny.<br><br>\n\nKey Features:<br><br>\n\n\u2022 Classic-style RPG with 30+ hours of epic adventure<br>\n\u2022 Epic storytelling filled with fascinating characters, lore, adventure and humor<br>\n\u2022 Over 70 quests with diverse gameplay enabling players to choose their path<br>\n\u2022 Engaging party-based real-time combat system with tactical pause<br>\n\u2022 Over 65 combat skills for the player to use in customized battle party strategy<br>\n\u2022 Encounter hundreds of NPCs with their own tales to tell<br>\n\u2022 In-depth crafting system, from baking bread to forging magic weapons<br>\n\u2022 A seamless world with over 20 handcrafted environments and dark dungeons that are fully interactive and feature movable objects, weather changes and day / night cycles<br>\n\u2022 Adventure with different companions with their own backstory quests<br>", 
         "packArtLarge": "/197609/231.0x326.0/1068646_LB_231x326_en_US_^_2018-03-19-17-27-08_00fcca8f459753e445a7225fad028d57c8c5731b.jpg", 
         "packArtMedium": "/197609/142.0x200.0/1068646_MB_142x200_en_US_^_2018-03-19-17-27-34_2b81706012d94a8b512d23abe7883eb3f137ba2d.jpg", 
         "packArtSmall": "/197609/63.0x89.0/1068646_SB_63x89_en_US_^_2018-03-19-17-27-59_80fb3924a21c7091742e551c9321137a7c3798de.jpg", 
-        "shortDescription": "Ember Short Description Placeholder Text."
+        "shortDescription": "A homage to classic role-playing games"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [

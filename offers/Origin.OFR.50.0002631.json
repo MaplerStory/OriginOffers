@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -23,14 +24,14 @@
     }, 
     "financeId": "1068649", 
     "itemId": "Origin.ITM.50.0002250", 
-    "itemName": "THE GUEST  - PC - WW (Origin)", 
+    "itemName": "The Guest - PC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "THE GUEST", 
-        "longDescription": "THE GUEST Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "displayName": "The Guest", 
+        "longDescription": "The Guest is a gloomy adventure full of enigmas where exploration of your surroundings comes to prominence; puzzles, secrets and riddles will help you discover who has locked you in this somber hotel room and most importantly, why.<br><br>\n\n<b>Key Features:<br></b><br>\n\n<b>Immersive storytelling.</b> The mood and the feel of the game, and the mysterious background of the Doctor Evgueni Leonov, makes it a unique experience. You\u2019ll travel through the character story and discover unexpected places that make you wonder what\u2019s going on. The sci-fi story behind those enigmatic walls creates a powerful gameplay experience.<br><br>\n\n<b>Environment. </b>Set in an unkempt building in the 80s, The Guest confronts you with a dark and mysterious environment, creating a unique bond between you and the atmosphere.<br><br>\n\n<b>Gameplay experience. </b>Combining mechanics from classic adventures with puzzles and narrative, you\u2019re led deeper and deeper into the plot. There are events where you\u2019ll control the character in a critical mental state, breaking the game\u2019s rhythm and looking for new experiences.<br><br>\n\nA quality soundtrack with a sometimes calm, sometimes hair-raising rhythm provides endless mystery and suspense.<br><br>\n\n<b>Additional Features:<br></b>\n\n<li>Roam and explore the surroundings, accessing every corner of each room.</li>\n<li>There are different puzzles and enigmas to solve, each one with its own personality and complexity.</li>\n<li>Unique events inside the storyline increase immersion in the game.</li>", 
         "packArtLarge": "/197611/231.0x326.0/1068649_LB_231x326_en_US_^_2018-03-22-12-49-51_76c3a4fabb53e77e1d3ac63c3b85e2d84c4e4d40.jpg", 
         "packArtMedium": "/197611/142.0x200.0/1068649_MB_142x200_en_US_^_2018-03-22-12-50-17_1ab38059f2ad395743d52db90451d5a9166bb43c.jpg", 
         "packArtSmall": "/197611/63.0x89.0/1068649_SB_63x89_en_US_^_2018-03-22-12-51-11_e71241e8d0a9437558787cbd761863196c6953b2.jpg", 
-        "shortDescription": "THE GUEST Short Description Placeholder Text."
+        "shortDescription": "Will you ever escape?"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [

@@ -25,11 +25,11 @@
     "itemId": "Origin.ITM.50.0002200", 
     "itemName": "FINAL FANTASY XV - HIGH RESOLUTION PACK (Origin) - PC - WW", 
     "localizableAttributes": {
-        "displayName": "FFXV High Resolution Pack", 
+        "displayName": "FFXV WINDOWS EDITION 4K Resolution Pack", 
         "longDescription": "This pack allows you to enjoy FINAL FANTASY XV in high resolution.<br>\nExperience the world of FINAL FANTASY XV as you have never seen it before, with even more beautiful movie scenes and meticulously drawn characters and backgrounds.", 
-        "packArtLarge": "/196983/231.0x326.0/1062546_LB_231x326_en_US_^_2017-08-14-11-03-39_dea9e827dc0e2613ddc100e6c4aea2f839c6c873.jpg", 
-        "packArtMedium": "/196983/142.0x200.0/1062546_MB_142x200_en_US_^_2017-08-14-11-03-52_45a449ff1051942dd09fa5f323e67d0b29b51057.jpg", 
-        "packArtSmall": "/196983/63.0x89.0/1062546_SB_63x89_en_US_^_2017-08-14-11-04-07_b4ea20c7366f714d93fe5c10be195a8bde20db39.jpg", 
+        "packArtLarge": "/196983/231.0x326.0/1066627_LB_231x326_en_US_^_2018-03-26-11-53-10_96a49fa8eba5ceef045f3ed1d45bf6eb23c738c1.jpg", 
+        "packArtMedium": "/196983/142.0x200.0/1066627_MB_142x200_en_US_^_2018-03-23-19-39-22_c70f817e21b3d713a1e5997da540ba85d38765ae.jpg", 
+        "packArtSmall": "/196983/63.0x89.0/1066627_SB_63x89_en_US_^_2018-03-23-19-39-22_a8f234fabf3c5f2c3bc4180e67ab97c0612d09bd.jpg", 
         "shortDescription": "This pack allows you to enjoy FINAL FANTASY XV in high resolution."
     }, 
     "mdmHierarchies": {
