@@ -436,15 +436,8 @@
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.48496\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.48496", 
                                 "downloadURL": "/shift/nordic_games/spellforce_3/fg__ww_x0/spellforce_3pcfg__ww_x0run_10__20180328_10048496f26435b4605f47a38a6784b537515182.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2037-03-29T13:08:54Z"
-                            }, 
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.47102\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.47102", 
-                                "downloadURL": "/shift/nordic_games/spellforce_3/fg__ww_x0/spellforce_3pcfg__ww_x0run_9__20180207_1004710269b8ea39405b4158813821237178fea6.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2018-02-08T13:30:00Z"
+                                "effectiveDate": "2018-03-30T14:45:00Z"
                             }
                         ]
                     }, 

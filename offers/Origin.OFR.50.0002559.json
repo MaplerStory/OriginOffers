@@ -79,6 +79,13 @@
                                 "downloadURL": "/shift/square_enix/final_fantasy_xv_windows_edition/demo__ww_x0_final_fantasy_xv_windows_edition_demo/final_fantasy_xv_windows_editionpcdemo__ww_x0_final_fantasy_xv_windows_edition_demorun_4__20180223_1011347243f4b58417cd484c845266fe926e5b76.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2018-02-23T20:32:32Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.114.2428\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.114.2428", 
+                                "downloadURL": "/shift/square_enix/final_fantasy_xv_windows_edition/demo__ww_x0_final_fantasy_xv_windows_edition_demo/final_fantasy_xv_windows_editionpcdemo__ww_x0_final_fantasy_xv_windows_edition_demorun_5__20180330_1011424288287b9f217e8492aa236fd3c0c45613d.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-03-30T14:42:44Z"
                             }
                         ]
                     }, 
