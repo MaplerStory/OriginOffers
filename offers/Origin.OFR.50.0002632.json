@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -23,11 +24,14 @@
     }, 
     "financeId": "1068651", 
     "itemId": "Origin.ITM.50.0002251", 
-    "itemName": "BROTHERS - A TALE OF TWO SONS (Origin) - PC - WW", 
+    "itemName": "Brothers - A Tale of Two Sons - (Origin) - PC - WW", 
     "localizableAttributes": {
-        "displayName": "Brothers - A Tale of Two Sons Display Name Placeholder Text.", 
-        "longDescription": "Brothers - A Tale of Two Sons Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "Brothers - A Tale of Two Sons Short Description Placeholder Text."
+        "displayName": "Brothers - A Tale of Two Sons", 
+        "longDescription": "Guide two brothers on an epic fairy tale journey from visionary Swedish film director, Josef Fares and top-tier developer Starbreeze Studios. <br><br>\n\nControl both brothers at once as you experience co-op play in single-player mode, like never before.<br><br>\n\nSolve puzzles, explore the varied locations and fight boss battles, controlling one brother with each thumbstick.<br><br>\n\nA man, clinging to life - his two sons, desperate to cure their ailing father, are left with one option. They must set out upon a journey to find and bring back the \"Water of Life\", learning to rely on one another to survive. One must be strong when the other is weak, brave when the other is fearful, they must be... Brothers.<br><br>\n\nThis is one journey you will never forget.", 
+        "packArtLarge": "/197619/231.0x326.0/1068651_LB_231x326_en_US_^_2018-04-02-22-13-31_e6413ab2e58cedd79d7b36a0f4db52477a5a9771.jpg", 
+        "packArtMedium": "/197619/142.0x200.0/1068651_MB_142x200_en_US_^_2018-04-02-22-14-23_b70cdef7601ed85d5a0208d1f05cd31799ec980f.jpg", 
+        "packArtSmall": "/197619/63.0x89.0/1068651_SB_63x89_en_US_^_2018-04-02-22-15-06_aadb44834b0348ef562ab78047c1d0634f2f5bf8.jpg", 
+        "shortDescription": "Start an epic quest for the Water of Life"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
