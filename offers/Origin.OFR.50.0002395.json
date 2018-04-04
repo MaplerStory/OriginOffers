@@ -2,16 +2,6 @@
     "baseAttributes": {
         "platform": "PCWIN"
     }, 
-    "countries": {
-        "country": [
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "DEFAULT"
-            }
-        ]
-    }, 
     "customAttributes": {
         "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
@@ -20,11 +10,11 @@
     "ecommerceAttributes": {
         "addonsAvailable": false, 
         "availableExtraContent": [], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1068645"
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1062241"
     }, 
-    "financeId": "1068645", 
-    "itemId": "Origin.ITM.50.0002244", 
-    "itemName": "Mad Max (Low Violence) - PC - WW (Origin)", 
+    "financeId": "1062241", 
+    "itemId": "Origin.ITM.50.0002048", 
+    "itemName": "Mad Max -  PC - WW (Origin)", 
     "localizableAttributes": {
         "displayName": "Mad Max", 
         "longDescription": "Become Mad Max, the lone warrior in a savage post-apocalyptic world where cars are the key to survival. In this action-packed, open-world game, you must fight to stay alive in The Wasteland, using brutal on-ground and vehicular combat against vicious gangs of bandits.\n<br><br>\nA reluctant hero with an instinct for survival, Max wants nothing more than to leave the madness behind and find solace in the storied \"Plains of Silence\u201d. Take on treacherous missions to scavenge the dangerous landscape for supplies and build the ultimate combat vehicle.", 
@@ -48,13 +38,12 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002625", 
+    "offerId": "Origin.OFR.50.0002395", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
             "contentId": "196959", 
             "gameDistributionSubType": "Normal Game", 
-            "greyMarketControls": false, 
             "isDownloadable": true, 
             "isPublished": false, 
             "originDisplayType": "Full Game"
@@ -76,9 +65,9 @@
                             {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.5.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.5.0", 
-                                "downloadURL": "/shift/warner_brothers_interactive/mad_max/fg__ww_low_violence/mad_maxpcfg__ww_low_violencerun_1__20180313_10509cee1e29adca4100b1d47ff894a5865c.zip", 
+                                "downloadURL": "/shift/warner_brothers_interactive/mad_max/fg__ww_x0/mad_maxpcfg__ww_x0run_4__20180313_105029bf74adf678446c9274c4bf895d7ddc.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2018-03-15T00:00:38Z"
+                                "effectiveDate": "2018-03-14T17:52:29Z"
                             }
                         ]
                     }, 
@@ -88,9 +77,10 @@
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Avalanche Studios\\Mad Max\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Avalanche Studios\\Mad Max\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "Mad Max"
+                        "installationDirectory": "Mad Max", 
+                        "processorArchitecture": "64-bit"
                     }, 
-                    "softwareId": "Origin.SFT.50.0000832", 
+                    "softwareId": "Origin.SFT.50.0000793", 
                     "softwarePlatform": "PCWIN"
                 }
             ]
@@ -131,5 +121,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-03-29T19:34:10Z"
+    "updatedDate": "2018-03-20T19:12:50Z"
 }
