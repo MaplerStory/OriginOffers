@@ -1,0 +1,95 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1069639"
+    }, 
+    "financeId": "1069639", 
+    "itemId": "Origin.ITM.50.0002273", 
+    "itemName": "EUROPA UNIVERSALIS III COMPLETE (Origin) - PC - WW", 
+    "localizableAttributes": {
+        "displayName": "EUROPA UNIVERSALIS III COMPLETE Display Name Placeholder Text.", 
+        "longDescription": "EUROPA UNIVERSALIS III COMPLETE Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "shortDescription": "EUROPA UNIVERSALIS III COMPLETE Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "EUROPA UNIVERSALIS III", 
+                    "masterTitleId": 197711
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002654", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "197711", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2007-01-23T07:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2007-01-23T07:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio \\EUROPA UNIVERSALIS III COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio \\EUROPA UNIVERSALIS III COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "EUROPA UNIVERSALIS III COMPLETE"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000842", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-04-05T15:41:31Z"
+}
