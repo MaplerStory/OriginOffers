@@ -71,10 +71,22 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/505_games/brothers__a_tale_of_two_sons/fg__ww_x0/brothers__a_tale_of_two_sonspcfg__ww_x0run_1__20180406_100007b9ea1bfcee4785965c327198c3b374.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-04-06T00:58:42Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Starbreeze Studios AB\\Brothers - A Tale of Two Sons\\Install Dir]__Installer\\installerdata.xml", 
+                        "executeParams": "--gameLaunchPath \".\\BrothersLauncher.exe", 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Starbreeze Studios AB\\Brothers - A Tale of Two Sons\\Install Dir]BrothersLauncher Origin.exe", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Starbreeze Studios AB\\Brothers - A Tale of Two Sons\\Install Dir]__Installer\\installerdata.xml", 
                         "installationDirectory": "Brothers - A Tale of Two Sons"
                     }, 
