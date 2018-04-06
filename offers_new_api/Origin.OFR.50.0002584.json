@@ -55,7 +55,7 @@
         "extraContentDisplayGroupDisplayName": null, 
         "franchiseFacetKey": null, 
         "franchisePageLink": null, 
-        "gameForumURL": "support_origin@thekla.com", 
+        "gameForumURL": null, 
         "gameManualURL": null, 
         "gameTypeFacetKey": null, 
         "genreFacetKey": null, 
@@ -72,7 +72,7 @@
         "publisherFacetKey": null, 
         "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 
         "shortDescription": "Explore an abandoned island.", 
-        "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS:</b> Windows 7<br>\n<b>Processor:</b> 1.8GHz<br>\n<b>Memory:</b> 4 GB RAM<br>\n<b>Graphics:</b> Intel HD 4000 series<br>\n<b>DirectX: </b>Version 10<br>\n<b>Storage:</b> 5 GB available space<br><br>\n\n<b>RECOMMENDED:</b><br>\n<b>OS: </b>Windows 7<br>\n<b>Processor: </b>2.4GHz<br>\n<b>Memory:</b> 8 GB RAM<br>\n<b>Graphics:</b> GeForce 780<br>\n<b>DirectX:</b> Version 10<br>\n<b>Storage:</b> 5 GB available space<br>"
+        "systemRequirements": "<b>MINIMUM:</b><br>\n<b>OS:</b> Windows 7<br>\n<b>Processor:</b> 1.8GHz<br>\n<b>Memory:</b> 4 GB RAM<br>\n<b>Graphics:</b> Intel HD 4000 series<br>\n<b>DirectX: </b>Version 10<br>\n<b>Storage:</b> 5 GB available space<br><br>\n\n<b>RECOMMENDED:</b><br>\n<b>OS: </b>Windows 7<br>\n<b>Processor: </b>2.4GHz<br>\n<b>Memory:</b> 8 GB RAM<br>\n<b>Graphics:</b> GeForce 780<br>\n<b>DirectX:</b> Version 10<br>\n<b>Storage:</b> 5 GB available space\n<br><br>For game technical support inquiries please email support_origin@thekla.com"
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
     "includeOffers": [], 
