@@ -2,6 +2,22 @@
     "baseAttributes": {
         "platform": "PCWIN"
     }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "JP"
+            }
+        ]
+    }, 
     "customAttributes": {
         "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
@@ -118,8 +134,15 @@
                     "value": "ru_RU"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2018-04-10T17:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-03-20T19:12:50Z"
+    "updatedDate": "2018-04-10T00:53:33Z"
 }

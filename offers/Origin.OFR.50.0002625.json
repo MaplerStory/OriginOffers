@@ -9,6 +9,12 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "DEFAULT"
+            }, 
+            {
+                "attributes": {
+                    "isPurchasable": true
+                }, 
+                "countryCode": "JP"
             }
         ]
     }, 
@@ -131,5 +137,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-03-29T19:34:10Z"
+    "updatedDate": "2018-04-10T00:54:05Z"
 }

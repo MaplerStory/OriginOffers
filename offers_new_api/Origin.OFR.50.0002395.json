@@ -5,17 +5,21 @@
     "contentId": "196959", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
-        "giftable": null, 
-        "hasSubscriberDiscount": "N", 
+        "billingDate": "2015-09-01T07:00:00Z", 
+        "catalogPrice": 19.99, 
+        "catalogPriceA": [
+            19.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
+        "giftable": "N", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": null
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Avalanche Studios", 
     "duration": null, 
@@ -126,7 +130,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2018-04-10T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
