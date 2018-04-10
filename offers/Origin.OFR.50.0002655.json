@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -23,11 +24,14 @@
     }, 
     "financeId": "1069636", 
     "itemId": "Origin.ITM.50.0002274", 
-    "itemName": "HEARTS OF IRON III (Origin) - PC - WW", 
+    "itemName": "Hearts of Iron III - PC - WW - (Origin) ", 
     "localizableAttributes": {
-        "displayName": "HEARTS OF IRON III Display Name Placeholder Text.", 
-        "longDescription": "HEARTS OF IRON III Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
-        "shortDescription": "HEARTS OF IRON III Short Description Placeholder Text."
+        "displayName": "Hearts of Iron III", 
+        "longDescription": "Hearts of Iron III lets you play the most engaging conflict in world history, World War 2, on all fronts as any country and through multiple different scenarios. Guide your nation to glory between 1936 and 1948 and wage war, conduct diplomacy and build your industry in the most detailed World War 2 game ever made.<br><br>\n\n<b>Key Features:</b><br>\n<li>Play as any nation from 1936 to 1948, more than 150 countries to choose from. </li>\n<li>Control the oceans with aircraft carriers, submarines and battleships and use your air force to defend your skies, support your naval and ground forces and to bomb your enemies.</li>\n<li>Thousands of historically accurate real-world military commanders and politicians. </li>\n<li>Realistic military command AI with unprecedented levels of interaction.</li>\n<li>In-depth diplomatic and political system. </li>\n<li>Historical accuracy combined with an unparalleled level of freedom of choice.</li>\n<li>More than 10,000 land provinces make the game five times more detailed than Hearts of Iron II and the most meticulous depiction of World War 2 ever made. </li>\n<li>Customize your divisions in detail with more than 20 types of brigades.</li>\n<li>New economic system makes it possible to buy weapons from abroad. </li>\n<li>Mobilization and reserves gives the option of surprise attacks - Blitzkrieg made real. </li>\n<li>Government-in-exile makes it possible to continue the struggle from abroad with underground movements and uprisings against the oppressing power. </li>\n<li>Strategic warfare system makes it more important to defend the skies and oceans against foreign attacks; leaving cities open to enemy bombing will now be devastating. </li>\n<li>A completely new intelligence system, with several types of intelligence sources, makes it possible to get information about enemy reserves and troop movements.</li>\n<li>Assign troops to \"theatres\" on the map to fight two-front wars more successfully. </li>\n<li>The new AI system and detailed maps will allow for more strategic decisions. </li>\n<li>Flexible technology system with hundreds of categories, where major powers get their own unique attributes.</li>", 
+        "packArtLarge": "/197713/231.0x326.0/1069636_LB_231x326_en_US_^_2018-04-06-22-55-40_f3b855b889199f623486d7b1015d25a5c5265b3c.jpg", 
+        "packArtMedium": "/197713/142.0x200.0/1069636_MB_142x200_en_US_^_2018-04-06-22-55-54_dd68d979f5868e40a776645b93b1bf58eed6d0a9.jpg", 
+        "packArtSmall": "/197713/63.0x89.0/1069636_SB_63x89_en_US_^_2018-04-06-22-56-10_6b9f5833a97e9056e3bbc1624193fba8aebc29a2.jpg", 
+        "shortDescription": "Victory at all costs"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [

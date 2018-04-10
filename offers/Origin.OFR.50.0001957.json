@@ -511,9 +511,9 @@
         "softwareControlDates": {
             "softwareControlDate": [
                 {
-                    "downloadStartDate": "2018-04-12T17:00:00Z", 
+                    "downloadStartDate": "2018-04-12T15:00:00Z", 
                     "platform": "PCWIN", 
-                    "releaseDate": "2018-04-12T17:00:00Z"
+                    "releaseDate": "2018-04-12T15:00:00Z"
                 }
             ]
         }, 
@@ -559,5 +559,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-04-04T16:54:25Z"
+    "updatedDate": "2018-04-10T15:49:20Z"
 }
