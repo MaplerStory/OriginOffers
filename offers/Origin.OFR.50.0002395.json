@@ -61,7 +61,7 @@
             "contentId": "196959", 
             "gameDistributionSubType": "Normal Game", 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {

@@ -6,99 +6,9 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "AO"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "BF"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "BI"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "BJ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "BW"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "CD"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "CF"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "CG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "CI"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "CM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "CV"
-            }, 
-            {
-                "attributes": {
                     "isPurchasable": true
                 }, 
                 "countryCode": "DEFAULT"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "DJ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "DZ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "EH"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "ET"
             }, 
             {
                 "attributes": {
@@ -110,55 +20,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "GA"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "GF"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "GH"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "GM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "GN"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "GQ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "GW"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "KE"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "KM"
             }, 
             {
                 "attributes": {
@@ -170,85 +32,13 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "LR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "LS"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "MC"
             }, 
             {
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "MG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "ML"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "MR"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "MU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "MV"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "MW"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "MZ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "NA"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "NC"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "NE"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "NG"
             }, 
             {
                 "attributes": {
@@ -266,97 +56,13 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "RW"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "SC"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "SH"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "SL"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "SN"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "SZ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "TD"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "TF"
             }, 
             {
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "TG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "TN"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "TZ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "UG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "YT"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "ZA"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "ZM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "ZW"
             }
         ]
     }, 
@@ -422,18 +128,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.19.1.38\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.19.1.38", 
-                                "downloadURL": "/shift/out_of_the_park_developments/out_of_the_park_baseball_19/fg__ww_x0/out_of_the_park_baseball_19pcfg__ww_x0run_3__20180322_119138a453f19fbc53408ab5f559ba294c65f8.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2018-03-23T18:20:00Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.19.3.44\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.19.3.44", 
                                 "downloadURL": "/shift/out_of_the_park_developments/out_of_the_park_baseball_19/fg__ww_x0/out_of_the_park_baseball_19pcfg__ww_x0run_4__20180409_11934418eba71274f84ba390449af420eb737b.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2037-04-09T17:01:16Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-04-10T17:01:00Z"
                             }
                         ]
                     }, 
@@ -466,5 +165,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-03-22T14:49:11Z"
+    "updatedDate": "2018-04-10T20:15:49Z"
 }

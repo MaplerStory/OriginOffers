@@ -520,6 +520,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/plug_in_digital/dead_in_vinland/fg__ww_x0/dead_in_vinlandpcfg__ww_x0run_1__20180410_100036e27120a79b4d7494a01afbb8ce1611.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-04-10T18:00:17Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%LocalLowAppData%/CCCP/Dead In Vinland/Global.dis</include> <include order=\"1\">%LocalLowAppData%/CCCP/Dead In Vinland/Profile1/</include> <include order=\"2\">%LocalLowAppData%/CCCP/Dead In Vinland/Profile2/</include> <include order=\"3\">%LocalLowAppData%/CCCP/Dead In Vinland/Profile3/</include> <include order=\"4\">%LocalLowAppData%/CCCP/Dead In Vinland/Profile4/</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 

@@ -85,6 +85,13 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.55112\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.55112", 
+                                "downloadURL": "/shift/focus_home_interactive/the_surge/fg__ww_x0/the_surgepcfg__ww_x0run_10__21070410_10055112ea20755851644f99ab82f2ba68915357.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-04-10T18:14:40Z"
+                            }, 
+                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.54958\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.54958", 
                                 "downloadURL": "/shift/focus_home_interactive/the_surge/fg__ww_x0/the_surgepcfg__ww_x0run_9__20171215_10054958b62d5f614fd5492198fb50777737dd9c.zip", 

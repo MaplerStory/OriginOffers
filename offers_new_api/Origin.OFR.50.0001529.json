@@ -5,7 +5,7 @@
     "contentId": "195753", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": "2016-06-22T17:00:00Z", 
+        "billingDate": "2018-03-22T00:00:00Z", 
         "catalogPrice": 19.99, 
         "catalogPriceA": [
             19.99
@@ -133,6 +133,6 @@
         "isUpgradeable": "N", 
         "path": "/batman/batman-arkham-asylum/game-of-the-year-edition", 
         "vaultEndDate": null, 
-        "vaultStartDate": null
+        "vaultStartDate": "2018-03-22T00:00:00Z"
     }
 }

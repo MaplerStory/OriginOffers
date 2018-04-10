@@ -140,6 +140,6 @@
         "isUpgradeable": "N", 
         "path": "/beholder/beholder/standard-edition", 
         "vaultEndDate": null, 
-        "vaultStartDate": null
+        "vaultStartDate": "2017-03-01T18:00:00Z"
     }
 }
