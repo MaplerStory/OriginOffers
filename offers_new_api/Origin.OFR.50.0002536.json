@@ -21,7 +21,10 @@
     "duration": null, 
     "durationUnit": null, 
     "dynamicPricing": "N", 
-    "extraContent": [], 
+    "extraContent": [
+        "Origin.OFR.50.0002685", 
+        "Origin.OFR.50.0002686"
+    ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
     "fictionalCurrency": [], 
@@ -65,7 +68,7 @@
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
         "ratingSystemIcon": null, 
-        "shortDescription": "Anthem Standard Edition PCDD - WW Short Description Placeholder Text.", 
+        "shortDescription": "ANTHEM (NA & LATAM) - WW Short Description Placeholder Text.", 
         "systemRequirements": null
     }, 
     "imageServer": "https://originassets.akamaized.net/origin-com-store-final-assets-prod", 
@@ -75,7 +78,7 @@
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
     "itemId": "Origin.ITM.50.0001316", 
-    "itemName": "Anthem Standard Edition PCDD - WW (Origin.com)", 
+    "itemName": "ANTHEM (NA & LATAM)", 
     "itemType": "Base Game", 
     "masterTitle": "ANTHEM", 
     "masterTitleId": "180831", 

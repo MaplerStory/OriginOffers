@@ -18,20 +18,23 @@
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
-        "addonsAvailable": false, 
-        "availableExtraContent": [], 
+        "addonsAvailable": true, 
+        "availableExtraContent": [
+            "Origin.OFR.50.0002686", 
+            "Origin.OFR.50.0002685"
+        ], 
         "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1034365"
     }, 
     "financeId": "1034365", 
     "itemId": "Origin.ITM.50.0001316", 
-    "itemName": "Anthem Standard Edition PCDD - WW (Origin.com)", 
+    "itemName": "ANTHEM (NA & LATAM)", 
     "localizableAttributes": {
         "displayName": "Anthem Holiday Playtest", 
         "longDescription": "Welcome to the Anthem Holiday Playtest!", 
         "packArtLarge": "/180831/231.0x326.0/1034365_LB_231x326_en_US_^_2017-12-21-12-32-28_93efb2e5d7b0f4c5ad541308136696021e743933.png", 
         "packArtMedium": "/180831/142.0x200.0/1034365_MB_142x200_en_US_^_2017-12-21-12-32-31_7d18c0b769e93eee56503466684782606476bd24.png", 
         "packArtSmall": "/180831/63.0x89.0/1034365_SB_63x89_en_US_^_2017-12-21-12-32-25_aaae850d663506f0b143722633770fdc2d2a403c.png", 
-        "shortDescription": "Anthem Standard Edition PCDD - WW Short Description Placeholder Text."
+        "shortDescription": "ANTHEM (NA & LATAM) - WW Short Description Placeholder Text."
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
