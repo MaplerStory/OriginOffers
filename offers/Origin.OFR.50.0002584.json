@@ -381,11 +381,11 @@
                                 "effectiveDate": "2018-03-14T18:03:17Z"
                             }, 
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.2\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.2", 
-                                "downloadURL": "/shift/thekla_inc/the_witness/fg__ww_x0_the_witness/the_witnesspcfg__ww_x0_the_witnessrun_3__20180315_1002435f1805c1a745898b88eebb5fefee33.zip", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.3\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.3", 
+                                "downloadURL": "/shift/thekla_inc/the_witness/fg__ww_x0_the_witness/the_witnesspcfg__ww_x0_the_witnessrun_6__20180411_10030b38f75f29fe4f53bc3cb8b2347cb58e.zip", 
                                 "downloadURLType": "staged", 
-                                "effectiveDate": "2037-03-15T19:57:28Z"
+                                "effectiveDate": "2037-04-12T14:31:49Z"
                             }
                         ]
                     }, 
