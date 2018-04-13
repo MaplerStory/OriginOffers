@@ -85,6 +85,13 @@
                                 "downloadURL": "/shift/warner_brothers_interactive/mad_max/fg__ww_low_violence/mad_maxpcfg__ww_low_violencerun_1__20180313_10509cee1e29adca4100b1d47ff894a5865c.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2018-03-15T00:00:38Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.6.0\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.6.0", 
+                                "downloadURL": "/shift/warner_brothers_interactive/mad_max/fg__ww_low_violence/mad_maxpcfg__ww_low_violencerun_2__20180413_10609fd770d1d5284f31b841a5ed4489141d.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-04-13T19:14:41Z"
                             }
                         ]
                     }, 
