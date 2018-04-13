@@ -128,18 +128,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.19.3.44\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.19.3.44", 
-                                "downloadURL": "/shift/out_of_the_park_developments/out_of_the_park_baseball_19/fg__ww_x0/out_of_the_park_baseball_19pcfg__ww_x0run_4__20180409_11934418eba71274f84ba390449af420eb737b.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2018-04-10T17:01:00Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.19.4.45\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.19.4.45", 
                                 "downloadURL": "/shift/out_of_the_park_developments/out_of_the_park_baseball_19/fg__ww_x0/out_of_the_park_baseball_19pcfg__ww_x0run_5__20180412_119445eded1cbeb0144bc681713d3285b3a371.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2037-04-12T14:17:36Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-04-13T15:35:00Z"
                             }
                         ]
                     }, 

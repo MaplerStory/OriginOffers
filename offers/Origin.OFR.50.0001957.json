@@ -523,18 +523,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.0", 
-                                "downloadURL": "/shift/plug_in_digital/dead_in_vinland/fg__ww_x0/dead_in_vinlandpcfg__ww_x0run_1__20180410_100036e27120a79b4d7494a01afbb8ce1611.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2018-04-10T18:00:17Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.1\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.0.1", 
                                 "downloadURL": "/shift/plug_in_digital/dead_in_vinland/fg__ww_x0/dead_in_vinlandpcfg__ww_x0run_2__20180412_10014a32f91864e24e5aa93ff81a0d761812.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2037-04-12T14:25:37Z"
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-04-13T15:35:00Z"
                             }
                         ]
                     }, 

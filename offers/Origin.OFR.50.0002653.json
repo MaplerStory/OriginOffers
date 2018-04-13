@@ -74,9 +74,9 @@
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio \\VICTORIA I COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio \\VICTORIA I COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "VICTORIA I COMPLETE"
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio\\VICTORIA I COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio\\VICTORIA I COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Victoria Complete"
                     }, 
                     "softwareId": "Origin.SFT.50.0000841", 
                     "softwarePlatform": "PCWIN"

@@ -74,9 +74,9 @@
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio \\EUROPA UNIVERSALIS III COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio \\EUROPA UNIVERSALIS III COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "EUROPA UNIVERSALIS III COMPLETE"
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio\\EUROPA UNIVERSALIS III COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio\\EUROPA UNIVERSALIS III COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Europa Universalis III"
                     }, 
                     "softwareId": "Origin.SFT.50.0000842", 
                     "softwarePlatform": "PCWIN"
@@ -85,9 +85,6 @@
         }, 
         "softwareLocales": {
             "locale": [
-                {
-                    "value": "de_DE"
-                }, 
                 {
                     "value": "en_US"
                 }
