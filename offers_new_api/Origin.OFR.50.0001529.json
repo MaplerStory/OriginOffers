@@ -104,6 +104,7 @@
             "downloadStartDate": "2010-03-26T00:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 
+            "originSubscriptionUnlockDate": null, 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
             "releaseDate": "2010-03-26T00:00:00Z", 

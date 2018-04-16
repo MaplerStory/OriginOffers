@@ -98,6 +98,7 @@
             "downloadStartDate": "2014-08-25T00:00:00Z", 
             "executePathOverride": null, 
             "multiPlayerId": null, 
+            "originSubscriptionUnlockDate": null, 
             "originSubscriptionUseEndDate": null, 
             "platform": "PCWIN", 
             "releaseDate": "2014-08-25T00:00:00Z", 
