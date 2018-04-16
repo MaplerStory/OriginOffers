@@ -83,7 +83,7 @@
                         ]
                     }, 
                     "fulfillmentAttributes": {
-                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%InstallDir%/scenarios/save games</include> </saveFileCriteria>", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%InstallDir%/scenarios/save games/</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio\\VICTORIA I COMPLETE\\Install Dir]__Installer\\installerdata.xml", 
