@@ -509,7 +509,7 @@
     "publishing": {
         "publishingAttributes": {
             "contentId": "196470", 
-            "gameDistributionSubType": "On the House", 
+            "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
             "isPublished": true, 

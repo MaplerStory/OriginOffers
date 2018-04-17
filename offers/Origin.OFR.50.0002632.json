@@ -6,7 +6,7 @@
         "country": [
             {
                 "attributes": {
-                    "isPurchasable": false
+                    "isPurchasable": true
                 }, 
                 "countryCode": "DEFAULT"
             }
@@ -123,8 +123,15 @@
                     "value": "zh_CN"
                 }
             ]
+        }, 
+        "storeControlDates": {
+            "storeControlDate": [
+                {
+                    "storeAvailableStartDate": "2018-04-17T17:00:00Z"
+                }
+            ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-04-02T20:41:49Z"
+    "updatedDate": "2018-04-17T12:21:54Z"
 }
