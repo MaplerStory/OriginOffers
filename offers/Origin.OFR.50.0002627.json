@@ -442,7 +442,8 @@
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\N-Fusion Interactive\\Ember\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\N-Fusion Interactive\\Ember\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "Ember"
+                        "installationDirectory": "Ember", 
+                        "oigClientBehavior": "Blacklist"
                     }, 
                     "softwareId": "Origin.SFT.50.0000834", 
                     "softwarePlatform": "PCWIN"
