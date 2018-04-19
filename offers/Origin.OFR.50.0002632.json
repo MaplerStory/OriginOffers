@@ -87,7 +87,7 @@
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executeParams": "--gameLaunchPath \".\\BrothersLauncher.exe", 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Starbreeze Studios AB\\Brothers - A Tale of Two Sons\\Install Dir]BrothersLauncher Origin.exe", 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Starbreeze Studios AB\\Brothers - A Tale of Two Sons\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Starbreeze Studios AB\\Brothers - A Tale of Two Sons\\Install Dir]__Installer\\installerdata.xml", 
                         "installationDirectory": "Brothers - A Tale of Two Sons"
                     }, 
