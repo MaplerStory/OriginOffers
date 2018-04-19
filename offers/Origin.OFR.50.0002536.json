@@ -20,6 +20,7 @@
     "ecommerceAttributes": {
         "addonsAvailable": true, 
         "availableExtraContent": [
+            "Origin.OFR.50.0002690", 
             "Origin.OFR.50.0002686", 
             "Origin.OFR.50.0002685"
         ], 
