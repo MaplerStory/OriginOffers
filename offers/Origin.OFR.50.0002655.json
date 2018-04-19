@@ -77,7 +77,7 @@
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio\\HEARTS OF IRON III\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio\\HEARTS OF IRON III\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "HEARTS OF IRON III"
+                        "installationDirectory": "HOI III"
                     }, 
                     "softwareId": "Origin.SFT.50.0000843", 
                     "softwarePlatform": "PCWIN"
