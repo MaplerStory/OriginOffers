@@ -5,17 +5,21 @@
     "contentId": "197711", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
+        "billingDate": "2007-01-23T07:00:00Z", 
+        "catalogPrice": 14.99, 
+        "catalogPriceA": [
+            14.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
         "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Paradox Development Studio", 
     "duration": null, 
@@ -31,13 +35,17 @@
     "gameEditionTypeFacetKey": "Standard Edition", 
     "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "europa-universalis-iii", 
-    "gameRatingDesc": [], 
+    "gameRatingDesc": [
+        "Alcohol and Tobacco Reference", 
+        "Language", 
+        "Mild Violence"
+    ], 
     "gameRatingDescriptionLong": null, 
     "gameRatingPendingMature": null, 
     "gameRatingReason": null, 
-    "gameRatingType": null, 
-    "gameRatingTypeValue": null, 
-    "gameRatingUrl": null, 
+    "gameRatingType": "ESRB", 
+    "gameRatingTypeValue": "Everyone 10+", 
+    "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
     "gdpPath": "/europa-universalis/europa-universalis-iii", 
     "genreFacetKey": "Strategy", 
@@ -64,7 +72,7 @@
         "platformFacetKey": null, 
         "preAnnouncementDisplayDate": null, 
         "publisherFacetKey": null, 
-        "ratingSystemIcon": null, 
+        "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
         "shortDescription": "Build your global empire", 
         "systemRequirements": "<b>OS: </b>Windows\u00ae 2000 (with Service pack 1 or higher) or Windows\u00ae XP (Home/Professional/Media Edition) with Service Pack 2, or later Windows versions. <br>\n<b>Processor:</b> 1.9GHz Intel Pentium 4 or AMD Athlon processor or equivalent <br>\n<b>Memory:</b> 512MB RAM (1.0GB RAM is highly recommended)  <br>\n<b>Graphics:</b> 128MB Video Card with Hardware T&amp;L and support for Pixelshader 2.0 or better  <br>\n<b>DirectX Version: </b>DirectX9.0c  <br>\n<b>Hard Drive: </b>At least 1GB of free hard drive space to accommodate game files and saved games. This does not include any space used by the Windows\u00ae swap file.  <br>\n<b>Sound: </b>DirectX7 compatible sound card <br>"
     }, 
@@ -104,7 +112,7 @@
     ], 
     "projectNumber": "317265", 
     "publisherFacetKey": "Paradox Interactive", 
-    "ratingSystemIcon": null, 
+    "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
     "rbuCode": "4460", 
     "revenueModel": "Digital - Full Game", 
     "softDependency": null, 
@@ -113,7 +121,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2018-04-20T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
