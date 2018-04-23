@@ -71,13 +71,24 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.0\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/paradox_interactive/hearts_of_iron_iii/fg__ww/hearts_of_iron_iiipcfg__wwrun_1__20180423_10003daea5c569b54f669c76a60dbaadbbde.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2017-04-23T21:15:02Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
-                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%InstallDir%/save games/</include> </saveFileCriteria>", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%Documents%/Paradox Interactive/Hearts of Iron III/save games/</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio\\HEARTS OF IRON III\\Install Dir]__Installer\\installerdata.xml", 
                         "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Paradox Development Studio\\HEARTS OF IRON III\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "HOI III"
+                        "installationDirectory": "HEARTS OF IRON III"
                     }, 
                     "softwareId": "Origin.SFT.50.0000843", 
                     "softwarePlatform": "PCWIN"
