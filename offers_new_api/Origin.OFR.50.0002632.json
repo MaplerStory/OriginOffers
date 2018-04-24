@@ -5,7 +5,7 @@
     "contentId": "197619", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": "2013-09-03T07:00:00Z", 
+        "billingDate": null, 
         "catalogPrice": 14.99, 
         "catalogPriceA": [
             14.99
@@ -130,5 +130,10 @@
     "storeStartDate": "2018-04-17T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": null
+    "vault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2018-04-25T17:00:00Z"
+    }
 }

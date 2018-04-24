@@ -70,12 +70,23 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/paradox_interactive/knights_of_pen_and_paper_1_edition/fg__ww_x0/knights_of_pen_and_paper_1_editionpcfg__ww_x0run_1__20180424_100006d68da1ea4f40039f0e0668652599c6.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-04-24T00:00:15Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Behold Studios\\KNIGHTS OF PEN & PAPER +1 EDITION\\Install Dir]__Installer\\installerdata.xml", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Behold Studios\\KNIGHTS OF PEN & PAPER +1 EDITION\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "KNIGHTS OF PEN & PAPER +1 EDITION"
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Behold Studios\\KNIGHTS OF PEN AND PAPER +1 EDITION\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Behold Studios\\KNIGHTS OF PEN AND PAPER +1 EDITION\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "KNIGHTS OF PEN AND PAPER +1 EDITION"
                     }, 
                     "softwareId": "Origin.SFT.50.0000844", 
                     "softwarePlatform": "PCWIN"
