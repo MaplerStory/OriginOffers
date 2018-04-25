@@ -1,0 +1,134 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1068650"
+    }, 
+    "financeId": "1068650", 
+    "itemId": "Origin.ITM.50.0002376", 
+    "itemName": "KINGDOM: NEW LANDS (Origin) - PC - WW", 
+    "localizableAttributes": {
+        "displayName": "Kingdom: New Lands Display", 
+        "longDescription": "Kingdom: New Lands Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/197615/231.0x326.0/1068650_LB_231x326_en_US_^_2018-04-25-13-08-23_f0cc4ec87e198c25fa4b6f068cd516bc7a0babe1.jpg", 
+        "packArtMedium": "/197615/142.0x200.0/1068650_MB_142x200_en_US_^_2018-04-25-13-09-43_fc6c0810f5bd05cb7b2f47a216023a4d6c1b37a4.jpg", 
+        "packArtSmall": "/197615/63.0x89.0/1068650_SB_63x89_en_US_^_2018-04-25-13-10-14_addca20f15e518923544e25ff4c3130786fd0b65.jpg", 
+        "shortDescription": "Kingdom: New Lands Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "KINGDOM: NEW LANDS", 
+                    "masterTitleId": 197615
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002774", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "197615", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2016-08-09T07:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2016-08-09T07:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Noio\\Kingdom New Lands\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Noio\\Kingdom New Lands\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Kingdom New Lands"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000867", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "da_DK"
+                }, 
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fi_FI"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "it_IT"
+                }, 
+                {
+                    "value": "ja_JP"
+                }, 
+                {
+                    "value": "no_NO"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "pt_PT"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "sv_SE"
+                }, 
+                {
+                    "value": "zh_CN"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-04-25T18:55:40Z"
+}

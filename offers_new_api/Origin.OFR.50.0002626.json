@@ -138,8 +138,8 @@
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
-        "isUpgradeable": null, 
-        "path": null, 
+        "isUpgradeable": "N", 
+        "path": "/virginia/virginia/standard-edition", 
         "vaultEndDate": null, 
         "vaultStartDate": "2018-04-25T17:00:00Z"
     }

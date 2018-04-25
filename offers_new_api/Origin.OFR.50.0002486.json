@@ -136,5 +136,10 @@
     "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": null
+    "vault": {
+        "isUpgradeable": "Y", 
+        "path": "/pillars-of-eternity/pillars-of-eternity/hero-edition", 
+        "vaultEndDate": null, 
+        "vaultStartDate": null
+    }
 }

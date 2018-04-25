@@ -124,8 +124,8 @@
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
-        "isUpgradeable": null, 
-        "path": null, 
+        "isUpgradeable": "N", 
+        "path": "/ember/ember/standard-edition", 
         "vaultEndDate": null, 
         "vaultStartDate": "2018-04-25T17:00:00Z"
     }
