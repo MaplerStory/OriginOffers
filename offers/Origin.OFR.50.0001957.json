@@ -528,6 +528,13 @@
                                 "downloadURL": "/shift/plug_in_digital/dead_in_vinland/fg__ww_x0/dead_in_vinlandpcfg__ww_x0run_3__20180417_1002e33dec408cfa46289a6dcb01ec7d4057.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2018-04-18T14:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.0.5\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.5", 
+                                "downloadURL": "/shift/plug_in_digital/dead_in_vinland/fg__ww_x0/dead_in_vinlandpcfg__ww_x0run_4__20180425_10055224de89fed7452db869b31f5754d93c.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-04-25T13:35:58Z"
                             }
                         ]
                     }, 

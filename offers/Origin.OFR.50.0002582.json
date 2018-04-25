@@ -79,6 +79,13 @@
                                 "downloadURL": "/shift/out_of_the_park_developments/out_of_the_park_baseball_19/fg__ww_x0/out_of_the_park_baseball_19pcfg__ww_x0run_5__20180412_119445eded1cbeb0144bc681713d3285b3a371.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2018-04-13T15:35:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.19.5.49\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.19.5.49", 
+                                "downloadURL": "/shift/out_of_the_park_developments/out_of_the_park_baseball_19/fg__ww_x0/out_of_the_park_baseball_19pcfg__ww_x0run_6__20180425_100555099f6987b34d5282ea8d37c4864595.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-04-25T13:31:25Z"
                             }
                         ]
                     }, 
