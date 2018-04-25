@@ -5,7 +5,7 @@
     "contentId": null, 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": "2017-07-13T00:00:00Z", 
+        "billingDate": null, 
         "catalogPrice": null, 
         "catalogPriceA": [], 
         "countryCurrency": null, 
@@ -14,7 +14,7 @@
         "hasSubscriberDiscount": "N", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": true, 
+        "isPublished": false, 
         "isPurchasable": "N"
     }, 
     "developerFacetKey": null, 
@@ -111,7 +111,7 @@
     "softwareLocales": [], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": "2017-07-13T00:00:00Z", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
