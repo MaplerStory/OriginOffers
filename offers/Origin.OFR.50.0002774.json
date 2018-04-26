@@ -26,7 +26,7 @@
     "itemId": "Origin.ITM.50.0002376", 
     "itemName": "KINGDOM: NEW LANDS (Origin) - PC - WW", 
     "localizableAttributes": {
-        "displayName": "Kingdom: New Lands Display", 
+        "displayName": "Kingdom: New Lands", 
         "longDescription": "Kingdom: New Lands Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
         "packArtLarge": "/197615/231.0x326.0/1068650_LB_231x326_en_US_^_2018-04-25-13-08-23_f0cc4ec87e198c25fa4b6f068cd516bc7a0babe1.jpg", 
         "packArtMedium": "/197615/142.0x200.0/1068650_MB_142x200_en_US_^_2018-04-25-13-09-43_fc6c0810f5bd05cb7b2f47a216023a4d6c1b37a4.jpg", 
@@ -71,7 +71,19 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.2.8.2121\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.2.8.2121", 
+                                "downloadURL": "/shift/raw_fury/kingdom_new_lands/fg__ww_x0/kingdom_new_landspcfg__ww_x0run_2__20180426_12821214a4ac5b8e88942e69de51a2d85a519a5.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-04-26T17:55:46Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%LocalLowAppData%/noio/Kingdom/*.dat</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Noio\\Kingdom New Lands\\Install Dir]__Installer\\installerdata.xml", 
