@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -109,13 +110,16 @@
                     "value": "ja_JP"
                 }, 
                 {
+                    "value": "ko_KR"
+                }, 
+                {
                     "value": "no_NO"
                 }, 
                 {
-                    "value": "pt_BR"
+                    "value": "pl_PL"
                 }, 
                 {
-                    "value": "pt_PT"
+                    "value": "pt_BR"
                 }, 
                 {
                     "value": "ru_RU"
