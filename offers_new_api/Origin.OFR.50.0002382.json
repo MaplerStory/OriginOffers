@@ -50,7 +50,7 @@
     "gameRatingUrl": "http://www.esrb.org/", 
     "gameTypeFacetKey": "BASEGAME", 
     "gdpPath": "/distrust/distrust", 
-    "genreFacetKey": "Adventure", 
+    "genreFacetKey": "Action,Adventure", 
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 
