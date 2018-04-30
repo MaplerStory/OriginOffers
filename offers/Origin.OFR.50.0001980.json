@@ -287,18 +287,18 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.51.29326\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.51.29326", 
-                                "downloadURL": "/shift/fifa/fifa_18_g4/patch__ww_x0_ww_patch12/fifa_18_g4pcpatch__ww_x0_ww_patch12concept_38__denuvo__retail__digital__ww_3371611689db3e2eb484804b8acea7daf8cf61b.zip", 
-                                "downloadURLType": "staged", 
-                                "effectiveDate": "2037-03-02T16:36:31Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.51.48166\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.51.48166", 
                                 "downloadURL": "/shift/fifa/fifa_18_g4/patch__ww_x0_ww_patch13/fifa_18_g4pcpatch__ww_x0_ww_patch13concept_31__denuvo__retail__digital__ww_3390451f142de60707f4506bfd2a18a7b02ad57.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2018-03-26T13:00:00Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"1\" enableDifferentialUpdate=\"1\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"1\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.56.32594\"/>\n    <requirements osMinVersion=\"6.1\" osReqs64Bit=\"True\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.56.32594", 
+                                "downloadURL": "/shift/fifa/fifa_world_cup_18/patch__ww_x0_patch/fifa_world_cup_18pcpatch__ww_x0_patchconcept_425__denuvo__retail__digital__ww_370255407dd355fa79c414cb9062fe8e9a0feeb.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2018-05-29T11:00:00Z"
                             }
                         ]
                     }, 
