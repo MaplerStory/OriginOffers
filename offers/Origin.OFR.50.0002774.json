@@ -76,9 +76,9 @@
                             {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.2.8.2121\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
                                 "buildReleaseVersion": "1.2.8.2121", 
-                                "downloadURL": "/shift/raw_fury/kingdom_new_lands/fg__ww_x0/kingdom_new_landspcfg__ww_x0run_2__20180426_12821214a4ac5b8e88942e69de51a2d85a519a5.zip", 
+                                "downloadURL": "/shift/raw_fury/kingdom_new_lands/fg__ww_x0/kingdom_new_landspcfg__ww_x0run_3__12821213843a259fe654f039e344334fac17a4b.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2018-04-26T17:55:46Z"
+                                "effectiveDate": "2018-04-30T18:10:28Z"
                             }
                         ]
                     }, 
