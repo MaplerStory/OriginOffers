@@ -2,13 +2,12 @@
     "alternateMasterTitleIds": [], 
     "brand": null, 
     "bundleOffers": [
-        "Origin.OFR.50.0002561", 
-        "Origin.OFR.50.0002563"
+        "Origin.OFR.50.0002561"
     ], 
     "contentId": "196983", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": "2018-03-01T17:00:00Z", 
+        "billingDate": null, 
         "catalogPrice": 49.99, 
         "catalogPriceA": [
             49.99
@@ -21,8 +20,8 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": true, 
-        "isPurchasable": "Y"
+        "isPublished": false, 
+        "isPurchasable": "N"
     }, 
     "developerFacetKey": "Square Enix", 
     "duration": null, 
@@ -44,11 +43,10 @@
     "gameRatingDesc": [
         "Language", 
         "Mild Blood", 
-        "Partial Nudity", 
-        "Violence"
+        "Partial Nudity"
     ], 
     "gameRatingDescriptionLong": "Online Interactions Not Rated by the ESRB", 
-    "gameRatingPendingMature": "false", 
+    "gameRatingPendingMature": null, 
     "gameRatingReason": null, 
     "gameRatingType": "ESRB", 
     "gameRatingTypeValue": "Teen", 
@@ -89,14 +87,14 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
-    "itemId": "Origin.ITM.50.0002049", 
-    "itemName": "FINAL FANTASY XV WINDOWS EDITION - PC - ROW - (Origin)", 
+    "itemId": "Origin.ITM.50.0002188", 
+    "itemName": "FINAL FANTASY XV WINDOWS EDITION - PC - RU - (Origin)", 
     "itemType": "Base Game", 
     "masterTitle": "FINAL FANTASY XV", 
     "masterTitleId": "196983", 
     "mdmItemType": "Full Game", 
     "numberOfPlayersFacetKey": "SinglePlayer", 
-    "offerId": "Origin.OFR.50.0002557", 
+    "offerId": "Origin.OFR.50.0002749", 
     "offerPath": "/final-fantasy/final-fantasy-xv/standard-edition", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
@@ -124,22 +122,11 @@
     "revenueModel": "Digital - Full Game", 
     "softDependency": null, 
     "softwareLocales": [
-        "de_DE", 
-        "en_US", 
-        "es_ES", 
-        "es_MX", 
-        "fr_FR", 
-        "it_IT", 
-        "ja_JP", 
-        "ko_KR", 
-        "pt_BR", 
-        "ru_RU", 
-        "zh_CN", 
-        "zh_TW"
+        "ru_RU"
     ], 
-    "storeEndDate": "2018-05-01T17:00:00Z", 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": "2018-03-06T17:00:01Z", 
+    "storeStartDate": null, 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null

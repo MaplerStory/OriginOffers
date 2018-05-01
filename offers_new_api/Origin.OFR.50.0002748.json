@@ -2,8 +2,7 @@
     "alternateMasterTitleIds": [], 
     "brand": null, 
     "bundleOffers": [
-        "Origin.OFR.50.0002561", 
-        "Origin.OFR.50.0002563"
+        "Origin.OFR.50.0002561"
     ], 
     "contentId": "196983", 
     "countries": {
@@ -21,7 +20,7 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": true, 
+        "isPublished": false, 
         "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Square Enix", 
@@ -96,7 +95,7 @@
     "masterTitleId": "196983", 
     "mdmItemType": "Full Game", 
     "numberOfPlayersFacetKey": "SinglePlayer", 
-    "offerId": "Origin.OFR.50.0002557", 
+    "offerId": "Origin.OFR.50.0002748", 
     "offerPath": "/final-fantasy/final-fantasy-xv/standard-edition", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
@@ -137,9 +136,9 @@
         "zh_CN", 
         "zh_TW"
     ], 
-    "storeEndDate": "2018-05-01T17:00:00Z", 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": "2018-03-06T17:00:01Z", 
+    "storeStartDate": "2018-05-01T17:00:05Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
