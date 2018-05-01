@@ -30,13 +30,13 @@
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
-        "Origin.OFR.50.0002706", 
-        "Origin.OFR.50.0002707", 
-        "Origin.OFR.50.0002701", 
-        "Origin.OFR.50.0002703", 
         "Origin.OFR.50.0002705", 
-        "Origin.OFR.50.0002708", 
+        "Origin.OFR.50.0002706", 
+        "Origin.OFR.50.0002703", 
         "Origin.OFR.50.0002709", 
+        "Origin.OFR.50.0002707", 
+        "Origin.OFR.50.0002708", 
+        "Origin.OFR.50.0002701", 
         "Origin.OFR.50.0002702"
     ], 
     "extraContentDisplayGroup": null, 
