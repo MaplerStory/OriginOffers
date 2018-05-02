@@ -1,0 +1,109 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1070452"
+    }, 
+    "financeId": "1070452", 
+    "itemId": "Origin.ITM.50.0002388", 
+    "itemName": "THE SEXY BRUTALE (ORIGIN) - PC - WW", 
+    "localizableAttributes": {
+        "displayName": "THE SEXY BRUTALE", 
+        "longDescription": "THE SEXY BRUTALE Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/16055014/231.0x326.0/1070452_LB_231x326_en_US_^_2018-05-01-17-04-43_8a110c5c35298a571b2bc4b04a1a09b7399283ce.jpg", 
+        "packArtMedium": "/16055014/142.0x200.0/1070452_MB_142x200_en_US_^_2018-05-01-17-05-01_6fdd6683288206f781a9a7c20039198b81ef8929.jpg", 
+        "packArtSmall": "/16055014/63.0x89.0/1070452_SB_63x89_en_US_^_2018-05-01-17-05-14_dd6a28c55006bff99ddd7619385fc2633237e6e5.jpg", 
+        "shortDescription": "THE SEXY BRUTALE Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "THE SEXY BRUTALE", 
+                    "masterTitleId": 16055014
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002786", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "16055014", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2017-04-11T07:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-04-11T07:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_16055014_50844", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Cavalier Game Studios\\The Sexy Brutale\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Cavalier Game Studios\\The Sexy Brutale\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "The Sexy Brutale", 
+                        "processorArchitecture": "64-bit"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000869", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "ja_JP"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-05-01T22:26:40Z"
+}
