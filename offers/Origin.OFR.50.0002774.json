@@ -24,14 +24,14 @@
     }, 
     "financeId": "1068650", 
     "itemId": "Origin.ITM.50.0002376", 
-    "itemName": "KINGDOM: NEW LANDS (Origin) - PC - WW", 
+    "itemName": "Kingdom: New Lands - PC - WW", 
     "localizableAttributes": {
         "displayName": "Kingdom: New Lands", 
-        "longDescription": "Kingdom: New Lands Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "longDescription": "Tales spread of far off isles with mysteries waiting to be discovered. Rulers will need all the strength of their subjects to sail away and find new kingdoms in these New Lands.<br><br>\n\nKingdom: New Lands builds upon the award-winning gameplay and mystery of Kingdom by introducing an abundance of new content to the IGF-nominated title while maintaining the simplicity and depth that legions of monarchs have come to experience and enjoy. Travel to the New Lands and welcome the deluge of new mounts, merchants and vagrants that call these isles home, but be wary of the new obstacles that threaten your arrival \u2013 for not just the greedy creatures block your way but even the environment itself can defeat you.<br><br>\n\nKingdom: New Lands asks you to puzzle things out on your own. You'll come across items, NPCs and mysterious statues to help you, but you'll have to figure out exactly how they'll aide you in building and defending your Kingdom.<br><br>\n\n<b>Key Features:</b>\n\n<ul>\n<li>One ruler, their horse and a bag of coins</li>\n<li>Greedy creatures trying to take your coins and crown every night (stop them!)</li>\n<li>Loyal subjects who will help build, attack and defend your Kingdom</li>\n<li>Multiple upgrades for your homestead, different unit types to attack and defend, and secrets littered throughout the land</li>\n<li>Beautiful soundtrack that has received two honorable mentions from the Independent Games Festival</li>\n</ul>\n\nBe brave, ruler, and fight to the bitter end, lest these New Lands conquer you instead.", 
         "packArtLarge": "/197615/231.0x326.0/1068650_LB_231x326_en_US_^_2018-04-25-13-08-23_f0cc4ec87e198c25fa4b6f068cd516bc7a0babe1.jpg", 
         "packArtMedium": "/197615/142.0x200.0/1068650_MB_142x200_en_US_^_2018-04-25-13-09-43_fc6c0810f5bd05cb7b2f47a216023a4d6c1b37a4.jpg", 
         "packArtSmall": "/197615/63.0x89.0/1068650_SB_63x89_en_US_^_2018-04-25-13-10-14_addca20f15e518923544e25ff4c3130786fd0b65.jpg", 
-        "shortDescription": "Kingdom: New Lands Short Description Placeholder Text."
+        "shortDescription": "Explore, expand and defend your new kingdom"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
