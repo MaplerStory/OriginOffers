@@ -555,6 +555,17 @@
                     "softwarePlatform": "MAC"
                 }, 
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.1.64\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.1.64", 
+                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfirepcfg__ww_x0run_2__20180505_10164376746913ca843bab9bb45ffa560f71a.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-05-05T00:00:09Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
