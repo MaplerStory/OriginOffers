@@ -535,11 +535,11 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.1133\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.6\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.0.1133", 
-                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfiremacfg__ww_x0run_1__20180504_100113325017da356c748de87fe4ad3182c1392.zip", 
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.1.64\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.6\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.1.64", 
+                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfiremacfg__ww_x0run_3__20180505_101646ecef0dd6eca4e129b8857b843f2246d.zip", 
                                 "downloadURLType": "live", 
-                                "effectiveDate": "2018-05-04T00:00:35Z"
+                                "effectiveDate": "2018-05-05T22:52:35Z"
                             }
                         ]
                     }, 
