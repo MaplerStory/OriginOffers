@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -23,7 +24,7 @@
     }, 
     "financeId": "1069635", 
     "itemId": "Origin.ITM.50.0002394", 
-    "itemName": "THIS IS THE POLICE (Origin) - PC - WW", 
+    "itemName": "This Is the Police - PC - WW", 
     "localizableAttributes": {
         "displayName": "THIS IS THE POLICE Display Name Placeholder Text.", 
         "longDescription": "THIS IS THE POLICE Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
