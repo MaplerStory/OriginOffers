@@ -456,38 +456,20 @@
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
-        "addonsAvailable": true, 
-        "availableExtraContent": [
-            "Origin.OFR.50.0002792", 
-            "Origin.OFR.50.0002790", 
-            "Origin.OFR.50.0002791", 
-            "Origin.OFR.50.0002794", 
-            "Origin.OFR.50.0002795", 
-            "Origin.OFR.50.0002701", 
-            "Origin.OFR.50.0002789", 
-            "Origin.OFR.50.0002702", 
-            "Origin.OFR.50.0002710", 
-            "Origin.OFR.50.0002788", 
-            "Origin.OFR.50.0002705", 
-            "Origin.OFR.50.0002706", 
-            "Origin.OFR.50.0002703", 
-            "Origin.OFR.50.0002704", 
-            "Origin.OFR.50.0002709", 
-            "Origin.OFR.50.0002707", 
-            "Origin.OFR.50.0002708"
-        ], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1070011"
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1070023"
     }, 
-    "financeId": "1070011", 
-    "itemId": "Origin.ITM.50.0002312", 
-    "itemName": "Pillars of Eternity II: Deadfire Standard Edition - PC/MAC - WW (Origin)", 
+    "financeId": "1070023", 
+    "itemId": "Origin.ITM.50.0002324", 
+    "itemName": "Pillars of Eternity II: Deadfire Season Pass - PC/MAC - WW (Origin)", 
     "localizableAttributes": {
-        "displayName": "Pillars of Eternity II: Deadfire Standard Edition", 
-        "longDescription": "Pursue a rogue god over land and sea in the sequel to the multi-award-winning RPG Pillars of Eternity. Captain your ship on a dangerous voyage of discovery across the vast unexplored archipelago region of the Deadfire. Bend the world to your will, as you explore the depths of infinite possibilities, including detailed character customization, total freedom of exploration and more meaningful choices at every turn. <br><br>\n\n<b>Key Features:</b><br><br>\n\n\u2022 <b>Immerse yourself in a deeper single player RPG game experience.</b> Enriched with cutting edge technology and features, Deadfire builds on the foundation of classic D&amp;D gameplay with vastly improved graphics, deeper game mechanics and a whole new hand-crafted adventure where choices truly matter.<br><br>\n\n\u2022 <b>Discover the new region of the Deadfire.</b> Plot your own course by ship and explore the rich and exotic islands of the archipelago region, discovering new places interacting with their inhabitants and engaging in a variety of quests at every port.<br><br>\n\n\u2022 <b>Build your party and customize your companions.</b> Choose from 7 different companions to join you on your quest and assign multiple classes and deeper abilities for each. Witness their personal relationships and interactions unfold with the addition of the new companion system.<br><br>\n\n\u2022 <b>Captain your ship across the seas.</b> As your stronghold on the seas, your ship is much more than simply a vessel for exploring. Upgrade your ship and crew and choose what skills you improve in order to survive dangerous encounters along the way.<br><br>", 
+        "displayName": "Pillars of Eternity II: Deadfire Season Pass", 
+        "longDescription": "<b>The Season Pass includes:<br><br>\n\nDLC 1<br><br>\n\nBEAST OF WINTER</b> (July 2018)* <br><br>\n\nAn ancient feud between eldritch powers goes unresolved in the southern seas, and only you can halt the mounting destruction. Beast of Winter takes your party into the Beyond, a realm of the bizarre, with unique challenges and rewards unseen in the outside world.Plumb its depths to uncover the mystery of a doomsday cult, battle a host of ancient terrors, and use your wits to overcome intriguing puzzles. (post-launch content, a $10 value)<br><br>\n\n<b>DLC 2<br><br>SEEKER, SLAYER, SURVIVOR</b>  (September 2018)* <br><br>\n\nFar from the bustling trade lanes of the Deadfire Archipelego, the most ambitious warriors of Eora gather to compete for divine favor. Seeker, Slayer, Survivor is a combat-focused expansion that unlocks a new island full of challenges to overcome and quests to seek lost artifacts across the Deadfire. Your party must explore an untamed landscape, rediscover ancient relics, and relive historical battles of Eora in your quest to out-live and out-kill all who stand against you. (post-launch content, a $10 value)<br><br>\n\n<b>DLC 3<br><br>\n\nTHE FORGOTTEN SANCTUM</b>  (November 2018)* <br><br>\n\nThe great wizards of Eora have gathered together for a common cause and reach out to you, the Watcher, for assistance. Whether you choose to give that assistance or subvert their plans will have vast consequences for the future of the Deadfire Archipelago as a whole. This endgame opportunity puts you in a position to befriend, betray, or befuddle the greatest magical minds of Eora as you uncover secrets lost for generations. (post-launch content, a $10 value)<br><br>\n\n*Expansion pack launch dates are estimates and are subject to change.", 
         "packArtLarge": "/197772/231.0x326.0/1070011_LB_231x326_en_US_^_2018-04-17-08-36-05_fa79d4f4abacb467809ca085374f9a227174d813.jpg", 
         "packArtMedium": "/197772/142.0x200.0/1070011_MB_142x200_en_US_^_2018-04-17-08-36-26_88bf8da5e975bb03217f571067fec816762d0c2a.jpg", 
         "packArtSmall": "/197772/63.0x89.0/1070011_SB_63x89_en_US_^_2018-04-17-08-36-44_dadfee94e26514f1a12a89abf3058eb0c24099bb.jpg", 
-        "shortDescription": "Hunt a god. Save your soul."
+        "shortDescription": "Robust content expansions to the base game that will add new areas, new experiences, new items and expand the world of Pillars of Eternity II: Deadfire. (post-launch content, a $30 value)"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
@@ -504,16 +486,15 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002696", 
-    "offerType": "Base Game", 
+    "offerId": "Origin.OFR.50.0002710", 
+    "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
-            "contentId": "197772", 
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
-            "isDownloadable": true, 
-            "isPublished": false, 
-            "originDisplayType": "Full Game"
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Addon"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -526,55 +507,6 @@
                     "downloadStartDate": "2018-05-08T17:00:00Z", 
                     "platform": "PCWIN", 
                     "releaseDate": "2018-05-08T17:00:00Z"
-                }
-            ]
-        }, 
-        "softwareList": {
-            "software": [
-                {
-                    "downloadURLs": {
-                        "downloadURL": [
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.1.64\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.6\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.1.64", 
-                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfiremacfg__ww_x0run_3__20180505_101646ecef0dd6eca4e129b8857b843f2246d.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2018-05-05T22:52:35Z"
-                            }
-                        ]
-                    }, 
-                    "fulfillmentAttributes": {
-                        "downloadPackageType": "DownloadInPlace", 
-                        "enableDLCuninstall": false, 
-                        "executePathOverride": "[unity.Obsidian Entertainment.Pillars Of Eternity II]/Contents/MacOS/PillarsOfEternityII", 
-                        "installCheckOverride": "[unity.Obsidian Entertainment.Pillars Of Eternity II]/__Installer/installerdata.xml", 
-                        "installationDirectory": "Pillars of Eternity II Deadfire", 
-                        "macBundleID": "unity.Obsidian Entertainment.Pillars Of Eternity II"
-                    }, 
-                    "softwareId": "Origin.SFT.50.0000850", 
-                    "softwarePlatform": "MAC"
-                }, 
-                {
-                    "downloadURLs": {
-                        "downloadURL": [
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.1.64\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.1.64", 
-                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfirepcfg__ww_x0run_2__20180505_10164376746913ca843bab9bb45ffa560f71a.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2018-05-05T00:00:09Z"
-                            }
-                        ]
-                    }, 
-                    "fulfillmentAttributes": {
-                        "downloadPackageType": "DownloadInPlace", 
-                        "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Obsidian Entertainment\\Pillars of Eternity II Deadfire\\Install Dir]__Installer\\installerdata.xml", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Obsidian Entertainment\\Pillars of Eternity II Deadfire\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "Pillars of Eternity II Deadfire"
-                    }, 
-                    "softwareId": "Origin.SFT.50.0000849", 
-                    "softwarePlatform": "PCWIN"
                 }
             ]
         }, 
@@ -612,12 +544,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableEndDate": "2018-05-08T17:00:00Z", 
-                    "storeAvailableStartDate": "2018-04-30T17:00:00Z"
+                    "storeAvailableStartDate": "2018-05-08T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-05-01T19:50:28Z"
+    "updatedDate": "2018-05-07T21:22:43Z"
 }

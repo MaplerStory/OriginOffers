@@ -2,18 +2,16 @@
     "alternateMasterTitleIds": [], 
     "brand": null, 
     "bundleOffers": [
-        "Origin.OFR.50.0002701", 
-        "Origin.OFR.50.0002702", 
-        "Origin.OFR.50.0002703", 
-        "Origin.OFR.50.0002704"
+        "Origin.OFR.50.0002704", 
+        "Origin.OFR.50.0002710"
     ], 
     "contentId": "197772", 
     "countries": {
         "bannedCountries": [], 
         "billingDate": "2018-05-04T17:00:00Z", 
-        "catalogPrice": 59.99, 
+        "catalogPrice": 74.99, 
         "catalogPriceA": [
-            59.99
+            74.99
         ], 
         "countryCurrency": "USD", 
         "countryCurrencyA": [
@@ -23,7 +21,7 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Obsidian Entertainment", 
@@ -54,8 +52,8 @@
     "forcePartnerEntitlementPending": null, 
     "franchiseFacetKey": "pillars-of-eternity", 
     "gameDistributionSubType": "Normal Game", 
-    "gameEditionTypeFacetKey": "Deluxe Edition", 
-    "gameEditionTypeFacetKeyRankDesc": "7000", 
+    "gameEditionTypeFacetKey": "Obsidian Edition", 
+    "gameEditionTypeFacetKeyRankDesc": "7500", 
     "gameNameFacetKey": "pillars-of-eternity-ii-deadfire", 
     "gameRatingDesc": [
         "Blood and Gore", 
@@ -76,7 +74,7 @@
     "i18n": {
         "brand": null, 
         "developerFacetKey": null, 
-        "displayName": "Pillars of Eternity II: Deadfire Deluxe Edition", 
+        "displayName": "Pillars of Eternity II: Deadfire Obsidian Edition", 
         "eulaURL": null, 
         "extraContentDisplayGroupDisplayName": null, 
         "franchiseFacetKey": null, 
@@ -85,7 +83,7 @@
         "gameManualURL": null, 
         "gameTypeFacetKey": null, 
         "genreFacetKey": null, 
-        "longDescription": "Pursue a rogue god over land and sea in the sequel to the multi-award-winning RPG Pillars of Eternity. Captain your ship on a dangerous voyage of discovery across the vast unexplored archipelago region of the Deadfire. Bend the world to your will, as you explore the depths of infinite possibilities, including detailed character customization, total freedom of exploration and more meaningful choices at every turn. <br><br>\n\n<b>Key Features:</b><br><br>\n\n\u2022 <b>Immerse yourself in a deeper single player RPG game experience.</b> Enriched with cutting edge technology and features, Deadfire builds on the foundation of classic D&amp;D gameplay with vastly improved graphics, deeper game mechanics and a whole new hand-crafted adventure where choices truly matter.<br><br>\n\n\u2022 <b>Discover the new region of the Deadfire.</b> Plot your own course by ship and explore the rich and exotic islands of the archipelago region, discovering new places interacting with their inhabitants and engaging in a variety of quests at every port.<br><br>\n\n\u2022 <b>Build your party and customize your companions.</b> Choose from 7 different companions to join you on your quest and assign multiple classes and deeper abilities for each. Witness their personal relationships and interactions unfold with the addition of the new companion system.<br><br>\n\n\u2022 <b>Captain your ship across the seas.</b> As your stronghold on the seas, your ship is much more than simply a vessel for exploring. Upgrade your ship and crew and choose what skills you improve in order to survive dangerous encounters along the way.<br><br>\n\n\n\n<b>The Deluxe Edition Includes:</b><br><br>\n\n\u2022 <b>Game Download</b><br><br>\n\n\u2022 <b>Original Soundtrack:</b> The soundtrack to Pillars of Eternity II: Deadfire by Justin Bell, featuring all-new tracks inspired by the peoples and factions of the Deadfire Archipelago.<br><br>\n\n\u2022 <b>Defiant Apparel:</b> This stylish tricorn hat comes with a built-in eyepatch that protects the wearer from a variety of ocular incursions, as well as looking extremely piratical.<br><br>\n\n\u2022 <b>Cosmo, the Space Pig:</b> It wouldn't be Pillars of Eternity without Cosmo! Cosmo accompanies your party, floating on cyan gossamer, inspiring you through a combination of unflappable courage and incredible cuteness.<br><br>\n\n\u2022 <b>Digital P&amp;P Guide:</b> Pillars of Eternity has a strong tradition of adapting and adopting pen-and-paper techniques in our systems and adventure designs. Our designers decided to take that knowledge and give something back to the tabletop community! This pen-and-paper adventuring system has been developed from the ground up by Pillars of Eternity II: Deadfire lead designer Josh Sawyer and other members of the Deadfire design team. Connect with other Deadfire fans and create your own adventures!<br><br>\n\n\u2022 <b>Hi-Res Digital Map:</b> This handsome sea chart is suitable for use as a desktop wallpaper or can be printed to assist you with navigating the treacherous waters of the Deadfire Archipelago.<br><br>\n\n\u2022 <b>Digital Guidebook, Vol. II:</b> Created by our friends at Dark Horse Comics, this is the next volume in the comprehensive guide to the world of Pillars of Eternity, filled with the legends, lore and lost locations of the Deadfire Archipelago. Useful as an adventuring companion, or just to browse and learn more about the intricacies of this deep and enigmatic corner of Eora, the digital guidebook features beautiful illustrations and plenty of fascinating background.<br><br>", 
+        "longDescription": "Pursue a rogue god over land and sea in the sequel to the multi-award-winning RPG Pillars of Eternity. Captain your ship on a dangerous voyage of discovery across the vast unexplored archipelago region of the Deadfire. Bend the world to your will, as you explore the depths of infinite possibilities, including detailed character customization, total freedom of exploration and more meaningful choices at every turn. <br><br>\n\n<b>Key Features:</b><br><br>\n\n\u2022 <b>Immerse yourself in a deeper single player RPG game experience.</b> Enriched with cutting edge technology and features, Deadfire builds on the foundation of classic D&amp;D gameplay with vastly improved graphics, deeper game mechanics and a whole new hand-crafted adventure where choices truly matter.<br><br>\n\n\u2022 <b>Discover the new region of the Deadfire.</b> Plot your own course by ship and explore the rich and exotic islands of the archipelago region, discovering new places interacting with their inhabitants and engaging in a variety of quests at every port.<br><br>\n\n\u2022 <b>Build your party and customize your companions.</b> Choose from 7 different companions to join you on your quest and assign multiple classes and deeper abilities for each. Witness their personal relationships and interactions unfold with the addition of the new companion system.<br><br>\n\n\u2022 <b>Captain your ship across the seas.</b> As your stronghold on the seas, your ship is much more than simply a vessel for exploring. Upgrade your ship and crew and choose what skills you improve in order to survive dangerous encounters along the way.<br><br>\n\n\n\n<b>The Obsidian Edition Includes:</b><br><br>\n\n\u2022 <b>Game Download</b><br><br>\n\n\u2022 <b>DLC Content Packs #1-3:</b> Robust content expansions to the base game that will add new areas, new experiences, new items and expand the world of Pillars of Eternity II: Deadfire. (post-launch content, a $30 value)<br><br>\n\n\u2022 <b>Original Soundtrack:</b> The soundtrack to Pillars of Eternity II: Deadfire by Justin Bell, featuring all-new tracks inspired by the peoples and factions of the Deadfire Archipelago.<br><br>\n\n\u2022 <b>Defiant Apparel:</b> This stylish tricorn hat comes with a built-in eyepatch that protects the wearer from a variety of ocular incursions, as well as looking extremely piratical.<br><br>\n\n\u2022 <b>Cosmo, the Space Pig:</b> It wouldn't be Pillars of Eternity without Cosmo! Cosmo accompanies your party, floating on cyan gossamer, inspiring you through a combination of unflappable courage and incredible cuteness.<br><br>\n\n\u2022 <b>Digital P&amp;P Guide:</b> Pillars of Eternity has a strong tradition of adapting and adopting pen-and-paper techniques in our systems and adventure designs. Our designers decided to take that knowledge and give something back to the tabletop community! This pen-and-paper adventuring system has been developed from the ground up by Pillars of Eternity II: Deadfire lead designer Josh Sawyer and other members of the Deadfire design team. Connect with other Deadfire fans and create your own adventures!<br><br>\n\n\u2022 <b>Hi-Res Digital Map:</b> This handsome sea chart is suitable for use as a desktop wallpaper or can be printed to assist you with navigating the treacherous waters of the Deadfire Archipelago.<br><br>\n\n\u2022 <b>Digital Guidebook, Vol. II:</b> Created by our friends at Dark Horse Comics, this is the next volume in the comprehensive guide to the world of Pillars of Eternity, filled with the legends, lore and lost locations of the Deadfire Archipelago. Useful as an adventuring companion, or just to browse and learn more about the intricacies of this deep and enigmatic corner of Eora, the digital guidebook features beautiful illustrations and plenty of fascinating background.<br><br>", 
         "mediumDescription": null, 
         "numberOfPlayersFacetKey": null, 
         "officialSiteURL": "https://eternity.obsidian.net/", 
@@ -106,15 +104,15 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
-    "itemId": "Origin.ITM.50.0002313", 
-    "itemName": "Pillars of Eternity II: Deadfire Deluxe Edition - PC/MAC - WW (Origin)", 
+    "itemId": "Origin.ITM.50.0002314", 
+    "itemName": "Pillars of Eternity II: Deadfire Obsidian Edition - PC/MAC - WW (Origin)", 
     "itemType": "Base Game", 
     "masterTitle": "PILLARS OF ETERNITY II DEADFIRE", 
     "masterTitleId": "197772", 
     "mdmItemType": "Full Game", 
     "numberOfPlayersFacetKey": "SinglePlayer", 
-    "offerId": "Origin.OFR.50.0002698", 
-    "offerPath": "/pillars-of-eternity/pillars-of-eternity-ii-deadfire/deluxe-edition", 
+    "offerId": "Origin.OFR.50.0002699", 
+    "offerPath": "/pillars-of-eternity/pillars-of-eternity-ii-deadfire/obsidian-edition", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
     "platformFacetKey": "Mac/PC Download", 
@@ -148,7 +146,7 @@
             "useEndDate": null
         }
     ], 
-    "projectNumber": "317310", 
+    "projectNumber": "317311", 
     "publisherFacetKey": "Versus Evil", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
     "rbuCode": "4460", 
@@ -165,9 +163,9 @@
         "ru_RU", 
         "zh_CN"
     ], 
-    "storeEndDate": "2018-05-08T17:00:00Z", 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": "2018-04-30T17:00:00Z", 
+    "storeStartDate": "2018-05-08T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null

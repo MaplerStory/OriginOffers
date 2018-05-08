@@ -456,34 +456,16 @@
     }, 
     "defaultLocale": "DEFAULT", 
     "ecommerceAttributes": {
-        "addonsAvailable": true, 
-        "availableExtraContent": [
-            "Origin.OFR.50.0002792", 
-            "Origin.OFR.50.0002790", 
-            "Origin.OFR.50.0002791", 
-            "Origin.OFR.50.0002794", 
-            "Origin.OFR.50.0002795", 
-            "Origin.OFR.50.0002701", 
-            "Origin.OFR.50.0002789", 
-            "Origin.OFR.50.0002702", 
-            "Origin.OFR.50.0002710", 
-            "Origin.OFR.50.0002788", 
-            "Origin.OFR.50.0002705", 
-            "Origin.OFR.50.0002706", 
-            "Origin.OFR.50.0002703", 
-            "Origin.OFR.50.0002704", 
-            "Origin.OFR.50.0002709", 
-            "Origin.OFR.50.0002707", 
-            "Origin.OFR.50.0002708"
-        ], 
-        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1070011"
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1070017"
     }, 
-    "financeId": "1070011", 
-    "itemId": "Origin.ITM.50.0002312", 
-    "itemName": "Pillars of Eternity II: Deadfire Standard Edition - PC/MAC - WW (Origin)", 
+    "financeId": "1070017", 
+    "itemId": "Origin.ITM.50.0002318", 
+    "itemName": "Pillars of Eternity II: Deadfire Explorers Pack (Origin) - PC/Mac - WW", 
     "localizableAttributes": {
-        "displayName": "Pillars of Eternity II: Deadfire Standard Edition", 
-        "longDescription": "Pursue a rogue god over land and sea in the sequel to the multi-award-winning RPG Pillars of Eternity. Captain your ship on a dangerous voyage of discovery across the vast unexplored archipelago region of the Deadfire. Bend the world to your will, as you explore the depths of infinite possibilities, including detailed character customization, total freedom of exploration and more meaningful choices at every turn. <br><br>\n\n<b>Key Features:</b><br><br>\n\n\u2022 <b>Immerse yourself in a deeper single player RPG game experience.</b> Enriched with cutting edge technology and features, Deadfire builds on the foundation of classic D&amp;D gameplay with vastly improved graphics, deeper game mechanics and a whole new hand-crafted adventure where choices truly matter.<br><br>\n\n\u2022 <b>Discover the new region of the Deadfire.</b> Plot your own course by ship and explore the rich and exotic islands of the archipelago region, discovering new places interacting with their inhabitants and engaging in a variety of quests at every port.<br><br>\n\n\u2022 <b>Build your party and customize your companions.</b> Choose from 7 different companions to join you on your quest and assign multiple classes and deeper abilities for each. Witness their personal relationships and interactions unfold with the addition of the new companion system.<br><br>\n\n\u2022 <b>Captain your ship across the seas.</b> As your stronghold on the seas, your ship is much more than simply a vessel for exploring. Upgrade your ship and crew and choose what skills you improve in order to survive dangerous encounters along the way.<br><br>", 
+        "displayName": "Pillars of Eternity II: Deadfire Explorer's Pack", 
+        "longDescription": "<b>Includes:</b><br><br>\n\n\u2022 <b>Original Soundtrack:</b> The soundtrack to Pillars of Eternity II: Deadfire by Justin Bell, featuring all-new tracks inspired by the peoples and factions of the Deadfire Archipelago.<br><br>\n\n\u2022 <b>Defiant Apparel:</b> This stylish tricorn hat comes with a built-in eyepatch that protects the wearer from a variety of ocular incursions, as well as looking extremely piratical.<br><br>\n\n\u2022 <b>Cosmo, the Space Pig:</b> It wouldn't be Pillars of Eternity without Cosmo! Cosmo accompanies your party, floating on cyan gossamer, inspiring you through a combination of unflappable courage and incredible cuteness.<br><br>\n\n\u2022 <b>Digital P&amp;P Guide:</b> Pillars of Eternity has a strong tradition of adapting and adopting pen-and-paper techniques in our systems and adventure designs. Our designers decided to take that knowledge and give something back to the tabletop community! This pen-and-paper adventuring system has been developed from the ground up by Pillars of Eternity II: Deadfire lead designer Josh Sawyer and other members of the Deadfire design team. Connect with other Deadfire fans and create your own adventures!<br><br>\n\n\u2022 <b>Hi-Res Digital Map:</b> This handsome sea chart is suitable for use as a desktop wallpaper or can be printed to assist you with navigating the treacherous waters of the Deadfire Archipelago.<br><br>\n\n\u2022 <b>Digital Guidebook, Vol. II:</b> Created by our friends at Dark Horse Comics, this is the next volume in the comprehensive guide to the world of Pillars of Eternity, filled with the legends, lore and lost locations of the Deadfire Archipelago. Useful as an adventuring companion, or just to browse and learn more about the intricacies of this deep and enigmatic corner of Eora, the digital guidebook features beautiful illustrations and plenty of fascinating background.<br><br>", 
         "packArtLarge": "/197772/231.0x326.0/1070011_LB_231x326_en_US_^_2018-04-17-08-36-05_fa79d4f4abacb467809ca085374f9a227174d813.jpg", 
         "packArtMedium": "/197772/142.0x200.0/1070011_MB_142x200_en_US_^_2018-04-17-08-36-26_88bf8da5e975bb03217f571067fec816762d0c2a.jpg", 
         "packArtSmall": "/197772/63.0x89.0/1070011_SB_63x89_en_US_^_2018-04-17-08-36-44_dadfee94e26514f1a12a89abf3058eb0c24099bb.jpg", 
@@ -504,16 +486,14 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002696", 
-    "offerType": "Base Game", 
+    "offerId": "Origin.OFR.50.0002704", 
+    "offerType": "Extra Content", 
     "publishing": {
         "publishingAttributes": {
-            "contentId": "197772", 
             "gameDistributionSubType": "Normal Game", 
-            "greyMarketControls": false, 
-            "isDownloadable": true, 
-            "isPublished": false, 
-            "originDisplayType": "Full Game"
+            "isDownloadable": false, 
+            "isPublished": true, 
+            "originDisplayType": "Addon"
         }, 
         "softwareControlDates": {
             "softwareControlDate": [
@@ -529,55 +509,6 @@
                 }
             ]
         }, 
-        "softwareList": {
-            "software": [
-                {
-                    "downloadURLs": {
-                        "downloadURL": [
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.1.64\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.6\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.1.64", 
-                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfiremacfg__ww_x0run_3__20180505_101646ecef0dd6eca4e129b8857b843f2246d.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2018-05-05T22:52:35Z"
-                            }
-                        ]
-                    }, 
-                    "fulfillmentAttributes": {
-                        "downloadPackageType": "DownloadInPlace", 
-                        "enableDLCuninstall": false, 
-                        "executePathOverride": "[unity.Obsidian Entertainment.Pillars Of Eternity II]/Contents/MacOS/PillarsOfEternityII", 
-                        "installCheckOverride": "[unity.Obsidian Entertainment.Pillars Of Eternity II]/__Installer/installerdata.xml", 
-                        "installationDirectory": "Pillars of Eternity II Deadfire", 
-                        "macBundleID": "unity.Obsidian Entertainment.Pillars Of Eternity II"
-                    }, 
-                    "softwareId": "Origin.SFT.50.0000850", 
-                    "softwarePlatform": "MAC"
-                }, 
-                {
-                    "downloadURLs": {
-                        "downloadURL": [
-                            {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.1.64\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.1.64", 
-                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfirepcfg__ww_x0run_2__20180505_10164376746913ca843bab9bb45ffa560f71a.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2018-05-05T00:00:09Z"
-                            }
-                        ]
-                    }, 
-                    "fulfillmentAttributes": {
-                        "downloadPackageType": "DownloadInPlace", 
-                        "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Obsidian Entertainment\\Pillars of Eternity II Deadfire\\Install Dir]__Installer\\installerdata.xml", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Obsidian Entertainment\\Pillars of Eternity II Deadfire\\Install Dir]__Installer\\installerdata.xml", 
-                        "installationDirectory": "Pillars of Eternity II Deadfire"
-                    }, 
-                    "softwareId": "Origin.SFT.50.0000849", 
-                    "softwarePlatform": "PCWIN"
-                }
-            ]
-        }, 
         "softwareLocales": {
             "locale": [
                 {
@@ -585,9 +516,6 @@
                 }, 
                 {
                     "value": "en_US"
-                }, 
-                {
-                    "value": "es_ES"
                 }, 
                 {
                     "value": "fr_FR"
@@ -612,12 +540,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableEndDate": "2018-05-08T17:00:00Z", 
-                    "storeAvailableStartDate": "2018-04-30T17:00:00Z"
+                    "storeAvailableStartDate": "2018-05-08T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-05-01T19:50:28Z"
+    "updatedDate": "2018-05-07T21:26:19Z"
 }

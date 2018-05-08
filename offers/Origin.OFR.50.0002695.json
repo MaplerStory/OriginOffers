@@ -504,7 +504,7 @@
             }
         ]
     }, 
-    "offerId": "Origin.OFR.50.0002696", 
+    "offerId": "Origin.OFR.50.0002695", 
     "offerType": "Base Game", 
     "publishing": {
         "publishingAttributes": {
@@ -512,7 +512,7 @@
             "gameDistributionSubType": "Normal Game", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
@@ -612,12 +612,11 @@
         "storeControlDates": {
             "storeControlDate": [
                 {
-                    "storeAvailableEndDate": "2018-05-08T17:00:00Z", 
-                    "storeAvailableStartDate": "2018-04-30T17:00:00Z"
+                    "storeAvailableStartDate": "2018-05-08T17:00:00Z"
                 }
             ]
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-05-01T19:50:28Z"
+    "updatedDate": "2018-05-01T19:58:18Z"
 }

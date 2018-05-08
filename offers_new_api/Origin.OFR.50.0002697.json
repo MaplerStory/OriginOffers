@@ -2,9 +2,6 @@
     "alternateMasterTitleIds": [], 
     "brand": null, 
     "bundleOffers": [
-        "Origin.OFR.50.0002701", 
-        "Origin.OFR.50.0002702", 
-        "Origin.OFR.50.0002703", 
         "Origin.OFR.50.0002704"
     ], 
     "contentId": "197772", 
@@ -23,7 +20,7 @@
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
-        "isPublished": false, 
+        "isPublished": true, 
         "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Obsidian Entertainment", 
@@ -113,7 +110,7 @@
     "masterTitleId": "197772", 
     "mdmItemType": "Full Game", 
     "numberOfPlayersFacetKey": "SinglePlayer", 
-    "offerId": "Origin.OFR.50.0002698", 
+    "offerId": "Origin.OFR.50.0002697", 
     "offerPath": "/pillars-of-eternity/pillars-of-eternity-ii-deadfire/deluxe-edition", 
     "offerType": "Base Game", 
     "originDisplayType": "Full Game", 
@@ -165,9 +162,9 @@
         "ru_RU", 
         "zh_CN"
     ], 
-    "storeEndDate": "2018-05-08T17:00:00Z", 
+    "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": "2018-04-30T17:00:00Z", 
+    "storeStartDate": "2018-05-08T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null
