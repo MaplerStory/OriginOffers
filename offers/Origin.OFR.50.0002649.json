@@ -71,6 +71,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/elden_pixels/alwas_awakening/fg__ww_x0/alwas_awakeningpcfg__ww_x0run_1__20150504_10007a62d00738d54f27b996bd68e31e3453.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-05-09T20:00:32Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_197743_50844", 
                         "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Profile%/AppData/LocalLow/EldenPixels/Alwa's Awakening/settings.dat</exclude> <include order=\"1\">%Profile%/AppData/LocalLow/EldenPixels/Alwa's Awakening/</include> </saveFileCriteria>", 
