@@ -111,6 +111,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2018-03-22T00:00:00Z"
+    }, 
     "projectNumber": "314800", 
     "publisherFacetKey": "Warner Bros. Interactive Entertainment", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 

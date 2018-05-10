@@ -14,7 +14,7 @@
         "countryCurrencyA": [
             "USD"
         ], 
-        "giftable": "Y", 
+        "giftable": "N", 
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
@@ -113,6 +113,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2018-01-15T18:00:00Z"
+    }, 
     "projectNumber": "315882", 
     "publisherFacetKey": "Gearbox Publishing", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 

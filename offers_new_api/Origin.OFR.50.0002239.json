@@ -28,16 +28,16 @@
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
-        "Origin.OFR.50.0002248", 
-        "Origin.OFR.50.0002249", 
         "Origin.OFR.50.0002250", 
-        "Origin.OFR.50.0002251", 
         "Origin.OFR.50.0002242", 
-        "Origin.OFR.50.0002247", 
         "Origin.OFR.50.0002243", 
+        "Origin.OFR.50.0002251", 
+        "Origin.OFR.50.0002246", 
+        "Origin.OFR.50.0002247", 
         "Origin.OFR.50.0002244", 
         "Origin.OFR.50.0002245", 
-        "Origin.OFR.50.0002246"
+        "Origin.OFR.50.0002248", 
+        "Origin.OFR.50.0002249"
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 
@@ -123,6 +123,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2018-04-25T17:00:00Z"
+    }, 
     "projectNumber": "315651", 
     "publisherFacetKey": "inXile Entertainment", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 

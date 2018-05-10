@@ -111,6 +111,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2017-03-01T18:00:00Z"
+    }, 
     "projectNumber": "315627", 
     "publisherFacetKey": "Alawar Entertainment", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
