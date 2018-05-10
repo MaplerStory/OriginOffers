@@ -73,8 +73,8 @@
                     "fulfillmentAttributes": {
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
-                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Weappy Studio \\This Is the Police\\Install Dir]__Installer\\installerdata.xml", 
-                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Weappy Studio \\This Is the Police\\Install Dir]__Installer\\installerdata.xml", 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Weappy Studio\\This Is the Police\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Weappy Studio\\This Is the Police\\Install Dir]__Installer\\installerdata.xml", 
                         "installationDirectory": "This Is the Police"
                     }, 
                     "softwareId": "Origin.SFT.50.0000882", 

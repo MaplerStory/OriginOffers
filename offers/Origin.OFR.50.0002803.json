@@ -64,6 +64,21 @@
                 }
             ]
         }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Misfits Attic\\Duskers\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Misfits Attic\\Duskers\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Duskers"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000891", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
         "softwareLocales": {
             "locale": [
                 {
