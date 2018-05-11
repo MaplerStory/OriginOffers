@@ -109,6 +109,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2018-02-05T18:00:00Z"
+    }, 
     "projectNumber": "315880", 
     "publisherFacetKey": "Another Indie, X.D. Network Inc.", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 

@@ -105,6 +105,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2017-03-28T17:00:00Z"
+    }, 
     "projectNumber": "315661", 
     "publisherFacetKey": "Daniel Mullins Games", 
     "ratingSystemIcon": null, 

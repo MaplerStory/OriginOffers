@@ -107,6 +107,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2017-02-23T18:00:00Z"
+    }, 
     "projectNumber": "315554", 
     "publisherFacetKey": "Plug In Digital", 
     "ratingSystemIcon": null, 

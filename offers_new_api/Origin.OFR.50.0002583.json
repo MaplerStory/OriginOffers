@@ -105,6 +105,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2018-02-27T18:00:00Z"
+    }, 
     "projectNumber": "317076", 
     "publisherFacetKey": "Out of the Park Developments GmbH", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E.png", 

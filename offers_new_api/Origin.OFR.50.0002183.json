@@ -111,6 +111,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2017-05-10T17:00:00Z"
+    }, 
     "projectNumber": "315762", 
     "publisherFacetKey": "Night School Studio", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 

@@ -112,6 +112,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2017-04-13T17:00:00Z"
+    }, 
     "projectNumber": "315722", 
     "publisherFacetKey": "Surprise Attack Games", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_T.png", 
