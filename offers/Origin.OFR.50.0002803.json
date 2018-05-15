@@ -13,6 +13,7 @@
         ]
     }, 
     "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
         "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
     }, 
     "defaultLocale": "DEFAULT", 
@@ -23,7 +24,7 @@
     }, 
     "financeId": "1057126", 
     "itemId": "Origin.ITM.50.0002403", 
-    "itemName": "DUSKERS - PC - WW (Origin) - PC - WW", 
+    "itemName": "Duskers - PC - WW (Origin)", 
     "localizableAttributes": {
         "displayName": "Duskers", 
         "longDescription": "Duskers Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
