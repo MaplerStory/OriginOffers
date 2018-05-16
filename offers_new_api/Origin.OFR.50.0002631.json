@@ -5,7 +5,7 @@
     "contentId": "197611", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": "2018-03-29T17:00:17Z", 
+        "billingDate": null, 
         "catalogPrice": 9.99, 
         "catalogPriceA": [
             9.99
@@ -107,6 +107,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2018-05-16T17:00:00Z"
+    }, 
     "projectNumber": "317152", 
     "publisherFacetKey": "505 Games", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_M.png", 
@@ -129,5 +135,10 @@
     "storeStartDate": "2018-04-13T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": null
+    "vault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2018-05-16T17:00:00Z"
+    }
 }

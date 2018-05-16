@@ -5,7 +5,7 @@
     "contentId": "197711", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": "2007-01-23T07:00:00Z", 
+        "billingDate": null, 
         "catalogPrice": 14.99, 
         "catalogPriceA": [
             14.99
@@ -109,6 +109,12 @@
             "useEndDate": null
         }
     ], 
+    "premiumVault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2018-05-16T17:00:00Z"
+    }, 
     "projectNumber": "317265", 
     "publisherFacetKey": "Paradox Interactive", 
     "ratingSystemIcon": "https://originassets.akamaized.net/origin-com-store-final-assets-prod/ratings-icon/esrb/ESRB_E10plus.png", 
@@ -123,5 +129,10 @@
     "storeStartDate": "2018-04-20T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
-    "vault": null
+    "vault": {
+        "isUpgradeable": null, 
+        "path": null, 
+        "vaultEndDate": null, 
+        "vaultStartDate": "2018-05-16T17:00:00Z"
+    }
 }
