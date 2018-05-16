@@ -367,7 +367,7 @@
             "contentId": "197715", 
             "greyMarketControls": false, 
             "isDownloadable": true, 
-            "isPublished": false, 
+            "isPublished": true, 
             "originDisplayType": "Full Game"
         }, 
         "softwareControlDates": {
@@ -394,6 +394,7 @@
                         ]
                     }, 
                     "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%LocalLowAppData%/Weappy/This Is The Police/Settings.xml</exclude> <include order=\"1\">*.xml</include> <include order=\"2\">%LocalLowAppData%/Weappy/This Is The Police/Save.xml</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Weappy Studio\\This Is the Police\\Install Dir]__Installer\\installerdata.xml", 

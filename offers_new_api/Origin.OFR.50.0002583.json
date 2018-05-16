@@ -35,7 +35,7 @@
     "gameEditionTypeFacetKeyRankDesc": "3000", 
     "gameNameFacetKey": "out-of-the-park-baseball-19", 
     "gameRatingDesc": [], 
-    "gameRatingDescriptionLong": "May contain content inappropriate for children. Visit www.esrb.org for rating information.", 
+    "gameRatingDescriptionLong": null, 
     "gameRatingPendingMature": null, 
     "gameRatingReason": null, 
     "gameRatingType": "ESRB", 

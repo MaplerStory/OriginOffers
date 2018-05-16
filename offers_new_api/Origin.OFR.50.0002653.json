@@ -132,8 +132,8 @@
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
-        "isUpgradeable": null, 
-        "path": null, 
+        "isUpgradeable": "N", 
+        "path": "/victoria/victoria-i/complete-edition", 
         "vaultEndDate": null, 
         "vaultStartDate": "2018-05-16T17:00:00Z"
     }

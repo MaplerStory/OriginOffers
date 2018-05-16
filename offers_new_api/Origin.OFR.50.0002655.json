@@ -128,8 +128,8 @@
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
-        "isUpgradeable": null, 
-        "path": null, 
+        "isUpgradeable": "N", 
+        "path": "/hearts-of-iron/hearts-of-iron-iii/standard-edition", 
         "vaultEndDate": null, 
         "vaultStartDate": "2018-05-16T17:00:00Z"
     }

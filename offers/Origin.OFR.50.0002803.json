@@ -28,6 +28,9 @@
     "localizableAttributes": {
         "displayName": "Duskers", 
         "longDescription": "Duskers Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/196650/231.0x326.0/1057126_LB_231x326_en_US_^_2018-05-10-11-02-49_eed77b0fdb5d0e7ba70440b63fc54d1a54bfcedb.jpg", 
+        "packArtMedium": "/196650/142.0x200.0/1057126_MB_142x200_en_US_^_2018-05-10-11-03-04_11cddda6c410cd01e34c9e5bf2f8600de34c01b9.jpg", 
+        "packArtSmall": "/196650/63.0x89.0/1057126_SB_63x89_en_US_^_2018-05-10-11-07-15_42162dce1ff1be5b9ddee8ddb4f7b91719ecdbc5.jpg", 
         "shortDescription": "Duskers Short Description Placeholder Text."
     }, 
     "mdmHierarchies": {
@@ -69,6 +72,7 @@
             "software": [
                 {
                     "fulfillmentAttributes": {
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Documents%/My Games/Duskers/config.txt</exclude> <include order=\"1\">%Documents%/My Games/Duskers/gamesave.txt</include> <include order=\"2\">%Documents%/My Games/dronenames.txt</include> <include order=\"3\">%Documents%/My Games/Duskers/alias.txt</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Misfits Attic\\Duskers\\Install Dir]__Installer\\installerdata.xml", 

@@ -136,8 +136,8 @@
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": {
-        "isUpgradeable": null, 
-        "path": null, 
+        "isUpgradeable": "N", 
+        "path": "/the-guest/the-guest/standard-edition", 
         "vaultEndDate": null, 
         "vaultStartDate": "2018-05-16T17:00:00Z"
     }
