@@ -519,6 +519,13 @@
                                 "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/dlc__ww_x0__critical_role/pillars_of_eternity_ii_deadfiremacdlc__ww_x0__critical_rolerun_4__20180505_101649ce58751d26b4d2ab311b47bd614cabf.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2018-05-05T20:40:26Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.2.89\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" useGameVersionFromManifest=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.2.89", 
+                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/dlc__ww_x0__critical_role/pillars_of_eternity_ii_deadfiremacdlc__ww_x0__critical_rolerun_5__20180516_10289c6d6de26d02a46729a998d5a64a0c03b.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-05-16T23:29:55Z"
                             }
                         ]
                     }, 
@@ -543,6 +550,13 @@
                                 "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/dlc__ww_x0_critical_role/pillars_of_eternity_ii_deadfirepcdlc__ww_x0_critical_rolerun_3__20180505_10164f0526e8dbc03466a99b2fb6852ffd81c.zip", 
                                 "downloadURLType": "live", 
                                 "effectiveDate": "2018-05-05T00:00:09Z"
+                            }, 
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <gameVersion version=\"1.0.2.89\"/>\n    <featureFlags dlcRequiresParentUpToDate=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" useGameVersionFromManifest=\"1\"/>\n    <autoRepairRange max=\"1.0.0.5\" min=\"1.0.0.1\"/>\n  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.2.89", 
+                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/dlc__ww_x0_critical_role/pillars_of_eternity_ii_deadfirepcdlc__ww_x0_critical_rolerun_4__20180516_10289a1093cc012014a0ba2b31bd3f4963a23.zip", 
+                                "downloadURLType": "staged", 
+                                "effectiveDate": "2037-05-16T23:40:40Z"
                             }
                         ]
                     }, 

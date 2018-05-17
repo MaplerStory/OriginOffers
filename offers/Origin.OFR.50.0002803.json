@@ -71,6 +71,17 @@
         "softwareList": {
             "software": [
                 {
+                    "downloadURLs": {
+                        "downloadURL": [
+                            {
+                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.0.0\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"5.1\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
+                                "buildReleaseVersion": "1.0.0.0", 
+                                "downloadURL": "/shift/_misfits_attic/duskers/fg__ww_us/duskerspcfg__ww_usrun_1__20180516_1000b07c6ba10b0d4b9d87942f506f4588c8.zip", 
+                                "downloadURLType": "live", 
+                                "effectiveDate": "2018-05-16T00:00:26Z"
+                            }
+                        ]
+                    }, 
                     "fulfillmentAttributes": {
                         "cloudSaveConfigurationOverride": "<saveFileCriteria> <exclude order=\"0\">%Documents%/My Games/Duskers/config.txt</exclude> <include order=\"1\">%Documents%/My Games/Duskers/gamesave.txt</include> <include order=\"2\">%Documents%/My Games/dronenames.txt</include> <include order=\"3\">%Documents%/My Games/Duskers/alias.txt</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
