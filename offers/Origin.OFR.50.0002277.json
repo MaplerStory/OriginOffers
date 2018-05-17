@@ -1,0 +1,59 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": []
+    }, 
+    "customAttributes": {
+        "gameEditionTypeFacetKeyRankDesc": "3000", 
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1061838"
+    }, 
+    "financeId": "1061838", 
+    "itemId": "Origin.ITM.50.0001940", 
+    "itemName": "TEST ONLY - Origin Access Membership - Recurring 3 Days", 
+    "localizableAttributes": {
+        "displayName": "TEST ONLY - Origin Access Membership - Recurring 3 Days", 
+        "longDescription": "TEST ONLY - Origin Access Membership - Recurring 3 Days", 
+        "shortDescription": "TEST ONLY - Origin Access Membership - Recurring 3 Days"
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "EA ACCESS", 
+                    "franchiseId": 193972
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "ORIGIN ACCESS", 
+                    "masterTitleId": 195092
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002277", 
+    "offerType": "Subscription", 
+    "publishing": {
+        "publishingAttributes": {
+            "isPublished": false, 
+            "originDisplayType": "None"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "platform": "PCWIN", 
+                    "releaseDate": "2017-06-01T00:00:00Z"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-05-17T18:21:20Z"
+}

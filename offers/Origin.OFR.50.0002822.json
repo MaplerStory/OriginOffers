@@ -27,6 +27,9 @@
     "localizableAttributes": {
         "displayName": "SUPERHOT", 
         "longDescription": "SUPERHOT Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/197741/231.0x326.0/1069640_LB_231x326_en_US_^_2018-05-17-11-50-57_70ae499f43f973b2f4f138a6e222d638bf9c7c3c.jpg", 
+        "packArtMedium": "/197741/142.0x200.0/1069640_MB_142x200_en_US_^_2018-05-17-11-51-17_fe7b23f829eed208eb6236fbd2cd729014363493.jpg", 
+        "packArtSmall": "/197741/63.0x89.0/1069640_SB_63x89_en_US_^_2018-05-17-11-51-34_c8f18df0f53f94093932423c3572d02cc010b654.jpg", 
         "shortDescription": "SUPERHOT Short Description Placeholder Text."
     }, 
     "mdmHierarchies": {
@@ -69,6 +72,7 @@
                 {
                     "fulfillmentAttributes": {
                         "achievementSetOverride": "50318_197741_50844", 
+                        "cloudSaveConfigurationOverride": "<saveFileCriteria> <include order=\"0\">%LocalLowAppData%/SUPERHOT_Team/SUPERHOT/super.hot</include> </saveFileCriteria>", 
                         "downloadPackageType": "DownloadInPlace", 
                         "enableDLCuninstall": false, 
                         "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\SUPERHOT Team\\SUPERHOT\\Install Dir]__Installer\\installerdata.xml", 

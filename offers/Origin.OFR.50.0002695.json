@@ -535,17 +535,10 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.1.64\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.6\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.1.64", 
-                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfiremacfg__ww_x0run_3__20180505_101646ecef0dd6eca4e129b8857b843f2246d.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2018-05-05T22:52:35Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.2.89\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"10.6\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.2.89", 
                                 "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfiremacfg__ww_x0run_4__20180516_102899e0a4195f40d401c8c747694f5cb72f0.zip", 
-                                "downloadURLType": "staged", 
+                                "downloadURLType": "live", 
                                 "effectiveDate": "2018-05-17T17:00:00Z"
                             }
                         ]
@@ -565,17 +558,10 @@
                     "downloadURLs": {
                         "downloadURL": [
                             {
-                                "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>    <gameVersion version=\"1.0.1.64\"/>    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>  </buildMetaData>", 
-                                "buildReleaseVersion": "1.0.1.64", 
-                                "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfirepcfg__ww_x0run_2__20180505_10164376746913ca843bab9bb45ffa560f71a.zip", 
-                                "downloadURLType": "live", 
-                                "effectiveDate": "2018-05-05T00:00:09Z"
-                            }, 
-                            {
                                 "buildMetaData": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><buildMetaData>\n    <featureFlags allowMultipleInstances=\"0\" autoUpdateEnabled=\"1\" dynamicContentSupportEnabled=\"0\" enableDifferentialUpdate=\"0\" enableOriginInGameAPI=\"0\" forceTouchupInstallerAfterUpdate=\"1\" languageChangeSupportEnabled=\"1\" treatUpdatesAsMandatory=\"0\" useGameVersionFromManifest=\"1\"/>\n    <gameVersion version=\"1.0.2.89\"/>\n    <requirements clientVersion=\"9.4.5.199\" osMinVersion=\"6.0\" osReqs64Bit=\"False\"/>\n  </buildMetaData>", 
                                 "buildReleaseVersion": "1.0.2.89", 
                                 "downloadURL": "/shift/versus_evil/pillars_of_eternity_ii_deadfire/fg__ww_x0/pillars_of_eternity_ii_deadfirepcfg__ww_x0run_3__20180516_10289a71a7129255546aaa780d40528e4fcc4.zip", 
-                                "downloadURLType": "staged", 
+                                "downloadURLType": "live", 
                                 "effectiveDate": "2018-05-17T17:00:00Z"
                             }
                         ]
