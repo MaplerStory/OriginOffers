@@ -24,14 +24,14 @@
     }, 
     "financeId": "1057126", 
     "itemId": "Origin.ITM.50.0002403", 
-    "itemName": "Duskers - PC - WW (Origin)", 
+    "itemName": "Duskers - PC - WW", 
     "localizableAttributes": {
         "displayName": "Duskers", 
-        "longDescription": "Duskers Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "longDescription": "In Duskers you pilot drones into derelict spaceships to find the means to survive and piece together how the universe became a giant graveyard.<br><br>\n\n<b>Explore</b><br>\nYou are a drone operator, surrounded by old gritty tech that acts as your only eyes and ears to the outside world. What you hear comes through a remote microphone. What you see is how each drone sees the world. Motion sensors tell you something's out there, but not what. And when you issue commands, you do it through a command line interface.<br><br>\n\n<b>Adapt</b><br>\nYou have to earn everything in Duskers, scavenging drone upgrades, drones and even ship upgrades. But dangerous creatures lurk in these derelict ships, and weapons are rare. You may need to think of a clever way to explore a military outpost using only a motion sensor and a lure.<br><br>\n\nBut even if you find a way, the sensor that you rely on may break down, or you may run out of lures, even your drone's camera feed can start to fail. A favorite strategy can't be exploited for long, so you'll have to continually adapt.<br><br>\n\n<b>Survive</b><br>\nDuskers is set in a procedurally generated universe, and when you die you lose everything. You not only need to worry about what hazards lay waiting for you in the derelicts, but also running out of fuel or parts to modify your drones and ship.<br><br>\n\nYou are alone, isolated in the dark reaches of space. Only by sifting through what ship logs remain un-corrupted can you piece together what happened.<br><br>\n\n<b>Key Features:</b>\n\n<ul>\n<li>Use a Command Line Interface to control drones & ship systems</li>\n<li>Explore procedurally generated derelict ships and universe</li>\n<li>Upgrade and modify drones with the salvage you find</li>\n<li>Discover ship logs and piece together what happened</li>\n</ul>\n\n<b>About Us:</b><br>\nWe previously made A Virus Named TOM and then were fortunate enough to get Indie Fund to help us fund Duskers. More about us here - <a href=\"http://games.misfits-attic.com/\">http://games.misfits-attic.com/</a>", 
         "packArtLarge": "/196650/231.0x326.0/1057126_LB_231x326_en_US_^_2018-05-10-11-02-49_eed77b0fdb5d0e7ba70440b63fc54d1a54bfcedb.jpg", 
         "packArtMedium": "/196650/142.0x200.0/1057126_MB_142x200_en_US_^_2018-05-10-11-03-04_11cddda6c410cd01e34c9e5bf2f8600de34c01b9.jpg", 
         "packArtSmall": "/196650/63.0x89.0/1057126_SB_63x89_en_US_^_2018-05-10-11-07-15_42162dce1ff1be5b9ddee8ddb4f7b91719ecdbc5.jpg", 
-        "shortDescription": "Duskers Short Description Placeholder Text."
+        "shortDescription": "Is anyone out there?"
     }, 
     "mdmHierarchies": {
         "mdmHierarchy": [
