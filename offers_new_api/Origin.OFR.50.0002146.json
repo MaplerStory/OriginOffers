@@ -73,6 +73,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001831", 
     "itemName": "TEST ONLY - Origin Access Membership - Non-Recurring 3 days", 
     "itemType": "Subscription", 

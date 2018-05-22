@@ -84,6 +84,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001952", 
     "itemName": "Hello Neighbor - PC - WW (Origin)", 
     "itemType": "Base Game", 

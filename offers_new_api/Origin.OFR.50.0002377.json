@@ -76,6 +76,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "Y", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0000376", 
     "itemName": "Origin Insider Account Bundle", 
     "itemType": "Bundle", 

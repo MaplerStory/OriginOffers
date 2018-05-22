@@ -80,6 +80,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001654", 
     "itemName": "Syberia II - PCWIN - WW", 
     "itemType": "Base Game", 

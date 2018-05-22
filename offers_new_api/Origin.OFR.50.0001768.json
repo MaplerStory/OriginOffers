@@ -73,6 +73,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001496", 
     "itemName": "BATTLEFIELD VETERAN DOG TAG", 
     "itemType": "Extra Content", 

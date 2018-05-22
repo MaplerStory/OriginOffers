@@ -83,6 +83,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002140", 
     "itemName": "A Way Out - PC - NA/LATAM (Origin)", 
     "itemType": "Base Game", 

@@ -73,6 +73,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001641", 
     "itemName": "Mass Effect Andromeda - Console Beta Priority", 
     "itemType": "Extra Content", 

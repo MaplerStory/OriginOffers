@@ -82,6 +82,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002048", 
     "itemName": "Mad Max -  PC - WW (Origin)", 
     "itemType": "Base Game", 

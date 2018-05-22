@@ -1,0 +1,121 @@
+{
+    "baseAttributes": {
+        "platform": "PCWIN"
+    }, 
+    "countries": {
+        "country": [
+            {
+                "attributes": {
+                    "isPurchasable": false
+                }, 
+                "countryCode": "DEFAULT"
+            }
+        ]
+    }, 
+    "customAttributes": {
+        "imageServer": "https://Eaassets-a.akamaihd.net/origin-com-store-final-assets-prod"
+    }, 
+    "defaultLocale": "DEFAULT", 
+    "ecommerceAttributes": {
+        "addonsAvailable": false, 
+        "availableExtraContent": [], 
+        "cdnAssetRoot": "http://static.cdn.ea.com/ebisu/u/f/products/1070764"
+    }, 
+    "financeId": "1070764", 
+    "itemId": "Origin.ITM.50.0002423", 
+    "itemName": "CITIES SKYLINES (ORIGIN) - PC - WW", 
+    "localizableAttributes": {
+        "displayName": "Cities: Skylines", 
+        "longDescription": "Cities: Skylines Long Description Placeholder Text. The submissions process has not yet been completed so this content does not yet have all the final assets. Before you write a bug for missing or incorrect assets or strings, please confirm the timeline for when submissions for metadata is supposed to be completed.", 
+        "packArtLarge": "/16084855/231.0x326.0/1070764_LB_231x326_en_US_^_2018-05-18-09-43-57_06ad718c3046fde2fe36a8dbe3262c869c04888e.jpg", 
+        "packArtMedium": "/16084855/142.0x200.0/1070764_MB_142x200_en_US_^_2018-05-18-09-44-12_0c569d808c9d66ce5bd370c17435d6a82041fba8.jpg", 
+        "packArtSmall": "/16084855/63.0x89.0/1070764_SB_63x89_en_US_^_2018-05-18-09-44-27_10d49954baf960ab2614755d62e84161a546c763.jpg", 
+        "shortDescription": "Cities: Skylines Short Description Placeholder Text."
+    }, 
+    "mdmHierarchies": {
+        "mdmHierarchy": [
+            {
+                "mdmFranchise": {
+                    "franchise": "New IP - Internal Tracking", 
+                    "franchiseId": 50318
+                }, 
+                "mdmMasterTitle": {
+                    "masterTitle": "CITIES SKYLINES", 
+                    "masterTitleId": 16084855
+                }, 
+                "type": "Primary"
+            }
+        ]
+    }, 
+    "offerId": "Origin.OFR.50.0002824", 
+    "offerType": "Base Game", 
+    "publishing": {
+        "publishingAttributes": {
+            "contentId": "16084855", 
+            "gameDistributionSubType": "Normal Game", 
+            "greyMarketControls": false, 
+            "isDownloadable": true, 
+            "isPublished": false, 
+            "originDisplayType": "Full Game"
+        }, 
+        "softwareControlDates": {
+            "softwareControlDate": [
+                {
+                    "downloadStartDate": "2015-03-15T07:00:00Z", 
+                    "platform": "PCWIN", 
+                    "releaseDate": "2015-03-15T07:00:00Z"
+                }
+            ]
+        }, 
+        "softwareList": {
+            "software": [
+                {
+                    "fulfillmentAttributes": {
+                        "achievementSetOverride": "50318_16084855_50844", 
+                        "downloadPackageType": "DownloadInPlace", 
+                        "enableDLCuninstall": false, 
+                        "executePathOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Colossal Order Ltd\\Cities Skylines\\Install Dir]__Installer\\installerdata.xml", 
+                        "installCheckOverride": "[HKEY_LOCAL_MACHINE\\SOFTWARE\\Colossal Order Ltd\\Cities Skylines\\Install Dir]__Installer\\installerdata.xml", 
+                        "installationDirectory": "Cities Skylines", 
+                        "processorArchitecture": "64-bit"
+                    }, 
+                    "softwareId": "Origin.SFT.50.0000896", 
+                    "softwarePlatform": "PCWIN"
+                }
+            ]
+        }, 
+        "softwareLocales": {
+            "locale": [
+                {
+                    "value": "de_DE"
+                }, 
+                {
+                    "value": "en_US"
+                }, 
+                {
+                    "value": "es_ES"
+                }, 
+                {
+                    "value": "fr_FR"
+                }, 
+                {
+                    "value": "ko_KR"
+                }, 
+                {
+                    "value": "pl_PL"
+                }, 
+                {
+                    "value": "pt_BR"
+                }, 
+                {
+                    "value": "ru_RU"
+                }, 
+                {
+                    "value": "zh_CN"
+                }
+            ]
+        }
+    }, 
+    "storeGroupId": "Origin", 
+    "updatedDate": "2018-05-22T19:25:43Z"
+}

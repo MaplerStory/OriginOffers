@@ -79,6 +79,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001640", 
     "itemName": "FE - PC - ROW", 
     "itemType": "Base Game", 

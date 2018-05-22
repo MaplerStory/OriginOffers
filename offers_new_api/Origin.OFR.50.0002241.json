@@ -104,6 +104,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001905", 
     "itemName": "Torment: Tides Of Numenera Immortal Edition - PC - WW (Origin)", 
     "itemType": "Base Game", 

@@ -87,6 +87,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001655", 
     "itemName": "Syberia 3 Standard Edition - PC - WW (Origin)", 
     "itemType": "Base Game", 

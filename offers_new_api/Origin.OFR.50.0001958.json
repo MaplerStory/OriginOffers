@@ -83,6 +83,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001653", 
     "itemName": "Beholder - PC - WW - (Origin)", 
     "itemType": "Base Game", 

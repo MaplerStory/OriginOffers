@@ -83,6 +83,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002272", 
     "itemName": "Victoria I Complete (Origin) - PC - WW", 
     "itemType": "Base Game", 

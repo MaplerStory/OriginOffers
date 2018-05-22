@@ -79,6 +79,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001634", 
     "itemName": "Epistory - Typing Chronicles - PC - WW (Origin)", 
     "itemType": "Base Game", 

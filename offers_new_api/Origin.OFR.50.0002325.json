@@ -82,6 +82,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001986", 
     "itemName": "Spellforce 3 - PC - WW (Origin)", 
     "itemType": "Base Game", 

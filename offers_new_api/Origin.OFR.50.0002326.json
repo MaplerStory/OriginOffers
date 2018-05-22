@@ -83,6 +83,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001987", 
     "itemName": "Battle Chasers: Nightwar - PC - WW (Origin)", 
     "itemType": "Base Game", 

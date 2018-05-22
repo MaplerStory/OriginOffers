@@ -82,6 +82,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001981", 
     "itemName": "ELEX - PC - WW (Origin)", 
     "itemType": "Base Game", 

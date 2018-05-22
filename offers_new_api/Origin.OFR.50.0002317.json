@@ -79,6 +79,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001979", 
     "itemName": "Please Knock On My Door - PC - WW (Origin)", 
     "itemType": "Base Game", 

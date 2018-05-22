@@ -78,6 +78,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002040", 
     "itemName": "HELLO NEIGHBOR - BETA - PC - WW (Origin)", 
     "itemType": "Base Game", 

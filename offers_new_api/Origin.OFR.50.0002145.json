@@ -83,6 +83,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001830", 
     "itemName": "Beholder - Blissful Sleep - PC - WW (Origin)", 
     "itemType": "Extra Content", 

@@ -79,6 +79,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002144", 
     "itemName": "FE - PC - NA/LATAM", 
     "itemType": "Base Game", 

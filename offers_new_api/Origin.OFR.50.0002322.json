@@ -73,6 +73,7 @@
     "isRepurchaseable": "true", 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001984", 
     "itemName": "Origin Access Membership - Non-Recurring 1 month", 
     "itemType": "Subscription", 

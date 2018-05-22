@@ -75,6 +75,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002403", 
     "itemName": "Duskers - PC - WW", 
     "itemType": "Base Game", 

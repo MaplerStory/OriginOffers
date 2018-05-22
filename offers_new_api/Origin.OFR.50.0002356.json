@@ -81,6 +81,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002018", 
     "itemName": "Steamworld Heist - PC - WW (Origin)", 
     "itemType": "Base Game", 

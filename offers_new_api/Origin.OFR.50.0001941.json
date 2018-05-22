@@ -80,6 +80,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0001637", 
     "itemName": "INSIDE - PC - WW - (Origin)", 
     "itemType": "Base Game", 

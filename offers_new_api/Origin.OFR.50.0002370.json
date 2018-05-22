@@ -84,6 +84,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "Y", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002022", 
     "itemName": "EA Family Bundle - PC - JP (Origin)", 
     "itemType": "Bundle", 

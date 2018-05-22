@@ -99,6 +99,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "Y", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002102", 
     "itemName": "Dragon Age 2 Origin DLC Bundle", 
     "itemType": "Extra Content", 

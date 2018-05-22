@@ -84,6 +84,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002394", 
     "itemName": "This Is the Police - PC - WW", 
     "itemType": "Base Game", 

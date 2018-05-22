@@ -107,6 +107,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0002314", 
     "itemName": "Pillars of Eternity II: Deadfire Obsidian Edition - PC/MAC - WW (Origin)", 
     "itemType": "Base Game", 

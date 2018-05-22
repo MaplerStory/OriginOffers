@@ -77,6 +77,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001994", 
     "itemName": "Hello Neighbor - Alpha 2 - PC - WW (Origin)", 
     "itemType": "Extra Content", 

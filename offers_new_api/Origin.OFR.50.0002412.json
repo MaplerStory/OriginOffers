@@ -83,6 +83,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001595", 
     "itemName": "A Way Out - PC - ROW (Origin)", 
     "itemType": "Base Game", 

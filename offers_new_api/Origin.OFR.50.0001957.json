@@ -82,6 +82,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001652", 
     "itemName": "Dead In Vinland - PC - WW (Origin)", 
     "itemType": "Base Game", 

@@ -84,6 +84,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "Y", 
     "isThirdPartyTitle": null, 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0002032", 
     "itemName": "EA Family Bundle - PC - GB/ZH (Origin)", 
     "itemType": "Bundle", 

@@ -86,6 +86,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
+    "isZeroPricedOffer": null, 
     "itemId": "Origin.ITM.50.0001817", 
     "itemName": "Hacknet Complete Edition - PC - WW (Origin)", 
     "itemType": "Base Game", 
