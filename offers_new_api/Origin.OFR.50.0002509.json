@@ -16,7 +16,7 @@
         "countryCurrencyA": [
             "USD"
         ], 
-        "giftable": "N", 
+        "giftable": "Y", 
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
@@ -28,11 +28,11 @@
     "durationUnit": null, 
     "dynamicPricing": "N", 
     "extraContent": [
-        "Origin.OFR.50.0001985", 
-        "Origin.OFR.50.0001981", 
         "Origin.OFR.50.0001983", 
         "Origin.OFR.50.0002511", 
-        "Origin.OFR.50.0001984"
+        "Origin.OFR.50.0001981", 
+        "Origin.OFR.50.0001984", 
+        "Origin.OFR.50.0001985"
     ], 
     "extraContentDisplayGroup": null, 
     "extraContentDisplayGroupSortAsc": null, 

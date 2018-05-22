@@ -21,7 +21,7 @@
         "countryCurrencyA": [
             "USD"
         ], 
-        "giftable": "N", 
+        "giftable": "Y", 
         "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
