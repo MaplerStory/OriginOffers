@@ -8,19 +8,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "AM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "AO"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "AZ"
             }, 
             {
                 "attributes": {
@@ -51,12 +39,6 @@
                     "isPurchasable": false
                 }, 
                 "countryCode": "BW"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "BY"
             }, 
             {
                 "attributes": {
@@ -170,19 +152,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "KG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "KM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "KZ"
             }, 
             {
                 "attributes": {
@@ -260,12 +230,6 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "RU"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "RW"
             }, 
             {
@@ -314,18 +278,6 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "TJ"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "TM"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "TN"
             }, 
             {
@@ -338,19 +290,7 @@
                 "attributes": {
                     "isPurchasable": false
                 }, 
-                "countryCode": "UA"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
                 "countryCode": "UG"
-            }, 
-            {
-                "attributes": {
-                    "isPurchasable": false
-                }, 
-                "countryCode": "UZ"
             }, 
             {
                 "attributes": {
@@ -514,5 +454,5 @@
         }
     }, 
     "storeGroupId": "Origin", 
-    "updatedDate": "2018-04-27T08:24:54Z"
+    "updatedDate": "2018-05-23T21:40:41Z"
 }

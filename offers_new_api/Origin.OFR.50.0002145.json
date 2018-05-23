@@ -39,7 +39,8 @@
         "Blood", 
         "Drug Reference", 
         "Crude Humor", 
-        "Use of Alcohol"
+        "Use of Alcohol", 
+        "Mild Language"
     ], 
     "gameRatingDescriptionLong": "May contain content inappropriate for children. Visit www.esrb.org for rating information.", 
     "gameRatingPendingMature": null, 
@@ -83,7 +84,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0001830", 
     "itemName": "Beholder - Blissful Sleep - PC - WW (Origin)", 
     "itemType": "Extra Content", 
