@@ -164,7 +164,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "true", 
     "itemId": "Origin.ITM.50.0001663", 
     "itemName": "FIFA 18 Standard Edition - PC - Russia (Origin/PG/3PDD)", 
     "itemType": "Base Game", 

@@ -168,7 +168,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0001727", 
     "itemName": "FIFA 18 Ronaldo Edition Preorder - PC - Western EU, ANZ (Origin)", 
     "itemType": "Base Game", 

@@ -168,7 +168,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0001698", 
     "itemName": "FIFA 18 Standard Edition Preorder - PC - WW + Japan (Origin/PG/3PDD)", 
     "itemType": "Base Game", 

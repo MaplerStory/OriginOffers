@@ -164,7 +164,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0001662", 
     "itemName": "FIFA 18 Standard Edition - PC - NA + LATAM (Origin/PG/3PDD)", 
     "itemType": "Base Game", 

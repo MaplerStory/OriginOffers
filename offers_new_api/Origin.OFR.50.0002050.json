@@ -170,7 +170,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0001735", 
     "itemName": "FIFA 18 ICON Edition Preorder - PC - NA + LATAM (Origin)", 
     "itemType": "Base Game", 

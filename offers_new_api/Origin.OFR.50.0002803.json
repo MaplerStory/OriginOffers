@@ -5,17 +5,21 @@
     "contentId": "196650", 
     "countries": {
         "bannedCountries": [], 
-        "billingDate": null, 
-        "catalogPrice": null, 
-        "catalogPriceA": [], 
-        "countryCurrency": null, 
-        "countryCurrencyA": [], 
-        "giftable": "N", 
-        "hasSubscriberDiscount": "N", 
+        "billingDate": "2016-05-08T07:00:00Z", 
+        "catalogPrice": 19.99, 
+        "catalogPriceA": [
+            19.99
+        ], 
+        "countryCurrency": "USD", 
+        "countryCurrencyA": [
+            "USD"
+        ], 
+        "giftable": "Y", 
+        "hasSubscriberDiscount": "Y", 
         "hideStoreChannels": [], 
         "inStock": null, 
         "isPublished": false, 
-        "isPurchasable": "N"
+        "isPurchasable": "Y"
     }, 
     "developerFacetKey": "Misfits Attic", 
     "duration": null, 
@@ -75,7 +79,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0002403", 
     "itemName": "Duskers - PC - WW", 
     "itemType": "Base Game", 
@@ -115,7 +119,7 @@
     ], 
     "storeEndDate": null, 
     "storeGroupId": "Origin", 
-    "storeStartDate": null, 
+    "storeStartDate": "2018-05-24T17:00:00Z", 
     "suppressedOfferIds": [], 
     "trialLaunchDuration": null, 
     "vault": null

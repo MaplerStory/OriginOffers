@@ -158,7 +158,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0001308", 
     "itemName": "FIFA 17 Super Deluxe Edition Origin Exclusive - PC - ROW (Origin)", 
     "itemType": "Base Game", 

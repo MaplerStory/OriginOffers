@@ -167,7 +167,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0001682", 
     "itemName": "FIFA 18 Ronaldo Edition - PC - NA + LATAM (Origin)", 
     "itemType": "Base Game", 

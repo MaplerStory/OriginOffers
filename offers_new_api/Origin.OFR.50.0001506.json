@@ -77,7 +77,7 @@
     "isRepurchaseable": "true", 
     "isShellBundle": "N", 
     "isThirdPartyTitle": null, 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0001303", 
     "itemName": "FIFA 17 Ultimate Team Pack: Bundesliga Trial", 
     "itemType": "Extra Content", 
