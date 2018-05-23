@@ -87,7 +87,7 @@
     "isRepurchaseable": null, 
     "isShellBundle": "N", 
     "isThirdPartyTitle": "true", 
-    "isZeroPricedOffer": null, 
+    "isZeroPricedOffer": "false", 
     "itemId": "Origin.ITM.50.0001626", 
     "itemName": "ARAGAMI - PC - WW - (Origin)", 
     "itemType": "Base Game", 
